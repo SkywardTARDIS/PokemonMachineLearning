@@ -17,7 +17,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Main {
-    public static void main(String[] args) throws IOException, JsonException, InterruptedException {
+    public static void main(String[] args) throws IOException, JsonException {
         scrapeData();
         //getPokemonList();
         //getBattleItems();
