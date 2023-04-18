@@ -3,20 +3,30 @@ package cisc181.labs;
 import java.util.ArrayList;
 
 public class teamObject {
-    ArrayList<PokemonInfo> team;
+    String playerName;
+    ArrayList<PokemonInfo> fullTeam;
+    ArrayList<String> broughtTeam;
 
-    teamObject(){
-        this.team = new ArrayList<>();
+    teamObject(String name){
+        this.playerName = name;
+        this.fullTeam = new ArrayList<>();
     }
 
-    teamObject(PokemonInfo newPokemon){
-        this.team = new ArrayList<>();
-        this.team.add(newPokemon);
+    teamObject(String name, PokemonInfo newPokemon){
+        this.playerName = name;
+        this.fullTeam = new ArrayList<>();
+        this.fullTeam.add(newPokemon);
     }
 
     public void addPokemon(PokemonInfo newPokemon){
-        if(this.team.size() < 6){
-            this.team.add(newPokemon);
+        if(this.fullTeam.size() < 6){
+            this.fullTeam.add(newPokemon);
+        }
+    }
+
+    public void addBrought(String broughtPokemon){
+        if(!this.broughtTeam.contains(broughtPokemon) && this.broughtTeam.size() < 4){
+            this.broughtTeam.add(broughtPokemon);
         }
     }
 }

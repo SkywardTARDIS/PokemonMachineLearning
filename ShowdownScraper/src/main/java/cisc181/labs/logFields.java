@@ -4,7 +4,7 @@ import com.github.cliftonlabs.json_simple.JsonKey;
 
 public enum logFields implements JsonKey {
     //Creating all necessary fields for the enum
-    id, log;
+    id, log, p1, p2;
 
     public String getKey() {
         //Allows use of enum to get values from jsonobject

@@ -1,16 +1,16 @@
 package cisc181.labs;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import com.github.cliftonlabs.json_simple.JsonArray;
 import com.github.cliftonlabs.json_simple.JsonException;
 import com.github.cliftonlabs.json_simple.JsonObject;
 
 import com.github.cliftonlabs.json_simple.Jsoner;
+import org.apache.commons.io.IOUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -22,10 +22,33 @@ public class Main {
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
+        convertToTeams();
     }
 
-    public static void convertToTeams(){
+    public static void convertToTeams() throws IOException, JsonException {
+        ArrayList<String> fileNames = new ArrayList<>();
+        File[] files = new File("src/main/java/cisc181/labs/battles/").listFiles();
+        for(File file: files) {
+            if (file.isFile()) {
+                fileNames.add(file.getName());
+            }
+        }
+        for(int i=0; i<1/*fileNames.size()*/; i++){
+            File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
+            if(battleF.exists()){
+                InputStream is = new FileInputStream(battleF);
+                JsonObject battleJson =(JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+                battleData currentBattle = new battleData(battleJson);
+                teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
+                parseLog(currentBattle, currentTeams);
+            }
+        }
+    }
 
+    public static void parseLog(battleData dataLog, teamsData teams){
+        String[] logHolder = dataLog.log.split("\n");
+        ArrayList<String> logLines = new ArrayList<String>(Arrays.asList(logHolder));
+        System.out.println(dataLog.log);
     }
 
     public static void getLegalMoves() throws IOException {
