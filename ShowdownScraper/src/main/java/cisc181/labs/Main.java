@@ -18,11 +18,11 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        //scrapeData();
+        scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        convertToTeams();
+        //convertToTeams();
     }
 
     public static void convertToTeams() throws IOException, JsonException {
