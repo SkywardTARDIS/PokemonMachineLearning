@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class PokemonInfo {
     String species;
     String item;
+    String ability;
     ArrayList<String> moves;
 
     PokemonInfo(String species){
@@ -15,6 +16,10 @@ public class PokemonInfo {
 
     public void addItem(String item){
         this.item = item;
+    }
+
+    public void addAbility(String ability){
+        this.ability = ability;
     }
 
     public void addMove(String move){
