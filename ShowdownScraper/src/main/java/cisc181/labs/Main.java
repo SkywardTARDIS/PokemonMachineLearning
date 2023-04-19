@@ -37,7 +37,7 @@ public class Main {
             File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
             if(battleF.exists()){
                 InputStream is = new FileInputStream(battleF);
-                JsonObject battleJson =(JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+                JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
                 battleData currentBattle = new battleData(battleJson);
                 teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
                 parseLog(currentBattle, currentTeams);
@@ -49,6 +49,14 @@ public class Main {
         String[] logHolder = dataLog.log.split("\n");
         ArrayList<String> logLines = new ArrayList<String>(Arrays.asList(logHolder));
         System.out.println(dataLog.log);
+        for(int i=0; i< logLines.size(); i++){
+            if(logLines.get(i).contains("|poke|p1")){
+                String pokeHolder = logLines.get(i).replace("|poke|p1|", "");
+
+                teams.p1.addPokemon(new PokemonInfo(pokeHolder.split(",").toString()));
+            }
+        }
+
     }
 
     public static void getLegalMoves() throws IOException {
@@ -139,7 +147,6 @@ public class Main {
             for(int j=0; j<idsList.size(); j++){
                 System.out.println("Battle no.: " + j);
                 String fileExtension = idsList.get(j).id + ".json";
-                //System.out.println(fileExtension);
                 String fileName = "src/main/java/cisc181/labs/battles/" + fileExtension;
                 Document fullBattle = Jsoup.connect("https://replay.pokemonshowdown.com/" + fileExtension).ignoreContentType(true).get();
                 FileWriter fw = new FileWriter(fileName);
