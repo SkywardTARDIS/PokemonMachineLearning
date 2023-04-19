@@ -6,11 +6,14 @@ public class PokemonInfo {
     String species;
     String item;
     String ability;
+    String teraType;
     ArrayList<String> moves;
 
     PokemonInfo(String species){
         this.species = species;
         this.item = "";
+        this.ability = "";
+        this.teraType = "";
         this.moves = new ArrayList<>();
     }
 

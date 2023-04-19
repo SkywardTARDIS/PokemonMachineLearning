@@ -13,7 +13,11 @@ public class teamsData {
         this.outcome = -1;
     }
 
-    public void updateOutcome(int outcome){
-        this.outcome = outcome % 2;
+    public void updateOutcome(String winner){
+        if(winner == this.p1.playerName){
+            this.outcome = 1;
+        }else if(winner == this.p2.playerName){
+            this.outcome = 0;
+        }
     }
 }

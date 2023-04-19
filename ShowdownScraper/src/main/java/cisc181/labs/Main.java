@@ -4,6 +4,7 @@ import java.io.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 
 import com.github.cliftonlabs.json_simple.JsonArray;
 import com.github.cliftonlabs.json_simple.JsonException;
@@ -45,18 +46,61 @@ public class Main {
         }
     }
 
-    public static void parseLog(battleData dataLog, teamsData teams){
+    public static void parseLog(battleData dataLog, teamsData teams) throws IOException, JsonException {
         String[] logHolder = dataLog.log.split("\n");
-        ArrayList<String> logLines = new ArrayList<String>(Arrays.asList(logHolder));
+        ArrayList<String> logLines = new ArrayList<>(Arrays.asList(logHolder));
+        ArrayList<String> paldeaDex =  paldeaFromJson();
+        //removes chat from battle log, and gets battle winner
+        for(Iterator<String> it = logLines.iterator(); it.hasNext();){
+            String holder = it.next();
+            if(holder.contains("|c|") || holder.contains("|l|")){
+                it.remove();
+            }
+            if(holder.startsWith("|win|")){
+                teams.updateOutcome(holder.replace("|win|", "").trim());
+            }
+        }
         System.out.println(dataLog.log);
+        //gets species for p1
         for(int i=0; i< logLines.size(); i++){
             if(logLines.get(i).contains("|poke|p1")){
                 String pokeHolder = logLines.get(i).replace("|poke|p1|", "");
-
-                teams.p1.addPokemon(new PokemonInfo(pokeHolder.split(",").toString()));
+                pokeHolder = Array.get(pokeHolder.split(",", 0), 0).toString();
+                if(paldeaDex.contains(pokeHolder)){
+                    teams.p1.addPokemon(new PokemonInfo(pokeHolder));
+                }else{
+                    //filtering out forms of Pokemon, such as (Indeedee-F and replacing with base form Indeedee)
+                    int j=0;
+                    while(!pokeHolder.contains(paldeaDex.get(j))){
+                        j++;
+                    }
+                    teams.p1.addPokemon(new PokemonInfo(paldeaDex.get(j)));
+                }
             }
         }
+        //gets brought team for p1
+        for(int i=0; i<teams.p1.fullTeam.size(); i++){
+            if(dataLog.log.contains("|p1a: " + teams.p1.fullTeam.get(i).species) || dataLog.log.contains("|p1b: " + teams.p1.fullTeam.get(i).species)){
+                teams.p1.addBrought(teams.p1.fullTeam.get(i).species);
+            }
+        }
+        //gathers the moves,items, dynamax for p1 brought pokemon
+        for(int i=0; i<teams.p1.broughtTeam.size(); i++){
 
+        }
+    }
+
+    public static ArrayList<String> paldeaFromJson() throws IOException, JsonException {
+        File paldeaDex = new File("src/main/java/cisc181/labs/lists/PaldeaDex.json");
+        ArrayList<String> paldeaPokemon = new ArrayList<>();
+        if(paldeaDex.exists()) {
+            InputStream is = new FileInputStream(paldeaDex);
+            JsonArray battleJson = (JsonArray) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+            for(int i=0; i<battleJson.size(); i++){
+                paldeaPokemon.add(battleJson.get(i).toString());
+            }
+        }
+        return paldeaPokemon;
     }
 
     public static void getLegalMoves() throws IOException {

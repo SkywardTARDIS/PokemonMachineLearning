@@ -7,15 +7,10 @@ public class teamObject {
     ArrayList<PokemonInfo> fullTeam;
     ArrayList<String> broughtTeam;
 
-    teamObject(String name){
+    teamObject(String name) {
         this.playerName = name;
         this.fullTeam = new ArrayList<>();
-    }
-
-    teamObject(String name, PokemonInfo newPokemon){
-        this.playerName = name;
-        this.fullTeam = new ArrayList<>();
-        this.fullTeam.add(newPokemon);
+        this.broughtTeam = new ArrayList<>();
     }
 
     public void addPokemon(PokemonInfo newPokemon){
