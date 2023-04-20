@@ -14,10 +14,19 @@ public class teamsData {
     }
 
     public void updateOutcome(String winner){
-        if(winner == this.p1.playerName){
+        if(winner.equals(this.p1.playerName)){
             this.outcome = 1;
-        }else if(winner == this.p2.playerName){
+        }else if(winner.equals(this.p2.playerName)){
             this.outcome = 0;
         }
+    }
+
+    public void printData(){
+        System.out.println(this.id);
+        this.p1.printTeam();
+        System.out.println("\n");
+        this.p2.printTeam();
+        System.out.println("\n");
+        System.out.println(this.outcome);
     }
 }

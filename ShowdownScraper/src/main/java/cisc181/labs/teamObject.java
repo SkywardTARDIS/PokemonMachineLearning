@@ -24,4 +24,13 @@ public class teamObject {
             this.broughtTeam.add(broughtPokemon);
         }
     }
+
+    public void printTeam(){
+        System.out.println(this.playerName);
+        for(int i=0; i<this.fullTeam.size(); i++){
+            fullTeam.get(i).printPokemon();
+            System.out.println("\n");
+        }
+        System.out.println(broughtTeam);
+    }
 }

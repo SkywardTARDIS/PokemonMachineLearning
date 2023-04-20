@@ -13,7 +13,7 @@ public class BattleList {
         this.uploadtime = battleInfo.get(listFields.uploadtime.getKey()).toString();
         this.id = battleInfo.get(listFields.id.getKey()).toString();
         this.format = battleInfo.get(listFields.format.getKey()).toString();
-        this.p1 = battleInfo.get(listFields.p1.getKey()).toString();
-        this.p2 = battleInfo.get(listFields.p2.getKey()).toString();
+        this.p1 = battleInfo.get(listFields.p1.getKey()).toString().trim();
+        this.p2 = battleInfo.get(listFields.p2.getKey()).toString().trim();
     }
 }

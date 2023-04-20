@@ -19,11 +19,11 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        scrapeData();
+        //scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        //convertToTeams();
+        convertToTeams();
     }
 
     public static void convertToTeams() throws IOException, JsonException {
@@ -34,7 +34,8 @@ public class Main {
                 fileNames.add(file.getName());
             }
         }
-        for(int i=0; i<1/*fileNames.size()*/; i++){
+        int f = 0;
+        for(int i=f; i<f+100/*fileNames.size()*/; i++){
             File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
             if(battleF.exists()){
                 InputStream is = new FileInputStream(battleF);
@@ -51,6 +52,7 @@ public class Main {
         ArrayList<String> logLines = new ArrayList<>(Arrays.asList(logHolder));
         ArrayList<String> paldeaDex =  paldeaFromJson();
         //removes chat from battle log, and gets battle winner
+        ArrayList<String> abilityLines = new ArrayList<>();
         for(Iterator<String> it = logLines.iterator(); it.hasNext();){
             String holder = it.next();
             if(holder.contains("|c|") || holder.contains("|l|")){
@@ -59,8 +61,14 @@ public class Main {
             if(holder.startsWith("|win|")){
                 teams.updateOutcome(holder.replace("|win|", "").trim());
             }
+            if(holder.contains("ability") && holder.contains("from")){
+                abilityLines.add(holder);
+            }
         }
-        System.out.println(dataLog.log);
+        for(int i=0; i<abilityLines.size(); i++){
+            System.out.println(abilityLines.get(i));
+        }
+        //System.out.println(dataLog.log);
         //gets species for p1
         for(int i=0; i< logLines.size(); i++){
             if(logLines.get(i).contains("|poke|p1")){
@@ -84,10 +92,44 @@ public class Main {
                 teams.p1.addBrought(teams.p1.fullTeam.get(i).species);
             }
         }
-        //gathers the moves,items, dynamax for p1 brought pokemon
+        //gathers the moves,items, teraType for p1 brought pokemon
         for(int i=0; i<teams.p1.broughtTeam.size(); i++){
+            String currentSpecies = teams.p1.broughtTeam.get(i);
+            PokemonInfo currentPokemon = new PokemonInfo("");
+            for(int j=0; j<teams.p1.fullTeam.size(); j++){
+                if(teams.p1.fullTeam.get(j).species == currentSpecies){
+                    currentPokemon = teams.p1.fullTeam.get(j);
+                }
+            }
+            for(int j=0; j<logLines.size(); j++){
+                //gets known moves
+                if(logLines.get(j).startsWith("|move|p1a: " + currentSpecies)){
+                    String getMove = Arrays.asList(logLines.get(j).replace("|move|p1a: " + currentSpecies + "|", "").split("\\|")).get(0);
+                    currentPokemon.addMove(getMove);
+                }else if(logLines.get(j).startsWith("|move|p1b: " + currentSpecies)) {
+                    String getMove = Arrays.asList(logLines.get(j).replace("|move|p1b: " + currentSpecies + "|", "").split("\\|")).get(0);
+                    currentPokemon.addMove(getMove);
+                }
+                //gets teraType
+                if(logLines.get(j).contains("|-terastallize|p1") && logLines.get(j).contains(currentSpecies)){
+                    ArrayList<String> splitTera = new ArrayList<>(Arrays.asList(logLines.get(j).split("\\|")));
+                    currentPokemon.addTera(splitTera.get(splitTera.size()-1));
+                }
+                //gets ability
+                if(logLines.get(j).contains("ability")){
+                    if(logLines.get(j).contains("|-ability|p1") && logLines.get(j).contains(currentSpecies)){
+                        ArrayList<String> splitAbility = new ArrayList<>(Arrays.asList(logLines.get(j).split("\\|")));
+                        currentPokemon.addAbility(splitAbility.get(3));
+                    }else if(logLines.get(j).contains("|-activate|p1") && logLines.get(j).contains(currentSpecies)){
+                        ArrayList<String> splitAbility = new ArrayList<>(Arrays.asList(logLines.get(j).split("\\|")));
+                        currentPokemon.addAbility(splitAbility.get(splitAbility.size()-1).replace("ability: ", ""));
+                    }else if(logLines.get(j).contains("[from] ability:") && logLines.get(j).contains("[of] p1") && logLines.contains(currentSpecies)){
 
+                    }
+                }
+            }
         }
+        //teams.printData();
     }
 
     public static ArrayList<String> paldeaFromJson() throws IOException, JsonException {
