@@ -26,8 +26,18 @@ public class Main {
         //convertToTeams();
     }
 
+    public static void getUnique(ArrayList<String> lines, ArrayList<String> prefixes){
+        ArrayList<String> uniques = new ArrayList<>();
+        for(int i=0; i<lines.size(); i++){
+            if(!uniques.contains(lines.get(i))){
+                uniques.add(lines.get(i));
+            }
+        }
+    }
+
     public static void convertToTeams() throws IOException, JsonException {
         ArrayList<String> fileNames = new ArrayList<>();
+        ArrayList<String> abilityLines = new ArrayList<>();
         File[] files = new File("src/main/java/cisc181/labs/battles/").listFiles();
         for(File file: files) {
             if (file.isFile()) {
