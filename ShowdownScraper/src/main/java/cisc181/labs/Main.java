@@ -19,11 +19,11 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        scrapeData();
+        //scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        //convertToTeams();
+        convertToTeams();
     }
 
     public static void getUnique(ArrayList<String> lines, ArrayList<String> prefixes){
@@ -256,6 +256,7 @@ public class Main {
             currentFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
             if(currentFiles == prevFiles){
                 System.out.println("No more new battles");
+                System.out.println(currentFiles + "battles in the data set");
                 return;
             }
             prevFiles = currentFiles;
