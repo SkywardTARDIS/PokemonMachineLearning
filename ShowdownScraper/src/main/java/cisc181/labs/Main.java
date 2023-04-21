@@ -230,6 +230,8 @@ public class Main {
     }
 
     public static void scrapeData() throws JsonException, IOException {
+        int prevFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
+        int currentFiles;
         for(int i=1; i<=25; i++) {
             System.out.println("Page: " + i);
             ArrayList<BattleList> idsList = new ArrayList<>();
@@ -251,6 +253,12 @@ public class Main {
                 System.out.println("Battle done");
                 //Thread.sleep(500);
             }
+            currentFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
+            if(currentFiles == prevFiles){
+                System.out.println("No more new battles");
+                return;
+            }
+            prevFiles = currentFiles;
             System.out.println("Page done");
         }
     }
