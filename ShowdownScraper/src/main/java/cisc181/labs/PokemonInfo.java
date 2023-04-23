@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class PokemonInfo {
     String species;
+    String nickname;
     String item;
     String ability;
     String teraType;
@@ -11,10 +12,19 @@ public class PokemonInfo {
 
     PokemonInfo(String species){
         this.species = species;
+        this.nickname = "";
         this.item = "";
         this.ability = "";
         this.teraType = "";
         this.moves = new ArrayList<>();
+    }
+
+    public void setNickname(String nickname){
+        if(!nickname.equals(this.species) ){
+            this.nickname = nickname;
+        }else{
+            this.nickname = this.species;
+        }
     }
 
     public void addItem(String item){
@@ -37,6 +47,7 @@ public class PokemonInfo {
 
     public void printPokemon(){
         System.out.println("Species: " + this.species);
+        System.out.println("Nickname: " + this.nickname);
         System.out.println("Item: " + this.item);
         System.out.println("Ability: " + this.ability);
         System.out.println("Tera Type: " + this.teraType);

@@ -1,0 +1,42 @@
+-ability: relevant pokemon listed first, [from] ability, also gives ability of opponent
+		|-ability|p2b: Gardevoir|Intimidate|[from] ability: Trace|[of] p1b: Arcanine
+		|-ability|p1b: Arcanine|Intimidate|boost
+-activate: Quark Drive/Protosynthesis
+		|-activate|p1a: Flutter Mane|ability: Protosynthesis|[fromitem]
+-cant: moves being cancelled by abilities
+		|cant|p1b: Tsareena|ability: Queenly Majesty|Extreme Speed|[of] p2b: Dragonite
+-copyboost: Flamigo's Costar
+		|-copyboost|p1a: Flamigo|p1b: Umbreon|[from] ability: Costar
+-curestatus: relevant Pokemon, from Natural Cure
+		|-curestatus|p2b: Pawmot|slp|[from] ability: Natural Cure
+-damage: from ability of relevant pokemon
+		|-damage|p1b: Annihilape|18/100|[from] ability: Rough Skin|[of] p2b: Garchomp
+-endability: doodle/entrainment, not relevant??
+-enditem: relevant pokemon listed?
+		|-enditem|p1b: Dachsbun|Leftovers|[silent]|[from] ability: Pickpocket|[of] p1b: Dachsbun
+-fail: pokemon unboost from ability of same pokemon
+		|-fail|p1b: Dondozo|unboost|Attack|[from] ability: Oblivious|[of] p1b: Dondozo
+-fieldstart: from ability of correct pokemon
+		|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+-heal: name of pokemon with ability goes first
+		|-heal|p2b: Orthworm|97/100|[from] ability: Earth Eater|[of] p2a: Garchomp
+-immune: only necessary pokemon listed
+		|-immune|p2b: Bronzong|[from] ability: Levitate
+-item: from ability of relevant pokemon (only Frisk) (use for finding item of team too!!!)
+		|-item|p2a: Pelipper|Damp Rock|[from] ability: Frisk|[of] p1b: Gothitelle|[identify]
+		|-item|p1b: Arboliva|Sitrus Berry|[from] ability: Harvest
+move: Move used from ability.  Ignore moves, take first Pokemon and name of ability
+		|move|p1b: Oricorio|Aqua Step|p2b: Iron Bundle|[from]ability: Dancer
+		|move|p1b: Hatterene|Leech Seed|p2a: Wo-Chien|[from]ability: Magic Bounce|[miss]
+-setboost: only relevant pokemon listed
+		|-setboost|p2b: Billy|atk|6|[from] ability: Anger Point
+-start: typechange Protean, [from] ability of relevant pokemon
+		|-start|p1a: Meowscarada|typechange|Fairy|[from] ability: Protean
+		|-start|p1b: Corviknight|Disable|Brave Bird|[from] ability: Cursed Body|[of] p2a: Gengar
+		|-start|p1b: Bellibolt|Charge|Thunder|[from] ability: Electromorphosis
+-status: [from] ability of relevant pokemon
+		|-status|p1a: Lucario|brn|[from] ability: Flame Body|[of] p2b: Volcarona
+-transform: Ditto's Imposter
+		|-transform|p1b: Ditto|p2a: Brute Bonnet|[from] ability: Imposter
+-weather: [from] ability of relevant pokemon
+		|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Torkoal
