@@ -57,7 +57,7 @@ public class Main {
         }
     }
 
-    public static void convertToTeams() throws IOException, JsonException {
+    public static void convertToTeams() throws IOException {
         ArrayList<String> fileNames = new ArrayList<>();
         ArrayList<String> abilityLines = new ArrayList<>();
         File[] files = new File("src/main/java/cisc181/labs/battles/").listFiles();
@@ -70,12 +70,17 @@ public class Main {
         System.out.println(fileNames.size());
         for(int i=0; i<f; i++){
             File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
-            if(battleF.exists()){
-                InputStream is = new FileInputStream(battleF);
-                JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
-                battleData currentBattle = new battleData(battleJson);
-                teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
-                parseLog(currentBattle, currentTeams, abilityLines);
+            try {
+                if (battleF.exists()) {
+                    InputStream is = new FileInputStream(battleF);
+                    JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+                    battleData currentBattle = new battleData(battleJson);
+                    teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
+                    parseLog(currentBattle, currentTeams, abilityLines);
+                }
+            } catch (JsonException e) {
+                //e.printStackTrace();
+                //System.out.println(fileNames.get(i));
             }
         }
         getUnique(abilityLines);
@@ -111,6 +116,11 @@ public class Main {
                     int j=0;
                     while(!pokeHolder.contains(paldeaDex.get(j))){
                         j++;
+                        if(j == 400){
+                            //exit case if not valid Pokemon, invalidates
+                            //System.out.println("Team not valid");
+                            return;
+                        }
                     }
                     teams.p1.addPokemon(new PokemonInfo(paldeaDex.get(j)));
                 }
