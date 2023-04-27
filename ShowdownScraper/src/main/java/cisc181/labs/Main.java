@@ -24,16 +24,10 @@ public class Main {
         //getBattleItems();
         //getLegalMoves();
         //convertToTeams();
-        //testPrint();
     }
 
-    public static void testPrint(){
-        String holder = "|-activate|p2b: Iron Bundle|ability: Quark Drive|[fromitem]";
-        ArrayList<String> testing = new ArrayList<>(Arrays.asList(holder.split("\\|")));
-        for(int i=0; i<testing.size(); i++){
-            System.out.println(testing.get(i));
-        }
-        System.out.println(Arrays.asList(testing.get(3).split(":")).get(1).trim());
+    public static void writeTeamToFile(teamsData teams){
+
     }
 
     public static void getUnique(ArrayList<String> lines) throws IOException {
