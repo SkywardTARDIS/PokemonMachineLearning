@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853197199",
+"p1": {
+"playerName": "gGusto",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Yawn", "Foul Play"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Superpower", "Ice Shard"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation", "Play Rough"]
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Umbreon", "Cetitan", "Arcanine", "Azumarill"]
+},
+"p2": {
+"playerName": "GholDenko",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Follow Me", "Encore"]
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Water",
+"moves": ["Milk Drink", "Trailblaze", "Horn Leech"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water", "Calm Mind"]
+}
+],
+"broughtTeam": ["Maushold", "Gogoat", "Staraptor", "Slowking"]
+},
+"outcome": 1
+}

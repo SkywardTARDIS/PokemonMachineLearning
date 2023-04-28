@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853089117",
+"p1": {
+"playerName": "BCDefault",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "Justified",
+"teraType": "",
+"moves": ["Bullet Punch", "Close Combat", "Extreme Speed", "Earthquake"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang", "Helping Hand", "Follow Me"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Mystical Fire", "Psychic"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Explosion"]
+}
+],
+"broughtTeam": ["Lucario", "Maushold", "Gardevoir", "Garganacl"]
+},
+"p2": {
+"playerName": "BigBoofles",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clodsire",
+"nickname": "Boofles",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Stomping Tantrum", "Toxic", "Recover"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Non",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "MidnightB",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Dondozo",
+"nickname": "Tookie",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Curse", "Rest", "Liquidation", "Sleep Talk"]
+}
+],
+"broughtTeam": ["Clodsire", "Slither Wing", "Flutter Mane", "Dondozo"]
+},
+"outcome": 1
+}

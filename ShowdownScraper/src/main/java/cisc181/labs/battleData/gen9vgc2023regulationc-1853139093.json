@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853139093",
+"p1": {
+"playerName": "Gadiel_VaStar",
+"fullTeam": [
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "King's Rock",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Fling", "Acrobatics", "Close Combat"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "Oblivious",
+"teraType": "",
+"moves": ["Protect", "Order Up", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Hyper Beam"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Perish Song", "Light Screen"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flamigo", "Dondozo", "Tatsugiri", "Scream Tail"]
+},
+"p2": {
+"playerName": "hasmafrehca",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Fire",
+"moves": ["Giga Drain", "Leech Seed", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electroweb"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Wide Guard"]
+}
+],
+"broughtTeam": ["Gyarados", "Wo-Chien", "Magneton", "Iron Valiant"]
+},
+"outcome": 1
+}

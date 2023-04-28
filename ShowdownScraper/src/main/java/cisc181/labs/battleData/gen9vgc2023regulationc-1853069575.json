@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853069575",
+"p1": {
+"playerName": "FuratBang",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Play Rough"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Raging Bull"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Claw"]
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Tauros", "Rotom", "Mimikyu"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Bubbles",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Reflect", "Strength Sap", "Pollen Puff"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Stringer",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Omar",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Bulk Up", "Protect"]
+},
+{
+"species": "Rabsca",
+"nickname": "WMD",
+"item": "",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Calm Mind", "Protect"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Jumpluff", "Krookodile", "Annihilape", "Rabsca"]
+},
+"outcome": 1
+}

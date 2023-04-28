@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853205741",
+"p1": {
+"playerName": "PuniHina",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Chi-Yu"]
+},
+"p2": {
+"playerName": "clockwork_mango",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Meelo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Haze"]
+},
+{
+"species": "Rotom",
+"nickname": "The Mechanist",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "War Balloon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Glimmora",
+"nickname": "Catacomb",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Spiky Shield"]
+}
+],
+"broughtTeam": ["Murkrow", "Rotom", "Corviknight", "Glimmora"]
+},
+"outcome": 1
+}

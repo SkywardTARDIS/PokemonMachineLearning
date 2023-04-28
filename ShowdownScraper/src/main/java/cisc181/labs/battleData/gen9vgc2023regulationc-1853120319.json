@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853120319",
+"p1": {
+"playerName": "yaboyredmond",
+"fullTeam": [
+{
+"species": "Bronzor",
+"nickname": "Bronzor",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Safeguard", "Trick Room", "Bulldoze", "Rock Slide"]
+},
+{
+"species": "Haunter",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Morgrem",
+"nickname": "Morgrem",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Fake Out", "Fake Tears", "Dazzling Gleam"]
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "High Horsepower"]
+},
+{
+"species": "Numel",
+"nickname": "Numel",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Sneasel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzor", "Morgrem", "Mudbray", "Numel"]
+},
+"p2": {
+"playerName": "VivillonHunter",
+"fullTeam": [
+{
+"species": "Quaxwell",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sneasel",
+"nickname": "Zoomies",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch"]
+},
+{
+"species": "Haunter",
+"nickname": "Spoops",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Pawmo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Foongus",
+"nickname": "Ballin'",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Foul Play"]
+},
+{
+"species": "Murkrow",
+"nickname": "Caw Gate",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Quash"]
+}
+],
+"broughtTeam": ["Sneasel", "Haunter", "Foongus", "Murkrow"]
+},
+"outcome": 1
+}

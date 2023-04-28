@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853069322",
+"p1": {
+"playerName": "FuratBang",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Rock Slide"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Raging Bull"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Trick", "Thunderbolt", "Hydro Pump"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Tauros", "Rotom", "Mimikyu"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Strength Sap", "Reflect"]
+},
+{
+"species": "Volcarona",
+"nickname": "Bunk",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Struggle Bug"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Omar",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "McNulty",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Jumpluff", "Volcarona", "Annihilape", "Jolteon"]
+},
+"outcome": 1
+}

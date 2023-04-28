@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1853088964",
+"p1": {
+"playerName": "Cyruno",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scissors",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Bullet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Ice Weasel",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Sucker Punch", "Protect", "Sacred Sword"]
+},
+{
+"species": "Arcanine",
+"nickname": "Fido",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Howl", "Flare Blitz"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Chien-Pao", "Arcanine"]
+},
+"p2": {
+"playerName": "rose_zkldin",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Body Slam", "Protect"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Doodle", "Taunt", "Parting Shot"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Yache Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Make It Rain"]
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Kilowattrel", "Gholdengo"]
+},
+"outcome": 1
+}

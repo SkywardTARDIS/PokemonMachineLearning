@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853131534",
+"p1": {
+"playerName": "VeeGey",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower", "Spicy Extract"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corvisquire",
+"nickname": "Corvisquire",
+"item": "",
+"ability": "Big Pecks",
+"teraType": "Flying",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Wide Guard"]
+}
+],
+"broughtTeam": ["Scovillain", "Corvisquire", "Golduck", "Pelipper"]
+},
+"p2": {
+"playerName": "Jadeyen",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Helping Hand", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Meowscarada", "Quaquaval", "Chien-Pao", "Blissey"]
+},
+"outcome": 1
+}

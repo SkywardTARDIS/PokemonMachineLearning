@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853169798",
+"p1": {
+"playerName": "SteXe36",
+"fullTeam": [
+{
+"species": "Stonjourner",
+"nickname": "Castle",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Rock Slide", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Royal Knight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Expanding Force", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Stonjourner", "Corviknight", "Armarouge", "Rotom"]
+},
+"p2": {
+"playerName": "panth413",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Protect", "Rock Slide"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Icy Wind"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Brave Bird", "Tailwind"]
+}
+],
+"broughtTeam": ["Amoonguss", "Garchomp", "Iron Bundle", "Talonflame"]
+},
+"outcome": 1
+}

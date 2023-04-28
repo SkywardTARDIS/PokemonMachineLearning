@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853039071",
+"p1": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "DeGaulle",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz", "Play Rough"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Notre-Dame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gyro Ball", "Trick Room"]
+},
+{
+"species": "Medicham",
+"nickname": "Teddy",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Close Combat", "Detect", "Zen Headbutt"]
+},
+{
+"species": "Arboliva",
+"nickname": "Eiffel",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Scatterbug",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Bronzong", "Medicham", "Arboliva"]
+},
+"p2": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Acrobatics", "Phantom Force", "Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Focus Sash",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Imprison", "Shadow Ball"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Power Gem"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Drifblim", "Indeedee", "Flutter Mane", "Tauros"]
+},
+"outcome": 1
+}

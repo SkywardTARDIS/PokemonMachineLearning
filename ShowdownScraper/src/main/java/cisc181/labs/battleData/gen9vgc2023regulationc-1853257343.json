@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853257343",
+"p1": {
+"playerName": "Count Sliggoo",
+"fullTeam": [
+{
+"species": "Gallade",
+"nickname": "Elre Olaric",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Sacred Sword", "Protect", "Psycho Cut"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Baelnorn",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Calm Mind"]
+},
+{
+"species": "Indeedee",
+"nickname": "Loki",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Blub",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Avalanche", "Wave Crash", "Earthquake"]
+}
+],
+"broughtTeam": ["Gallade", "Flutter Mane", "Indeedee", "Dondozo"]
+},
+"p2": {
+"playerName": "Escatross",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "SABRINA",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Substitute", "Shadow Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Pop",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "VEGGIE",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Pollen Puff", "Leech Seed", "Protect", "Substitute"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Wo-Chien", "Chi-Yu"]
+},
+"outcome": 1
+}

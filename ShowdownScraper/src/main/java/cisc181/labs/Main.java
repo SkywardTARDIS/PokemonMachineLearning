@@ -24,7 +24,7 @@ public class Main {
         //getBattleItems();
         //getLegalMoves();
         //convertToTeams();
-        revertTeamsFromJSON();
+        //revertTeamsFromJSON();
     }
 
     public static void revertTeamsFromJSON() throws IOException {

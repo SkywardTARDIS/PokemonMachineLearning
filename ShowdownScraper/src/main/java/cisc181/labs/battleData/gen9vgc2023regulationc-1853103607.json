@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853103607",
+"p1": {
+"playerName": "Cyruno",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scissors",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bullet Punch", "U-turn"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Misdreavus v2",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Ice Weasel",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Lola",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Play Rough"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Flutter Mane", "Chien-Pao", "Azumarill"]
+},
+"p2": {
+"playerName": "SorcererBadgerTG",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Psychic"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic Terrain", "Flamethrower"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Annihilape", "Sylveon", "Armarouge"]
+},
+"outcome": 1
+}

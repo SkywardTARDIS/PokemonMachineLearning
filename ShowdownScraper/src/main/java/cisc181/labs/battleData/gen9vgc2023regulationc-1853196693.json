@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853196693",
+"p1": {
+"playerName": "gGusto",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Throat Chop", "Stealth Rock", "Protect"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Foul Play"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Superpower"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz", "Extreme Speed", "Will-O-Wisp"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Umbreon", "Cetitan", "Arcanine"]
+},
+"p2": {
+"playerName": "GholDenko",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Follow Me", "Encore", "Beat Up"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball", "Slack Off"]
+},
+{
+"species": "Dunsparce",
+"nickname": "Dunsparce",
+"item": "Weakness Policy",
+"ability": "Rattled",
+"teraType": "Psychic",
+"moves": ["Roost", "Baton Pass", "Hyper Voice"]
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Trailblaze", "Horn Leech"]
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Skeledirge", "Dunsparce", "Gogoat"]
+},
+"outcome": 1
+}

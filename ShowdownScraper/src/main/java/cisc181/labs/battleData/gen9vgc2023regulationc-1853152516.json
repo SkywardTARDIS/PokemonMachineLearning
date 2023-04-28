@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853152516",
+"p1": {
+"playerName": "Mommy Kuvira",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Pinatubo",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Elbrus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Denali",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Puncak Jaya",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Swords Dance", "Thunder Punch", "Drain Punch"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Iron Hands"]
+},
+"p2": {
+"playerName": "AGSilver935",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat", "Dark Pulse"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Freeze-Dry", "Protect", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Rage Powder"]
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Iron Bundle", "Amoonguss"]
+},
+"outcome": 1
+}

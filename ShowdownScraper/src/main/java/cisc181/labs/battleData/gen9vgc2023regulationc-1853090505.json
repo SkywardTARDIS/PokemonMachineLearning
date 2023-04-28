@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853090505",
+"p1": {
+"playerName": "RossMellow",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "Mirror Herb",
+"ability": "Dancer",
+"teraType": "Grass",
+"moves": ["Tailwind", "Revelation Dance", "Protect"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Petal Dance", "Draining Kiss", "Light Screen", "Pollen Puff"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Fiery Dance"]
+},
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Shard"]
+}
+],
+"broughtTeam": ["Oricorio", "Florges", "Iron Moth", "Chien-Pao"]
+},
+"p2": {
+"playerName": "qwilfishfan5",
+"fullTeam": [
+{
+"species": "Alomomola",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Iron Defense", "Recycle", "Body Press"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dragon Claw"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Pyroar", "Appletun", "Roaring Moon"]
+},
+"outcome": 0
+}

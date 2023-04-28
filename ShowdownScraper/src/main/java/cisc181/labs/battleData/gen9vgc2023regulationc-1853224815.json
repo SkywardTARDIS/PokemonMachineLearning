@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853224815",
+"p1": {
+"playerName": "Quanxi_irl",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Weakness Policy",
+"ability": "Wind Rider",
+"teraType": "Dark",
+"moves": ["Protect", "Phantom Force", "Substitute"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Tailwind", "Peck"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Encore", "Gigaton Hammer", "Fairy Wind", "Thunder Wave"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Brambleghast", "Talonflame", "Amoonguss", "Tinkaton"]
+},
+"p2": {
+"playerName": "toxiteam",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Icy Wind", "Encore"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Stealth Rock", "Sand Tomb", "Yawn"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem"]
+}
+],
+"broughtTeam": ["Gholdengo", "Iron Bundle", "Hippowdon", "Glimmora"]
+},
+"outcome": 1
+}

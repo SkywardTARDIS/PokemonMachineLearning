@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853123320",
+"p1": {
+"playerName": "Cyruno",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scissors",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "U-turn", "Close Combat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Misdreavus v2",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Thunderbolt", "Dazzling Gleam", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Fido",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Lola",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Flutter Mane", "Arcanine", "Azumarill"]
+},
+"p2": {
+"playerName": "haclyon",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Order Up", "Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Wood Hammer", "Aurora Veil"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Frosmoth", "Abomasnow"]
+},
+"outcome": 1
+}

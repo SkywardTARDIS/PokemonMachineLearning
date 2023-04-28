@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1853218051",
+"p1": {
+"playerName": "pk-hunter",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Hyper Voice"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Protect", "Mortal Spin"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "White Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Close Combat"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Hex", "Ancient Power"]
+}
+],
+"broughtTeam": ["Farigiraf", "Glimmora", "Arcanine", "Dudunsparce"]
+},
+"p2": {
+"playerName": "Quanxi_irl",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "Dark",
+"moves": ["Protect", "Phantom Force"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fairy Wind", "Encore", "Gigaton Hammer", "Thunder Wave"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Brambleghast", "Talonflame", "Amoonguss", "Tinkaton"]
+},
+"outcome": 0
+}

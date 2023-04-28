@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853102091",
+"p1": {
+"playerName": "Sevino Sovrety",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Calm Mind", "Hyper Voice"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Farigiraf", "Torkoal", "Hariyama"]
+},
+"p2": {
+"playerName": "Cyruno",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scissors",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["U-turn"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Lola",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Liquidation"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Wo-Chein",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+}
+],
+"broughtTeam": ["Scizor", "Azumarill", "Amoonguss"]
+},
+"outcome": 0
+}

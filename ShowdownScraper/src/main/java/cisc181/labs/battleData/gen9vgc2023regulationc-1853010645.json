@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853010645",
+"p1": {
+"playerName": "DuskDevoir",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Light Screen", "Fake Tears", "Misty Terrain"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Raging Bull", "Drill Run", "Iron Head", "Close Combat"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Misty Terrain", "Petal Blizzard", "Dazzling Gleam"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Throat Spray",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Tera Blast", "Snarl"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Tauros", "Florges", "Wo-Chien"]
+},
+"p2": {
+"playerName": "ScheduledDrop",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Play Rough"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Iron Head", "Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball", "Protect", "Slack Off"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+}
+],
+"broughtTeam": ["Mimikyu", "Kingambit", "Skeledirge", "Iron Hands"]
+},
+"outcome": 1
+}

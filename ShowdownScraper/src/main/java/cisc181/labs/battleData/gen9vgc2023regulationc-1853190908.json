@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853190908",
+"p1": {
+"playerName": "Alexis_student",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry", "Icy Wind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Flutter Mane", "Iron Bundle", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Oerba15",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Hit Me",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Protect"]
+},
+{
+"species": "Gallade",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Moondog",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Ugly Mane",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Sus Lord",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+}
+],
+"broughtTeam": ["Talonflame", "Roaring Moon", "Flutter Mane", "Gholdengo"]
+},
+"outcome": 0
+}

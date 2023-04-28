@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853201653",
+"p1": {
+"playerName": "A0000000",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Overheat"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Adrenaline Orb",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Stantler", "Annihilape"]
+},
+"p2": {
+"playerName": "Kyutarou",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Hotpot",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Lava Plume", "Protect", "Helping Hand"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Luscious Locks",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Hell",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Gordon",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Slither Wing", "Arcanine"]
+},
+"outcome": 0
+}

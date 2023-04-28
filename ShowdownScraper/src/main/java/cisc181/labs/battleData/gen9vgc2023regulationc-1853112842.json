@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853112842",
+"p1": {
+"playerName": "sucabaVGC",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Mushu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Mismagius",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Manny",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Earthquake", "Headlong Rush"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Sulley",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Protect", "Ice Shard"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Stitch",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Disable"]
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Baxcalibur", "Sableye"]
+},
+"p2": {
+"playerName": "Richweav13",
+"fullTeam": [
+{
+"species": "Gallade",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Heat Wave", "Earth Power"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct", "Psychic"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Air Balloon",
+"ability": "Speed Boost",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Lumina Crash"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Torkoal", "Oranguru", "Espathra"]
+},
+"outcome": 1
+}

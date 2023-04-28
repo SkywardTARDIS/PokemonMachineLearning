@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1853161022",
+"p1": {
+"playerName": "Awesomestriker2",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Weakness Policy",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Focus Sash",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Bulldoze", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Bellibolt", "Gyarados"]
+},
+"p2": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["U-turn"]
+}
+],
+"broughtTeam": ["Palafin", "Gallade", "Murkrow", "Corviknight"]
+},
+"outcome": 1
+}

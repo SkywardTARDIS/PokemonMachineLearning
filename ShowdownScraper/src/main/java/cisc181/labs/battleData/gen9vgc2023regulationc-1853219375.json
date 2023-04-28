@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853219375",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Lurantis",
+"nickname": "Lurantis",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Mystical Fire"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Helping Hand"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lurantis", "Hatterene", "Indeedee"]
+},
+"p2": {
+"playerName": "Dymosin",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Dumbo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Biggest Bird",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flare Blitz", "Roost"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bertha",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Great Tusk", "Talonflame", "Bellibolt"]
+},
+"outcome": 1
+}

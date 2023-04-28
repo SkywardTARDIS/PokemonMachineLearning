@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853132995",
+"p1": {
+"playerName": "Jelly Jars",
+"fullTeam": [
+{
+"species": "Salazzle",
+"nickname": "Salazzle",
+"item": "Eject Pack",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Fake Out", "Overheat", "Sludge Bomb"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+}
+],
+"broughtTeam": ["Salazzle", "Roaring Moon", "Lokix", "Baxcalibur"]
+},
+"p2": {
+"playerName": "MuskyMan",
+"fullTeam": [
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Earth Power"]
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Venomoth",
+"nickname": "Venomoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sylveon", "Skeledirge", "Oranguru", "Venomoth"]
+},
+"outcome": 1
+}
