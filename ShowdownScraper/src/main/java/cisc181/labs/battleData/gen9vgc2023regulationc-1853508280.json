@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853508280",
+"p1": {
+"playerName": "MasterHand",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "KingKoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Coalossal",
+"nickname": "Krakatoa",
+"item": "Weakness Policy",
+"ability": "Steam Engine",
+"teraType": "Flying",
+"moves": ["Endure", "Rock Slide"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Thorobread",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Substitute", "Body Press", "Snarl"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Koiruption",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+}
+],
+"broughtTeam": ["Torkoal", "Coalossal", "Dachsbun", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Bafio",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "fiuum",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "bonk",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Bulldoze", "Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "bzzt",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Thunder Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "schaff",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Ting-Lu", "Gyarados", "Flutter Mane"]
+},
+"outcome": 1
+}

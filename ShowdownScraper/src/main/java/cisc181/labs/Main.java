@@ -19,11 +19,12 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        scrapeData();
+        //scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
         convertToTeams();
+
         //ArrayList<teamsData> allBattles = new ArrayList<>();
         //revertTeamsFromJSON(allBattles);
     }
@@ -112,12 +113,21 @@ public class Main {
                 fileNames.add(file.getName());
             }
         }
+        ArrayList<String> newBattleFiles = new ArrayList<>();
+        File[] battleFiles = new File("src/main/java/cisc181/labs/battleData/").listFiles();
+        for(File file: battleFiles) {
+            if (file.isFile()) {
+                newBattleFiles.add(file.getName());
+            }
+        }
+
+
         int f = fileNames.size();
         System.out.println(fileNames.size());
         for(int i=0; i<f; i++){
             File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
             try {
-                if (battleF.exists()) {
+                if (battleF.exists() && !newBattleFiles.contains(fileNames.get(i))) {
                     InputStream is = new FileInputStream(battleF);
                     JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
                     battleData currentBattle = new battleData(battleJson);
