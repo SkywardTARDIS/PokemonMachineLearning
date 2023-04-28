@@ -1,0 +1,26 @@
+-activate: Quark Drive/Protosynthesis (Booster Energy), or safety goggles (parse like normal)?
+		|-activate|p2b: Hot Cheetos Gurl|ability: Protosynthesis|[fromitem]
+		|-activate|p1a: Hydreigon LITE|ability: Quark Drive|[fromitem]
+		|-activate|p1b: Bronzong|item: Safety Goggles|Spore
+-boost: all identical form, parse as normal
+		|-boost|p1b: Sylveon|spa|1|[from] item: Throat Spray
+-damage: [from] item, or from item [of]
+		|-damage|p2a: Sailor|84/100|[from] item: Rocky Helmet|[of] p1a: Volcarona
+		|-damage|p1a: PAPÁ|40/100|[from] item: Life Orb
+-enditem: lists relevant Pokemon and item (from move??)
+		|-enditem|p2b: Gyarados|Sitrus Berry|[eat]
+		|-enditem|p2b: Blue|Psychic Seed
+		|-enditem|p1a: Kikoken|Sitrus Berry|[from] move: Knock Off|[of] p2a: Meowscarada
+-fail: Clear Amulet
+		|-fail|p1b: Chien-Pao|unboost|[from] item: Clear Amulet|[of] p1b: Chien-Pao
+-heal: relevant Pokemon listed first
+		|-heal|p1b: Oricorio|84/100|[from] item: Shell Bell|[of] p2b: Ting-Lu
+		|-heal|p1b: Luxray|58/100|[from] item: Sitrus Berry
+-item: relevant Pokemon and item listed first, ignore [from] move
+		|-item|p2b: Houndour|Covert Cloak|[from] ability: Frisk|[of] p1a: Shet Pup|[identify]
+		|-item|p1a: Shet Pup|Covert Cloak|[from] move: Trick
+		|-item|p1b: Iron Moth|Air Balloon
+-status: relevant Pokemon listed, item last
+		|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+-unboost: item Room Service
+		|-unboost|p2b: Arcanine|spe|1|[from] item: Room Service

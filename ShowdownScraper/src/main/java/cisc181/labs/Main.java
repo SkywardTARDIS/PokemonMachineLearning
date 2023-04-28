@@ -19,18 +19,18 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        scrapeData();
+        //scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        //convertToTeams();
+        convertToTeams();
     }
 
-    public static void writeTeamToFile(teamsData teams){
-
+    public static void writeTeamToFile(String battleID,teamsData teams){
+        
     }
 
-    public static void getUnique(ArrayList<String> lines) throws IOException {
+    public static void getUnique(ArrayList<String> lines, String folderName) throws IOException {
         ArrayList<ArrayList<String>> sorted = new ArrayList<>();
         ArrayList<String> prefix = new ArrayList<>();
         for(int i=0; i<lines.size(); i++){
@@ -42,7 +42,7 @@ public class Main {
             sorted.get(prefix.indexOf(prefixHolder)).add(lines.get(i));
         }
         for(int i=0; i<prefix.size(); i++){
-            File abilityFile = new File("src/main/java/cisc181/labs/lists/ability" + prefix.get(i) + ".txt");
+            File abilityFile = new File("src/main/java/cisc181/labs/lists/" + folderName + "/" + folderName + prefix.get(i) + ".txt");
             FileWriter fw = new FileWriter(abilityFile);
             for(int j=0; j<sorted.get(i).size(); j++){
                 fw.write(sorted.get(i).get(j) + "\n");
@@ -54,6 +54,7 @@ public class Main {
     public static void convertToTeams() throws IOException {
         ArrayList<String> fileNames = new ArrayList<>();
         ArrayList<String> abilityLines = new ArrayList<>();
+        ArrayList<String> itemLines = new ArrayList<>();
         File[] files = new File("src/main/java/cisc181/labs/battles/").listFiles();
         for(File file: files) {
             if (file.isFile()) {
@@ -70,17 +71,18 @@ public class Main {
                     JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
                     battleData currentBattle = new battleData(battleJson);
                     teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
-                    parseLog(currentBattle, currentTeams, abilityLines);
+                    parseLog(currentBattle, currentTeams, abilityLines, itemLines);
                 }
             } catch (JsonException e) {
                 //e.printStackTrace();
                 //System.out.println(fileNames.get(i));
             }
         }
-        getUnique(abilityLines);
+        //getUnique(abilityLines, "ability");
+        //getUnique(itemLines, "item");
     }
 
-    public static void parseLog(battleData dataLog, teamsData teams, ArrayList<String> abilityLines) throws IOException, JsonException {
+    public static void parseLog(battleData dataLog, teamsData teams, ArrayList<String> abilityLines, ArrayList<String> itemLines) throws IOException, JsonException {
         String[] logHolder = dataLog.log.split("\n");
         ArrayList<String> logLines = new ArrayList<>(Arrays.asList(logHolder));
         ArrayList<String> paldeaDex =  paldeaFromJson();
@@ -96,8 +98,11 @@ public class Main {
             if(holder.contains("ability")){
                 abilityLines.add(holder);
             }
+            if(holder.contains("item")){
+                itemLines.add(holder);
+            }
         }
-        //System.out.println(dataLog.log);
+
         //gets species for p1
         for(int i=0; i< logLines.size(); i++){
             if(logLines.get(i).contains("|poke|p1")){
@@ -169,113 +174,261 @@ public class Main {
                 }
                 //gets abilities
                 if (logLines.get(j).contains("ability") && logLines.get(j).contains(currentSpecies)) {
-                    ArrayList<String> abilityLine = new ArrayList<>(Arrays.asList(logLines.get(j).split("\\|")));
-                    String openClause = abilityLine.get(1);
-                    switch (openClause) {
-                        case "-ability":
-                            if (logLines.get(j).contains("[from] ability") && abilityLine.get(2).contains("p1") && abilityLine.get(2).contains(currentSpecies)) {
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
-                            } else if (logLines.get(j).contains("[from] ability") && abilityLine.get(abilityLine.size() - 1).contains("[of] p1") && abilityLine.get(abilityLine.size() - 1).contains(currentSpecies)) {
-                                currentPokemon.addAbility(abilityLine.get(3));
-                            } else if (abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")) {
-                                currentPokemon.addAbility(abilityLine.get(3));
-                            }
-                            break;
-                        case "-activate":
-                            if(logLines.get(j).contains(currentSpecies) && logLines.get(j).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "cant":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-copyboost":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility("Costar");
-                            }
-                            break;
-                        case "-curestatus":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility("Natural Cure");
-                            }
-                            break;
-                        case "-damage":
-                            if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-fail":
-                            if(abilityLine.get(2).contains("p1") && abilityLine.get(2).contains(currentSpecies)){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-fieldstart":
-                            if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-heal":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-immune":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-item":
-                            if(abilityLine.size() == 5){
-                                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
-                                }
-                            }else{
-                                if(abilityLine.get(5).contains(currentSpecies) && abilityLine.get(5).contains("p1")){
-                                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
-                                }
-                            }
-                            break;
-                        case "move":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-setboost":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-start":
-                            if(abilityLine.size() == 7){
-                                if(abilityLine.get(6).contains(currentSpecies) && abilityLine.get(6).contains("p1")){
-                                    currentPokemon.addAbility("Cursed Body");
-                                }
-                            }else if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-status":
-                            if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-2).split(":")).get(1).trim());
-                            }
-                            break;
-                        case "-transform":
-                            if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains("p1")){
-                                currentPokemon.addAbility("Transform");
-                            }
-                            break;
-                        case "-weather":
-                            if(abilityLine.get(4).contains(currentSpecies) && abilityLine.get(4).contains("p1")){
-                                currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
-                            }
-                            break;
-                    }
+                    abilityGrabber(currentPokemon, "p1", logLines.get(j), currentSpecies);
+                }
+                //gets items
+                if (logLines.get(j).contains("item") && logLines.get(j).contains(currentSpecies)){
+                    itemGrabber(currentPokemon, "p1", logLines.get(j), currentSpecies);
                 }
             }
         }
-        //teams.printData();
+
+        //gets species for p2
+        for(int i=0; i< logLines.size(); i++){
+            if(logLines.get(i).contains("|poke|p2")){
+                String pokeHolder = logLines.get(i).replace("|poke|p2|", "");
+                pokeHolder = Array.get(pokeHolder.split(",", 0), 0).toString();
+                if(paldeaDex.contains(pokeHolder)){
+                    teams.p2.addPokemon(new PokemonInfo(pokeHolder));
+                }else{
+                    //filtering out forms of Pokemon, such as (Indeedee-F and replacing with base form Indeedee)
+                    int j=0;
+                    while(!pokeHolder.contains(paldeaDex.get(j))){
+                        j++;
+                        if(j == 400){
+                            //exit case if not valid Pokemon, invalidates
+                            //System.out.println("Team not valid");
+                            return;
+                        }
+                    }
+                    teams.p2.addPokemon(new PokemonInfo(paldeaDex.get(j)));
+                }
+            }
+        }
+        //gets brought team for p2
+        for(int i=0; i<teams.p2.fullTeam.size(); i++){
+            for(int j=0; j<logLines.size(); j++) {
+                if (logLines.get(j).contains("|switch|p2") && logLines.get(j).contains(teams.p2.fullTeam.get(i).species)) {
+                    teams.p2.addBrought(teams.p2.fullTeam.get(i).species);
+                }
+            }
+        }
+        //gathers the nicknames, moves, items, teraType for p2 brought pokemon
+        for(int i=0; i<teams.p2.broughtTeam.size(); i++) {
+            String currentSpecies = teams.p2.broughtTeam.get(i);
+            PokemonInfo currentPokemon = new PokemonInfo("");
+            for (int j = 0; j < teams.p2.fullTeam.size(); j++) {
+                if (teams.p2.fullTeam.get(j).species == currentSpecies) {
+                    currentPokemon = teams.p2.fullTeam.get(j);
+                }
+            }
+            //gets nicknames
+            for (int j = 0; j < logLines.size(); j++) {
+                if (logLines.get(j).contains("|switch|p2") && logLines.get(j).contains(currentSpecies)) {
+                    //fix getting nicknames
+                    String getNickname = Arrays.asList(logLines.get(j).split("\\|")).get(2);
+                    getNickname = Arrays.asList(getNickname.split(":")).get(1).trim();
+                    //System.out.println(logLines.get(j));
+                    if (!currentPokemon.species.equals(getNickname)){
+                        currentPokemon.setNickname(getNickname);
+                        currentSpecies = currentPokemon.nickname;
+                        //System.out.println(currentSpecies + " the " + currentPokemon.species);
+                    }else{
+                        currentPokemon.setNickname(currentPokemon.species);
+                    }
+                }
+            }
+            for (int j = 0; j < logLines.size(); j++) {
+                //gets known moves
+                if (logLines.get(j).startsWith("|move|p2a: " + currentSpecies)) {
+                    String getMove = Arrays.asList(logLines.get(j).replace("|move|p2a: " + currentSpecies + "|", "").split("\\|")).get(0);
+                    currentPokemon.addMove(getMove);
+                } else if (logLines.get(j).startsWith("|move|p2b: " + currentSpecies) && !logLines.get(j).contains("[from]ability")) {
+                    String getMove = Arrays.asList(logLines.get(j).replace("|move|p2b: " + currentSpecies + "|", "").split("\\|")).get(0);
+                    currentPokemon.addMove(getMove);
+                }
+                //gets teraType
+                if (logLines.get(j).contains("|-terastallize|p2") && logLines.get(j).contains(currentSpecies)) {
+                    ArrayList<String> splitTera = new ArrayList<>(Arrays.asList(logLines.get(j).split("\\|")));
+                    currentPokemon.addTera(splitTera.get(splitTera.size() - 1));
+                }
+                //gets abilities
+                if (logLines.get(j).contains("ability") && logLines.get(j).contains(currentSpecies)) {
+                    abilityGrabber(currentPokemon, "p2", logLines.get(j), currentSpecies);
+                }
+                //gets items
+                if (logLines.get(j).contains("item") && logLines.get(j).contains(currentSpecies)){
+                    itemGrabber(currentPokemon, "p2", logLines.get(j), currentSpecies);
+                }
+            }
+        }
+        teams.printData();
+    }
+
+    public static void itemGrabber(PokemonInfo currentPokemon, String playerNo, String logLine, String currentSpecies){
+        ArrayList<String> itemLine = new ArrayList<>(Arrays.asList(logLine.split("\\|")));
+        String openClause = itemLine.get(1);
+        switch (openClause){
+            case "-activate":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)){
+                    if (logLine.contains("[fromitem]")) {
+                        currentPokemon.addItem("Booster Energy");
+                    } else {
+                        currentPokemon.addItem(Arrays.asList(itemLine.get(3).split(":")).get(1).trim());
+                    }
+                }
+                break;
+            case "-boost":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(Arrays.asList(itemLine.get(5).split(":")).get(1).trim());
+                }
+                break;
+            case "damage":
+                if (itemLine.size() > 5) {
+                    if (itemLine.get(5).contains(playerNo) && itemLine.get(5).contains(currentSpecies)) {
+                        currentPokemon.addItem(Arrays.asList(itemLine.get(4).split(":")).get(1).trim());
+                    }
+                } else if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(Arrays.asList(itemLine.get(4).split(":")).get(1).trim());
+                }
+                break;
+            case "-enditem":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(itemLine.get(3));
+                }
+                break;
+            case "-fail":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem("Clear Amulet");
+                }
+                break;
+            case "-heal":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(Arrays.asList(itemLine.get(4).split(":")).get(1).trim());
+                }
+                break;
+            case "-item":
+                if (!logLine.contains("[from] move") && itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(itemLine.get(3));
+                }
+                break;
+            case "-status":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem(Arrays.asList(itemLine.get(4).split(":")).get(1).trim());
+                }
+                break;
+            case "-unboost":
+                if (itemLine.get(2).contains(playerNo) && itemLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addItem("Room Service");
+                }
+                break;
+        }
+    }
+
+    public static void abilityGrabber(PokemonInfo currentPokemon, String playerNo, String logLine, String currentSpecies){
+        ArrayList<String> abilityLine = new ArrayList<>(Arrays.asList(logLine.split("\\|")));
+        String openClause = abilityLine.get(1);
+        switch (openClause) {
+            case "-ability":
+                if (logLine.contains("[from] ability") && abilityLine.get(2).contains(playerNo) && abilityLine.get(2).contains(currentSpecies)) {
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
+                } else if (logLine.contains("[from] ability") && abilityLine.get(abilityLine.size() - 1).contains("[of] " + playerNo) && abilityLine.get(abilityLine.size() - 1).contains(currentSpecies)) {
+                    currentPokemon.addAbility(abilityLine.get(3));
+                } else if (abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)) {
+                    currentPokemon.addAbility(abilityLine.get(3));
+                }
+                break;
+            case "-activate":
+                if(logLine.contains(currentSpecies) && logLine.contains(playerNo) && logLine.contains("[fromitem]")){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
+                }
+                break;
+            case "cant":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
+                }
+                break;
+            case "-copyboost":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility("Costar");
+                }
+                break;
+            case "-curestatus":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility("Natural Cure");
+                }
+                break;
+            case "-damage":
+                if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
+                }
+                break;
+            case "-fail":
+                if(abilityLine.get(2).contains(playerNo) && abilityLine.get(2).contains(currentSpecies)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
+                }
+                break;
+            case "-fieldstart":
+                if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
+                }
+                break;
+            case "-heal":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
+                }
+                break;
+            case "-immune":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
+                }
+                break;
+            case "-item":
+                if(abilityLine.size() == 5){
+                    if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                        currentPokemon.addAbility(Arrays.asList(abilityLine.get(4).split(":")).get(1).trim());
+                    }
+                }else{
+                    if(abilityLine.get(5).contains(currentSpecies) && abilityLine.get(5).contains(playerNo)){
+                        currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
+                    }
+                }
+                break;
+            case "move":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(5).split(":")).get(1).trim());
+                }
+                break;
+            case "-setboost":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
+                }
+                break;
+            case "-start":
+                if(abilityLine.size() == 7){
+                    if(abilityLine.get(6).contains(currentSpecies) && abilityLine.get(6).contains(playerNo)){
+                        currentPokemon.addAbility("Cursed Body");
+                    }
+                }else if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-1).split(":")).get(1).trim());
+                }
+                break;
+            case "-status":
+                if(abilityLine.get(abilityLine.size()-1).contains(currentSpecies) && abilityLine.get(abilityLine.size()-1).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(abilityLine.size()-2).split(":")).get(1).trim());
+                }
+                break;
+            case "-transform":
+                if(abilityLine.get(2).contains(currentSpecies) && abilityLine.get(2).contains(playerNo)){
+                    currentPokemon.addAbility("Transform");
+                }
+                break;
+            case "-weather":
+                if(abilityLine.get(4).contains(currentSpecies) && abilityLine.get(4).contains(playerNo)){
+                    currentPokemon.addAbility(Arrays.asList(abilityLine.get(3).split(":")).get(1).trim());
+                }
+                break;
+        }
     }
 
     public static ArrayList<String> paldeaFromJson() throws IOException, JsonException {
