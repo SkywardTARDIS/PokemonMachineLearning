@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847215196",
+"p1": {
+"playerName": "Shnipe_Cizy",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Indeedee"]
+},
+"p2": {
+"playerName": "JimBear14",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Roseli Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Foul Play"]
+}
+],
+"broughtTeam": ["Arcanine", "Iron Bundle", "Flutter Mane", "Sableye"]
+},
+"outcome": 1
+}

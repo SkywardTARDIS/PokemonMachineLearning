@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851366450",
+"p1": {
+"playerName": "gonna be ok",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Heavy Slam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Heavy Slam", "Ruination", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Flutter Mane", "Gyarados"]
+},
+"p2": {
+"playerName": "IntoTheWoid",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Palafin", "Ting-Lu", "Baxcalibur", "Flutter Mane"]
+},
+"outcome": 1
+}

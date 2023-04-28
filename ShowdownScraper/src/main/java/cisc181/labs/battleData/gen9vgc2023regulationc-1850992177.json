@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850992177",
+"p1": {
+"playerName": "Brendu04",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "U-turn", "Power Whip"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tsareena", "Talonflame", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "AnthonyL",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Rock Slide", "Protect", "Earthquake"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Corviknight"]
+},
+"outcome": 0
+}

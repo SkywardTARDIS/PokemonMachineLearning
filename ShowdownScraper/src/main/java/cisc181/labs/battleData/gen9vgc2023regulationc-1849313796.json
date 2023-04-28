@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849313796",
+"p1": {
+"playerName": "z0gre",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Yawn", "Stockpile", "Fissure", "Slack Off"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Draining Kiss", "Follow Me"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palossand",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Last Respects"]
+}
+],
+"broughtTeam": ["Hippowdon", "Lycanroc", "Indeedee", "Houndstone"]
+},
+"p2": {
+"playerName": "Topperlecat",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "THE GOAT",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Substitute", "Ruination", "Payback", "Stomping Tantrum"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "steel birb",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Iron Head", "Brave Bird", "Roost"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "big dog",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "hear me out",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Foul Play", "Light Screen"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Corviknight", "Arcanine", "Klefki"]
+},
+"outcome": 0
+}

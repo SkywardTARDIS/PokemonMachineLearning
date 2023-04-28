@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850883336",
+"p1": {
+"playerName": "BolaDeHielo",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Throat Chop", "Acrobatics", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff", "Spore"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Roaring Moon", "Amoonguss"]
+},
+"p2": {
+"playerName": "RamonTheKiller",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Fire",
+"moves": ["Protect", "Substitute", "Body Press", "Earth Power"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Taunt"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Gyarados", "Amoonguss", "Dragonite"]
+},
+"outcome": 1
+}

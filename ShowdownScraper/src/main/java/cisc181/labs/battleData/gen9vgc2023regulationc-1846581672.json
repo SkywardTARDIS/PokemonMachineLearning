@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846581672",
+"p1": {
+"playerName": "KB1107",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Drain Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Iron Hands", "Dragonite"]
+},
+"p2": {
+"playerName": "The22Cabbage",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Veluza",
+"nickname": "Veluza",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fillet Away"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Iron Moth", "Veluza", "Baxcalibur", "Jumpluff"]
+},
+"outcome": 1
+}

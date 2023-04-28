@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847779451",
+"p1": {
+"playerName": "sgfdqa",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Fire Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Ice Spinner", "Sacred Sword"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Dragonite", "Chien-Pao"]
+},
+"p2": {
+"playerName": "project g1",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Focus Sash",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Blizzard", "Freeze-Dry"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Memento"]
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Gholdengo", "Glimmora"]
+},
+"outcome": 0
+}

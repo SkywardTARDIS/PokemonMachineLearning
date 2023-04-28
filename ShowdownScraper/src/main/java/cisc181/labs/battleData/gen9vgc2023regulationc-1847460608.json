@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847460608",
+"p1": {
+"playerName": "NoodleDude2355",
+"fullTeam": [
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Helping Hand", "Blizzard"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Thunder"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Cetitan", "Abomasnow", "Iron Hands", "Flutter Mane"]
+},
+"p2": {
+"playerName": "ShaytheFair",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect", "Kowtow Cleave"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Arcanine", "Kingambit"]
+},
+"outcome": 0
+}

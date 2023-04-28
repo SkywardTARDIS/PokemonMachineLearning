@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848126186",
+"p1": {
+"playerName": "tatsugirl i~",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Phantom Force", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Play Rough"]
+}
+],
+"broughtTeam": ["Dragapult", "Flutter Mane", "Chi-Yu", "Dachsbun"]
+},
+"p2": {
+"playerName": "Radio Free C-Side",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Fiery Dance"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Purifying Salt",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Body Press", "Protect"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Volcarona", "Garganacl"]
+},
+"outcome": 0
+}

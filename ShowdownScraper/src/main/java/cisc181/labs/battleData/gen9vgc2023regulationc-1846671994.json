@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846671994",
+"p1": {
+"playerName": "Valhala Alfa",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Hyper Voice", "Shadow Ball", "Protect", "Psychic"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Giga Drain", "Protect"]
+}
+],
+"broughtTeam": ["Farigiraf", "Annihilape", "Volcarona"]
+},
+"p2": {
+"playerName": "onesatoshi",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Jet Punch", "Protect", "Ice Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Mimikyu", "Iron Hands", "Palafin", "Amoonguss"]
+},
+"outcome": 1
+}

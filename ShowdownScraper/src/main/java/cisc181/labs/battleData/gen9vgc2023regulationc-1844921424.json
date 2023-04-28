@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844921424",
+"p1": {
+"playerName": "Keveloper",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+}
+],
+"broughtTeam": ["Salamence", "Amoonguss", "Palafin", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Clementine23",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Clear Amulet",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Will-O-Wisp", "Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Nasty Plot", "Make It Rain"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Great Tusk", "Talonflame", "Gholdengo"]
+},
+"outcome": 1
+}

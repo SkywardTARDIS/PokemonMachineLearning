@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845151278",
+"p1": {
+"playerName": "Jimbertini",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Julian",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Fabrizio",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Murkrow",
+"nickname": "Nick",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Tailwind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Nikolai",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Flutter Mane", "Murkrow", "Great Tusk"]
+},
+"p2": {
+"playerName": "Nellicopter",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Great Tusk", "Murkrow"]
+},
+"outcome": 1
+}

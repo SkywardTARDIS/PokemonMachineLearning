@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851375831",
+"p1": {
+"playerName": "Whatever0512",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Taunt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Tyranitar", "Gothitelle", "Great Tusk"]
+},
+"p2": {
+"playerName": "Brendu04",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Arcanine", "Talonflame", "Flutter Mane", "Sandy Shocks"]
+},
+"outcome": 1
+}

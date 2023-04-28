@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850257668",
+"p1": {
+"playerName": "starklar",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Table Salt",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Body Press"]
+},
+{
+"species": "Sylveon",
+"nickname": "Lucky",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Quick Attack", "Protect"]
+},
+{
+"species": "Sableye",
+"nickname": "Creature",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Knightfall",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Sylveon", "Sableye", "Corviknight"]
+},
+"p2": {
+"playerName": "Rehtycs",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Sand Tomb", "Ruination"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Head", "Taunt", "Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Gyarados", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 1
+}

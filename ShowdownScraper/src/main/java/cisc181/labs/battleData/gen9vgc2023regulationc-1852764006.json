@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852764006",
+"p1": {
+"playerName": "P0K3_DUDE",
+"fullTeam": [
+{
+"species": "Altaria",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Chilling Water"]
+},
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain", "Energy Ball"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Fire Blast", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Azumarill", "Lilligant", "Lucario", "Flareon"]
+},
+"p2": {
+"playerName": "ImprovedBore",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor", "Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Snarl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Mortal Spin", "Power Gem"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Chi-Yu", "Gyarados", "Glimmora"]
+},
+"outcome": 0
+}

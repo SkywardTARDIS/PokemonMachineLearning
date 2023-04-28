@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845849003",
+"p1": {
+"playerName": "BBRAFF",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Alita",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Aura Sphere", "Moonblast", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Remy + Fam",
+"item": "Chople Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Festus",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Slack Off"]
+},
+{
+"species": "Appletun",
+"nickname": "Toby",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Leech Seed", "Recover", "Body Press"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Maushold", "Skeledirge", "Appletun"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Tokugawa",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Iron Head", "Sucker Punch", "Poison Jab"]
+},
+{
+"species": "Rabsca",
+"nickname": "Crown Jewel",
+"item": "Leppa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Revival Blessing"]
+},
+{
+"species": "Skuntank",
+"nickname": "Elvis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Hamlet's Dad",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Drain Punch", "Stone Edge", "Rage Fist", "Protect"]
+}
+],
+"broughtTeam": ["Kingambit", "Rabsca", "Skuntank", "Annihilape"]
+},
+"outcome": 1
+}

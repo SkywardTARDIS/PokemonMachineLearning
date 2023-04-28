@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845886841",
+"p1": {
+"playerName": "Kojiiii",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Kingb3ans",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Taunt"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Iron Head"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Expanding Force", "Trick Room"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Orthworm", "Armarouge", "Indeedee"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846641830",
+"p1": {
+"playerName": "CbuttyVGC",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Thunder Wave", "Howl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Ceruledge", "Scream Tail", "Gyarados", "Amoonguss"]
+},
+"p2": {
+"playerName": "Whade",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Thunder", "Protect"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Farigiraf", "Scizor", "Rotom"]
+},
+"outcome": 1
+}

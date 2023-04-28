@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852482742",
+"p1": {
+"playerName": "Determewnation",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Iron Head", "Protect"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Protect", "Hyper Beam"]
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Iron Treads", "Murkrow", "Sylveon", "Tsareena"]
+},
+"p2": {
+"playerName": "MsGilded",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Palafin", "Flutter Mane", "Ting-Lu"]
+},
+"outcome": 1
+}

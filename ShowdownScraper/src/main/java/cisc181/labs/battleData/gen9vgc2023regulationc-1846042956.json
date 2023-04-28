@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846042956",
+"p1": {
+"playerName": "vasperchu",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Figy Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Charm"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Icicle Spear"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge", "Muddy Water"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch"]
+}
+],
+"broughtTeam": ["Gothitelle", "Baxcalibur", "Bellibolt", "Lucario"]
+},
+"p2": {
+"playerName": "Ztringz",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Extreme Speed"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Sucker Punch", "Kowtow Cleave", "Iron Head"]
+}
+],
+"broughtTeam": ["Rotom", "Arcanine", "Dragonite", "Kingambit"]
+},
+"outcome": 1
+}

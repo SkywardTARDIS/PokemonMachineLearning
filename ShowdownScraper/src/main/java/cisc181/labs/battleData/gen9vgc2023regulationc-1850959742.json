@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850959742",
+"p1": {
+"playerName": "Beaugardes",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Psychic", "Hyper Voice", "Trick Room"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Farigiraf", "Kingambit"]
+},
+"p2": {
+"playerName": "Azun",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Phantom Force", "Drain Punch"]
+},
+{
+"species": "Gallade",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Protect", "Shadow Ball"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Indeedee", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

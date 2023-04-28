@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851703501",
+"p1": {
+"playerName": "Hi donut",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Acrobatics"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Sitrus Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic", "Helping Hand", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force", "Armor Cannon"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hawlucha", "Indeedee", "Armarouge", "Annihilape"]
+},
+"p2": {
+"playerName": "Kirovz",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Protect", "Substitute", "Hex"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Chi-Yu", "Flutter Mane", "Glimmora"]
+},
+"outcome": 0
+}

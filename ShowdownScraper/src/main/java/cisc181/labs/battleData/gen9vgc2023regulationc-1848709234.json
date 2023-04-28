@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848709234",
+"p1": {
+"playerName": "Ibartov",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Protect", "Pollen Puff"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Earth Power"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Wo-Chien", "Garganacl", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Diego Eisner",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Energy Ball"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Light Screen", "Spirit Break"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press", "Roost", "Brave Bird"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Gengar", "Grimmsnarl", "Corviknight"]
+},
+"outcome": 1
+}

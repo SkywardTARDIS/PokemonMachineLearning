@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845574171",
+"p1": {
+"playerName": "BibliothequeVGC",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Stomping Tantrum", "Throat Chop"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Body Press"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Flip Turn"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Spirit Break", "Reflect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Corviknight", "Palafin", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "LeafeonLou12",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Volt Switch", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Drifblim",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Brick Break", "Earthquake"]
+}
+],
+"broughtTeam": ["Rotom", "Indeedee", "Chi-Yu", "Great Tusk"]
+},
+"outcome": 0
+}

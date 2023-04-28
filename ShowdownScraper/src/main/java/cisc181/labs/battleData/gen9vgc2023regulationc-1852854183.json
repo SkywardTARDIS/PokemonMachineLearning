@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852854183",
+"p1": {
+"playerName": "nik993",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Iron Hands", "Arcanine", "Chien-Pao"]
+},
+"p2": {
+"playerName": "NakiYY",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Iron Defense", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Gyarados", "Dragonite", "Flutter Mane"]
+},
+"outcome": 1
+}

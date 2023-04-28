@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852140938",
+"p1": {
+"playerName": "Granny Bacon",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "Poison",
+"moves": ["Iron Defense", "Protect", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake", "Taunt", "Waterfall"]
+}
+],
+"broughtTeam": ["Pelipper", "Orthworm", "Ting-Lu", "Gyarados"]
+},
+"p2": {
+"playerName": "Lewlo",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Pollen Puff", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Heat Wave", "Snarl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Amoonguss", "Arcanine"]
+},
+"outcome": 0
+}

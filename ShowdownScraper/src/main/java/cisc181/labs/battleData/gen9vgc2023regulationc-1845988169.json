@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845988169",
+"p1": {
+"playerName": "gankyburner",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "C'mon C'mon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Haze"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Godzilla",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "B.H. Sun",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Heat Wave", "Snarl"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Dr. Worm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Body Press", "Helping Hand", "Iron Defense"]
+}
+],
+"broughtTeam": ["Murkrow", "Tyranitar", "Chi-Yu", "Orthworm"]
+},
+"p2": {
+"playerName": "Villbs2",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Make It Rain", "Shadow Ball"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Stone Edge", "Ruination"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Gholdengo", "Ting-Lu"]
+},
+"outcome": 1
+}

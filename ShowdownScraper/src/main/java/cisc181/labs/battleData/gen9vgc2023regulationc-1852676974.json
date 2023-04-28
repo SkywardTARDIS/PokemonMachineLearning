@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852676974",
+"p1": {
+"playerName": "Aperol Spinda",
+"fullTeam": [
+{
+"species": "Fletchling",
+"nickname": "Fletchling",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sawsbuck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Fletchling", "Noivern"]
+},
+"p2": {
+"playerName": "StalllPlayer",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Palafin"]
+},
+"outcome": 1
+}

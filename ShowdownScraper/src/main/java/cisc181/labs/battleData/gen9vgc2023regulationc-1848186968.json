@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848186968",
+"p1": {
+"playerName": "perceived slight",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Misty Terrain", "Light Screen", "Spirit Break", "Reflect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball", "Moonblast"]
+}
+],
+"broughtTeam": ["Rotom", "Orthworm", "Grimmsnarl", "Flutter Mane"]
+},
+"p2": {
+"playerName": "WillieDangerously",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis", "Dazzling Gleam", "Lumina Crash"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect", "Blizzard"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Swords Dance", "Pounce"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ghost",
+"moves": ["Gravity", "Thunder", "Protect"]
+}
+],
+"broughtTeam": ["Espathra", "Iron Bundle", "Scizor", "Sandy Shocks"]
+},
+"outcome": 1
+}

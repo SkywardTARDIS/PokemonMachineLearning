@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849362989",
+"p1": {
+"playerName": "zacherybarrows",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm", "Spore"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Amoonguss"]
+},
+"p2": {
+"playerName": "IAmNevermore",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Jaiden",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Tera Blast"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+}
+],
+"broughtTeam": ["Gastrodon", "Pelipper", "Gyarados", "Tatsugiri"]
+},
+"outcome": 1
+}

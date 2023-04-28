@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845653456",
+"p1": {
+"playerName": "Kuantize",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Surf"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Hydro Pump", "Protect"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Pelipper", "Drednaw"]
+},
+"p2": {
+"playerName": "vividcandy",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Palafin", "Dragonite"]
+},
+"outcome": 1
+}

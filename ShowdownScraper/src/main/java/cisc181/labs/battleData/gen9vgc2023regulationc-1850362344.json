@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850362344",
+"p1": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Solar Beam", "Heat Wave"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+}
+],
+"broughtTeam": ["Arcanine", "Torkoal", "Great Tusk", "Talonflame"]
+},
+"p2": {
+"playerName": "Av3z",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Ferb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Garchomp",
+"nickname": "Baljeet",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Carl",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Garchomp", "Iron Bundle"]
+},
+"outcome": 0
+}

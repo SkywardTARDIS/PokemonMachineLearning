@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850544279",
+"p1": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Eiscue",
+"nickname": "DanoninhoIce",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Protect", "Tera Blast", "Belly Drum", "Ice Spinner"]
+},
+{
+"species": "Blissey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abominavel",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Earth Power"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "MrRobot",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Nhonho",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Soak", "Parabolic Charge"]
+}
+],
+"broughtTeam": ["Eiscue", "Abomasnow", "Iron Bundle", "Bellibolt"]
+},
+"p2": {
+"playerName": "PokeDog",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Bullwinkle",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Rock Slide", "Heavy Slam"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flare Blitz"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Power Gem"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Talonflame", "Glimmora", "Scizor"]
+},
+"outcome": 1
+}

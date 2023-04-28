@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846504902",
+"p1": {
+"playerName": "FlamingRaccoonVGC",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Iron Head", "Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Spore", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Gyarados", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Veiv",
+"fullTeam": [
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed", "Protect", "Crunch"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Taunt", "Air Slash"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Ting-Lu", "Brute Bonnet", "Iron Jugulis"]
+},
+"outcome": 0
+}

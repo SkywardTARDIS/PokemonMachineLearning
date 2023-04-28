@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850020212",
+"p1": {
+"playerName": "Shit tier pro",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Strength Sap", "Pollen Puff"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect", "Dual Wingbeat"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Luminous Moss",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wide Guard", "Salt Cure", "Recover", "Block"]
+}
+],
+"broughtTeam": ["Palafin", "Arboliva", "Salamence", "Garganacl"]
+},
+"p2": {
+"playerName": "Igetnotrout",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Hex"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Protect"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Gas", "Spin Out", "Protect"]
+}
+],
+"broughtTeam": ["Bruxish", "Flutter Mane", "Murkrow", "Revavroom"]
+},
+"outcome": 1
+}

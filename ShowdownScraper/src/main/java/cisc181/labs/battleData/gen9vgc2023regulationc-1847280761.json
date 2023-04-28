@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847280761",
+"p1": {
+"playerName": "kakjohn",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Jaw Lock", "Tailwind", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Rock Slide", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Snarl"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Ting-Lu", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "Seymorekun",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Leftovers",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Substitute", "Dark Pulse", "Protect", "Heat Wave"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Icy Wind", "Whirlpool", "Waterfall"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Gyarados", "Chien-Pao", "Dragonite"]
+},
+"outcome": 0
+}

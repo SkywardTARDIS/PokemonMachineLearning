@@ -1,0 +1,88 @@
+{
+"id": "gen9vgc2023regulationc-1849083357",
+"p1": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Whirlwind", "Protect", "Body Press"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Light Screen"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Slack Off", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"p2": {
+"playerName": "Someone#58",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Foul Play", "Leech Seed", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Maushold", "Iron Bundle", "Annihilape"]
+},
+"outcome": 1
+}

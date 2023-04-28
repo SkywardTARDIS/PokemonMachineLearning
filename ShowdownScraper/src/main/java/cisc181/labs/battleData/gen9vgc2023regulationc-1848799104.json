@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848799104",
+"p1": {
+"playerName": "Alaskan_fisher",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Icicle Spear"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Palafin", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "Kodora",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Dark Pulse"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 0
+}

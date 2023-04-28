@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848281782",
+"p1": {
+"playerName": "imchosen",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Body Slam"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Tailwind"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Ruination"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Lumina Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slaking", "Salamence", "Ting-Lu", "Espathra"]
+},
+"p2": {
+"playerName": "NK2294",
+"fullTeam": [
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Dazzling Gleam", "Encore"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Quiver Dance", "Bug Buzz", "Giga Drain"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Surskit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Qwilfish",
+"nickname": "Qwilfish",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Gunk Shot"]
+}
+],
+"broughtTeam": ["Lumineon", "Volcarona", "Pelipper", "Qwilfish"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847761180",
+"p1": {
+"playerName": "Marzbar",
+"fullTeam": [
+{
+"species": "Impidimp",
+"nickname": "Impidimp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Fake Out", "Scary Face"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Gogoat",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndoom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Impidimp", "Armarouge", "Palafin", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Skottymon",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Dazzling Gleam", "Reflect"]
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "Queenly Majesty",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Luxray",
+"nickname": "Luxray",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Facade", "Wild Charge"]
+}
+],
+"broughtTeam": ["Talonflame", "Klefki", "Tsareena", "Luxray"]
+},
+"outcome": 0
+}

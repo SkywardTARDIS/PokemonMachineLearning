@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846547842",
+"p1": {
+"playerName": "RalfRabisco",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist", "Drain Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Follow Me"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Bulk Up", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Ceruledge", "Amoonguss"]
+},
+"p2": {
+"playerName": "jonesy72",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed", "Snarl"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Flamethrower", "Dark Pulse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Arcanine", "Chi-Yu"]
+},
+"outcome": 1
+}

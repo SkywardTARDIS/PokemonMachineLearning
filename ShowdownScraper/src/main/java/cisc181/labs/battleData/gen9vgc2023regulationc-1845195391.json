@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845195391",
+"p1": {
+"playerName": "DinoMike130",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Tailwind"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Ice Spinner"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Earthquake", "Close Combat"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Pelipper", "Drednaw", "Great Tusk", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "Most Bread",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Hyper Voice", "Tera Blast"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Thunderbolt"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Rock Slide", "Acrobatics"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Energy Ball"]
+}
+],
+"broughtTeam": ["Farigiraf", "Rotom", "Roaring Moon", "Glimmora"]
+},
+"outcome": 1
+}

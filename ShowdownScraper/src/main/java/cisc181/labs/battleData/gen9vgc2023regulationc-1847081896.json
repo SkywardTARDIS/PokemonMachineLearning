@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847081896",
+"p1": {
+"playerName": "ItsYaBoiGuz",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Rage Powder", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Snarl", "Will-O-Wisp", "Protect", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "SrBalleno",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Haze", "Jet Punch"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Taunt", "Tailwind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch", "Volt Switch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Talonflame", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847971400",
+"p1": {
+"playerName": "GTYB_4K",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Flutter Mane", "Palafin", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Citoraptor",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Talonflame", "Chien-Pao", "Palafin"]
+},
+"outcome": 0
+}

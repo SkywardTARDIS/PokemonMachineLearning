@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852487576",
+"p1": {
+"playerName": "Pokebixer",
+"fullTeam": [
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct", "Protect", "Psychic"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Ice Punch", "Rock Slide"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+}
+],
+"broughtTeam": ["Oranguru", "Hariyama", "Torkoal", "Hatterene"]
+},
+"p2": {
+"playerName": "foiledfeline",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Earthquake", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch", "Spore"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Gyarados", "Breloom"]
+},
+"outcome": 0
+}

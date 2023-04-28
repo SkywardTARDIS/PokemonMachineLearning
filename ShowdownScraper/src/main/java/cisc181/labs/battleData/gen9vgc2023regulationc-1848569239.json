@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848569239",
+"p1": {
+"playerName": "That_Leek",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Make It Rain", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Rage Powder", "Fiery Dance"]
+}
+],
+"broughtTeam": ["Gholdengo", "Maushold", "Annihilape", "Volcarona"]
+},
+"p2": {
+"playerName": "ColdRame",
+"fullTeam": [
+{
+"species": "Gumshoos",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Guillotine", "Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense"]
+}
+],
+"broughtTeam": ["Rabsca", "Kingambit", "Flutter Mane", "Appletun"]
+},
+"outcome": 1
+}

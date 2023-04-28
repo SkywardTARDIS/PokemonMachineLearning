@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845015553",
+"p1": {
+"playerName": "RgAngel",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Flutter Mane"]
+},
+"p2": {
+"playerName": "That_Leek",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect"]
+}
+],
+"broughtTeam": ["Tyranitar", "Gholdengo", "Wo-Chien", "Flutter Mane"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852734772",
+"p1": {
+"playerName": "Camitest",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Icicle Crash", "Ice Shard", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Baxcalibur", "Ting-Lu"]
+},
+"p2": {
+"playerName": "bennoVGC",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Rage Powder", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Flutter Mane", "Amoonguss"]
+},
+"outcome": 0
+}

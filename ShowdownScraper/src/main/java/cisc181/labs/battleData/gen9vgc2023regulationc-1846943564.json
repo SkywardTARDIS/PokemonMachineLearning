@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846943564",
+"p1": {
+"playerName": "kiringi",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Icy Wind"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Ice Spinner", "Protect", "Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Clear Smog", "Pollen Puff"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Play Rough"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Chien-Pao", "Amoonguss", "Azumarill"]
+},
+"p2": {
+"playerName": "Eretarus",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Heavy Slam", "Liquidation", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Power Gem"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Dondozo", "Glimmora", "Tatsugiri"]
+},
+"outcome": 1
+}

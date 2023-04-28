@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847498394",
+"p1": {
+"playerName": "The Penguinari",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Gyarados", "Dragapult", "Chien-Pao"]
+},
+"p2": {
+"playerName": "ModernNeesh",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Heat Wave", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Knock Off"]
+}
+],
+"broughtTeam": ["Talonflame", "Flutter Mane", "Dragonite", "Great Tusk"]
+},
+"outcome": 1
+}

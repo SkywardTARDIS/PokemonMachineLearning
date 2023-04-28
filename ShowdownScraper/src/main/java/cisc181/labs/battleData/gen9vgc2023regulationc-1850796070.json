@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850796070",
+"p1": {
+"playerName": "w0wells",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect", "Light Screen", "Spirit Break"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Curse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water", "Recover", "Ice Beam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Taunt", "Dark Pulse", "Protect"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Mimikyu", "Gastrodon", "Chi-Yu"]
+},
+"p2": {
+"playerName": "ani kabab",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Stomping Tantrum", "Fissure", "Heavy Slam"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Gyro Ball", "Trick Room", "Helping Hand"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Ice Beam", "Muddy Water"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Bronzong", "Roaring Moon", "Gastrodon"]
+},
+"outcome": 1
+}

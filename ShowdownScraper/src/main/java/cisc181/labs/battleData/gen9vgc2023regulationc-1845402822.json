@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845402822",
+"p1": {
+"playerName": "JT562",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me", "Heal Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Calm Mind", "Expanding Force", "Heat Wave", "Trick Room"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Bronzong", "Armarouge", "Torkoal"]
+},
+"p2": {
+"playerName": "Pokebet",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Rock Slide", "Stomping Tantrum"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Ting-Lu"]
+},
+"outcome": 0
+}

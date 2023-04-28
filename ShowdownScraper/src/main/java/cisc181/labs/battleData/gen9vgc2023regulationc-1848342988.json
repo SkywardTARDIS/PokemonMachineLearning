@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1848342988",
+"p1": {
+"playerName": "yollaxi",
+"fullTeam": [
+{
+"species": "Floette",
+"nickname": "Floette",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Charm", "Helping Hand"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Reflect", "Lumina Crash", "Skill Swap", "Shadow Ball"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Misty Terrain", "Calm Mind"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Normal",
+"moves": ["Nasty Plot", "Hyper Voice"]
+}
+],
+"broughtTeam": ["Floette", "Espathra", "Florges", "Farigiraf"]
+},
+"p2": {
+"playerName": "seedroll",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird", "Roost"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Fissure", "Stomping Tantrum", "Ruination"]
+}
+],
+"broughtTeam": ["Arcanine", "Corviknight", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 0
+}

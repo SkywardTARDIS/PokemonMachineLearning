@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848094936",
+"p1": {
+"playerName": "Lex the Luxray",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Protect", "Pollen Puff"]
+},
+{
+"species": "Luxray",
+"nickname": "Luxray",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Wild Charge", "Protect", "Volt Switch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Luxray", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Rutxu17",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Toad",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Spore"]
+},
+{
+"species": "Palafin",
+"nickname": "AllMight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851074879",
+"p1": {
+"playerName": "absolic22",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Close Combat"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Scizor", "Dragonite", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "Gholdjunge",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Iron Hands", "Flutter Mane"]
+},
+"outcome": 0
+}

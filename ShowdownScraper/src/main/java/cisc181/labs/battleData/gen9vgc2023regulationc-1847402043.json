@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847402043",
+"p1": {
+"playerName": "Kemaho",
+"fullTeam": [
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Belly Drum", "Liquidation", "Icicle Crash", "Ice Shard"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Earth Power", "Icy Wind"]
+}
+],
+"broughtTeam": ["Cetitan", "Abomasnow", "Maushold", "Gastrodon"]
+},
+"p2": {
+"playerName": "NicoHaxVGC",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Haze"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Will-O-Wisp", "Protect", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Ice Spinner", "Tera Blast"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Arcanine", "Dragonite"]
+},
+"outcome": 0
+}

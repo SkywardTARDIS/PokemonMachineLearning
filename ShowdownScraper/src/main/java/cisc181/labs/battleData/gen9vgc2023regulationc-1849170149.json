@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849170149",
+"p1": {
+"playerName": "Even Greener Grass",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Dawg",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave", "Solar Beam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Beverly",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Tricky the Clown",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "DEMI-GOD",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Torkoal", "Chi-Yu", "Slither Wing", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Knightmoon_25-X",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Instruct", "Chilling Water"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Oranguru", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852377106",
+"p1": {
+"playerName": "b(R)2",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry", "Encore"]
+}
+],
+"broughtTeam": ["Amoonguss", "Roaring Moon", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Rofus10",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Bulk Up", "Drain Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Order Up"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Annihilape", "Tatsugiri", "Dondozo"]
+},
+"outcome": 1
+}

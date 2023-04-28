@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851262934",
+"p1": {
+"playerName": "SunriseArrow",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Chien-Pao", "Dragonite"]
+},
+"p2": {
+"playerName": "ColorlessHilda",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Assurance"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Iron Bundle"]
+},
+"outcome": 0
+}

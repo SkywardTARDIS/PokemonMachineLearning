@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845786994",
+"p1": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Bulk Up", "Brave Bird"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Light Screen"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball", "Moonblast"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "SnowFly96",
+"fullTeam": [
+{
+"species": "Polteageist",
+"nickname": "Mrs. Potts",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Shell Smash", "Stored Power"]
+},
+{
+"species": "Indeedee",
+"nickname": "Carlotta",
+"item": "Eject Button",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "King's Guard",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force", "Energy Ball"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Squishy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arctibax",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Polteageist", "Indeedee", "Armarouge", "Gastrodon"]
+},
+"outcome": 1
+}

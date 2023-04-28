@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847428782",
+"p1": {
+"playerName": "SnackIsle",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave", "Eruption"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Acrobatics"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Rage Powder"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Room Service",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Torkoal", "Roaring Moon", "Amoonguss", "Farigiraf"]
+},
+"p2": {
+"playerName": "Tyranitar Abuser",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Noble Roar"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Drain Punch", "Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aerial Ace"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Scream Tail", "Annihilape", "Scizor"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847465024",
+"p1": {
+"playerName": "ultramandyna",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Ice Punch", "Protect", "Wave Crash"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Skeledirge", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "Double Clxtch",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "Earth Eater",
+"teraType": "Electric",
+"moves": ["Iron Defense", "Body Press", "Protect", "Iron Head"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Garchomp", "Tyranitar", "Ting-Lu"]
+},
+"outcome": 1
+}

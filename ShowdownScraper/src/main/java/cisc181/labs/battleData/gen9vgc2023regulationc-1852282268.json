@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852282268",
+"p1": {
+"playerName": "Rosely",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "Steel",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Thunder Punch", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Pelipper", "Drednaw", "Chien-Pao", "Dragonite"]
+},
+"p2": {
+"playerName": "geekaleek",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Drednaw", "Dragonite"]
+},
+"outcome": 1
+}

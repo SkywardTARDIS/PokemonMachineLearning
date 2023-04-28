@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846368900",
+"p1": {
+"playerName": "RalfRabisco",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Bulk Up", "Encore", "Drain Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Ceruledge", "Amoonguss"]
+},
+"p2": {
+"playerName": "Ziolale",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Bundle",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Amoonguss",
+"nickname": "WoChien",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mimi",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

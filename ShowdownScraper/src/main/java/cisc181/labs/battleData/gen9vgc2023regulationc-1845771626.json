@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845771626",
+"p1": {
+"playerName": "TestingTheTalon",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Sand Tomb", "Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Palafin", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "sneedchungus69",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Leftovers",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Ting-Lu", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

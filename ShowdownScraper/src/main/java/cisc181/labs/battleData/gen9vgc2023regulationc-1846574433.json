@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846574433",
+"p1": {
+"playerName": "TapedCrusader",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Accelerock"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Bitter Blade"]
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Palafin", "Ceruledge"]
+},
+"p2": {
+"playerName": "brandorando",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Headlong Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Flutter Mane", "Amoonguss"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845891948",
+"p1": {
+"playerName": "Taca y Taca",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Bundle",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "Dnite",
+"teraType": "Steel",
+"moves": ["Dragon Darts", "U-turn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mimi",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "PBR ESC4N0R",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Ice Shard"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Palafin", "Baxcalibur"]
+},
+"outcome": 1
+}

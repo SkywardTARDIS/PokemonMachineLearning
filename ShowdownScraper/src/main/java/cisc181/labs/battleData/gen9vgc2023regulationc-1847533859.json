@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847533859",
+"p1": {
+"playerName": "sks_fang",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Psychic", "Overheat"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Order Up", "Rest"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Chi-Yu", "Tatsugiri", "Dondozo"]
+},
+"p2": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume", "Snarl"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Gardenia",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "BB",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Hanabishi",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Hydro Pump", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Flutter Mane", "Rotom"]
+},
+"outcome": 0
+}

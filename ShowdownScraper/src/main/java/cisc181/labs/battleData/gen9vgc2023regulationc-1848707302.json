@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848707302",
+"p1": {
+"playerName": "NeverGonnaDoIt",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Icicle Crash", "Glaive Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Icy Wind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Baxcalibur", "Flutter Mane", "Gyarados"]
+},
+"p2": {
+"playerName": "G3rd",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Hex"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Iron Head", "Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Amoonguss", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

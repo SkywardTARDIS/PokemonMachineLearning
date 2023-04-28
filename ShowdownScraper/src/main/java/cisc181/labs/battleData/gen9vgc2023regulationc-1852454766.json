@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852454766",
+"p1": {
+"playerName": "Steakman5",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Rain Dance"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Surf"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+}
+],
+"broughtTeam": ["Murkrow", "Dondozo", "Tatsugiri", "Palafin"]
+},
+"p2": {
+"playerName": "Spacklecrisp",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flare Blitz"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Solar Beam"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Talonflame", "Chi-Yu", "Torkoal"]
+},
+"outcome": 1
+}

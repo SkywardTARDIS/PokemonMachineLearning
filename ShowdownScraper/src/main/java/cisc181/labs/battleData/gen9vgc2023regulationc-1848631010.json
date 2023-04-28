@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848631010",
+"p1": {
+"playerName": "Flamingwombat1",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Sitrus Berry",
+"ability": "Electromorphosis",
+"teraType": "Fairy",
+"moves": ["Volt Switch", "Tera Blast", "Slack Off"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+}
+],
+"broughtTeam": ["Bellibolt", "Gholdengo", "Glimmora", "Breloom"]
+},
+"p2": {
+"playerName": "UltimoRyu",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Thunder"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Protect", "Waterfall", "Iron Head"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Palafin", "Goodra", "Gyarados"]
+},
+"outcome": 0
+}

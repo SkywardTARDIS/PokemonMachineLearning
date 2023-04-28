@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848039579",
+"p1": {
+"playerName": "UltimoRyu",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Acid Armor", "Thunder", "Muddy Water"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Palafin", "Goodra", "Gyarados"]
+},
+"p2": {
+"playerName": "CarmelPopcorn",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Dragon Darts", "Phantom Force"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Catfish Sandwich",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Go To A Dentist",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Dragapult", "Dondozo", "Chien-Pao"]
+},
+"outcome": 1
+}

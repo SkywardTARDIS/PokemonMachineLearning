@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844893230",
+"p1": {
+"playerName": "ICCR",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Protect", "Freeze-Dry"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mimi",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Arcanine", "Iron Bundle", "Kingambit", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Thffhggj",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Headlong Rush", "Close Combat", "Rock Slide"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Great Tusk", "Talonflame", "Gastrodon", "Flutter Mane"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848158566",
+"p1": {
+"playerName": "Philzkidd",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Extreme Speed", "Will-O-Wisp", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Assurance", "Low Kick", "Kowtow Cleave"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Arcanine", "Flutter Mane", "Kingambit"]
+},
+"p2": {
+"playerName": "Party_McCarty",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination", "Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Rock Slide"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Dragonite", "Amoonguss"]
+},
+"outcome": 1
+}

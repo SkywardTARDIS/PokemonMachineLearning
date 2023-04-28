@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846549075",
+"p1": {
+"playerName": "vroomfrogger",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Breloom", "Great Tusk", "Flutter Mane", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Thermidor",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Dragon Dance", "Icicle Crash"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Gyarados", "Sableye", "Chien-Pao"]
+},
+"outcome": 0
+}

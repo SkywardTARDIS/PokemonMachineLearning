@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847808667",
+"p1": {
+"playerName": "AleCiva01",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch", "Protect", "Haze"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Ting-Lu", "Palafin", "Amoonguss"]
+},
+"p2": {
+"playerName": "teripand",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Whirlpool", "Waterfall", "Taunt"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "Sitrus Berry",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Yawn", "Slack Off", "Stomping Tantrum"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Aguav Berry",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Foul Play"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Salt Cure", "Recover"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Hippowdon", "Wo-Chien", "Garganacl"]
+},
+"outcome": 0
+}

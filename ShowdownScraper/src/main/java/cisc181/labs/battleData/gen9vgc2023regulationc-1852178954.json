@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852178954",
+"p1": {
+"playerName": "Tego_Amigo",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn"]
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Palafin", "Annihilape", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Qubanos",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Medicham", "Chien-Pao", "Flutter Mane"]
+},
+"outcome": 1
+}

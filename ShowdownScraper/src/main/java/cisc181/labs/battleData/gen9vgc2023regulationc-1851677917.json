@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851677917",
+"p1": {
+"playerName": "FST Wolfgang",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Ice Beam", "Earth Power"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Spore", "Rage Powder"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Overheat", "Tera Blast"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Amoonguss", "Gholdengo", "Chi-Yu"]
+},
+"p2": {
+"playerName": "mugiwaraLux",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Throat Chop", "Acrobatics"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Roaring Moon"]
+},
+"outcome": 0
+}

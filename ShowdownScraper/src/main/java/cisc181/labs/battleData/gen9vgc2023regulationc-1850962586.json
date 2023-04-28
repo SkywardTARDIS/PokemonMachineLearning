@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850962586",
+"p1": {
+"playerName": "TheMismatcher",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Sucker Punch", "Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Chien-Pao", "Dragapult", "Arcanine"]
+},
+"p2": {
+"playerName": "Thermidor",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "HappyToki",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Chilling Water", "Encore"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Thermidor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "HyruleHeroJoe",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Encore", "Light Screen"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Kuro8",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword", "Ice Spinner", "Taunt"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Baxcalibur", "Sableye", "Chien-Pao"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849949093",
+"p1": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Ice Shard"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Helping Hand", "Shadow Ball"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Abomasnow", "Cetitan", "Gothorita", "Dragonite"]
+},
+"p2": {
+"playerName": "Megamuflon",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Sunny Day", "Tailwind"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed"]
+}
+],
+"broughtTeam": ["Murkrow", "Flutter Mane", "Great Tusk", "Brute Bonnet"]
+},
+"outcome": 0
+}

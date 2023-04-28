@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846867904",
+"p1": {
+"playerName": "Chyronia2",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Icy Wind", "Yawn", "Recover"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Foul Play", "Light Screen", "Spikes"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Gyarados", "Klefki", "Goodra"]
+},
+"p2": {
+"playerName": "Nukoshowdown",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Bundle",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "Dnite",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Amoonguss",
+"nickname": "WoChien",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mimi",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 0
+}

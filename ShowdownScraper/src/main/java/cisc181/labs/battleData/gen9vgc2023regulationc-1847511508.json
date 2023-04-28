@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847511508",
+"p1": {
+"playerName": "Tio Chicha",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Seed Bomb"]
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Nasty Plot"]
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "",
+"ability": "Dry Skin",
+"teraType": "",
+"moves": ["Rain Dance", "Drain Punch", "Earthquake"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Pulse"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Golduck", "Toxicroak", "Noivern"]
+},
+"p2": {
+"playerName": "GaurdianA",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Recover"]
+}
+],
+"broughtTeam": ["Dragapult", "Dondozo", "Tatsugiri", "Garganacl"]
+},
+"outcome": 0
+}

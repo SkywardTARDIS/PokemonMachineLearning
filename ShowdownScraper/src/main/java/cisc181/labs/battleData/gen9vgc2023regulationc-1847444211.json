@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847444211",
+"p1": {
+"playerName": "Mitsunaga",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Final Gambit"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Electric",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Sandy Shocks", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "bentoboxkiller",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Taunt"]
+}
+],
+"broughtTeam": ["Orthworm", "Maushold", "Ting-Lu", "Gyarados"]
+},
+"outcome": 1
+}

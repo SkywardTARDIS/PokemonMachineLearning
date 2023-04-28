@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852212110",
+"p1": {
+"playerName": "Swaggystegosaurus",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Eject Button",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Haze"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Arcanine", "Palafin", "Dragonite", "Great Tusk"]
+},
+"p2": {
+"playerName": "Faygo_n8",
+"fullTeam": [
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo", "Toxic"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Extreme Speed"]
+},
+{
+"species": "Forretress",
+"nickname": "Forretress",
+"item": "Quick Claw",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Iron Defense", "Body Press", "Gyro Ball", "Explosion"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grafaiai", "Flutter Mane", "Dragonite", "Forretress"]
+},
+"outcome": 1
+}

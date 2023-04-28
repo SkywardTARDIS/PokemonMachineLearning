@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851933353",
+"p1": {
+"playerName": "Minority_Hunter_V2",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Play Rough"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Heal Pulse"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Scream Tail", "Gothitelle", "Amoonguss"]
+},
+"p2": {
+"playerName": "Battle_houndoom",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Rock Slide"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Leftovers",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Expanding Force"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Torkoal", "Indeedee", "Armarouge"]
+},
+"outcome": 0
+}

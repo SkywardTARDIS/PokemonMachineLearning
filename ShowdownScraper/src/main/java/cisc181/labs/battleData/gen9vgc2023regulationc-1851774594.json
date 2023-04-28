@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851774594",
+"p1": {
+"playerName": "Parrotboy",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Perish Song"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Wiki Berry",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Fake Out", "Psyshock", "Protect"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Disable", "Perish Song", "Encore", "Play Rough"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Maushold", "Gothitelle", "Scream Tail"]
+},
+"p2": {
+"playerName": "Cheeseless",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Hyper Voice", "Flamethrower"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Amoonguss", "Pyroar"]
+},
+"outcome": 1
+}

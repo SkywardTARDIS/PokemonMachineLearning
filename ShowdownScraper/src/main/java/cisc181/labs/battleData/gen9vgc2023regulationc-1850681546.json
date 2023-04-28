@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850681546",
+"p1": {
+"playerName": "PiccoloRuiz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Brita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bianca",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Thunder Wave"]
+},
+{
+"species": "Arcanine",
+"nickname": "Raja",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Gyarados", "Arcanine"]
+},
+"p2": {
+"playerName": "cardanoman",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash", "Taunt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Headlong Rush"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Coil"]
+}
+],
+"broughtTeam": ["Maushold", "Palafin", "Great Tusk", "Orthworm"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849811212",
+"p1": {
+"playerName": "JiangTang",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Accelerock", "Sucker Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Electric Terrain"]
+}
+],
+"broughtTeam": ["Lycanroc", "Chien-Pao", "Flutter Mane", "Iron Bundle"]
+},
+"p2": {
+"playerName": "MiLaika",
+"fullTeam": [
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain"]
+}
+],
+"broughtTeam": ["Haxorus", "Murkrow", "Gardevoir", "Amoonguss"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845740159",
+"p1": {
+"playerName": "Keveloper",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Iron Defense", "Body Press"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Dance", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Orthworm", "Dragonite", "Chien-Pao"]
+},
+"p2": {
+"playerName": "muddyswamppert",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade", "Shadow Sneak", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Dragon Dance"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Ceruledge", "Amoonguss", "Gyarados"]
+},
+"outcome": 1
+}

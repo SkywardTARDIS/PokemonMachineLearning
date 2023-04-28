@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845551603",
+"p1": {
+"playerName": "pelukas",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Light Screen", "Flash Cannon"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "Purifying Salt",
+"teraType": "Fairy",
+"moves": ["Wide Guard", "Salt Cure", "Recover"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Mimikyu", "Flutter Mane", "Garganacl"]
+},
+"p2": {
+"playerName": "startearx",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Low Kick"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Howl", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Stonjourner", "Arcanine"]
+},
+"outcome": 1
+}

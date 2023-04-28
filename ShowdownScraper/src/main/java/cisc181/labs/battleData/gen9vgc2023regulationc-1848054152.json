@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848054152",
+"p1": {
+"playerName": "KB1107",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Quash"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Chien-Pao", "Dragapult", "Sableye"]
+},
+"p2": {
+"playerName": "AleAbrao",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Wu-Tang Clan",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Bee Gees",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Ice Spinner", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Mystic Water",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Dragonite", "Palafin", "Arcanine"]
+},
+"outcome": 1
+}

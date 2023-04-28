@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848092025",
+"p1": {
+"playerName": "TharoksVGC",
+"fullTeam": [
+{
+"species": "Forretress",
+"nickname": "Forretress",
+"item": "",
+"ability": "Sturdy",
+"teraType": "Rock",
+"moves": ["Pin Missile", "Rock Blast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Throat Spray",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flamethrower", "Snarl"]
+}
+],
+"broughtTeam": ["Forretress", "Chien-Pao", "Gastrodon", "Arcanine"]
+},
+"p2": {
+"playerName": "totorool",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Forretress",
+"nickname": "Forretress",
+"item": "",
+"ability": "Sturdy",
+"teraType": "",
+"moves": ["Pin Missile", "Toxic Spikes", "Rapid Spin"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ruination"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Forretress", "Ting-Lu", "Armarouge", "Indeedee"]
+},
+"outcome": 1
+}

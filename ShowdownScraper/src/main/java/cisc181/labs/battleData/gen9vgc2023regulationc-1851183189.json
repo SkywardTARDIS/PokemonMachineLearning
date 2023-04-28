@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851183189",
+"p1": {
+"playerName": "NemesisRiderTest",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Minimize", "Will-O-Wisp", "Strength Sap", "Baton Pass"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Taunt", "Sheer Cold", "Recover"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic", "Follow Me"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Taunt"]
+}
+],
+"broughtTeam": ["Drifblim", "Chien-Pao", "Indeedee", "Tsareena"]
+},
+"p2": {
+"playerName": "Caspereq",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Ice Spinner", "Tera Blast", "Dragon Dance"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Flutter Mane", "Talonflame", "Gastrodon"]
+},
+"outcome": 0
+}

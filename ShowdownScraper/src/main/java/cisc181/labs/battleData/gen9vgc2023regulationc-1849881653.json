@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849881653",
+"p1": {
+"playerName": "LightnidoMcQueen",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Taunt", "Brave Bird", "Tailwind"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Swords Dance", "Protect", "Earthquake"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Flutter Mane", "Corviknight", "Garchomp"]
+},
+"p2": {
+"playerName": "a-person-person",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Howl", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Gholdengo", "Arcanine", "Palafin", "Amoonguss"]
+},
+"outcome": 0
+}

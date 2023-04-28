@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851253520",
+"p1": {
+"playerName": "hysaaron",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Close Combat", "Headlong Rush"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Bulldoze", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Gyarados", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Blade_Zabel",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Iron Bundle", "Arcanine"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845907234",
+"p1": {
+"playerName": "Tenseigt",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Sitrus Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Iron Head", "Brave Bird"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Indeedee", "Iron Hands", "Corviknight", "Amoonguss"]
+},
+"p2": {
+"playerName": "knight8512",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Stomping Tantrum", "Dragon Claw"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Grassy Seed",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Leech Seed", "Strength Sap"]
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Flutter Mane", "Arboliva"]
+},
+"outcome": 0
+}

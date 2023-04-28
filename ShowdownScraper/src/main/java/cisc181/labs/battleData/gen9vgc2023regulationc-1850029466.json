@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850029466",
+"p1": {
+"playerName": "SupaJello",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Tyranitar", "Flutter Mane", "Orthworm"]
+},
+"p2": {
+"playerName": "Kirovz",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulldoze", "Wave Crash", "Yawn"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Protect", "Hex", "Substitute"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 0
+}

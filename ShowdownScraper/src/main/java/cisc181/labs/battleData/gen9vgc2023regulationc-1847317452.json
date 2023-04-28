@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847317452",
+"p1": {
+"playerName": "whosgemini",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Iron Bundle", "Chi-Yu", "Great Tusk"]
+},
+"p2": {
+"playerName": "JustAWoterBattle",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "Electric",
+"moves": ["Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Dragonite", "Tauros", "Orthworm", "Amoonguss"]
+},
+"outcome": 1
+}

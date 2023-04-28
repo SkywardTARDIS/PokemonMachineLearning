@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852229631",
+"p1": {
+"playerName": "jeffman323",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Sucker Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Azumarill", "Brute Bonnet", "Kingambit"]
+},
+"p2": {
+"playerName": "Nepheshel",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Earth Power"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Dragonite", "Sandy Shocks"]
+},
+"outcome": 0
+}

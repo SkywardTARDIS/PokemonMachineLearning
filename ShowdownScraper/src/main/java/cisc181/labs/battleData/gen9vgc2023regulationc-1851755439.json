@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851755439",
+"p1": {
+"playerName": "Schwbrett",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Surf"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Pelipper", "Drednaw"]
+},
+"p2": {
+"playerName": "anchelados",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect", "Sacred Sword"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Chien-Pao", "Scream Tail", "Rotom"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846514854",
+"p1": {
+"playerName": "Taca y Taca",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Cabeça de Borracha",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Howl"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Protect", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Arcanine", "Dragonite"]
+},
+"p2": {
+"playerName": "greninjacash",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Gastrodon", "Flutter Mane", "Chi-Yu", "Iron Valiant"]
+},
+"outcome": 1
+}

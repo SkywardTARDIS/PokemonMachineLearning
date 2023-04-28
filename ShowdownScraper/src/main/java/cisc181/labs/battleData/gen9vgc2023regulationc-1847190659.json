@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847190659",
+"p1": {
+"playerName": "Rin Itachi",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Itachi Rin",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Imprison", "Follow Me"]
+}
+],
+"broughtTeam": ["Great Tusk", "Chi-Yu", "Flutter Mane", "Indeedee"]
+},
+"p2": {
+"playerName": "Sviqma",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Aura Sphere"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Indeedee", "Armarouge", "Kingambit"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852944205",
+"p1": {
+"playerName": "Laurentiius",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Low Kick"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Pelipper", "Dragonite", "Tauros"]
+},
+"p2": {
+"playerName": "Takidame",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor", "Dark Pulse"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Ruination", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Hydreigon", "Indeedee", "Armarouge", "Wo-Chien"]
+},
+"outcome": 0
+}

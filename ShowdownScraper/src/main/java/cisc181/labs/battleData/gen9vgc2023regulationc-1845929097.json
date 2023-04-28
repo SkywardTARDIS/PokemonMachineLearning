@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845929097",
+"p1": {
+"playerName": "NovaLaFlame",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Icicle Spear", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Parting Shot", "Fake Out", "Play Rough"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Palafin", "Baxcalibur", "Grimmsnarl", "Gholdengo"]
+},
+"p2": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Iron Head", "Roost"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunderbolt"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 0
+}

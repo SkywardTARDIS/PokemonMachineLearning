@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849336648",
+"p1": {
+"playerName": "Lugiabirb",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Close Combat"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Foul Play", "Tailwind"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Great Tusk", "Flutter Mane", "Murkrow", "Wo-Chien"]
+},
+"p2": {
+"playerName": "Leore",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick"]
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Chien-Pao", "Gholdengo"]
+},
+"outcome": 1
+}

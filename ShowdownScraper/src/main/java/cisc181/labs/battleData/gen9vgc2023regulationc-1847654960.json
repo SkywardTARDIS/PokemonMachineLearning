@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847654960",
+"p1": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Bulk Up", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swagger"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Phantom Force", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Ceruledge", "Grimmsnarl", "Dragapult"]
+},
+"p2": {
+"playerName": "inimr",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Iron Head", "Breaking Swipe", "Protect", "Throat Chop"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Volcarona", "Iron Hands", "Roaring Moon"]
+},
+"outcome": 1
+}

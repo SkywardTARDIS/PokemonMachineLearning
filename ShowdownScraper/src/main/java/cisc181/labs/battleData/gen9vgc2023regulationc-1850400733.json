@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1850400733",
+"p1": {
+"playerName": "hysaaron",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Foul Play"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Make It Rain"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Protect", "Thunder Wave", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Gholdengo", "Great Tusk", "Gyarados"]
+},
+"p2": {
+"playerName": "testeraplha",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Raging Bull", "Aqua Jet"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Air Slash", "Tailwind", "Heat Wave"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Trick Room"]
+}
+],
+"broughtTeam": ["Iron Treads", "Tauros", "Talonflame", "Farigiraf"]
+},
+"outcome": 1
+}

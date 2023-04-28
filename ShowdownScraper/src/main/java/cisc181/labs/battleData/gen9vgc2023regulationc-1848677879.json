@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848677879",
+"p1": {
+"playerName": "Jalapeppah",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Ttar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide", "Endeavor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Icy Wind", "Earth Power"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Flutter Mane", "Gastrodon"]
+},
+"p2": {
+"playerName": "ApoloVGCfumada",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Spirit Break", "Light Screen"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Giga Drain"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Pollen Puff", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Volcarona", "Wo-Chien", "Flutter Mane"]
+},
+"outcome": 1
+}

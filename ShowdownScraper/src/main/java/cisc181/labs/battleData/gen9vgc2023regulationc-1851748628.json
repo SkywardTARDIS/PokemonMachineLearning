@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851748628",
+"p1": {
+"playerName": "Emiker",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Snarl", "Stomping Tantrum"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Dragon Darts"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Ting-Lu", "Dragapult"]
+},
+"p2": {
+"playerName": "tofu24",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Protect", "Recover", "Wide Guard"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Trick Room", "Psychic"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge", "Volt Switch"]
+}
+],
+"broughtTeam": ["Garganacl", "Gothitelle", "Palafin", "Bellibolt"]
+},
+"outcome": 1
+}

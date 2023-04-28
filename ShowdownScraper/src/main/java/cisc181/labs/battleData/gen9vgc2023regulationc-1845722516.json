@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845722516",
+"p1": {
+"playerName": "EddTest777",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure", "Protect"]
+}
+],
+"broughtTeam": ["Amoonguss", "Flutter Mane", "Arcanine", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Blackless",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Fake Out", "Drain Punch"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Iron Bundle", "Corviknight", "Iron Hands"]
+},
+"outcome": 1
+}

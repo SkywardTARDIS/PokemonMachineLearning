@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845953530",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Snarl", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Arcanine", "Dragonite", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "TrashOwOs",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic"]
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance", "Surf", "Tearful Look"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "Water",
+"moves": ["Muddy Water", "Calm Mind"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Will-O-Wisp"]
+},
+{
+"species": "Lurantis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Goodra", "Vaporeon", "Sableye"]
+},
+"outcome": 1
+}

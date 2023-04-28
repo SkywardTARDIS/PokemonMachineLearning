@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847513146",
+"p1": {
+"playerName": "GaurdianA",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Draco Meteor"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Protect"]
+}
+],
+"broughtTeam": ["Dragapult", "Dondozo", "Tatsugiri", "Garganacl"]
+},
+"p2": {
+"playerName": "Eric98Ortiz",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Close Combat"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Curse", "Protect", "Play Rough"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Gholdengo", "Palafin", "Mimikyu"]
+},
+"outcome": 1
+}

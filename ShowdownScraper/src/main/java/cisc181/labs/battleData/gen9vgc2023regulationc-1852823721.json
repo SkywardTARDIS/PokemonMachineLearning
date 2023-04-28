@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852823721",
+"p1": {
+"playerName": "rangueaculeo",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Snarl"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bitter Blade"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Chi-Yu", "Ceruledge"]
+},
+"p2": {
+"playerName": "Gard0o",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Flying",
+"moves": ["Leech Seed", "Protect", "Ruination"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Nasty Plot", "Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick Room", "Protect", "Foul Play"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Chi-Yu", "Gothorita", "Indeedee"]
+},
+"outcome": 0
+}

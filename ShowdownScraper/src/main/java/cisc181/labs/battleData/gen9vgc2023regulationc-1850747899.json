@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850747899",
+"p1": {
+"playerName": "simonxl",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Follow Me"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Hydro Pump", "Thunderbolt", "Will-O-Wisp"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Arcanine", "Rotom"]
+},
+"p2": {
+"playerName": "xxxlop",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics", "Tailwind"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "White Herb",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Helping Hand", "Thunderbolt", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Drain Punch", "Wild Charge"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Ting-Lu", "Rotom", "Iron Hands"]
+},
+"outcome": 1
+}

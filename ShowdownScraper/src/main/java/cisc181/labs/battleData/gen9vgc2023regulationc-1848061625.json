@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1848061625",
+"p1": {
+"playerName": "Chi-Yuh",
+"fullTeam": [
+{
+"species": "Squawkabilly",
+"nickname": "Squawkabilly",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Parting Shot"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Psychic"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Fissure", "Wave Crash"]
+}
+],
+"broughtTeam": ["Squawkabilly", "Gothitelle", "Ting-Lu", "Dondozo"]
+},
+"p2": {
+"playerName": "Coe lek",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Blizzard"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Brave Bird"]
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Tailwind", "Haze"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Golduck", "Staraptor", "Murkrow"]
+},
+"outcome": 1
+}

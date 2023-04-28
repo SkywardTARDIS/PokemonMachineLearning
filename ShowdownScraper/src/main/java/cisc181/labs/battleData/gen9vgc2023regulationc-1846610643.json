@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846610643",
+"p1": {
+"playerName": "Pyte 17",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flare Blitz", "Tailwind"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Corviknight", "Azumarill", "Scream Tail"]
+},
+"p2": {
+"playerName": "hancec",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Matsuemon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Zenitsu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Enmu",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Bullet Seed"]
+}
+],
+"broughtTeam": ["Murkrow", "Gholdengo", "Brute Bonnet"]
+},
+"outcome": 0
+}

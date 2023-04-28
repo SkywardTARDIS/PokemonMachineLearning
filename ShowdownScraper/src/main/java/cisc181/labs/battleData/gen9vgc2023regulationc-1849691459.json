@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849691459",
+"p1": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Overheat"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Extreme Speed", "Dragon Pulse"]
+}
+],
+"broughtTeam": ["Abomasnow", "Gothorita", "Rotom", "Dragonite"]
+},
+"p2": {
+"playerName": "Giucastro",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Protect", "Dragon Dance", "Glaive Rush"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Glimmora", "Baxcalibur", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851397411",
+"p1": {
+"playerName": "jeffman323",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Kowtow Cleave"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Drain Punch"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Azumarill", "Kingambit", "Iron Hands", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "to-sin",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "After You", "Leaf Storm"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Torkoal", "Lilligant", "Indeedee"]
+},
+"outcome": 0
+}

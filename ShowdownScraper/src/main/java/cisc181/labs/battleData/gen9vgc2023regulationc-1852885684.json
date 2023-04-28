@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852885684",
+"p1": {
+"playerName": "WoJiaoReaction",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Hex", "Protect", "Torch Song"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Earth Power", "Spiky Shield"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+}
+],
+"broughtTeam": ["Skeledirge", "Flutter Mane", "Glimmora", "Palafin"]
+},
+"p2": {
+"playerName": "RossMellow",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "Grass",
+"moves": ["Protect", "Tailwind", "Revelation Dance"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Petal Dance", "Copycat", "Torch Song"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Energy Ball", "Sludge Wave"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Step"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Florges", "Iron Moth", "Quaquaval"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851188119",
+"p1": {
+"playerName": "Titannexus",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wave Crash", "Tera Blast"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Flutter Mane", "Glimmora"]
+},
+"p2": {
+"playerName": "Peachum",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Sand Tomb"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Protect", "Acrobatics", "Jaw Lock"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Roaring Moon", "Iron Bundle"]
+},
+"outcome": 1
+}

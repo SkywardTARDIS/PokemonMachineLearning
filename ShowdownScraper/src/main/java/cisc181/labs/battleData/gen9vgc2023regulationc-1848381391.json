@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848381391",
+"p1": {
+"playerName": "Rexluser",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Great Tusk", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Vzchar",
+"fullTeam": [
+{
+"species": "Toxtricity",
+"nickname": "Toxtricity",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": []
+},
+{
+"species": "Dedenne",
+"nickname": "Dedenne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Toxtricity", "Dedenne", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846030206",
+"p1": {
+"playerName": "rubenmarti7",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower", "Draco Meteor"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Garchomp", "Goodra", "Arcanine"]
+},
+"p2": {
+"playerName": "LegalizedNukes",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Armor Cannon", "Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee"]
+},
+"outcome": 0
+}

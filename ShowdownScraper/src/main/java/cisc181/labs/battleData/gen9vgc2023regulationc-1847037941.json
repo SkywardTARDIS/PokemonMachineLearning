@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847037941",
+"p1": {
+"playerName": "Joull",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Vox",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Vacuum Wave"]
+},
+{
+"species": "Palafin",
+"nickname": "Flipper",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Trix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Poes",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Throat Chop", "Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lucario", "Palafin", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "lluisorellana13",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower", "Eruption", "Earth Power"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trick Room", "Psychic"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Torkoal", "Hatterene", "Kingambit"]
+},
+"outcome": 1
+}

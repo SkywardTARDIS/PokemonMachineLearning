@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846393137",
+"p1": {
+"playerName": "UmmHaha",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect", "Icy Wind"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Taunt", "Tailwind", "Flare Blitz"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist", "Drain Punch"]
+},
+{
+"species": "Dugtrio",
+"nickname": "Dugtrio",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Talonflame", "Annihilape", "Dugtrio"]
+},
+"p2": {
+"playerName": "Bobby Seegul",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Lum Berry",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Protect", "Heavy Slam"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Play Rough", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Swagger", "Taunt"]
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Scream Tail", "Grimmsnarl"]
+},
+"outcome": 1
+}

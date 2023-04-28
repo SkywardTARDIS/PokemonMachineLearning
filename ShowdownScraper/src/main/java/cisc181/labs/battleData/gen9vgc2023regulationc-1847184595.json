@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847184595",
+"p1": {
+"playerName": "Damuzu",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "CORVUS",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind", "Bulk Up", "Iron Head", "Brave Bird"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "SETI",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "CACEROLA",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Stomping Tantrum", "Ruination"]
+}
+],
+"broughtTeam": ["Corviknight", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Alaskan_fisher",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Wild Charge"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Haze", "Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Iron Hands", "Palafin", "Ting-Lu", "Arcanine"]
+},
+"outcome": 1
+}

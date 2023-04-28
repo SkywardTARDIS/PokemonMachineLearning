@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850645019",
+"p1": {
+"playerName": "Flamer blaze",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Energy Ball"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure"]
+}
+],
+"broughtTeam": ["Tauros", "Great Tusk", "Flutter Mane", "Garganacl"]
+},
+"p2": {
+"playerName": "Titi Grech",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bullet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Rotom", "Scizor", "Chien-Pao"]
+},
+"outcome": 0
+}

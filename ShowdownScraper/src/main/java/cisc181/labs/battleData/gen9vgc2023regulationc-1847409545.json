@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847409545",
+"p1": {
+"playerName": "Wormfury",
+"fullTeam": [
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Eject Pack",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Foul Play"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Annihilape", "Palafin", "Bisharp"]
+},
+"p2": {
+"playerName": "megaswampert52",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Diego",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Revival Blessing", "Close Combat"]
+},
+{
+"species": "Arcanine",
+"nickname": "Bingo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Joker",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Pawmot", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

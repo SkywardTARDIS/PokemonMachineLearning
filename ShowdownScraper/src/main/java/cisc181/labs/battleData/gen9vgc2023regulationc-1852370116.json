@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852370116",
+"p1": {
+"playerName": "JohanDK",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Taunt"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Shadow Sneak", "Protect", "Bulk Up"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Yawn", "Icy Wind"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Ceruledge", "Gastrodon"]
+},
+"p2": {
+"playerName": "withoutmind",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Aguav Berry",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Tera Blast", "Protect", "Bitter Blade"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Pounce", "Protect", "Bullet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Hydro Pump", "Thunderbolt", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Scizor", "Amoonguss", "Rotom"]
+},
+"outcome": 1
+}

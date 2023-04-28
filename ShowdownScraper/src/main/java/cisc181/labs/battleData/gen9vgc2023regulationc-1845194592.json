@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845194592",
+"p1": {
+"playerName": "Training_ArcTM",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Throat Chop", "Dragon Dance"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Throat Chop"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Aqua Jet"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Meteor Mash"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Chien-Pao", "Azumarill", "Lucario"]
+},
+"p2": {
+"playerName": "ScraggypantsYT",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Strong Dolphin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magneton",
+"nickname": "Boltz",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Garganacl",
+"nickname": "Don't Be Salty",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Body Press", "Iron Defense", "Salt Cure"]
+},
+{
+"species": "Whiscash",
+"nickname": "The New Guy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sandstorm"]
+}
+],
+"broughtTeam": ["Palafin", "Magneton", "Garganacl", "Whiscash"]
+},
+"outcome": 0
+}

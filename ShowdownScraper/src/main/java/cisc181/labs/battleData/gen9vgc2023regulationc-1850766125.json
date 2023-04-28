@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850766125",
+"p1": {
+"playerName": "Axel316",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Trick", "Heat Wave", "Protect", "Draco Meteor"]
+},
+{
+"species": "Polteageist",
+"nickname": "Polteageist",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Brick Break", "Bullet Punch"]
+},
+{
+"species": "Zorua",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Salamence", "Polteageist", "Medicham"]
+},
+"p2": {
+"playerName": "paschar",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Sucker Punch"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Protect", "Tailwind"]
+}
+],
+"broughtTeam": ["Dragonite", "Chien-Pao", "Gardevoir", "Scizor"]
+},
+"outcome": 1
+}

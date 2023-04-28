@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845959649",
+"p1": {
+"playerName": "foosrodah",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Bullet Seed", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Annihilape", "Amoonguss", "Chien-Pao", "Flutter Mane"]
+},
+"p2": {
+"playerName": "slowpoke.jpg",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Discharge", "Sludge Wave", "Fiery Dance"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Dragon Claw", "Rock Slide"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Iron Moth", "Klefki", "Garchomp"]
+},
+"outcome": 1
+}

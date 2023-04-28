@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847183004",
+"p1": {
+"playerName": "the mudkip warrior",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Captain Coral",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Twilight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dolce",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dragon Dance", "Stomping Tantrum"]
+},
+{
+"species": "Dragapult",
+"nickname": "Salvo",
+"item": "",
+"ability": "Salvo",
+"teraType": "",
+"moves": ["Phantom Force"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Dragonite", "Dragapult"]
+},
+"p2": {
+"playerName": "ANTIVALLEY",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Blast", "Endure"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Iron Head"]
+}
+],
+"broughtTeam": ["Lycanroc", "Tyranitar", "Farigiraf", "Gyarados"]
+},
+"outcome": 0
+}

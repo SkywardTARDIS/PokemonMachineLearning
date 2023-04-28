@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850956409",
+"p1": {
+"playerName": "Film Up",
+"fullTeam": [
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Protect"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Aurora Veil", "Blizzard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Abomasnow", "Chi-Yu", "Iron Hands"]
+},
+"p2": {
+"playerName": "peep_island",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "I <3 Fire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": [""]
+},
+{
+"species": "Garchomp",
+"nickname": "monch cronch",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Mmm ground types",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Slither wing.",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Wave"]
+}
+],
+"broughtTeam": ["Scizor", "Garchomp", "Rotom", "Iron Moth"]
+},
+"outcome": 1
+}

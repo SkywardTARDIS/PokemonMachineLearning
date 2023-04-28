@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847506785",
+"p1": {
+"playerName": "Mathemagico",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Poison Jab", "Rock Slide"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Trick Room", "Psychic"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stealth Rock", "Heavy Slam", "Earthquake"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dudunsparce", "Indeedee", "Ting-Lu", "Iron Hands"]
+},
+"p2": {
+"playerName": "pub reject",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Sludge",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Florges",
+"nickname": "Labrys",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Pollen Puff"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Bellina",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "The Squeaks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Protect", "Follow Me"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Florges", "Flutter Mane", "Maushold"]
+},
+"outcome": 1
+}

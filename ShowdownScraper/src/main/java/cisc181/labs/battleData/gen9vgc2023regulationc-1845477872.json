@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845477872",
+"p1": {
+"playerName": "Iaminaminitab",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Stealth Rock"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Fighting",
+"moves": ["Protect", "Tera Blast", "Lumina Crash"]
+}
+],
+"broughtTeam": ["Iron Treads", "Sylveon", "Palafin", "Espathra"]
+},
+"p2": {
+"playerName": "startearx",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Rock Slide", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Wide Guard", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Stonjourner", "Amoonguss"]
+},
+"outcome": 1
+}

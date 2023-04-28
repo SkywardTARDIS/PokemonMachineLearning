@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846417965",
+"p1": {
+"playerName": "gundi8",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Moonblast", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Arcanine", "Dragapult", "Chien-Pao", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Hadrian1917",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz", "Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Ice Shard", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Baxcalibur", "Gyarados"]
+},
+"outcome": 1
+}

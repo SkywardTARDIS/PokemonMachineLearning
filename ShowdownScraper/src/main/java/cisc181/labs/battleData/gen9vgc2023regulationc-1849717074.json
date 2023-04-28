@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849717074",
+"p1": {
+"playerName": "DNDS",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["After You"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Explosion"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Indeedee", "Murkrow", "Garganacl"]
+},
+"p2": {
+"playerName": "pokeveteran04",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Headlong Rush"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Flutter Mane", "Great Tusk", "Chien-Pao"]
+},
+"outcome": 1
+}

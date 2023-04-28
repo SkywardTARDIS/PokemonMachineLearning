@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845805246",
+"p1": {
+"playerName": "Chaotic Raos",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Iron Petals",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Chilling Water", "Helping Hand"]
+},
+{
+"species": "Talonflame",
+"nickname": "Brave Bird",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Grandpa",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+}
+],
+"broughtTeam": ["Florges", "Talonflame", "Garchomp", "Iron Hands"]
+},
+"p2": {
+"playerName": "MIKESTA274",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Tai Lung",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Horus",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Gyarados",
+"nickname": "Taniwha",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Gyarados", "Kingambit"]
+},
+"outcome": 1
+}

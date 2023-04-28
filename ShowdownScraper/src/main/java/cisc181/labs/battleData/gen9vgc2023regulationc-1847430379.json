@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847430379",
+"p1": {
+"playerName": "Closed Teamsheet",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "DJEZJA",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Protect", "Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "Wassila",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "After You"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Taza B2",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Mateus Mora",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Great Tusk", "Iron Bundle"]
+},
+"p2": {
+"playerName": "420YourMom",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Chi-Yu", "Iron Hands", "Flutter Mane"]
+},
+"outcome": 1
+}

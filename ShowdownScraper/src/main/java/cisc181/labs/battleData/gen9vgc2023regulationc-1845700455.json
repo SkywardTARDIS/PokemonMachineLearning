@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845700455",
+"p1": {
+"playerName": "pelukas",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Thunder Wave", "Flash Cannon"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Recover", "Wide Guard", "Salt Cure"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Mimikyu", "Flutter Mane", "Garganacl"]
+},
+"p2": {
+"playerName": "LeafeonLou12",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Discharge", "Air Slash"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Encore", "Psychic"]
+},
+{
+"species": "Drifblim",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Iron Head", "Earthquake", "Close Combat"]
+}
+],
+"broughtTeam": ["Rotom", "Torkoal", "Indeedee", "Great Tusk"]
+},
+"outcome": 0
+}

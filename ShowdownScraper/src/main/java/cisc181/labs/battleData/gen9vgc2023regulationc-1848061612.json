@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848061612",
+"p1": {
+"playerName": "BarrelsOfCans",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Overheat", "Volt Switch"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Steel",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Steel Beam"]
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandaconda",
+"nickname": "Sandaconda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Rotom", "Tyranitar", "Lucario", "Sandaconda"]
+},
+"p2": {
+"playerName": "themodpros_Bros",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Close Combat", "Tera Blast"]
+},
+{
+"species": "Hypno",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Impidimp",
+"nickname": "Impidimp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Light Screen"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Ursaring",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Scizor", "Impidimp", "Chien-Pao"]
+},
+"outcome": 0
+}

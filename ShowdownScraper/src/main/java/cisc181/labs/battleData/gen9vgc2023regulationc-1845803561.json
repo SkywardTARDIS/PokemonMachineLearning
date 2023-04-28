@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845803561",
+"p1": {
+"playerName": "Brotherbeergames",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand", "Psychic", "Follow Me"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Thunderbolt"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Hatterene", "Ting-Lu", "Rotom"]
+},
+"p2": {
+"playerName": "Crayvien",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aura Sphere", "Dazzling Gleam"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Swords Dance", "Kowtow Cleave", "Protect", "Sucker Punch"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Tauros", "Sandy Shocks", "Kingambit"]
+},
+"outcome": 1
+}

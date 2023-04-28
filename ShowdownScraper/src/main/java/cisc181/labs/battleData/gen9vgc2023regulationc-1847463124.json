@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847463124",
+"p1": {
+"playerName": "Kirizizio",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Wave Crash", "Bulldoze", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Flamethrower", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Protect", "Moonblast", "Substitute"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Toxic", "Earth Power"]
+}
+],
+"broughtTeam": ["Dondozo", "Chi-Yu", "Flutter Mane", "Glimmora"]
+},
+"p2": {
+"playerName": "battlerealm",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Protect", "Swords Dance", "Earthquake", "Rock Slide"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Brave Bird"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Sitrus Berry",
+"ability": "Storm Drain",
+"teraType": "Water",
+"moves": ["Protect", "Icy Wind", "Muddy Water", "Dragon Pulse"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+}
+],
+"broughtTeam": ["Garchomp", "Corviknight", "Tatsugiri", "Ting-Lu"]
+},
+"outcome": 1
+}

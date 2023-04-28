@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845462119",
+"p1": {
+"playerName": "Saltii_Pokemon",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Heat Wave", "Quiver Dance"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Aqua Jet", "Ice Spinner", "Play Rough"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Volcarona", "Flutter Mane", "Azumarill"]
+},
+"p2": {
+"playerName": "Moonlight Flutter",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Bulk Up", "Roost", "Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Meowscarada", "Gyarados", "Corviknight"]
+},
+"outcome": 0
+}

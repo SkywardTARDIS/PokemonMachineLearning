@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849149275",
+"p1": {
+"playerName": "sabre332",
+"fullTeam": [
+{
+"species": "Sprigatito",
+"nickname": "Sprigatito",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Helping Hand", "Sucker Punch"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": ["Expanding Force", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sprigatito", "Armarouge", "Indeedee", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Protect", "Heat Wave"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Protect", "Headlong Rush"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Great Tusk", "Talonflame"]
+},
+"outcome": 0
+}

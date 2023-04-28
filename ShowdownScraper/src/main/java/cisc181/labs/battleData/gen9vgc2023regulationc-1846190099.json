@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846190099",
+"p1": {
+"playerName": "MAME Character",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect", "Hypnosis", "Lumina Crash"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Bug",
+"moves": ["Gravity", "Thunderbolt", "Earth Power", "Protect"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Espathra", "Sandy Shocks", "Azumarill"]
+},
+"p2": {
+"playerName": "tanggang4life",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Chi-Yu", "Flutter Mane", "Palafin"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845479385",
+"p1": {
+"playerName": "Whatever0512",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Close Combat", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Talonflame", "Iron Bundle", "Great Tusk"]
+},
+"p2": {
+"playerName": "PokeDog",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Bullwinkle",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Protect", "Icy Wind"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Spiky Shield"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Dragapult", "Iron Bundle", "Glimmora"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851881071",
+"p1": {
+"playerName": "3g only",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Foul Play", "Sunny Day"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Overheat", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Flutter Mane", "Great Tusk"]
+},
+"p2": {
+"playerName": "Yarrack",
+"fullTeam": [
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Muddy Water", "Icy Wind"]
+}
+],
+"broughtTeam": ["Flamigo", "Roaring Moon", "Amoonguss", "Vaporeon"]
+},
+"outcome": 0
+}

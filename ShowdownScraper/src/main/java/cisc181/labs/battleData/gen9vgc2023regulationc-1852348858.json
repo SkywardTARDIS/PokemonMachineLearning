@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852348858",
+"p1": {
+"playerName": "b(R)2",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Stealth Rock"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Garganacl", "Arcanine"]
+},
+"p2": {
+"playerName": "paradoxarena",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Ta-Da!",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Scarlett",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Power Gem"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Hot Pants",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "The World",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Iron Bundle", "Gyarados"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850526447",
+"p1": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swagger"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Mirror Herb",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Acrobatics", "Phantom Force", "Dragon Darts"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Bitter Blade", "Protect", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Dragapult", "Ceruledge"]
+},
+"p2": {
+"playerName": "Beru98",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Thunder Punch"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 1
+}

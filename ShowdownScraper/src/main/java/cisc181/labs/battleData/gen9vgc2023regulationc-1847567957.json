@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847567957",
+"p1": {
+"playerName": "sn000p",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Thunder Wave"]
+},
+{
+"species": "Grumpig",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": []
+},
+{
+"species": "Braviary",
+"nickname": "Braviary",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Grimmsnarl", "Ceruledge", "Braviary"]
+},
+"p2": {
+"playerName": "mait27",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Substitute", "Bitter Blade", "Shadow Claw", "Swords Dance"]
+},
+{
+"species": "Misdreavus",
+"nickname": "Misdreavus",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Shadow Sneak", "Destiny Bond"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Misdreavus", "Maushold", "Flamigo"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846510833",
+"p1": {
+"playerName": "BlueFishFisherman",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Spiky Shield"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Rock Slide", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Shuca Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Dondozo", "Tatsugiri", "Iron Hands"]
+},
+"p2": {
+"playerName": "ZacianLoveMe",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Stomping Tantrum"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Haze", "Tailwind"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+}
+],
+"broughtTeam": ["Garchomp", "Murkrow", "Flutter Mane", "Orthworm"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852784622",
+"p1": {
+"playerName": "IknowLatin",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Vecna",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Drain Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Bu Ba Bo Biv",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Charcuterie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indupitably",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "ElIngles",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Palafin", "Flutter Mane"]
+},
+"outcome": 1
+}

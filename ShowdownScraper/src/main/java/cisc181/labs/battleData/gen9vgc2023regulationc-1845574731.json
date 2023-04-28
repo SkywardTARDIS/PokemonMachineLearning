@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845574731",
+"p1": {
+"playerName": "AnUndeadMyth",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat", "Dazzling Gleam"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Quick Guard", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Talonflame", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "DanMarkSof2015",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Brave Bird", "Close Combat", "Detect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Ice Shard"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Flamigo", "Annihilape", "Cetitan", "Maushold"]
+},
+"outcome": 1
+}

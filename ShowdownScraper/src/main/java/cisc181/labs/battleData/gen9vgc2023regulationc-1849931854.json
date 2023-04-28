@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849931854",
+"p1": {
+"playerName": "Goddess Serenaa",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "Trace",
+"teraType": "",
+"moves": ["Trick"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gardevoir", "Dragonite", "Palafin", "Chi-Yu"]
+},
+"p2": {
+"playerName": "MatRod",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Stealth Rock", "Zap Cannon", "Earth Power"]
+}
+],
+"broughtTeam": ["Espathra", "Sandy Shocks"]
+},
+"outcome": 0
+}

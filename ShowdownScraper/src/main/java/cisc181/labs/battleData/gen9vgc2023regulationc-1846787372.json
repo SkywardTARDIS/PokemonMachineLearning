@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846787372",
+"p1": {
+"playerName": "kankan9670",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Dragapult", "Amoonguss"]
+},
+"p2": {
+"playerName": "Quantum2000",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Icesa",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Protect", "Aurora Veil", "Energy Ball"]
+},
+{
+"species": "Cetitan",
+"nickname": "ice power",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Heavy Slam", "Liquidation", "Play Rough", "Ice Spinner"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "aquira",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard", "Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Dack",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ruination"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Cetitan", "Iron Bundle", "Ting-Lu"]
+},
+"outcome": 1
+}

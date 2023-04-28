@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847414056",
+"p1": {
+"playerName": "Roden-AB",
+"fullTeam": [
+{
+"species": "Spidops",
+"nickname": "Spidops",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression", "Circle Throw", "Silk Trap", "Feint"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Sucker Punch", "Sacred Sword"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Spidops", "Chien-Pao", "Flutter Mane", "Azumarill"]
+},
+"p2": {
+"playerName": "ANTIVALLEY",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Heavy Slam", "Iron Defense", "Body Press"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Bulldoze", "Thunder Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Gyarados", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845127877",
+"p1": {
+"playerName": "uhoh I poopd",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Israfel",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Toad",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Brutus",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Arcanine", "Palafin"]
+},
+"p2": {
+"playerName": "Zatochy",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Draco Meteor", "Helping Hand"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Amoonguss", "Salamence"]
+},
+"outcome": 1
+}

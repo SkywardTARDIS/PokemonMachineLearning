@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845887411",
+"p1": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "Water",
+"moves": ["Bulk Up", "Brave Bird", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Mackar_8",
+"fullTeam": [
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice", "Hyper Beam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Iron Head", "Sucker Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Fake Tears"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Sylveon", "Kingambit", "Maushold", "Arcanine"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851868217",
+"p1": {
+"playerName": "SM0KESgirl",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Drain Punch", "Rage Fist", "Bulk Up"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Annihilape", "Flutter Mane"]
+},
+"p2": {
+"playerName": "kotestplayer",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Goblin",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdenjoe",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "MegaMence",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Tailwind", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Annihilape", "Gholdengo", "Roaring Moon", "Iron Bundle"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852639092",
+"p1": {
+"playerName": "Steakman5",
+"fullTeam": [
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Mirror Herb",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Protect", "Brave Bird"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Protect", "Flower Trick", "U-turn"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Anger Point",
+"teraType": "Steel",
+"moves": ["Raging Bull", "Earthquake", "Flame Charge"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flamigo", "Meowscarada", "Tauros", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Timo_0320",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Amoonguss", "Iron Hands", "Iron Bundle"]
+},
+"outcome": 1
+}

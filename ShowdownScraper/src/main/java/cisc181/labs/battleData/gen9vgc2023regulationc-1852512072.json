@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852512072",
+"p1": {
+"playerName": "MenMo",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bullet Seed", "Tera Blast", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Bug Buzz"]
+}
+],
+"broughtTeam": ["Brute Bonnet", "Flutter Mane", "Chien-Pao", "Volcarona"]
+},
+"p2": {
+"playerName": "A0000000",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Flamethrower", "Nasty Plot", "Dark Pulse"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap", "Thunder Wave", "Reflect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Adrenaline Orb",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Stantler", "Annihilape", "Amoonguss"]
+},
+"outcome": 0
+}

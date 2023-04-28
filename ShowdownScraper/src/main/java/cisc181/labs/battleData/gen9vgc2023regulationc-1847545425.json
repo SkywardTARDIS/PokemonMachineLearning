@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847545425",
+"p1": {
+"playerName": "westtony",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Squawkabilly",
+"nickname": "Squawkabilly",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Parting Shot"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Drain Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Squawkabilly", "Iron Hands", "Chien-Pao", "Ting-Lu"]
+},
+"p2": {
+"playerName": "ultramandyna",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Torch Song", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Skeledirge", "Flutter Mane"]
+},
+"outcome": 0
+}

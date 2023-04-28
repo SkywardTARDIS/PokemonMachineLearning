@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851828677",
+"p1": {
+"playerName": "Atrix MJ",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Ice Beam"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Protect", "Assurance"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Protect", "Dragon Darts"]
+}
+],
+"broughtTeam": ["Gastrodon", "Tyranitar", "Flutter Mane", "Dragapult"]
+},
+"p2": {
+"playerName": "Nimendedadie",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850536932",
+"p1": {
+"playerName": "LeakySoups",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Substitute", "Power Gem"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Spore", "Sucker Punch", "Protect", "Bullet Seed"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Extreme Speed"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Brute Bonnet", "Arcanine", "Iron Hands"]
+},
+"p2": {
+"playerName": "Kelvinatur7",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze", "Sucker Punch", "Ruination"]
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Ice Spinner", "Extreme Speed", "Outrage"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Gyarados", "Gengar", "Dragonite"]
+},
+"outcome": 1
+}

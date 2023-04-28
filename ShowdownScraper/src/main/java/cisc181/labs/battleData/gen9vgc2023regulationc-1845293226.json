@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845293226",
+"p1": {
+"playerName": "Blacksus",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Ting-Lu"]
+},
+"p2": {
+"playerName": "pollinosis",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Spectre",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Thunderball",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Skyfall",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "NoTimeToDie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Whip"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Palafin", "Tsareena"]
+},
+"outcome": 0
+}

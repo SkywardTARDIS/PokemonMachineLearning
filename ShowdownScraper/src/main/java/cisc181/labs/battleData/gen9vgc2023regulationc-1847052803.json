@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847052803",
+"p1": {
+"playerName": "cszlonger",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Extreme Speed", "Flare Blitz", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Protect", "Icicle Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Baxcalibur"]
+},
+"p2": {
+"playerName": "Pro umper",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "Fire",
+"moves": ["Tera Blast", "Bullet Seed"]
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Air Slash", "Heat Wave", "Tailwind"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Sitrus Berry",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Protect", "Stomping Tantrum", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Brambleghast", "Lumineon", "Salamence", "Ting-Lu"]
+},
+"outcome": 1
+}

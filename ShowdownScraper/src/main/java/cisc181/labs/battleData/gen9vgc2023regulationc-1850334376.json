@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850334376",
+"p1": {
+"playerName": "matichango",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry", "Icy Wind"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Gholdengo", "Iron Bundle", "Maushold", "Arcanine"]
+},
+"p2": {
+"playerName": "Riddallk",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Dachsbun", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 0
+}

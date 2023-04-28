@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844960293",
+"p1": {
+"playerName": "bramstorteler",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Annihilape", "Flutter Mane", "Gyarados"]
+},
+"p2": {
+"playerName": "Onlyshiny",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "La Pelos",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast", "Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Flutter Mane", "Chi-Yu"]
+},
+"outcome": 0
+}

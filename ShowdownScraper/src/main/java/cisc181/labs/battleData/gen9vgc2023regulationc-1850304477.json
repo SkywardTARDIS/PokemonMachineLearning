@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850304477",
+"p1": {
+"playerName": "Xalvadore",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Extreme Speed"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Power Gem", "Fire Blast"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Roost"]
+}
+],
+"broughtTeam": ["Dragonite", "Tyranitar", "Gastrodon", "Corviknight"]
+},
+"p2": {
+"playerName": "Dynis",
+"fullTeam": [
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Beartic",
+"nickname": "Beartic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Ruination"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed", "Protect"]
+}
+],
+"broughtTeam": ["Pelipper", "Beartic", "Wo-Chien", "Arcanine"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851361312",
+"p1": {
+"playerName": "PkmnTrainerHotPink",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Brrr",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Shard", "Icicle Spear"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Saweetie",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "UwU",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Grusha",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Flutter Mane", "Amoonguss", "Kingambit"]
+},
+"p2": {
+"playerName": "kokialcazar",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Wiki Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Muddy Water"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ground",
+"moves": ["Protect", "Headlong Rush", "Earthquake"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Gastrodon", "Flutter Mane", "Great Tusk", "Tyranitar"]
+},
+"outcome": 1
+}

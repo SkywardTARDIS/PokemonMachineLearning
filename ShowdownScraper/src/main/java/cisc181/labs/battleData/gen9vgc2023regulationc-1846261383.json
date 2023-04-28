@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846261383",
+"p1": {
+"playerName": "Pkmushroom",
+"fullTeam": [
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkatonk",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Gigaton Hammer"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Lingu-a",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Leaf Blade", "Psycho Cut"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Raging Bull"]
+}
+],
+"broughtTeam": ["Tinkaton", "Ting-Lu", "Gallade", "Tauros"]
+},
+"p2": {
+"playerName": "Dev865",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Fiery Dance", "Acid Spray", "Energy Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Moth", "Palafin", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

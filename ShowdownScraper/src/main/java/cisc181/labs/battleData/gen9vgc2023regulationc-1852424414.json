@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852424414",
+"p1": {
+"playerName": "ElPasoMan",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Protect", "Trick Room"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Dazzling Gleam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Annihilape", "Iron Hands"]
+},
+"p2": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "PlusUltra",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Good Soup",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 0
+}

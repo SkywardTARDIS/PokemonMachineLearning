@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849341920",
+"p1": {
+"playerName": "Insertable194",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Palafin", "Flutter Mane", "Iron Hands"]
+},
+"p2": {
+"playerName": "Charlie77777",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Freeze-Dry", "Blizzard", "Protect"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Protect", "Blizzard"]
+}
+],
+"broughtTeam": ["Sylveon", "Gholdengo", "Iron Bundle", "Abomasnow"]
+},
+"outcome": 1
+}

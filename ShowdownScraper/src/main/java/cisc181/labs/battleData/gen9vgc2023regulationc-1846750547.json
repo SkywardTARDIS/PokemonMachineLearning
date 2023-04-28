@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1846750547",
+"p1": {
+"playerName": "tatsugirl i~",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Protect", "Sucker Punch", "Kowtow Cleave"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Dragapult", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Snowstorm brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Throat Chop", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Substitute", "Acrobatics"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Torch Song"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"outcome": 1
+}

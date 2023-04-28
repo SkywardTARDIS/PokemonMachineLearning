@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846614751",
+"p1": {
+"playerName": "legolunatic2073",
+"fullTeam": [
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Drain Punch"]
+},
+{
+"species": "Drifblim",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Throat Chop", "Ice Spinner"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Medicham", "Slaking", "Volcarona", "Chien-Pao"]
+},
+"p2": {
+"playerName": "eragonya",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Trick Room", "Draining Kiss", "Heal Pulse", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Rock Slide", "High Horsepower"]
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Amoonguss", "Mudsdale"]
+},
+"outcome": 1
+}

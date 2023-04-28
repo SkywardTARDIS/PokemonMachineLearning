@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847425375",
+"p1": {
+"playerName": "SnackIsle",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Dragon Claw"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Clear Smog"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Room Service",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Torkoal", "Roaring Moon", "Amoonguss", "Farigiraf"]
+},
+"p2": {
+"playerName": "1GoldenBoy",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "U-turn"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Great Tusk", "Flutter Mane", "Dragapult"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847124301",
+"p1": {
+"playerName": "Dabahad",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Drain Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Kingambit", "Palafin"]
+},
+"p2": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Eject Button",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Earthquake", "Wild Charge"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Indeedee", "Iron Hands", "Rotom", "Iron Bundle"]
+},
+"outcome": 0
+}

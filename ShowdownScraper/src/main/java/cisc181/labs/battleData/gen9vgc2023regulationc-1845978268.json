@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845978268",
+"p1": {
+"playerName": "Mitsunaga",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Expanding Force", "Aura Sphere", "Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "vexarj",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Focus Energy"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Hydreigon", "Kingambit"]
+},
+"outcome": 1
+}

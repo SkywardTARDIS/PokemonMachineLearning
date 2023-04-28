@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850979787",
+"p1": {
+"playerName": "chipp zanuff 7",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Energy Ball", "Snarl", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Avalanche", "Earthquake"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Glimmora", "Tatsugiri", "Dondozo"]
+},
+"p2": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Protect", "Flare Blitz"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Ting-Lu", "Arcanine"]
+},
+"outcome": 1
+}

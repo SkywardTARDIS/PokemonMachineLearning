@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845705510",
+"p1": {
+"playerName": "Sotero23",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Dragon Claw"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Clear Smog"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Dragonite", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Valhala Alfa",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Protect", "Substitute", "Drain Punch"]
+},
+{
+"species": "Ampharos",
+"nickname": "Ampharos",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Volt Switch"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Maushold", "Annihilape", "Ampharos"]
+},
+"outcome": 1
+}

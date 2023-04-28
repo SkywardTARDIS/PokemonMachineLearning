@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848421807",
+"p1": {
+"playerName": "Hactorgv_128",
+"fullTeam": [
+{
+"species": "Zangoose",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stealth Rock", "Spikes", "Heavy Slam"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Sludge Bomb", "Dazzling Gleam"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Parabolic Charge"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Azumarill", "Gengar", "Bellibolt"]
+},
+"p2": {
+"playerName": "Dr.Dedded",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Low Kick", "Rock Slide"]
+},
+{
+"species": "Cacturne",
+"nickname": "Cacturne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Toxic Spikes", "Sucker Punch"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "Steel",
+"moves": ["Curse", "Heavy Slam"]
+},
+{
+"species": "Sandaconda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Cacturne", "Hippowdon"]
+},
+"outcome": 0
+}

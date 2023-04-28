@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851245077",
+"p1": {
+"playerName": "Asdfmeow",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Dance"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Volt Switch", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Palafin", "Pelipper", "Rotom"]
+},
+"p2": {
+"playerName": "xxKlb7xx",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Electric Seed",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Thunderbolt", "Charge Beam"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Fake Out", "Reflect", "Light Screen"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "Magnet Rise", "Iron Defense"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bellibolt", "Sableye", "Magnezone", "Iron Thorns"]
+},
+"outcome": 1
+}

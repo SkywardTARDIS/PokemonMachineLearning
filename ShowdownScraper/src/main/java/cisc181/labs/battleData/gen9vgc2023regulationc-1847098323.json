@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847098323",
+"p1": {
+"playerName": "Kimolingo",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "Steel",
+"moves": ["Substitute", "Yawn", "Crunch", "Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Dachsbun", "Chi-Yu", "Chien-Pao", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "ApplinFan773",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Myrtle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Persephone",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Disable", "Misty Terrain", "Howl", "Play Rough"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Grim Shady",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Close Combat"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salami",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Claw", "Iron Head"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Scream Tail", "Ceruledge", "Salamence"]
+},
+"outcome": 1
+}

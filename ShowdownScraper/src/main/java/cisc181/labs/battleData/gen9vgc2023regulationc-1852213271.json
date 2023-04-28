@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852213271",
+"p1": {
+"playerName": "jeffman323",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Spore", "Sucker Punch", "Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Iron Head", "Tera Blast"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch"]
+},
+{
+"species": "Stantler",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Brute Bonnet", "Kingambit", "Iron Hands"]
+},
+"p2": {
+"playerName": "AgumonVGC",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Stomping Tantrum", "Payback"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 1
+}

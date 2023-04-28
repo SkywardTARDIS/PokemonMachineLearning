@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848167681",
+"p1": {
+"playerName": "Ellvaekyoo",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Giga Drain", "Protect", "Knock Off", "Leech Seed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Snarl", "Extreme Speed"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Wo-Chien", "Flutter Mane", "Arcanine"]
+},
+"p2": {
+"playerName": "GengaTube",
+"fullTeam": [
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Protect", "Thunderbolt"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam", "Yawn"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Leafeon", "Jolteon", "Vaporeon", "Sylveon"]
+},
+"outcome": 1
+}

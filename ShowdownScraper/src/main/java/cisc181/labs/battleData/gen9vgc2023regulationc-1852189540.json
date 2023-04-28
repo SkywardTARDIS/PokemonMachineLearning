@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852189540",
+"p1": {
+"playerName": "skuchi4",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Magnezone", "Annihilape"]
+},
+"p2": {
+"playerName": "The8BitKing",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Primeape",
+"nickname": "Primeape",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Electrode",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch"]
+}
+],
+"broughtTeam": ["Slowbro", "Arcanine", "Primeape", "Dragonite"]
+},
+"outcome": 1
+}

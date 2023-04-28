@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848139597",
+"p1": {
+"playerName": "bob0976",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Amoonguss", "Iron Bundle", "Palafin"]
+},
+"p2": {
+"playerName": "Zeltink",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Accelerock", "Rock Blast"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+}
+],
+"broughtTeam": ["Lycanroc", "Lucario", "Kingambit", "Dragapult"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852997024",
+"p1": {
+"playerName": "Stinkekakkie",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Mortal Spin"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Protect", "Foul Play", "Leech Seed"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "Good as Gold",
+"teraType": "",
+"moves": ["Hex", "Protect", "Make It Rain"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Assurance"]
+}
+],
+"broughtTeam": ["Glimmora", "Wo-Chien", "Gholdengo", "Tyranitar"]
+},
+"p2": {
+"playerName": "Gholdjunge",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation", "Protect", "Play Rough", "Aqua Jet"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder", "Spore"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Detect", "Wild Charge"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Azumarill", "Amoonguss", "Iron Hands", "Flutter Mane"]
+},
+"outcome": 1
+}

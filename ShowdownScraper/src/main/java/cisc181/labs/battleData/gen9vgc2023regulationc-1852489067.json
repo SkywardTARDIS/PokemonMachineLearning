@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852489067",
+"p1": {
+"playerName": "Auraen",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Protect", "Wave Crash", "Close Combat"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Mortal Spin", "Sludge Bomb"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder", "Spore"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Tauros", "Glimmora", "Amoonguss"]
+},
+"p2": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Haze", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Detect", "Thunderbolt", "Tera Blast"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Amoonguss", "Jolteon"]
+},
+"outcome": 0
+}

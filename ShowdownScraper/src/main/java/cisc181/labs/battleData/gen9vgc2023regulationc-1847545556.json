@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847545556",
+"p1": {
+"playerName": "Fluttermane Eyes",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Payback"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Mr. Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Ting-Lu", "Rotom"]
+},
+"p2": {
+"playerName": "syunx2",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Earth Power"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Follow Me"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Giga Drain", "Protect", "Leech Seed"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Glimmora", "Maushold", "Wo-Chien"]
+},
+"outcome": 1
+}

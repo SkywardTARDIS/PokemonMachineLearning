@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852962852",
+"p1": {
+"playerName": "ScheduledDrop",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Dozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Bundle",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Ice Spinner"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Chien-Pao", "Dragapult", "Arcanine"]
+},
+"p2": {
+"playerName": "0TestingAC0",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Heavy Slam", "Payback"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Chien-Pao", "Ting-Lu"]
+},
+"outcome": 0
+}

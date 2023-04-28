@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845839332",
+"p1": {
+"playerName": "onetwosri",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Close Combat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam", "Shadow Ball", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Protect"]
+}
+],
+"broughtTeam": ["Tauros", "Flutter Mane", "Great Tusk", "Amoonguss"]
+},
+"p2": {
+"playerName": "Cat Scottish Fold",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Pollen Puff"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Sand Tomb", "Snarl"]
+},
+{
+"species": "Klefki",
+"nickname": "クレッフィ",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Foul Play"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Fire Spin", "Will-O-Wisp", "Morning Sun"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Klefki", "Arcanine"]
+},
+"outcome": 0
+}

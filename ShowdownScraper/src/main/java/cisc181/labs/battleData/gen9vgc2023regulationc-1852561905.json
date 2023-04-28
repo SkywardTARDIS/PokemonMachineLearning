@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852561905",
+"p1": {
+"playerName": "AAAlelele",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Encore", "Disable"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird", "Roost"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+}
+],
+"broughtTeam": ["Scream Tail", "Dragonite", "Corviknight", "Rotom"]
+},
+"p2": {
+"playerName": "r3gCt3st",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Toxic", "Energy Ball", "Power Gem"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Glimmora", "Flutter Mane"]
+},
+"outcome": 1
+}

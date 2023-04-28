@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846749428",
+"p1": {
+"playerName": "ChossyVGC",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Skill Swap", "Gravity", "Hypnosis"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Charm"]
+},
+{
+"species": "Blissey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Fissure"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Lycanroc", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "fo50",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Flamethrower"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Claw", "Thunder Fang"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Leer", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Scovillain", "Garchomp", "Torkoal", "Scizor"]
+},
+"outcome": 1
+}

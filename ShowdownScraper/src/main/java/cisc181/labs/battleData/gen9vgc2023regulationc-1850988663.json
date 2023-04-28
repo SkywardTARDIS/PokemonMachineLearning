@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850988663",
+"p1": {
+"playerName": "PoGoboy",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Low Kick", "Rock Slide", "Protect"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Palossand",
+"nickname": "Palossand",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Lycanroc", "Tyranitar", "Vaporeon", "Palossand"]
+},
+"p2": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Kingambit"]
+},
+"outcome": 0
+}

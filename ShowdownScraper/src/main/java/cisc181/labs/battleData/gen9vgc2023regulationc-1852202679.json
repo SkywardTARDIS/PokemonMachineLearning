@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852202679",
+"p1": {
+"playerName": "Dancingace1000",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Clear Amulet",
+"ability": "Shadow Tag",
+"teraType": "Ghost",
+"moves": ["Bulk Up", "Sucker Punch", "Body Slam", "Drain Punch"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Shadow Tag",
+"teraType": "",
+"moves": ["Doodle", "Parting Shot"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Flutter Mane", "Iron Bundle"]
+},
+"p2": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Raging Bull", "Protect", "Aqua Jet"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Helping Hand", "Psych Up", "Shadow Ball"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Coil"]
+}
+],
+"broughtTeam": ["Abomasnow", "Tauros", "Gothorita", "Eelektross"]
+},
+"outcome": 1
+}

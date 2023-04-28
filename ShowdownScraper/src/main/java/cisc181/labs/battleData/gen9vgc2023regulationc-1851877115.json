@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851877115",
+"p1": {
+"playerName": "Nutrius",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Clear Amulet",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Earthquake", "Crunch"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Endure", "Rock Slide", "Endeavor"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Flutter Mane", "Tyranitar", "Lycanroc"]
+},
+"p2": {
+"playerName": "zaboomafoooo",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Knock Off", "Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Wide Guard", "Recover", "Protect", "Salt Cure"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "U-turn"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Garganacl", "Dragapult", "Glimmora"]
+},
+"outcome": 0
+}

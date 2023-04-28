@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847402608",
+"p1": {
+"playerName": "deadenne",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Dark Magician",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Icy Wind", "Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "Almight",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Wave Crash"]
+},
+{
+"species": "Indeedee",
+"nickname": "Rem",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "3 Heads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Focus Energy", "Protect", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Indeedee", "Hydreigon"]
+},
+"p2": {
+"playerName": "Kiryae",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Howl", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination", "Stomping Tantrum", "Sand Tomb"]
+}
+],
+"broughtTeam": ["Arcanine", "Palafin", "Roaring Moon", "Ting-Lu"]
+},
+"outcome": 1
+}

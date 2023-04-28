@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848575825",
+"p1": {
+"playerName": "That_Leek",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Bulk Up", "Protect", "Drain Punch"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Tyranitar", "Maushold", "Annihilape"]
+},
+"p2": {
+"playerName": "pacho0",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Trick Room", "Dark Pulse", "Hex"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Protect", "Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Spiritomb", "Amoonguss", "Torkoal"]
+},
+"outcome": 1
+}

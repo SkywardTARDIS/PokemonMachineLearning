@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845950422",
+"p1": {
+"playerName": "gucci_shinigami",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Phantom Force", "U-turn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Grass",
+"moves": ["Fiery Dance", "Protect", "Energy Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Amoonguss", "Talonflame", "Iron Moth"]
+},
+"p2": {
+"playerName": "Beetle Enjoyer",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Power Gem", "Mortal Spin", "Earth Power", "Spiky Shield"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Ting-Lu", "Arcanine", "Wo-Chien"]
+},
+"outcome": 1
+}

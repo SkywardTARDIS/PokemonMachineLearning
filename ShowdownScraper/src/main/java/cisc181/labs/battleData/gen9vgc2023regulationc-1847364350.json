@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847364350",
+"p1": {
+"playerName": "simonxl",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Beat Up", "Encore", "Follow Me"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind", "Roost"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Corviknight", "Rotom"]
+},
+"p2": {
+"playerName": "themanparris",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Bundle",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword", "Protect", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mimi",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

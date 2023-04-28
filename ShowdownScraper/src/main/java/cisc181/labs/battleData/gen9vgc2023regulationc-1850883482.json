@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850883482",
+"p1": {
+"playerName": "GM fu gj",
+"fullTeam": [
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Waterfall", "Protect", "Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Tailwind"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Salazzle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Drednaw", "Pelipper", "Iron Hands"]
+},
+"p2": {
+"playerName": "VGCcol",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Beat Up", "Follow Me", "Encore"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Annihilape"]
+},
+"outcome": 0
+}

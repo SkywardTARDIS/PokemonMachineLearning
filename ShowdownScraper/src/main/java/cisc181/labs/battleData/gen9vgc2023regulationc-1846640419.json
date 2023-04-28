@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846640419",
+"p1": {
+"playerName": "Girthatron",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Fissure", "Wave Crash", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Icy Wind"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Protect", "Aqua Jet"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Freeze-Dry"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Azumarill", "Iron Bundle"]
+},
+"p2": {
+"playerName": "WindowNipples",
+"fullTeam": [
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gravity", "Stone Edge"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Sing", "Thunder", "Fire Blast"]
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Hurricane", "Protect"]
+}
+],
+"broughtTeam": ["Stonjourner", "Blissey", "Gastrodon", "Salamence"]
+},
+"outcome": 0
+}

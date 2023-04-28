@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1846552730",
+"p1": {
+"playerName": "OnHoldWithTheIRS",
+"fullTeam": [
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tsareena", "Ceruledge", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "Escatross",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Protect", "Sucker Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Kingambit", "Arcanine", "Sandy Shocks"]
+},
+"outcome": 1
+}

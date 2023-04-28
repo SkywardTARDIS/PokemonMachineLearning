@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1850385024",
+"p1": {
+"playerName": "Evlers",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Haze"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Palafin", "Arcanine", "Dragapult"]
+},
+"p2": {
+"playerName": "smasta1",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Shadow Sneak", "Protect", "Bitter Blade"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Armarouge", "Ceruledge", "Ting-Lu", "Amoonguss"]
+},
+"outcome": 0
+}

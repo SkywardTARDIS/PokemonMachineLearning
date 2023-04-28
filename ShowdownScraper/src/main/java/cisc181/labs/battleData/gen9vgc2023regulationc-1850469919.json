@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850469919",
+"p1": {
+"playerName": "aqawa",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Iron Head"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Annihilape", "Flutter Mane", "Corviknight", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "Spooner240",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Grass",
+"moves": ["Thunder Punch"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Torkoal", "Iron Hands", "Hatterene"]
+},
+"outcome": 0
+}

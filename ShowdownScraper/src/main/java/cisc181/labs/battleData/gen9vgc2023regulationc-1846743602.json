@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846743602",
+"p1": {
+"playerName": "fo50",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Trailblaze", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Garchomp", "Torkoal", "Scizor"]
+},
+"p2": {
+"playerName": "B0bl0bla",
+"fullTeam": [
+{
+"species": "Glaceon",
+"nickname": "Ice Ice Eevee",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Freeze-Dry", "Chilling Water"]
+},
+{
+"species": "Sylveon",
+"nickname": "Don'tHitSoCute",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrosaurus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salazzle",
+"nickname": "Salazzle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Toxic Spikes"]
+}
+],
+"broughtTeam": ["Glaceon", "Sylveon", "Gastrodon", "Salazzle"]
+},
+"outcome": 1
+}

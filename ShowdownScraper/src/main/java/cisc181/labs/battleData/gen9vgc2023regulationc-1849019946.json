@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849019946",
+"p1": {
+"playerName": "SlyAbby",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "Ground",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Doodle"]
+},
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Hawlucha", "Magneton", "Grafaiai"]
+},
+"p2": {
+"playerName": "TheMismatcher",
+"fullTeam": [
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Electrode", "Talonflame", "Krookodile", "Sylveon"]
+},
+"outcome": 0
+}

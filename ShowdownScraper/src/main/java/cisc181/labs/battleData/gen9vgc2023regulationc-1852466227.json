@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852466227",
+"p1": {
+"playerName": "carlosmeza021",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Brave Bird", "Protect"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me", "Protect"]
+}
+],
+"broughtTeam": ["Flamigo", "Murkrow", "Annihilape", "Maushold"]
+},
+"p2": {
+"playerName": "Jbenn",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics", "Tailwind", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunderbolt", "Make It Rain"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Curse", "Trick Room", "Protect", "Play Rough"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Gholdengo", "Mimikyu", "Gyarados"]
+},
+"outcome": 0
+}

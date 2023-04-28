@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849047980",
+"p1": {
+"playerName": "LorLor_Battles3",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "PixelDupe1",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mischief",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Orthworm", "Iron Hands", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848632015",
+"p1": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Gigaton Hammer", "Brick Break"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Giga Drain"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect", "Bitter Blade"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tinkaton", "Wo-Chien", "Ceruledge", "Chien-Pao"]
+},
+"p2": {
+"playerName": "bentoboxkiller",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Psychic Seed",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Iron Defense", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Misdreavus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Orthworm", "Indeedee", "Ting-Lu"]
+},
+"outcome": 1
+}

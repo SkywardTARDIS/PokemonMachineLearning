@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846107541",
+"p1": {
+"playerName": "Tas87",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Competitive",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Earthquake", "Protect"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Brick Break"]
+},
+{
+"species": "Medicham",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Body Press", "Smack Down"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kilowattrel", "Garchomp", "Tyranitar", "Orthworm"]
+},
+"p2": {
+"playerName": "Adolfcitron",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Extreme Speed", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Pelipper", "Arcanine", "Palafin", "Iron Bundle"]
+},
+"outcome": 0
+}

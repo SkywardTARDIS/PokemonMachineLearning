@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849948296",
+"p1": {
+"playerName": "Kirovz",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulldoze"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Spiky Shield", "Power Gem"]
+}
+],
+"broughtTeam": ["Dondozo", "Flutter Mane", "Dragonite", "Glimmora"]
+},
+"p2": {
+"playerName": "Nick Halen",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Taunt", "Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Chien-Pao", "Dragonite"]
+},
+"outcome": 1
+}

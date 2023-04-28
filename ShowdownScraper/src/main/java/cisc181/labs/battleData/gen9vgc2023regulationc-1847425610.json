@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847425610",
+"p1": {
+"playerName": "TheKnownStranger",
+"fullTeam": [
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Dr. Bullwinkle",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Nurse Rocky",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Fake Out", "Double Shock"]
+},
+{
+"species": "Garganacl",
+"nickname": "...Rocky",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Smack Down", "Salt Cure", "Recover"]
+},
+{
+"species": "Lokix",
+"nickname": "Grassflopper",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Pawmot", "Garganacl", "Lokix"]
+},
+"p2": {
+"playerName": "Axe Garian",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Ghost Rider",
+"item": "Leftovers",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Seed Bomb"]
+},
+{
+"species": "Talonflame",
+"nickname": "Red Herring",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Loreline",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Spirit Break"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bowl Ya Over",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Brambleghast", "Talonflame", "Iron Valiant", "Ting-Lu"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848164371",
+"p1": {
+"playerName": "HildaisViscous",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Draco Meteor", "Rock Slide"]
+},
+{
+"species": "Revavroom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Clear Amulet",
+"ability": "Mold Breaker",
+"teraType": "Fairy",
+"moves": ["Fake Tears", "Rock Slide", "Gigaton Hammer"]
+}
+],
+"broughtTeam": ["Salamence", "Gyarados", "Iron Valiant", "Tinkaton"]
+},
+"p2": {
+"playerName": "enelson5",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Protect", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Rock Slide", "Earthquake"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Iron Head", "Brave Bird"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Flutter Mane", "Garchomp", "Corviknight"]
+},
+"outcome": 1
+}

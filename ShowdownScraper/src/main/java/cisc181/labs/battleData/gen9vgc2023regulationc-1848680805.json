@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848680805",
+"p1": {
+"playerName": "dralfredpennyworth",
+"fullTeam": [
+{
+"species": "Dunsparce",
+"nickname": "Dunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Drill Run", "Ice Spinner", "Roost"]
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "Cloud Nine",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Honchkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Earth Power", "Protect"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dunsparce", "Golduck", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "MrChkn",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Fiery Dance"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Dazzling Gleam"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Taunt", "Thunder Wave", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Moth", "Flutter Mane", "Farigiraf", "Gothitelle"]
+},
+"outcome": 1
+}

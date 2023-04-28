@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845745782",
+"p1": {
+"playerName": "fo50",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Extreme Speed", "Earthquake", "Fire Punch"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Own Tempo",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Thunder Fang"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Trailblaze", "Acrobatics", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Dragonite", "Tinkaton", "Garchomp", "Scizor"]
+},
+"p2": {
+"playerName": "Ffi Teys",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Stone Edge"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Close Combat"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Great Tusk", "Kingambit", "Talonflame"]
+},
+"outcome": 1
+}

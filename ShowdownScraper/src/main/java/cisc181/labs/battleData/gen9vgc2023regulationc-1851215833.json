@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851215833",
+"p1": {
+"playerName": "tj18755",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Protect", "Heavy Slam"]
+},
+{
+"species": "Wugtrio",
+"nickname": "Wugtrio",
+"item": "Focus Sash",
+"ability": "Gooey",
+"teraType": "",
+"moves": ["Bulldoze", "Chilling Water"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hydreigon", "Arcanine", "Ting-Lu", "Wugtrio"]
+},
+"p2": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Raging Bull"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Helping Hand"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Heat Wave"]
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Clear Amulet",
+"ability": "Levitate",
+"teraType": "Electric",
+"moves": ["Coil", "Stomping Tantrum", "Wild Charge"]
+}
+],
+"broughtTeam": ["Tauros", "Gothorita", "Dragonite", "Eelektross"]
+},
+"outcome": 1
+}

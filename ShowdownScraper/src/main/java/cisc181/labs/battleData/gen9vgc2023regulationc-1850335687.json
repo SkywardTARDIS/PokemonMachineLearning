@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850335687",
+"p1": {
+"playerName": "SlushiW",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Riptide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Wildfire",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Eternal",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Arcanine", "Amoonguss"]
+},
+"p2": {
+"playerName": "fissureIsScripture",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Fake Out"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Icy Wind", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Iron Hands", "Palafin", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

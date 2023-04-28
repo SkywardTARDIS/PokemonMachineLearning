@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1849496613",
+"p1": {
+"playerName": "Serranity",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Heavy Slam", "Stomping Tantrum", "Rock Slide"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Spore", "Pollen Puff", "Rage Powder", "Protect"]
+},
+{
+"species": "Ditto",
+"nickname": "Ditto",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Pawmi",
+"nickname": "Pawmi",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Brute Bonnet", "Ditto", "Pawmi"]
+},
+"p2": {
+"playerName": "Slugma Guts",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Steel",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Annihilape", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 0
+}

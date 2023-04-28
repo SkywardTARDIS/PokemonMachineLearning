@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848368505",
+"p1": {
+"playerName": "bebra22",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Icy Wind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Leech Seed", "Recover", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Ting-Lu", "Appletun"]
+},
+"p2": {
+"playerName": "Roswall Rigel",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect", "Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Icicle Spear", "Ice Shard"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Howl"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Baxcalibur", "Arcanine", "Amoonguss"]
+},
+"outcome": 1
+}

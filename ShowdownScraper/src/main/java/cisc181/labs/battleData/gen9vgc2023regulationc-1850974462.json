@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850974462",
+"p1": {
+"playerName": "KAJ12",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Protect", "Iron Head", "Earthquake"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Thunder Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Gyarados", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Duecal1on",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Tailwind"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Hurricane", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword"]
+}
+],
+"broughtTeam": ["Pelipper", "Scizor", "Dragonite", "Chien-Pao"]
+},
+"outcome": 0
+}

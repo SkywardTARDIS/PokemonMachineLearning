@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852252551",
+"p1": {
+"playerName": "OneWithTheSnom",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Calm Mind", "Hyper Voice", "Tera Blast"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Protect", "Thunder Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song"]
+}
+],
+"broughtTeam": ["Sylveon", "Iron Hands", "Palafin", "Skeledirge"]
+},
+"p2": {
+"playerName": "Teogiuls",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Aurora Veil", "Blizzard"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Flare Blitz", "Snarl"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Abomasnow", "Gholdengo", "Arcanine", "Kilowattrel"]
+},
+"outcome": 1
+}

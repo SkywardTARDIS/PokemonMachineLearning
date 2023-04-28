@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849306285",
+"p1": {
+"playerName": "Uao",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Vape",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Overheat"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Frida Kalo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Panecane",
+"item": "Sitrus Berry",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Snarl", "Yawn"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "FISH!EGG!",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Lava Plume", "Snarl"]
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Dachsbun", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Mynameschester",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earth Power", "Muddy Water"]
+}
+],
+"broughtTeam": ["Talonflame", "Flutter Mane", "Gallade", "Gastrodon"]
+},
+"outcome": 1
+}

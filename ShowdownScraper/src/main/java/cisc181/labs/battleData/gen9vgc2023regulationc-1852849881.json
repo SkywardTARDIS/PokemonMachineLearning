@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852849881",
+"p1": {
+"playerName": "quiquezafi",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Sitrus Berry",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Rock Slide", "Protect", "Earthquake"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Room Service",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Flower Trick", "Ally Switch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Talonflame", "Tauros", "Meowscarada", "Maushold"]
+},
+"p2": {
+"playerName": "Evil Flowey",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Gelonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Glaive Rush", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Luigi",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Torkoal", "Chi-Yu", "Ting-Lu"]
+},
+"outcome": 1
+}

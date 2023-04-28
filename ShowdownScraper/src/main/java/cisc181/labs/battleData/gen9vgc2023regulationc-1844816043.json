@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844816043",
+"p1": {
+"playerName": "Kelenar",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Quiver Dance", "Heat Wave"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Arcanine", "Volcarona"]
+},
+"p2": {
+"playerName": "telameneo",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Bonkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "NomNomNom",
+"item": "",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Body Press", "Iron Defense"]
+},
+{
+"species": "Dragonite",
+"nickname": "Españita",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tinkaton", "Orthworm", "Dragonite"]
+},
+"outcome": 0
+}

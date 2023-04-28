@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846252709",
+"p1": {
+"playerName": "ADKaori",
+"fullTeam": [
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Copycat", "U-turn", "Foul Play"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "U-turn", "Trop Kick"]
+}
+],
+"broughtTeam": ["Grafaiai", "Dudunsparce", "Tsareena"]
+},
+"p2": {
+"playerName": "MatRod",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Ice Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "Effect Spore",
+"teraType": "",
+"moves": ["Foul Play"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Torkoal", "Gallade"]
+},
+"outcome": 1
+}

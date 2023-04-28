@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849727685",
+"p1": {
+"playerName": "We_Love_The_Gong",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Make It Rain", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Icy Wind", "Waterfall"]
+}
+],
+"broughtTeam": ["Gholdengo", "Arcanine", "Ting-Lu", "Gyarados"]
+},
+"p2": {
+"playerName": "Gozie Mas",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Minecraft fan",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Dragon Claw", "Tailwind"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Disable", "Play Rough", "Protect"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Wave Crash", "Jet Punch", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Fire",
+"moves": ["Protect", "Throat Chop"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Scream Tail", "Palafin", "Ting-Lu"]
+},
+"outcome": 0
+}

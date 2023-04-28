@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848660110",
+"p1": {
+"playerName": "M1so",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Haze", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Sand Tomb"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "DragonWindGT",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Nasty Plot", "Make It Rain", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Quaquaval", "Gholdengo", "Amoonguss", "Chi-Yu"]
+},
+"outcome": 1
+}

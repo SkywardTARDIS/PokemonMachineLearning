@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847254618",
+"p1": {
+"playerName": "HitFissureThenLose",
+"fullTeam": [
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Toxic", "Infestation"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Foul Play"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+}
+],
+"broughtTeam": ["Toxapex", "Wo-Chien", "Grimmsnarl", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Terry kloak",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Earthquake", "Tera Blast", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Encore", "Freeze-Dry", "Protect", "Chilling Water"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Dragonite", "Iron Bundle"]
+},
+"outcome": 0
+}

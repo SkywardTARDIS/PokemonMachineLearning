@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852169708",
+"p1": {
+"playerName": "Doomtheboomkin",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Protect", "Substitute", "Wave Crash"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Rage Powder"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Palafin", "Pelipper", "Amoonguss"]
+},
+"p2": {
+"playerName": "fenixaka",
+"fullTeam": [
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz", "Protect"]
+}
+],
+"broughtTeam": ["Sylveon", "Amoonguss", "Palafin", "Arcanine"]
+},
+"outcome": 1
+}

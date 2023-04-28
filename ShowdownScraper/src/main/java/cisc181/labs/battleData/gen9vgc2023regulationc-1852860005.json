@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852860005",
+"p1": {
+"playerName": "Funnyman Krebs",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "dirt eater",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Choco-Mousse",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Throat Chop", "Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Infurno",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Snarl", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Arcanine"]
+},
+"p2": {
+"playerName": "tang gang member",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Protect", "Blizzard", "Earth Power"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Gyro Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+}
+],
+"broughtTeam": ["Abomasnow", "Bronzong", "Arcanine"]
+},
+"outcome": 1
+}

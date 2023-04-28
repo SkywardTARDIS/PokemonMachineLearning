@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847407809",
+"p1": {
+"playerName": "Pro umper",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Trick Room", "Pain Split", "Snarl"]
+},
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Tailwind", "Encore", "Soak", "Icy Wind"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Hyper Voice"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Brambleghast", "Spiritomb", "Lumineon", "Sylveon"]
+},
+"p2": {
+"playerName": "MrOktagon",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wave Crash", "Tera Blast", "Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Chien-Pao", "Arcanine"]
+},
+"outcome": 1
+}

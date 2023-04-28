@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847269507",
+"p1": {
+"playerName": "vyxl",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Bulldoze"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Wave Crash", "Earthquake", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "DivineCavalier",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect", "Lumina Crash", "Hypnosis"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mystical Fire"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Drain Punch"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Espathra", "Flutter Mane", "Palafin"]
+},
+"outcome": 1
+}

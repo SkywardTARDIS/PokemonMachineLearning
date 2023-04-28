@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845199953",
+"p1": {
+"playerName": "cat vomiting",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Encore", "Howl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Headlong Rush", "Rock Slide"]
+}
+],
+"broughtTeam": ["Scream Tail", "Gyarados", "Corviknight", "Great Tusk"]
+},
+"p2": {
+"playerName": "sauceconnoisseur",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Maushold", "Annihilape", "Amoonguss"]
+},
+"outcome": 1
+}

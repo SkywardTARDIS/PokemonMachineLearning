@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852813109",
+"p1": {
+"playerName": "jotapeloafrutado",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Arcanine", "Roaring Moon", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Mortipherus",
+"fullTeam": [
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Heat Wave", "Giga Drain", "Quiver Dance"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Waterfall", "Thunder Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Cetitan", "Volcarona", "Gyarados", "Amoonguss"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852455466",
+"p1": {
+"playerName": "S.r Gare",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Fissure", "Heavy Slam"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Acid Spray"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Kingambit", "Ting-Lu", "Iron Moth", "Flutter Mane"]
+},
+"p2": {
+"playerName": "simpleized",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance", "Pollen Puff", "Rage Powder", "Spore"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Wave",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Calm Mind", "Muddy Water"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Amoonguss", "Vaporeon"]
+},
+"outcome": 0
+}

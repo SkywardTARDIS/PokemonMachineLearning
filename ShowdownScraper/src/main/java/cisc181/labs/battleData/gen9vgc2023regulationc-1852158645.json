@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852158645",
+"p1": {
+"playerName": "Palance_Bear",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Howl"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Heavy Slam", "Stone Edge"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Ting-Lu", "Baxcalibur"]
+},
+"p2": {
+"playerName": "los fudidos",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Iron Hands", "Iron Bundle"]
+},
+"outcome": 1
+}

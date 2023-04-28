@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851103312",
+"p1": {
+"playerName": "saasdfasfsadsada",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Tera Blast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Body Press", "Shed Tail"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect"]
+}
+],
+"broughtTeam": ["Dragonite", "Orthworm", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Gengarone",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Hurricane"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Aqua Tail"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Vivillon", "Garganacl", "Gyarados"]
+},
+"outcome": 1
+}

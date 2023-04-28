@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844826943",
+"p1": {
+"playerName": "RedTeoVGC",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+}
+],
+"broughtTeam": ["Amoonguss", "Chien-Pao", "Dragapult"]
+},
+"p2": {
+"playerName": "RobinCars",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Feint"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tinkaton", "Flutter Mane", "Chi-Yu"]
+},
+"outcome": 1
+}

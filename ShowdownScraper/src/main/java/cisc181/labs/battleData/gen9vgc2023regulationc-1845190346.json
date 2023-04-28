@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845190346",
+"p1": {
+"playerName": "RemHood",
+"fullTeam": [
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Helping Hand", "Will-O-Wisp", "Defog"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Boomburst"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Altaria", "Iron Jugulis", "Noivern", "Salamence"]
+},
+"p2": {
+"playerName": "LilBadWord",
+"fullTeam": [
+{
+"species": "Braviary",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Magnet Rise", "Draining Kiss"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Protect", "Electro Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "Cloud Nine",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+}
+],
+"broughtTeam": ["Klefki", "Jolteon", "Golduck", "Arcanine"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852359316",
+"p1": {
+"playerName": "AbsRam",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Psyshock", "Giga Drain", "Dazzling Gleam", "Trick Room"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Chesto Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Skill Swap"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+}
+],
+"broughtTeam": ["Hatterene", "Indeedee", "Torkoal", "Iron Hands"]
+},
+"p2": {
+"playerName": "WTFisThisEffinTeam",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hypnosis", "Protect", "Heal Pulse"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Wacan Berry",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Perish Song", "Soak", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Fissure", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Arcanine", "Gothitelle", "Azumarill", "Ting-Lu"]
+},
+"outcome": 1
+}

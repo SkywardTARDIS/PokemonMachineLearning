@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850968844",
+"p1": {
+"playerName": "Duecal1on",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Wide Guard", "Hurricane", "Helping Hand"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Water",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Hurricane", "Protect", "Draco Meteor"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+}
+],
+"broughtTeam": ["Pelipper", "Scizor", "Dragonite", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Bankaimike",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Arcanine", "Palafin", "Flutter Mane"]
+},
+"outcome": 1
+}

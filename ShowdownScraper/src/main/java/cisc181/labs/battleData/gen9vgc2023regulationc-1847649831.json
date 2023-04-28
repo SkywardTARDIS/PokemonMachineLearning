@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847649831",
+"p1": {
+"playerName": "IGOBONK",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Bulk Up", "Rage Fist"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Tailwind", "Protect"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Wave", "Gigaton Hammer", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Annihilape", "Roaring Moon", "Tinkaton", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Blazing Blackness",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Protect", "Leech Seed", "Ruination", "Snarl"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Grimmsnarl", "Ting-Lu", "Chien-Pao"]
+},
+"outcome": 1
+}

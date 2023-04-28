@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1852402420",
+"p1": {
+"playerName": "VeeGey",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Squawkabilly",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Surf", "Tera Blast"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Scovillain", "Barraskewda", "Golduck", "Pelipper"]
+},
+"p2": {
+"playerName": "ArgoMcDorko",
+"fullTeam": [
+{
+"species": "Mudsdale",
+"nickname": "Mustdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Smack Down"]
+},
+{
+"species": "Tyranitar",
+"nickname": "T-tar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Klefki",
+"nickname": "Snefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Toxic Pecs",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic"]
+}
+],
+"broughtTeam": ["Mudsdale", "Tyranitar", "Klefki", "Toxapex"]
+},
+"outcome": 1
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1852441061",
+"p1": {
+"playerName": "Blastoise Farted",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Calm Mind", "Chilling Water", "Giga Drain", "Draining Kiss"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Bitter Blade"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Earth Power", "Energy Ball", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Arcanine", "Florges", "Ceruledge", "Arboliva"]
+},
+"p2": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "PlusUltra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Rage Powder", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Good Soup",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Ruination", "Heavy Slam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 1
+}

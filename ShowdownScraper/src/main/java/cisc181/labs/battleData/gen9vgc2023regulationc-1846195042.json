@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846195042",
+"p1": {
+"playerName": "KatafriVGC",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Toby",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Flamethrower"]
+},
+{
+"species": "Lilligant",
+"nickname": "Lars",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Petal Dance", "Quiver Dance"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "Fairy",
+"moves": ["Petal Dance", "Revelation Dance", "Quiver Dance", "Substitute"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fiery Dance", "Struggle Bug", "Quiver Dance", "Morning Sun"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Oricorio", "Volcarona"]
+},
+"p2": {
+"playerName": "Rattoghiaccio",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Light Screen", "Reflect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Stomping Tantrum", "Snarl", "Protect", "Throat Chop"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fiery Dance"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Ting-Lu", "Iron Hands", "Volcarona"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851568440",
+"p1": {
+"playerName": "Trabje",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Kowtow Cleave"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Snarl"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+}
+],
+"broughtTeam": ["Kingambit", "Ceruledge", "Ting-Lu", "Glimmora"]
+},
+"p2": {
+"playerName": "Kirovz",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Protect", "Substitute", "Hex"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aerial Ace", "Stomping Tantrum"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Earth Power"]
+}
+],
+"broughtTeam": ["Dondozo", "Flutter Mane", "Dragonite", "Glimmora"]
+},
+"outcome": 0
+}

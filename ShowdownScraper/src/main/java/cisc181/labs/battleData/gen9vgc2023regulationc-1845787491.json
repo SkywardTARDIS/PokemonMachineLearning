@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845787491",
+"p1": {
+"playerName": "upswinging",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Brave Bird", "Haze"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Close Combat", "Headlong Rush"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Gholdengo", "Great Tusk"]
+},
+"p2": {
+"playerName": "Monument6",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Sand Tomb", "Body Press"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Disable"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Protect"]
+}
+],
+"broughtTeam": ["Garganacl", "Ting-Lu", "Sableye", "Corviknight"]
+},
+"outcome": 1
+}

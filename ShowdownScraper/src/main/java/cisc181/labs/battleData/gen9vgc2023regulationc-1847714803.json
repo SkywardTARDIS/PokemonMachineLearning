@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847714803",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Nasty Plot", "Shadow Ball", "Make It Rain"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Close Combat", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Pachirisu", "Gholdengo", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "Tumes92",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb", "Beat Up"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Vital Spirit",
+"teraType": "Fire",
+"moves": ["Rage Fist"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Maushold", "Annihilape"]
+},
+"outcome": 1
+}

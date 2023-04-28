@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847928102",
+"p1": {
+"playerName": "MorphinVGC",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stone Edge"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Palafin", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "TharoksVGC",
+"fullTeam": [
+{
+"species": "Forretress",
+"nickname": "Forretress",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Blast", "Pin Missile", "Heavy Slam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Earth Power", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Forretress", "Gastrodon", "Talonflame"]
+},
+"outcome": 0
+}

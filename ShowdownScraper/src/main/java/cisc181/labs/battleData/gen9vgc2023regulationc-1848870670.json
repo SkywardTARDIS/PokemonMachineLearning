@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848870670",
+"p1": {
+"playerName": "maucs",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Iron Defense", "Shed Tail"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Close Combat", "Heavy Slam"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Quick Guard"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Orthworm", "Great Tusk", "Talonflame"]
+},
+"p2": {
+"playerName": "Kammala",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Protect", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stealth Rock", "Ruination", "Heavy Slam"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Protect"]
+}
+],
+"broughtTeam": ["Azumarill", "Tauros", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 0
+}

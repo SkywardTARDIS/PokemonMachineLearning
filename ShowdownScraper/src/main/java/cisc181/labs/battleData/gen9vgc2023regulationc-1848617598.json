@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848617598",
+"p1": {
+"playerName": "Pimpin2",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stone Edge", "Protect"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Skill Swap", "Detect", "Close Combat"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Medicham", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "nucleartoad",
+"fullTeam": [
+{
+"species": "Sunflora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "NatKing Cole",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Eruption"]
+},
+{
+"species": "Hatterene",
+"nickname": "Irene Molloy",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Trick Room", "Draining Kiss", "Psychic", "Protect"]
+},
+{
+"species": "Hariyama",
+"nickname": "Harry Caray",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Close Combat", "Fake Out"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Hatterene", "Hariyama"]
+},
+"outcome": 0
+}

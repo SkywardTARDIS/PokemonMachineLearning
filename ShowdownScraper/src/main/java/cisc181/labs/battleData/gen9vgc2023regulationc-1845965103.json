@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845965103",
+"p1": {
+"playerName": "dhardwi2",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Choice Specs",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet", "Play Rough", "Liquidation"]
+}
+],
+"broughtTeam": ["Talonflame", "Kilowattrel", "Chien-Pao", "Azumarill"]
+},
+"p2": {
+"playerName": "Valhala Alfa",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Tailwind", "Extreme Speed"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water", "Protect"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Dragonite", "Gastrodon", "Hariyama"]
+},
+"outcome": 1
+}

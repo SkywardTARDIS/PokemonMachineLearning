@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845690849",
+"p1": {
+"playerName": "Crocedelizia",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Bulldoze"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ursaring",
+"nickname": "Ursaring",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Claw", "Bulk Up"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Garganacl", "Ursaring", "Amoonguss"]
+},
+"p2": {
+"playerName": "ApxKrypha",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat", "Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Pounce"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Dragapult", "Chi-Yu", "Scizor"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848048605",
+"p1": {
+"playerName": "pls be kind to me",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Roost", "Tailwind", "Iron Head"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Protect", "Glaive Rush", "Ice Shard"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Body Press", "Yawn"]
+}
+],
+"broughtTeam": ["Corviknight", "Baxcalibur", "Scream Tail", "Dachsbun"]
+},
+"p2": {
+"playerName": "donpapa22",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Protect", "Helping Hand", "Wish", "Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Jet Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Protect"]
+}
+],
+"broughtTeam": ["Dachsbun", "Palafin", "Ting-Lu", "Bisharp"]
+},
+"outcome": 1
+}

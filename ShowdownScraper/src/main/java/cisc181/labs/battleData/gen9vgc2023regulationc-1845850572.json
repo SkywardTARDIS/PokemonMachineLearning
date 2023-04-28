@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1845850572",
+"p1": {
+"playerName": "testlab12",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Ice Shard"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Brave Bird", "Taunt"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Wave Crash", "Protect", "Jet Punch"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Talonflame", "Flutter Mane", "Palafin"]
+},
+"p2": {
+"playerName": "0l0f3rn3",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Sucker Punch", "Tera Blast", "Close Combat", "Rage Powder"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psyshock"]
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Brute Bonnet", "Farigiraf"]
+},
+"outcome": 1
+}

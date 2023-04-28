@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845885270",
+"p1": {
+"playerName": "Aleghandro",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Population Bomb"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Throat Chop"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Maushold", "Flamigo"]
+},
+"p2": {
+"playerName": "JoshLove2020",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Dark Pulse", "Protect", "Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Amoonguss", "Gothitelle"]
+},
+"outcome": 0
+}

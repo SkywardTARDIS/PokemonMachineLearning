@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852473264",
+"p1": {
+"playerName": "foiledfeline",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Ruination"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Bullet Seed"]
+}
+],
+"broughtTeam": ["Talonflame", "Baxcalibur", "Ting-Lu", "Breloom"]
+},
+"p2": {
+"playerName": "Sjogis",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Yawn", "Helping Hand"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Weakness Policy",
+"ability": "Electromorphosis",
+"teraType": "Water",
+"moves": ["Muddy Water", "Parabolic Charge"]
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Trick Room", "Skill Swap"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Electric Seed",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Acupressure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Bellibolt", "Stantler", "Pincurchin"]
+},
+"outcome": 1
+}

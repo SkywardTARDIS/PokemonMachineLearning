@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847221753",
+"p1": {
+"playerName": "danthek84",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Power Whip"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Tsareena", "Garchomp", "Chien-Pao", "Arcanine"]
+},
+"p2": {
+"playerName": "2knight",
+"fullTeam": [
+{
+"species": "Ditto",
+"nickname": "Tumor",
+"item": "",
+"ability": "Transform",
+"teraType": "",
+"moves": ["High Jump Kick", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Hobo Bird",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "The Thing",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Curse"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Destiny Bond", "Armor Cannon"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ditto", "Iron Bundle", "Garganacl", "Armarouge"]
+},
+"outcome": 0
+}

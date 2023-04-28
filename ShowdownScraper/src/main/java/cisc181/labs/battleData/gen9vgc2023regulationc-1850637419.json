@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850637419",
+"p1": {
+"playerName": "Solerma",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Make It Rain", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Gholdengo", "Arcanine", "Palafin", "Amoonguss"]
+},
+"p2": {
+"playerName": "Goldsaint5",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Clear Amulet",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Phantom Force", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Talonflame", "Chien-Pao", "Gyarados", "Brambleghast"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847293294",
+"p1": {
+"playerName": "totempancho",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Quiver Dance", "Protect", "Giga Drain", "Heat Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Super Fang"]
+},
+{
+"species": "Beartic",
+"nickname": "Beartic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+}
+],
+"broughtTeam": ["Volcarona", "Maushold", "Beartic", "Abomasnow"]
+},
+"p2": {
+"playerName": "counterbash",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Sitrus Berry",
+"ability": "Levitate",
+"teraType": "Water",
+"moves": ["Trick Room", "Iron Defense", "Body Press", "Future Sight"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Glaive Rush"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Bronzong", "Baxcalibur"]
+},
+"outcome": 1
+}

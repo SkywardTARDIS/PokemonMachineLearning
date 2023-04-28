@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846450218",
+"p1": {
+"playerName": "Fitz12345",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Bulk Up", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Earth Power", "Protect", "Clear Smog"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword", "Protect"]
+}
+],
+"broughtTeam": ["Ceruledge", "Gastrodon", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Maurone",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Taunt", "Super Fang", "Follow Me"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Bulk Up", "Protect", "Wave Crash"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Giga Drain", "Protect", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Maushold", "Palafin", "Ting-Lu", "Wo-Chien"]
+},
+"outcome": 0
+}

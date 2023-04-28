@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1846618621",
+"p1": {
+"playerName": "PiccoloRuiz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Sasha Colby",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bianca",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Anetra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Sneak", "Bitter Blade", "Protect", "Bulk Up"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Gyarados", "Ceruledge"]
+},
+"p2": {
+"playerName": "WumblesNSuch",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Ice Shard"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Thunder Punch", "Drain Punch"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Amoonguss", "Iron Bundle", "Iron Hands"]
+},
+"outcome": 1
+}

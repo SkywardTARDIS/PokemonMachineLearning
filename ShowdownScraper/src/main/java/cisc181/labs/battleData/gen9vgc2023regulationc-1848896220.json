@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848896220",
+"p1": {
+"playerName": "maucs",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Close Combat", "Headlong Rush"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tailwind", "Taunt", "Brave Bird"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+}
+],
+"broughtTeam": ["Orthworm", "Great Tusk", "Talonflame", "Wo-Chien"]
+},
+"p2": {
+"playerName": "BoutEclipse",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Will-O-Wisp"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swords Dance", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Sableye", "Iron Hands", "Chien-Pao", "Corviknight"]
+},
+"outcome": 0
+}

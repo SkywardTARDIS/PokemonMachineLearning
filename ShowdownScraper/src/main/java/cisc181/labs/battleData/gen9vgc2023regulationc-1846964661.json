@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846964661",
+"p1": {
+"playerName": "the mudkip warrior",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Gremlin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Misty Terrain", "Light Screen", "Reflect", "Spirit Break"]
+},
+{
+"species": "Palafin",
+"nickname": "Captain Coral",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Twilight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dolce",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Fire Punch", "Stomping Tantrum", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Palafin", "Flutter Mane", "Dragonite"]
+},
+"p2": {
+"playerName": "Prompto88",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Venoshock", "Spiky Shield"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Extreme Speed", "Will-O-Wisp", "Flare Blitz", "Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Substitute", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Arcanine", "Maushold", "Wo-Chien"]
+},
+"outcome": 0
+}

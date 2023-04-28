@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848047700",
+"p1": {
+"playerName": "ChainsPkmn",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Order Up", "Tera Blast", "Wave Crash"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Psych Up", "Energy Ball", "Stored Power"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Claw"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Endure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Gothitelle", "Annihilape", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Uhhncertain",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Adeyemi",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Moonblast"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Flutter Mane", "Iron Bundle"]
+},
+"outcome": 1
+}

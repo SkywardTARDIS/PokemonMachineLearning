@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847959492",
+"p1": {
+"playerName": "RegiiiceSpice",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Glaive Rush", "Ice Shard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rage Powder", "Protect", "Pollen Puff", "Spore"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Flutter Mane", "Gyarados", "Amoonguss"]
+},
+"p2": {
+"playerName": "Flytrapin",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Icy Wind", "Sacred Sword"]
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Shadow Ball", "Grass Knot"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Clear Amulet",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Dragon Dance", "Facade"]
+}
+],
+"broughtTeam": ["Talonflame", "Chien-Pao", "Espeon", "Gyarados"]
+},
+"outcome": 1
+}

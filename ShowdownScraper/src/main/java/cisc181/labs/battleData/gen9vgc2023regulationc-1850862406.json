@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850862406",
+"p1": {
+"playerName": "RamonTheKiller",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Roost", "Iron Defense", "Body Press"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Tera Blast", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Corviknight", "Gyarados", "Amoonguss", "Dragonite"]
+},
+"p2": {
+"playerName": "texastrill713",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["X-Scissor", "Bullet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Ice Beam", "Muddy Water"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Flutter Mane", "Vaporeon", "Garchomp"]
+},
+"outcome": 1
+}

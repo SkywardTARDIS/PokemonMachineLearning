@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846733196",
+"p1": {
+"playerName": "That_Leek",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Tyranitar", "Gyarados", "Scizor", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Jember",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Extreme Speed"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+}
+],
+"broughtTeam": ["Meowscarada", "Flutter Mane", "Dragonite", "Arcanine"]
+},
+"outcome": 1
+}

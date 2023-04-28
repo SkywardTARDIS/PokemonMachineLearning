@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850945778",
+"p1": {
+"playerName": "MHSSI",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Quick Claw",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Fissure", "Eruption", "Lava Plume"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Torkoal", "Oranguru"]
+},
+"p2": {
+"playerName": "peep_island",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "Past Iron Hands",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard"]
+},
+{
+"species": "Scizor",
+"nickname": "I <3 Fire",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": [""]
+},
+{
+"species": "Garchomp",
+"nickname": "monch cronch",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Slither wing.",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Hariyama", "Scizor", "Garchomp", "Iron Moth"]
+},
+"outcome": 1
+}

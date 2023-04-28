@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846602189",
+"p1": {
+"playerName": "hancec",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Matsuemon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Giyu",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Zenitsu",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Inosuke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Close Combat"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Iron Bundle", "Gholdengo", "Great Tusk"]
+},
+"p2": {
+"playerName": "Heaven and weak",
+"fullTeam": [
+{
+"species": "Misdreavus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mismagius",
+"nickname": "Mismagius",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Mismagius", "Murkrow", "Great Tusk", "Arcanine"]
+},
+"outcome": 1
+}

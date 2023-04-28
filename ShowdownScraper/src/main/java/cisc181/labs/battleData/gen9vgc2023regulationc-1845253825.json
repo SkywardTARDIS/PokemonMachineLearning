@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845253825",
+"p1": {
+"playerName": "FlynnHunter7",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Haze"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Fissure"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Wo-Chien", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Ori1",
+"fullTeam": [
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Adrenaline Orb",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Rage Fist", "Protect", "Drain Punch"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Competitive",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane", "Discharge"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball"]
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Stantler", "Annihilape", "Kilowattrel", "Armarouge"]
+},
+"outcome": 1
+}

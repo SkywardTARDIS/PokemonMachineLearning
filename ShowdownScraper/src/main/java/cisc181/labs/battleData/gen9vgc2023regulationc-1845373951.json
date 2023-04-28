@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845373951",
+"p1": {
+"playerName": "Prompto88",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Mortal Spin", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang", "Protect", "Follow Me"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Substitute", "Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Maushold", "Ting-Lu", "Wo-Chien"]
+},
+"p2": {
+"playerName": "Drembi",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Leftovers",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Chilling Water", "Thunderbolt"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Seed Bomb", "Crunch"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spirit Break"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Bundle", "Brute Bonnet", "Iron Valiant"]
+},
+"outcome": 1
+}

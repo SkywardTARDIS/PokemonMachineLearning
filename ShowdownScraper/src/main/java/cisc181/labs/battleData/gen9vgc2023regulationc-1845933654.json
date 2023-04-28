@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845933654",
+"p1": {
+"playerName": "gankyburner",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "C'mon C'mon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Haze", "Foul Play"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "B.H. Sun",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Overheat"]
+},
+{
+"species": "Corviknight",
+"nickname": "Mr. Jones",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Leafeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Corviknight"]
+},
+"p2": {
+"playerName": "athico",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Drain Punch", "Close Combat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+}
+],
+"broughtTeam": ["Annihilape", "Flutter Mane", "Maushold", "Dragapult"]
+},
+"outcome": 1
+}

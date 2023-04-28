@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851675016",
+"p1": {
+"playerName": "GobranJoe",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption", "Flamethrower"]
+},
+{
+"species": "Hypno",
+"nickname": "Hypno",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Hypnosis", "Helping Hand"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Electrode", "Torkoal", "Hypno", "Dragonite"]
+},
+"p2": {
+"playerName": "The Hootie",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Psychic"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Iron Bundle", "Flutter Mane", "Gothitelle"]
+},
+"outcome": 0
+}

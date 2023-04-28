@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850375376",
+"p1": {
+"playerName": "fredo1994",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Glaive Rush", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Ting-Lu", "Baxcalibur"]
+},
+"p2": {
+"playerName": "JayoticNL",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "",
+"ability": "Overcoat",
+"teraType": "",
+"moves": ["Shift Gear", "Spin Out", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Revavroom"]
+},
+"outcome": 0
+}

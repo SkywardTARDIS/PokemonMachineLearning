@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848670660",
+"p1": {
+"playerName": "Pokebet",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Shadow Ball", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Flutter Mane", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "nose1490",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Rock Slide", "Earthquake"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Trick Room", "Gyro Ball"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Shadow Sneak"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Earthquake", "Giga Impact"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Bronzong", "Iron Valiant", "Slaking"]
+},
+"outcome": 1
+}

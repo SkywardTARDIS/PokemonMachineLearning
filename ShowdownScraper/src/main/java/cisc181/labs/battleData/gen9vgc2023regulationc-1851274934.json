@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851274934",
+"p1": {
+"playerName": "Tronplex",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "Sturdy",
+"teraType": "",
+"moves": ["Flash Cannon", "Light Screen"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Dark Pulse", "Tailwind", "Protect", "Draco Meteor"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Power Whip", "Shadow Sneak", "Protect"]
+}
+],
+"broughtTeam": ["Magnezone", "Hydreigon", "Great Tusk", "Brambleghast"]
+},
+"p2": {
+"playerName": "BakedAlfredo",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Ruination", "Pollen Puff", "Leech Seed", "Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Sludge Bomb", "Hydro Pump"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Cereal",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Wo-Chien", "Gastrodon", "Ting-Lu"]
+},
+"outcome": 1
+}

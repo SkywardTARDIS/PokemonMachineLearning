@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851482592",
+"p1": {
+"playerName": "jeffman323",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Spore", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Trick Room", "Light Screen", "Helping Hand", "Reflect"]
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Iron Hands", "Stantler"]
+},
+"p2": {
+"playerName": "pokemon_and_beer",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Howl", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Dragonite", "Arcanine"]
+},
+"outcome": 1
+}

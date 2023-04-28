@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845839462",
+"p1": {
+"playerName": "Starstorm295",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect", "Sacred Sword"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Moth", "Flutter Mane", "Corviknight", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Dov'e Yara?",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Poison Jab"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rage Powder", "Spore"]
+}
+],
+"broughtTeam": ["Muk", "Flutter Mane", "Chi-Yu", "Amoonguss"]
+},
+"outcome": 0
+}

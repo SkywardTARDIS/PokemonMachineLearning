@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1849713288",
+"p1": {
+"playerName": "SeviperGliscor",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Follow Me", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Nasty Plot", "Lava Plume", "Protect", "Dark Pulse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Maushold", "Chi-Yu", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Flo51",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Sludge Wave"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Drill Peck"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Heat Wave"]
+}
+],
+"broughtTeam": ["Palafin", "Glimmora", "Corviknight", "Hydreigon"]
+},
+"outcome": 1
+}

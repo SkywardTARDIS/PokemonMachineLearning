@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846526960",
+"p1": {
+"playerName": "ReCapra",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Cocchetto",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Orthworm",
+"nickname": "Gabibbo",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyaragod",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "La Forchetta",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Orthworm", "Gyarados", "Kingambit"]
+},
+"p2": {
+"playerName": "hancec",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Matsuemon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Giyu",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Tanjiro",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Protect", "Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Enmu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Murkrow", "Iron Bundle", "Chi-Yu", "Brute Bonnet"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851915369",
+"p1": {
+"playerName": "woho",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "Luthien",
+"item": "Grassy Seed",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Protect"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Moranca",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Hariyama",
+"nickname": "Rikishi",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Fake Out", "Wide Guard", "Knock Off", "Drain Punch"]
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arboliva", "Orthworm", "Glimmora", "Hariyama"]
+},
+"p2": {
+"playerName": "squirrel_sarge",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Life Orb",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Palafin", "Iron Bundle"]
+},
+"outcome": 1
+}

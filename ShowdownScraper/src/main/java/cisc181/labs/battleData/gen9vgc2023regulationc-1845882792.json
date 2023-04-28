@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845882792",
+"p1": {
+"playerName": "FhiiVGC",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Chien-Pao", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Thunderbolt", "Hydro Pump"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 1
+}

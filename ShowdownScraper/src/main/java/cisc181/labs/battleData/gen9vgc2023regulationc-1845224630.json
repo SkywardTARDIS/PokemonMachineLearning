@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845224630",
+"p1": {
+"playerName": "Mass&Energy!",
+"fullTeam": [
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Black Sludge",
+"ability": "Water Absorb",
+"teraType": "Poison",
+"moves": ["Toxic", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Life Dew", "Seismic Toss", "Protect"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Clodsire", "Pelipper", "Chansey", "Vaporeon"]
+},
+"p2": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Sucker Punch", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Gyarados", "Dragonite", "Flutter Mane", "Chien-Pao"]
+},
+"outcome": 0
+}

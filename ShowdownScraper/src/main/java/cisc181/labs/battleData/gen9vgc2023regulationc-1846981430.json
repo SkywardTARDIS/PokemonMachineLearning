@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846981430",
+"p1": {
+"playerName": "Brierre",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Amoonguss", "Ceruledge", "Gyarados"]
+},
+"p2": {
+"playerName": "Alaskan_fisher",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Helping Hand", "Follow Me", "Super Fang"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mystical Fire"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Maushold", "Palafin", "Flutter Mane", "Arcanine"]
+},
+"outcome": 0
+}

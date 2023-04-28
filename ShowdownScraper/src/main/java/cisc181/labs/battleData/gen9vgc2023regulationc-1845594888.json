@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845594888",
+"p1": {
+"playerName": "Chest",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "La Gamba",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Thunder Wave", "Taunt", "Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Protect", "Dark Pulse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bambi",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Melameneo",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Chi-Yu", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Jubileu1940",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Clear Smog", "Spore", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Amoonguss", "Palafin"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845657184",
+"p1": {
+"playerName": "Sophie Lumina",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge", "Protect", "Acid Spray"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Mortal Spin", "Memento"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Knock Off", "Earthquake", "Rapid Spin"]
+}
+],
+"broughtTeam": ["Bellibolt", "Glimmora", "Orthworm", "Great Tusk"]
+},
+"p2": {
+"playerName": "arodplays",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Wave", "Power Gem"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Torch Song", "Protect", "Slack Off"]
+},
+{
+"species": "Girafarig",
+"nickname": "Girafarig",
+"item": "Eviolite",
+"ability": "",
+"teraType": "",
+"moves": ["Agility", "Nasty Plot", "Baton Pass"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Chilling Water", "Helping Hand"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Skeledirge", "Girafarig", "Gyarados"]
+},
+"outcome": 1
+}

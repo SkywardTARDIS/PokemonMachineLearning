@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846439473",
+"p1": {
+"playerName": "charlie0301",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Void Fiend",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Engineer",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Loader",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Arcanine",
+"nickname": "Captain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Iron Hands", "Arcanine"]
+},
+"p2": {
+"playerName": "Paladin Dawn",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Poison",
+"moves": ["Icicle Spear", "Protect", "Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz", "Protect", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Baxcalibur", "Amoonguss", "Arcanine"]
+},
+"outcome": 0
+}

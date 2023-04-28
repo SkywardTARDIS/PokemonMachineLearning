@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847957176",
+"p1": {
+"playerName": "Sotero23",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Psychic"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Dragon Dance", "Dragon Claw"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Scizor", "Gothitelle", "Dragonite", "Flutter Mane"]
+},
+"p2": {
+"playerName": "FunneeMonkee",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "The",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "bogus man",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "dumb",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "uh",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Fissure"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Chi-Yu", "Ting-Lu"]
+},
+"outcome": 1
+}

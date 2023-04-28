@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844875767",
+"p1": {
+"playerName": "Qwil32",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Drain Punch", "Sucker Punch", "Body Slam"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Focus Sash",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Super Fang", "Doodle", "Parting Shot"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Steam Engine",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp", "Protect", "Snarl"]
+}
+],
+"broughtTeam": ["Slaking", "Dragonite", "Grafaiai", "Arcanine"]
+},
+"p2": {
+"playerName": "FanTNTastic",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Soak", "Aqua Jet", "Helping Hand", "Perish Song"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Quick Claw",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Reflect", "Skill Swap"]
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "Weakness Policy",
+"ability": "Steam Engine",
+"teraType": "",
+"moves": ["Flamethrower", "Earth Power"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Azumarill", "Umbreon", "Coalossal", "Talonflame"]
+},
+"outcome": 1
+}

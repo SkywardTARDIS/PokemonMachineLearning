@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846052478",
+"p1": {
+"playerName": "TuroVGC",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Super Fang"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Body Press", "Iron Defense", "Trick Room"]
+}
+],
+"broughtTeam": ["Maushold", "Torkoal", "Flutter Mane", "Bronzong"]
+},
+"p2": {
+"playerName": "bronzongbroomsvgc",
+"fullTeam": [
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Acid Armor", "Muddy Water", "Rest"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Goodra", "Wo-Chien", "Pelipper", "Corviknight"]
+},
+"outcome": 1
+}

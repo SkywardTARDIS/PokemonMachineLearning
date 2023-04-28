@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846579790",
+"p1": {
+"playerName": "Fonzee3000",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Ruination"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Moonblast"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Arcanine", "Flutter Mane", "Palafin"]
+},
+"p2": {
+"playerName": "OctopusWithAHat",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "demon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psyshock"]
+},
+{
+"species": "Kingambit",
+"nickname": "chess",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "NyQuil",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Farigiraf", "Kingambit", "Amoonguss"]
+},
+"outcome": 1
+}

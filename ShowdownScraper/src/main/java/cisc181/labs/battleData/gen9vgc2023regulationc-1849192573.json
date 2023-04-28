@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849192573",
+"p1": {
+"playerName": "dadarvin",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Protect", "Solar Beam"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Wide Guard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Torkoal", "Indeedee", "Gallade", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Sugarvgc",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Quick Claw",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Crunch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Tailwind"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Breloom", "Tyranitar", "Hydreigon", "Annihilape"]
+},
+"outcome": 1
+}

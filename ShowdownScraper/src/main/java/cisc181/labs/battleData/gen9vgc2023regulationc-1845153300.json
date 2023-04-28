@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845153300",
+"p1": {
+"playerName": "QuiC97",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Pounce", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Waterfall", "Tera Blast"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Scizor", "Gyarados", "Garchomp"]
+},
+"p2": {
+"playerName": "Kiriziio",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Giga Drain", "Leech Seed"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Protect", "Fiery Dance"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Parting Shot"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Volcarona", "Glimmora", "Grimmsnarl"]
+},
+"outcome": 0
+}

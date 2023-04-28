@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852348513",
+"p1": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Good Soup",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "EpicEra",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Spore", "Dazzling Gleam", "Baton Pass"]
+},
+{
+"species": "Hattrem",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Flame Orb",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Substitute", "Facade"]
+},
+{
+"species": "Alomomola",
+"nickname": "Alomomola",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Electrode", "Slaking", "Alomomola"]
+},
+"outcome": 1
+}

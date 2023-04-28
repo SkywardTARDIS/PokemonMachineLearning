@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850353834",
+"p1": {
+"playerName": "Sakul5",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fire Spin", "Slack Off"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Flower Trick"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Garganacl", "Skeledirge", "Meowscarada"]
+},
+"p2": {
+"playerName": "UltimoRyu",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Aqua Step"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Howl", "Protect", "Extreme Speed"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Sitrus Berry",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Brave Bird"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Power Gem"]
+}
+],
+"broughtTeam": ["Quaquaval", "Arcanine", "Flamigo", "Flutter Mane"]
+},
+"outcome": 0
+}

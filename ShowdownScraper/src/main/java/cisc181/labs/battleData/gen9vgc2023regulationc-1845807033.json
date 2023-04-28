@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845807033",
+"p1": {
+"playerName": "weidson",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard", "Freeze-Dry"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder", "Gravity", "Protect"]
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "U-turn"]
+}
+],
+"broughtTeam": ["Talonflame", "Iron Bundle", "Sandy Shocks", "Tsareena"]
+},
+"p2": {
+"playerName": "iceie_mint",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Leftovers",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Yawn", "Taunt", "Foul Play"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Pelipper", "Chien-Pao", "Umbreon"]
+},
+"outcome": 1
+}

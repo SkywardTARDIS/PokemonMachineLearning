@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848872069",
+"p1": {
+"playerName": "BoutEclipse",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect", "Shadow Sneak"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Reflect", "Foul Play", "Light Screen"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Sableye", "Chien-Pao", "Sylveon"]
+},
+"p2": {
+"playerName": "Vee_Sketch",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "Leftovers",
+"ability": "Dancer",
+"teraType": "Fire",
+"moves": ["Dragon Dance", "Revelation Dance"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Heavy Slam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dragon Dance", "Crunch"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Claw"]
+}
+],
+"broughtTeam": ["Oricorio", "Orthworm", "Roaring Moon", "Annihilape"]
+},
+"outcome": 1
+}

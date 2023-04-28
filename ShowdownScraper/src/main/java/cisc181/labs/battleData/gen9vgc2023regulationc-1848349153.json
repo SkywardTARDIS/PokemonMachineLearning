@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848349153",
+"p1": {
+"playerName": "seedroll",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Iapapa Berry",
+"ability": "Mirror Armor",
+"teraType": "Dragon",
+"moves": ["Bulk Up", "Brave Bird", "Roost"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Corviknight", "Palafin", "Amoonguss"]
+},
+"p2": {
+"playerName": "fredito1",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic", "Follow Me"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Dragon Dance", "Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Flare Blitz", "Leech Life"]
+}
+],
+"broughtTeam": ["Indeedee", "Garganacl", "Gyarados", "Slither Wing"]
+},
+"outcome": 1
+}

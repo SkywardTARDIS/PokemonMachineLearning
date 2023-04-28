@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847569281",
+"p1": {
+"playerName": "TrainerDylan24",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Bulk Up", "Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Waterfall"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Bellibolt", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "stunnaboypounder",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Energy Ball"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Stealth Rock", "Solar Beam"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Tailwind", "Taunt"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Torkoal", "Kingambit", "Murkrow"]
+},
+"outcome": 1
+}

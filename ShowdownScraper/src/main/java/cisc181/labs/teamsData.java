@@ -1,5 +1,10 @@
 package cisc181.labs;
 
+import com.github.cliftonlabs.json_simple.JsonException;
+import com.github.cliftonlabs.json_simple.JsonObject;
+
+import java.math.BigDecimal;
+
 public class teamsData {
     String id;
     teamObject p1;
@@ -11,6 +16,15 @@ public class teamsData {
         this.p1 = new teamObject(p1);
         this.p2 = new teamObject(p2);
         this.outcome = -1;
+    }
+
+    teamsData(JsonObject battleJSON) throws JsonException {
+        this.id = battleJSON.get(teamsDataFields.id.getKey()).toString();
+        teamObject holder = new teamObject((JsonObject) battleJSON.get(teamsDataFields.p1.getKey()));
+        this.p1 = holder;
+        holder = new teamObject((JsonObject) battleJSON.get(teamsDataFields.p2.getKey()));
+        this.p2 = holder;
+        this.outcome = Integer.valueOf(String.valueOf(battleJSON.get(teamsDataFields.outcome.getKey())));
     }
 
     public void updateOutcome(String winner){
@@ -28,5 +42,12 @@ public class teamsData {
         this.p2.printTeam();
         System.out.println("\n");
         System.out.println(this.outcome);
+    }
+
+    public String toJSON(){
+        String holder = "{\n\"id\": \"" + this.id + "\",\n\"p1\": ";
+        holder = holder + this.p1.toJSON() + ",\n\"p2\": ";
+        holder = holder + this.p2.toJSON() + ",\n\"outcome\": " + this.outcome + "\n}";
+        return holder;
     }
 }

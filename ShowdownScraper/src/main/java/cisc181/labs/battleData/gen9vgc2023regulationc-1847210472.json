@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847210472",
+"p1": {
+"playerName": "JacobMe",
+"fullTeam": [
+{
+"species": "Vespiquen",
+"nickname": "Vespiquen",
+"item": "Leftovers",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Defend Order", "Toxic", "Protect", "Roost"]
+},
+{
+"species": "Zangoose",
+"nickname": "Zangoose",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Gunk Shot"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Heal Pulse"]
+}
+],
+"broughtTeam": ["Vespiquen", "Zangoose", "Clawitzer", "Indeedee"]
+},
+"p2": {
+"playerName": "tu'ko delimo",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Fake Out", "Play Rough", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Swords Dance", "Sacred Sword", "Sucker Punch", "Protect"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Volt Switch"]
+}
+],
+"broughtTeam": ["Annihilape", "Iron Hands", "Chien-Pao", "Rotom"]
+},
+"outcome": 1
+}

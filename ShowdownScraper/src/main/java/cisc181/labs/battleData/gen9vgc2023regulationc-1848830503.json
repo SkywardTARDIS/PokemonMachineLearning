@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848830503",
+"p1": {
+"playerName": "Even Greener Grass",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Dawg",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Solar Beam", "Yawn", "Lava Plume", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Beverly",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Valencia",
+"item": "Leftovers",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Heat Wave", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "DEMI-GOD",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Torkoal", "Chi-Yu", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Runickol",
+"fullTeam": [
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Chilly Reception", "Blizzard"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Ice",
+"moves": ["Protect", "Icicle Crash", "Ice Shard"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect"]
+}
+],
+"broughtTeam": ["Slowking", "Baxcalibur", "Cetitan", "Kingambit"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846424520",
+"p1": {
+"playerName": "riddlingcrib",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Amoonguss", "Arcanine", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Strongale",
+"fullTeam": [
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Belly Drum", "Drain Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Leftovers",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Nasty Plot", "Dark Pulse"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Stantler", "Iron Hands", "Kingambit", "Chi-Yu"]
+},
+"outcome": 1
+}

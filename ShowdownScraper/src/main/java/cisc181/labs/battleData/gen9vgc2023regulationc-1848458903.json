@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848458903",
+"p1": {
+"playerName": "Tilzy",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Protect"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Pelipper", "Drednaw", "Chien-Pao", "Dragonite"]
+},
+"p2": {
+"playerName": "Kabunger",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxington",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Glaive Rush", "Protect", "Ice Shard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Luser",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Gyarados", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 0
+}

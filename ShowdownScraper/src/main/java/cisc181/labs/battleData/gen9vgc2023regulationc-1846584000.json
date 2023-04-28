@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846584000",
+"p1": {
+"playerName": "Chavalonmaster",
+"fullTeam": [
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Gooey",
+"teraType": "Poison",
+"moves": ["Rain Dance", "Acid Spray", "Thunder", "Dragon Pulse"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch", "Jet Punch"]
+},
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Icy Wind"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Goodra", "Palafin", "Lumineon"]
+},
+"p2": {
+"playerName": "z0ulda",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick", "Petal Blizzard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Iron Defense", "Body Press"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Flutter Mane", "Chi-Yu", "Orthworm"]
+},
+"outcome": 1
+}

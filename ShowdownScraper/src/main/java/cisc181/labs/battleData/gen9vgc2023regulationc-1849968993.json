@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849968993",
+"p1": {
+"playerName": "FuratBang",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ground",
+"moves": ["Headlong Rush", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Air Slash", "Discharge"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Arcanine", "Kilowattrel"]
+},
+"p2": {
+"playerName": "Specs Hex Pex",
+"fullTeam": [
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Power Whip"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Trick Room", "Energy Ball"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tsareena", "Tyranitar", "Houndstone", "Rabsca"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846447476",
+"p1": {
+"playerName": "upswinging",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sunny Day", "Brave Bird"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Close Combat", "Headlong Rush"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Murkrow", "Gholdengo", "Great Tusk", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "leomessias",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Eject Button",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Heal Pulse", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Perish Song", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Gothitelle", "Azumarill"]
+},
+"outcome": 1
+}

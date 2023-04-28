@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845902953",
+"p1": {
+"playerName": "Rybot.v2",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Gyarados", "Amoonguss"]
+},
+"p2": {
+"playerName": "Urkin' Pincurchin",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "The Boomer",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "VTuber",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Follow Me"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Ungamoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed"]
+},
+{
+"species": "Torkoal",
+"nickname": "LET HIM COOK",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Indeedee", "Brute Bonnet", "Torkoal"]
+},
+"outcome": 1
+}

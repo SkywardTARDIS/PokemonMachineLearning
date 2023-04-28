@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848183839",
+"p1": {
+"playerName": "Galuk",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Rocky",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Throat Chop", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Post GC2 testing",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Big Bertha",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Surf"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Bulkward",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Monsoon",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscruel",
+"nickname": "Weirdo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Pelipper", "Toedscruel"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852921540",
+"p1": {
+"playerName": "Magiplop",
+"fullTeam": [
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression", "Sucker Punch", "U-turn", "Feint"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Focus Energy"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Sada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Taunt", "Trop Kick"]
+}
+],
+"broughtTeam": ["Lokix", "Palafin", "Flutter Mane", "Tsareena"]
+},
+"p2": {
+"playerName": "TooGoodra",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Protect"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Fairy",
+"moves": ["Pollen Puff", "Foul Play", "Leech Seed", "Protect"]
+}
+],
+"broughtTeam": ["Gholdengo", "Pelipper", "Palafin", "Wo-Chien"]
+},
+"outcome": 1
+}

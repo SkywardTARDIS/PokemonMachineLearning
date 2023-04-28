@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846205090",
+"p1": {
+"playerName": "kookui",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Bulk Up"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Thunder Wave", "Howl"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Annihilape", "Scream Tail"]
+},
+"p2": {
+"playerName": "FlutterMalmo",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Solar Beam", "Eruption"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Torkoal", "Farigiraf"]
+},
+"outcome": 0
+}

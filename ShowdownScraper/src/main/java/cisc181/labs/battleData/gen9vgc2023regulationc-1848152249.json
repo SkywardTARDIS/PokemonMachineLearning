@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848152249",
+"p1": {
+"playerName": "HildaisViscous",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Earthquake"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Draco Meteor"]
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fire",
+"moves": ["Moonblast", "Tera Blast", "Protect"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Salamence", "Revavroom", "Iron Valiant"]
+},
+"p2": {
+"playerName": "ayuntamientoo",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "Inner Focus",
+"teraType": "Poison",
+"moves": ["Yawn", "Foul Play", "Wish", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "Sturdy",
+"teraType": "",
+"moves": ["Flash Cannon"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Umbreon", "Magnezone", "Tyranitar", "Scizor"]
+},
+"outcome": 1
+}

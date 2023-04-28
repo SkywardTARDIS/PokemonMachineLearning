@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848429215",
+"p1": {
+"playerName": "sjkAfatdog",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Parting Shot", "Spirit Break"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Eject Pack",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Overheat"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Dragon Dance", "Brick Break", "Protect", "Throat Chop"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Earth Power", "Recover", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Arcanine", "Roaring Moon", "Gastrodon"]
+},
+"p2": {
+"playerName": "Bamssee",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Casey",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Bulk Up", "Body Press", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Dazzling Gleam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Garchomp", "Klefki", "Roaring Moon"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852380892",
+"p1": {
+"playerName": "GholDenko",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "Flame Body",
+"teraType": "Grass",
+"moves": ["Quiver Dance", "Giga Drain", "Fiery Dance"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Drain Punch"]
+}
+],
+"broughtTeam": ["Palafin", "Corviknight", "Volcarona", "Iron Hands"]
+},
+"p2": {
+"playerName": "Ayabe0119",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat", "Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Freeze-Dry", "Protect"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

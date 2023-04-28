@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846373876",
+"p1": {
+"playerName": "RalfRabisco",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Encore", "Beat Up", "Follow Me"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Ceruledge", "Amoonguss"]
+},
+"p2": {
+"playerName": "Tairasan",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Fawkes",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind", "Taunt"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Hagrid",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Heavy Slam", "Wild Charge"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Apple Jack",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "#252",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+}
+],
+"broughtTeam": ["Talonflame", "Iron Hands", "Gholdengo", "Chien-Pao"]
+},
+"outcome": 1
+}

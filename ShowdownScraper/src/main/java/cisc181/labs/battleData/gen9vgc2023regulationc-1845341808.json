@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845341808",
+"p1": {
+"playerName": "Yaboibigt",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Protect", "Strength Sap"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Fighting",
+"moves": ["Protect", "Ally Switch", "Lumina Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Substitute"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Roseli Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Quash"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arboliva", "Espathra", "Flutter Mane", "Sableye"]
+},
+"p2": {
+"playerName": "pelukas",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Thunder Wave"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch", "Shadow Sneak"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Mimikyu", "Flutter Mane"]
+},
+"outcome": 0
+}

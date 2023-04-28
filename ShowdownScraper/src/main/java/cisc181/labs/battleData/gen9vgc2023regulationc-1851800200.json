@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851800200",
+"p1": {
+"playerName": "Artemis Eclipse",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Arcanine", "Palafin"]
+},
+"p2": {
+"playerName": "Hyanryu",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Thamill",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Rock Slide"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Sus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "Pala-Tang",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Howl", "Extreme Speed", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Tyranitar", "Amoonguss", "Palafin", "Arcanine"]
+},
+"outcome": 0
+}

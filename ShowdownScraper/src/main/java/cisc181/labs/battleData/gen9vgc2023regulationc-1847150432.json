@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847150432",
+"p1": {
+"playerName": "edo ghira",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Yawn", "Earth Power"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Sneak", "Bulk Up", "Bitter Blade"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Tera Blast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Rotom", "Gastrodon", "Ceruledge", "Gyarados"]
+},
+"p2": {
+"playerName": "DistantEcho",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Thunder Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Facade", "Iron Head"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Weakness Policy",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Swords Dance", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Hands", "Flutter Mane", "Dragonite", "Kingambit"]
+},
+"outcome": 1
+}

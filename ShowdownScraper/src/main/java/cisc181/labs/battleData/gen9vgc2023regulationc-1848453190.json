@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848453190",
+"p1": {
+"playerName": "SumoVGC",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Nemo at home",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fairy",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Magneton on Meth",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Earth Power"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "Freischieb",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Dog 1",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Mabosstiff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "Dog 4",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Luxray",
+"nickname": "Dog 5",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Dog 6",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Staraptor", "Luxray", "Drifblim"]
+},
+"outcome": 1
+}

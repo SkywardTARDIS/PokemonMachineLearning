@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1846789176",
+"p1": {
+"playerName": "Ello Mr.Person",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Crunch"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Armarouge"]
+},
+"p2": {
+"playerName": "wolfrust",
+"fullTeam": [
+{
+"species": "Alomomola",
+"nickname": "Alomomola",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Fake Out", "Helping Hand"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect Type", "Substitute", "Shadow Ball"]
+},
+{
+"species": "Banette",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Grassy Terrain"]
+}
+],
+"broughtTeam": ["Alomomola", "Tinkaton", "Gengar", "Meowscarada"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845890457",
+"p1": {
+"playerName": "I guess I am here",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Icy Wind"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Iron Bundle", "Baxcalibur"]
+},
+"p2": {
+"playerName": "Disobedient_vgc",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Flip Turn", "Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Follow Me"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Iron Bundle", "Indeedee", "Iron Hands"]
+},
+"outcome": 0
+}

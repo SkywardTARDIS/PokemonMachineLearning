@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846379652",
+"p1": {
+"playerName": "Bobby Seegul",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Head", "Dragon Dance"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Lum Berry",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Protect"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge", "Drain Punch"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swagger", "Taunt", "Parting Shot"]
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Iron Hands", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "SwedeLRL",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["U-turn", "Sucker Punch", "Hex"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Protect", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Clear Amulet",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Iron Head", "Thunder Wave", "Waterfall", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Gyarados"]
+},
+"outcome": 0
+}

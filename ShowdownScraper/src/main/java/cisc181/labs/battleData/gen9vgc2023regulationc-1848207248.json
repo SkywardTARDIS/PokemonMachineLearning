@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848207248",
+"p1": {
+"playerName": "Testdummy82",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Thrash"]
+}
+],
+"broughtTeam": ["Maushold", "Meowscarada", "Annihilape"]
+},
+"p2": {
+"playerName": "SkeletonKing1",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Rock Blast"]
+}
+],
+"broughtTeam": ["Pincurchin", "Kilowattrel", "Rotom", "Iron Thorns"]
+},
+"outcome": 1
+}

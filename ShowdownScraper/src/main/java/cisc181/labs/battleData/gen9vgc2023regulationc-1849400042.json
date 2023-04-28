@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849400042",
+"p1": {
+"playerName": "Lorge Coffee",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "Protect"]
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Flying",
+"moves": ["Rock Slide", "Tera Blast"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Growth", "Dark Pulse", "Giga Drain"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Iron Thorns", "Wo-Chien"]
+},
+"p2": {
+"playerName": "EpicDJPlayzPokemon",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Hyper Voice"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic", "Trick Room"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Armarouge", "Indeedee", "Annihilape"]
+},
+"outcome": 1
+}

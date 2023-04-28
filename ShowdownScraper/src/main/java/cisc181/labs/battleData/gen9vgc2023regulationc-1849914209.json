@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849914209",
+"p1": {
+"playerName": "riseofkingdomsadd",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "",
+"ability": "Pickup",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psych Up", "Psychic"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pachirisu", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "Ichiban0",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Weavile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "Trace",
+"teraType": "",
+"moves": ["Imprison"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Gardevoir", "Arcanine", "Amoonguss"]
+},
+"outcome": 1
+}

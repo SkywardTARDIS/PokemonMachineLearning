@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846438844",
+"p1": {
+"playerName": "trzito",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes", "Venoshock", "Mortal Spin", "Spiky Shield"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Hyper Voice", "Leech Seed", "Substitute"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "Good as Gold",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Glimmora", "Weavile", "Arboliva", "Gholdengo"]
+},
+"p2": {
+"playerName": "Hallux20",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Leech Seed", "Protect", "Giga Drain"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Wild Charge", "Iron Head"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Palafin", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850930490",
+"p1": {
+"playerName": "PNeals",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Thunder Wave"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Icicle Crash", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Shadow Ball", "Protect"]
+}
+],
+"broughtTeam": ["Gyarados", "Chien-Pao", "Flutter Mane"]
+},
+"p2": {
+"playerName": "sabertooth81",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trick Room", "Psychic"]
+},
+{
+"species": "Amoonguss",
+"nickname": "mogus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Iron Hands", "Gothitelle", "Amoonguss"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849121674",
+"p1": {
+"playerName": "SubAtomicPoison",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Close Combat"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Medicham", "Salamence", "Chien-Pao"]
+},
+"p2": {
+"playerName": "super9800",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Substitute", "Snarl", "Body Press", "Play Rough"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Armarouge", "Dachsbun", "Krookodile"]
+},
+"outcome": 1
+}

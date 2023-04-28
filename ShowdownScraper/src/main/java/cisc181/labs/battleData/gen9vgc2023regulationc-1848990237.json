@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848990237",
+"p1": {
+"playerName": "bumbumber",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Revelation Dance", "Aqua Step"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wide Guard", "Icy Wind"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "Leftovers",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Frosmoth", "Quaquaval", "Lilligant"]
+},
+"p2": {
+"playerName": "Valhala Alfa",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Taunt", "Rock Slide", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge"]
+}
+],
+"broughtTeam": ["Tyranitar", "Palafin", "Lycanroc", "Bellibolt"]
+},
+"outcome": 0
+}

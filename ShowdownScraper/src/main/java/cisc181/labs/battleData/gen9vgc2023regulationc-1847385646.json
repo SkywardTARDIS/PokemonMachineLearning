@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847385646",
+"p1": {
+"playerName": "Stryke Out",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Heracross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Tera Blast", "Heat Wave"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Roost", "Tailwind", "Bulk Up"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Corviknight"]
+},
+"p2": {
+"playerName": "Melihotic",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dragon Dance", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stealth Rock", "Stone Edge"]
+},
+{
+"species": "Dragalge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Protect", "Helping Hand"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Dragonite", "Ting-Lu", "Skeledirge"]
+},
+"outcome": 1
+}

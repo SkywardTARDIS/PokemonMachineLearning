@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851618650",
+"p1": {
+"playerName": "Krib_Underscore",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Big Horns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Taxi Service",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Tailwind"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "HoHoHomicide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Knockoff Mega",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Great Tusk", "Corviknight", "Iron Bundle", "Roaring Moon"]
+},
+"p2": {
+"playerName": "lothlorien2000",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Lokix",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse", "Overheat"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Palafin", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 0
+}

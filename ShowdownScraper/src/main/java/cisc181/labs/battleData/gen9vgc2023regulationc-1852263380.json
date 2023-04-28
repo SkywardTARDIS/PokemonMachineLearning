@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852263380",
+"p1": {
+"playerName": "eltimido",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Iron Head", "X-Scissor"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Kingambit", "Torkoal", "Hatterene"]
+},
+"p2": {
+"playerName": "hxtor",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Extrasensory", "Instruct", "Protect"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Oranguru", "Brute Bonnet", "Chi-Yu", "Iron Valiant"]
+},
+"outcome": 1
+}

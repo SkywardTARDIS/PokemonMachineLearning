@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846719161",
+"p1": {
+"playerName": "CaptainEricVGC",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Ruination"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Palafin", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Funnyman Krebs",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Wheeeee!",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Power Gem", "Energy Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Infurno",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Large Marge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Pee-wee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Glimmora", "Arcanine", "Dondozo", "Tatsugiri"]
+},
+"outcome": 0
+}

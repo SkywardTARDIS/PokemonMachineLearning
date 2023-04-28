@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848039532",
+"p1": {
+"playerName": "MrTedno",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Thunderbolt", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "qwillava",
+"fullTeam": [
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap", "Zen Headbutt"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Leech Seed", "Pollen Puff", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+}
+],
+"broughtTeam": ["Medicham", "Wo-Chien", "Arcanine", "Gholdengo"]
+},
+"outcome": 0
+}

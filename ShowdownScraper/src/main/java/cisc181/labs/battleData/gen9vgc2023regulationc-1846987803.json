@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846987803",
+"p1": {
+"playerName": "GarchompExVgc",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Sam",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Sara",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Tara",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Crunch", "Ice Spinner"]
+},
+{
+"species": "Dragapult",
+"nickname": "Horizon",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Dragon Darts"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Chien-Pao", "Dragapult"]
+},
+"p2": {
+"playerName": "Apithy",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Foul Play", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Close Combat"]
+}
+],
+"broughtTeam": ["Volcarona", "Wo-Chien", "Glimmora", "Annihilape"]
+},
+"outcome": 1
+}

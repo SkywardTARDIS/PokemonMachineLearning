@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852368095",
+"p1": {
+"playerName": "keryen",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Su Padre",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Su Novio",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "LaKMeGusta",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Substitute", "Moonblast", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Su Hermano",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Flutter Mane", "Iron Hands"]
+},
+"p2": {
+"playerName": "eggplanet07",
+"fullTeam": [
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Nuzzle", "Thunderbolt"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect", "Wave Crash"]
+}
+],
+"broughtTeam": ["Raichu", "Gyarados", "Flutter Mane", "Palafin"]
+},
+"outcome": 0
+}

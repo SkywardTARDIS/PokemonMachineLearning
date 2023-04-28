@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849824707",
+"p1": {
+"playerName": "Monument6",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Leech Seed", "Protect", "Pollen Puff"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Salt Cure"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Toxic", "Energy Ball"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Encore"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Garganacl", "Glimmora", "Sableye"]
+},
+"p2": {
+"playerName": "Critical ratta",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Stone Edge"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Detect", "Skill Swap", "Close Combat"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Medicham", "Dondozo", "Tatsugiri"]
+},
+"outcome": 1
+}

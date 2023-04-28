@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852328949",
+"p1": {
+"playerName": "Aperol Spinda",
+"fullTeam": [
+{
+"species": "Fletchling",
+"nickname": "Fletchling",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Liquidation", "Infestation", "Baneful Bunker"]
+},
+{
+"species": "Sawsbuck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Fletchling", "Noivern", "Chi-Yu", "Toxapex"]
+},
+"p2": {
+"playerName": "Bricclow",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Earth Power"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Espathra", "Sandy Shocks", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 1
+}

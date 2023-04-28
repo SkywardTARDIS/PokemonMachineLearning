@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852394536",
+"p1": {
+"playerName": "Gioilele",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Dozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dnite",
+"item": "",
+"ability": "Dnite",
+"teraType": "Steel",
+"moves": ["U-turn", "Dragon Darts"]
+},
+{
+"species": "Amoonguss",
+"nickname": "WoChien",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "ChiYu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Dragapult", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "vivian20",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Will-O-Wisp", "Protect", "Flare Blitz"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Flutter Mane", "Arcanine", "Wo-Chien"]
+},
+"outcome": 1
+}

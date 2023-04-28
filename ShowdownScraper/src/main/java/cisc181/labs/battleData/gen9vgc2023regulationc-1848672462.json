@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848672462",
+"p1": {
+"playerName": "Dragonite1016",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Dragon Dance", "Earthquake", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Ice Spinner", "Sacred Sword"]
+}
+],
+"broughtTeam": ["Vivillon", "Dragonite", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break", "Gigaton Hammer", "Baby-Doll Eyes", "Fake Out"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Protect", "Bitter Blade"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Dragon Darts"]
+}
+],
+"broughtTeam": ["Tinkaton", "Ceruledge", "Grimmsnarl", "Dragapult"]
+},
+"outcome": 0
+}

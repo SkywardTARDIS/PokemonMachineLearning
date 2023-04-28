@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846576809",
+"p1": {
+"playerName": "Truck Yacht",
+"fullTeam": [
+{
+"species": "Raichu",
+"nickname": "Gorochu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Thunder", "Substitute"]
+},
+{
+"species": "Pelipper",
+"nickname": "Nigel",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Dragonite",
+"nickname": "Puff",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Water",
+"moves": ["Hurricane", "Hydro Pump", "Thunder"]
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Wooly Willy",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Discharge"]
+},
+{
+"species": "Tropius",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Raichu", "Pelipper", "Dragonite", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "ECMBB",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect", "Thunderbolt", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+}
+],
+"broughtTeam": ["Gyarados", "Flutter Mane", "Amoonguss", "Palafin"]
+},
+"outcome": 0
+}

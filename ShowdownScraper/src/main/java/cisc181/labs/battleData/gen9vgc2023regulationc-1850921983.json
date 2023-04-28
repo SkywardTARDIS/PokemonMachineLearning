@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850921983",
+"p1": {
+"playerName": "Zaktician",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Teostra",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Annihilape",
+"nickname": "Vegeta",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Protect", "Drain Punch", "Bulk Up"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Vlov",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Icicle Spear", "Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Chainsaw Man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Annihilape", "Baxcalibur", "Maushold"]
+},
+"p2": {
+"playerName": "agron gron",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave"]
+}
+],
+"broughtTeam": ["Meowscarada", "Arcanine", "Iron Hands", "Gyarados"]
+},
+"outcome": 1
+}

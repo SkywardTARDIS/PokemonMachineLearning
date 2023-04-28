@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845848734",
+"p1": {
+"playerName": "BBRAFF",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Muhmaid",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Tera Blast", "Protect", "Waterfall"]
+},
+{
+"species": "Raichu",
+"nickname": "Mickey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Tackle", "Nuzzle", "Focus Blast"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Alita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aura Sphere"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "Toby",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Leech Seed", "Body Press", "Recover"]
+}
+],
+"broughtTeam": ["Gyarados", "Raichu", "Iron Valiant", "Appletun"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Tokugawa",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch"]
+},
+{
+"species": "Rabsca",
+"nickname": "Crown Jewel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Skuntank",
+"nickname": "Elvis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot"]
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Hamlet's Dad",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Protect", "Stone Edge", "Rage Fist", "Drain Punch"]
+}
+],
+"broughtTeam": ["Kingambit", "Rabsca", "Skuntank", "Annihilape"]
+},
+"outcome": 1
+}

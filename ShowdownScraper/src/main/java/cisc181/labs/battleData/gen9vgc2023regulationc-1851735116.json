@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851735116",
+"p1": {
+"playerName": "Treeckoguy1",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Focus Sash",
+"ability": "Wind Rider",
+"teraType": "Grass",
+"moves": ["Phantom Force", "Strength Sap", "Power Whip"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flash Cannon", "Dark Pulse"]
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Valiant", "Brambleghast", "Iron Jugulis"]
+},
+"p2": {
+"playerName": "bsentinel",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Earthquake"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Phantom Force", "Dragon Darts"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Scream Tail", "Dragapult", "Gyarados"]
+},
+"outcome": 1
+}

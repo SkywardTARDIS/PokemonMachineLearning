@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849023333",
+"p1": {
+"playerName": "Hiramatzu",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Dragon Dance", "Icicle Spear"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Arcanine", "Baxcalibur"]
+},
+"p2": {
+"playerName": "tm 80 rockslide",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Baton Pass"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Life Dew", "Chilling Water"]
+}
+],
+"broughtTeam": ["Scream Tail", "Garganacl", "Glimmora", "Chansey"]
+},
+"outcome": 1
+}

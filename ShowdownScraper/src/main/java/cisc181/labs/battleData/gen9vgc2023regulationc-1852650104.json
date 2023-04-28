@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852650104",
+"p1": {
+"playerName": "bennoVGC",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Flutter Mane", "Pawmot"]
+},
+"p2": {
+"playerName": "judevgc",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Earthquake", "Heavy Slam"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Waterfall"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Gyarados", "Iron Bundle"]
+},
+"outcome": 0
+}

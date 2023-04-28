@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848981416",
+"p1": {
+"playerName": "a12351",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Great Tusk", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Rhyme in a Dime",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Spicyrona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Muddy ground",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Fasty fish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Gengar",
+"nickname": "Gingar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Sucker Punch", "Sludge Bomb"]
+}
+],
+"broughtTeam": ["Volcarona", "Toedscruel", "Barraskewda", "Gengar"]
+},
+"outcome": 1
+}

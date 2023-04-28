@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846919617",
+"p1": {
+"playerName": "Xepher008",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Recover", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Heat Wave", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gastrodon", "Chi-Yu", "Amoonguss"]
+},
+"p2": {
+"playerName": "Nutrius",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviminkia",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Minkia-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Rock Tomb", "Throat Chop", "Ruination"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Rock Slide", "Assurance"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Corviknight", "Ting-Lu", "Tyranitar", "Amoonguss"]
+},
+"outcome": 0
+}

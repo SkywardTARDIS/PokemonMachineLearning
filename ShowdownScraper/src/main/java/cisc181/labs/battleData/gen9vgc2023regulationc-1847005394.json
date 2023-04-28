@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847005394",
+"p1": {
+"playerName": "hancec",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Matsuemon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Tanjiro",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Zenitsu",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Inosuke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Close Combat"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Gholdengo", "Great Tusk"]
+},
+"p2": {
+"playerName": "Gazamie",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Indeedee", "Armarouge", "Dragonite"]
+},
+"outcome": 1
+}

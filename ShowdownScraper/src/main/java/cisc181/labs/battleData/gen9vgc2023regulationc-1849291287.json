@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849291287",
+"p1": {
+"playerName": "Diego3007",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Icicle Spear", "Protect", "Ice Shard"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Arcanine", "Baxcalibur"]
+},
+"p2": {
+"playerName": "Esspecialy",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Woah-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Who?",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Poo",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Dragonite",
+"nickname": "Salamance",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Outrage"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Chi-Yu", "Chien-Pao", "Dragonite"]
+},
+"outcome": 0
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1850303186",
+"p1": {
+"playerName": "Mess in Distress",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind", "Brave Bird", "Haze"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Great Tusk", "Ceruledge", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Jamel 1",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Endure"]
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Bulk Up", "Drain Punch"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Shuca Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Hawlucha", "Tinkaton"]
+},
+"outcome": 1
+}

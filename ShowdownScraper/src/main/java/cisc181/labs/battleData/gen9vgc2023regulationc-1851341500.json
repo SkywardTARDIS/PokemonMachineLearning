@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851341500",
+"p1": {
+"playerName": "ljhartman",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Head", "Earthquake"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Gyarados"]
+},
+"p2": {
+"playerName": "JustMark1",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Step", "Ice Spinner", "Close Combat"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Psychic"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Thunderbolt"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard"]
+}
+],
+"broughtTeam": ["Quaquaval", "Volcarona", "Flutter Mane", "Baxcalibur"]
+},
+"outcome": 1
+}

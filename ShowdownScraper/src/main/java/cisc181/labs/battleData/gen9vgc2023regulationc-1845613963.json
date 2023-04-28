@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845613963",
+"p1": {
+"playerName": "Giarry",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Fake Out", "Detect", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Glimmora", "Garganacl", "Iron Hands"]
+},
+"p2": {
+"playerName": "dreamswgh",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Arizona",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Earth Power", "Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Utah",
+"item": "Petaya Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Indeedee",
+"nickname": "Nevada",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Okalahoma",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["U-turn"]
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Indeedee", "Corviknight"]
+},
+"outcome": 1
+}

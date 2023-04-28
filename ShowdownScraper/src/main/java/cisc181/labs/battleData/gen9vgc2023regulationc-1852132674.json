@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852132674",
+"p1": {
+"playerName": "Damayr",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swagger", "Foul Play"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Persim Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Hawlucha", "Flutter Mane", "Farigiraf"]
+},
+"p2": {
+"playerName": "quiquezafi",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Sitrus Berry",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Raging Bull", "Protect", "Earthquake"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Room Service",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Protect", "Flower Trick", "Ally Switch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+}
+],
+"broughtTeam": ["Talonflame", "Tauros", "Meowscarada", "Maushold"]
+},
+"outcome": 0
+}

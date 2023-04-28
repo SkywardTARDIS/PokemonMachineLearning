@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849847628",
+"p1": {
+"playerName": "omg_its_daddy",
+"fullTeam": [
+{
+"species": "Dragalge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drowzee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Ice Fang", "Dragon Dance", "Waterfall"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Feint", "Volt Switch"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Iron Defense"]
+}
+],
+"broughtTeam": ["Gyarados", "Raichu", "Iron Valiant", "Corviknight"]
+},
+"p2": {
+"playerName": "Gemstone Bandits",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Substitute", "Earthquake", "Iron Head"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Choice Scarf",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Garchomp", "Gengar", "Umbreon"]
+},
+"outcome": 1
+}

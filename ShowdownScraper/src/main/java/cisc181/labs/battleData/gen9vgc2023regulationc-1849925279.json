@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849925279",
+"p1": {
+"playerName": "TheOleBP",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Tera Blast", "Wave Crash", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Protect", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Palafin", "Chien-Pao", "Ceruledge", "Flutter Mane"]
+},
+"p2": {
+"playerName": "ReyOscuroVLC",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "La Gamba",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Scizor",
+"nickname": "ReyOscuro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bullet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Cordyceps",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Thunder Punch", "Detect"]
+}
+],
+"broughtTeam": ["Gyarados", "Scizor", "Amoonguss", "Iron Hands"]
+},
+"outcome": 0
+}

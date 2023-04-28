@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845993494",
+"p1": {
+"playerName": "jones3765",
+"fullTeam": [
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Protect"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Barraskewda", "Pelipper", "Ting-Lu", "Drednaw"]
+},
+"p2": {
+"playerName": "gankyburner",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "C'mon C'mon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Godzilla",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Earthquake", "Rock Slide", "Assurance"]
+},
+{
+"species": "Houndstone",
+"nickname": "Dragula",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Howl"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Mr. Jones",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Tyranitar", "Houndstone", "Corviknight"]
+},
+"outcome": 0
+}

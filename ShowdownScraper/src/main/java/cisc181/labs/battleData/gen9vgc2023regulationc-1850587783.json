@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850587783",
+"p1": {
+"playerName": "Jovenchano3103",
+"fullTeam": [
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Payback"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Magnezone", "Gyarados", "Ting-Lu", "Farigiraf"]
+},
+"p2": {
+"playerName": "megaprawn",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": ["Heat Wave", "Endure", "Stored Power", "Expanding Force"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Great Tusk", "Indeedee", "Gyarados"]
+},
+"outcome": 0
+}

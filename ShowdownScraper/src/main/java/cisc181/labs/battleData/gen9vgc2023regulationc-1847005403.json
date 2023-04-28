@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847005403",
+"p1": {
+"playerName": "goatgamer11",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sunny Day", "Brave Bird", "Taunt"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Close Combat", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slither Wing", "Murkrow", "Palafin", "Arcanine"]
+},
+"p2": {
+"playerName": "labboo",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "birb",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Iron Head", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "elephante",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Eelektross",
+"nickname": "immune",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Discharge"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "birb",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Iron Head", "Protect"]
+}
+],
+"broughtTeam": ["Corviknight", "Great Tusk", "Eelektross", "Palafin"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850930974",
+"p1": {
+"playerName": "Most Bread",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Reflect", "Thunderbolt", "Hydro Pump", "Light Screen"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "U-turn", "Bullet Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Rotom", "Scizor", "Iron Hands"]
+},
+"p2": {
+"playerName": "clockwork_mango",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "The Blind Bandit",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Body Press", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Fang",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Icicle Crash"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "The Mechanist",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Catacomb",
+"item": "Red Card",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Spiky Shield", "Earth Power", "Power Gem", "Sludge Bomb"]
+}
+],
+"broughtTeam": ["Orthworm", "Baxcalibur", "Rotom", "Glimmora"]
+},
+"outcome": 0
+}

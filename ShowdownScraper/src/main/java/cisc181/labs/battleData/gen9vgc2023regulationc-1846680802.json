@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846680802",
+"p1": {
+"playerName": "Julicitos",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Helping Hand"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Indeedee", "Hatterene", "Oranguru", "Torkoal"]
+},
+"p2": {
+"playerName": "Avenger5",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword", "Sucker Punch"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Palafin", "Arcanine", "Tyranitar"]
+},
+"outcome": 0
+}

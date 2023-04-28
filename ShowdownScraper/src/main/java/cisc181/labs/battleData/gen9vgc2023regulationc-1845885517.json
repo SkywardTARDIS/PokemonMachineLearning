@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845885517",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Struggle Bug", "Overheat"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Snarl"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Volcarona", "Ting-Lu"]
+},
+"p2": {
+"playerName": "PNeals",
+"fullTeam": [
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "",
+"ability": "Cloud Nine",
+"teraType": "",
+"moves": ["Perish Song", "Protect", "Haze", "Draco Meteor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Moonblast"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Fake Out", "Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Altaria", "Flutter Mane", "Gothitelle", "Ting-Lu"]
+},
+"outcome": 1
+}

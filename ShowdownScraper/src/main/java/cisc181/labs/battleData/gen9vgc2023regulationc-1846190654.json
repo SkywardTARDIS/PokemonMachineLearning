@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846190654",
+"p1": {
+"playerName": "DessertVGC",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor", "Dark Pulse", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Tinkaton", "Hydreigon"]
+},
+"p2": {
+"playerName": "KruegsVGC",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sleep Powder", "Leaf Storm"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Chi-Yu", "Great Tusk"]
+},
+"outcome": 0
+}

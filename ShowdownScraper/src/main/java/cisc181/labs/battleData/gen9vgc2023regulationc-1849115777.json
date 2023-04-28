@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849115777",
+"p1": {
+"playerName": "mx555",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Ally Switch", "Hyper Voice"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Belly Drum", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Iron Hands", "Amoonguss"]
+},
+"p2": {
+"playerName": "ReCapra",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Nicolas Cage",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Aaaboomaa",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Kowalsky",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Abomasnow", "Iron Bundle", "Garchomp"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849951844",
+"p1": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Earth Power"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Population Bomb", "Tidy Up"]
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo", "Metronome", "Poison Fang", "Strength Sap"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Blizzard"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Maushold", "Grafaiai", "Iron Bundle"]
+},
+"p2": {
+"playerName": "bergusia",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Drain Punch", "Fake Out"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Dragon Darts"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ruination", "Heavy Slam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Dragapult", "Iron Bundle", "Ting-Lu"]
+},
+"outcome": 0
+}

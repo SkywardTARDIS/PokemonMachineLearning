@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849818216",
+"p1": {
+"playerName": "Test4Sum",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Protect", "Bitter Blade"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Disable", "Encore"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Ruination"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Power Gem"]
+}
+],
+"broughtTeam": ["Ceruledge", "Sableye", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "ether21",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Snow Biden",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Sheer Cold", "Blizzard"]
+},
+{
+"species": "Annihilape",
+"nickname": "Ape Tyson",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Louie XI",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Heavy Slam"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Barking Moon",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Snarl"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Annihilape", "Ting-Lu", "Arcanine"]
+},
+"outcome": 0
+}

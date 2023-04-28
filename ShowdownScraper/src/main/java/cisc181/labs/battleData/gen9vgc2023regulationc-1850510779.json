@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850510779",
+"p1": {
+"playerName": "Zyros Phade",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Lance",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Helping Hand"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Sada",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Hex"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Draco Meteor", "Focus Energy", "Protect", "Heat Wave"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Marnie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Flutter Mane", "Hydreigon", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Titannexus",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wave Crash", "Rest", "Tera Blast"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts", "Phantom Force"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Flutter Mane", "Dragapult"]
+},
+"outcome": 0
+}

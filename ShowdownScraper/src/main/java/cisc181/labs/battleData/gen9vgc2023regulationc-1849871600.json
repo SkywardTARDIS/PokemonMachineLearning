@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849871600",
+"p1": {
+"playerName": "Sh4d0w277038",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Snarl", "Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Recover", "Iron Defense"]
+}
+],
+"broughtTeam": ["Dragonite", "Iron Hands", "Arcanine", "Garganacl"]
+},
+"p2": {
+"playerName": "Laithani",
+"fullTeam": [
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Surf", "Dragon Pulse", "Protect"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Ice Beam", "Chilling Water", "Hydro Pump", "Muddy Water"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Accelerock"]
+}
+],
+"broughtTeam": ["Goodra", "Vaporeon", "Tyranitar", "Lycanroc"]
+},
+"outcome": 0
+}

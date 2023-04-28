@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845211568",
+"p1": {
+"playerName": "Onlyshiny",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Tera Blast", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "La Pelos",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Aikalytics",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bullwinkle",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Y amigos",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Trick Room", "Hyper Voice"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Zoboomafoo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Farigiraf", "Annihilape", "Maushold"]
+},
+"outcome": 1
+}

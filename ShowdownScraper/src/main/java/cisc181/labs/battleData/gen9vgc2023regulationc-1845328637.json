@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845328637",
+"p1": {
+"playerName": "ShokkyChoiceBandz",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dazzling Gleam", "Protect", "Hyper Voice"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Gyarados", "Wo-Chien"]
+},
+"p2": {
+"playerName": "Clockwurk",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Dragon Dance"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Substitute", "Moonblast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Flutter Mane", "Chien-Pao", "Gyarados"]
+},
+"outcome": 1
+}

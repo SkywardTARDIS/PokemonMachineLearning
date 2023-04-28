@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846612922",
+"p1": {
+"playerName": "cofffeeeeeee",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed", "Will-O-Wisp"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick Room", "Heal Pulse", "Helping Hand"]
+}
+],
+"broughtTeam": ["Dragapult", "Arcanine", "Palafin", "Gothitelle"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Hamlet's Dad",
+"item": "Leftovers",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Rage Fist", "Phantom Force"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rabsca",
+"nickname": "Crown Jewel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Ali",
+"item": "Petaya Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fling", "Bullet Seed", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Carkol",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cryogonal",
+"nickname": "Arthas",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water"]
+}
+],
+"broughtTeam": ["Annihilape", "Rabsca", "Jumpluff", "Cryogonal"]
+},
+"outcome": 0
+}

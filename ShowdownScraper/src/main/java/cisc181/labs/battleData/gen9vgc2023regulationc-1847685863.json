@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847685863",
+"p1": {
+"playerName": "Raderph",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Unit-01",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Spirit Break"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Sailor Uranus",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Liquidation", "Spirit Break", "Close Combat"]
+},
+{
+"species": "Oricorio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragalge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lokix",
+"nickname": "Zero-One",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Volcarona",
+"nickname": "Utsuho",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Air Slash"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Iron Valiant", "Lokix", "Volcarona"]
+},
+"p2": {
+"playerName": "Jimpo01",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ditto",
+"nickname": "Ditto",
+"item": "Red Card",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Transform", "Will-O-Wisp", "Heat Wave"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Metronome", "Circle Throw"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hydreigon", "Dragonite", "Ditto", "Weavile"]
+},
+"outcome": 1
+}

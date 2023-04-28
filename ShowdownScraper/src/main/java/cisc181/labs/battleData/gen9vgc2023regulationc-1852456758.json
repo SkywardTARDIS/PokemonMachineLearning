@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852456758",
+"p1": {
+"playerName": "Steakman5",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Rain Dance", "Foul Play"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Drain Punch", "Jet Punch"]
+}
+],
+"broughtTeam": ["Murkrow", "Amoonguss", "Chien-Pao", "Palafin"]
+},
+"p2": {
+"playerName": "gorbyjorby",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flash Cannon", "Psychic", "Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Ice Beam", "Clear Smog"]
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Taunt", "Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Klefki", "Bronzong", "Gastrodon", "Wo-Chien"]
+},
+"outcome": 1
+}

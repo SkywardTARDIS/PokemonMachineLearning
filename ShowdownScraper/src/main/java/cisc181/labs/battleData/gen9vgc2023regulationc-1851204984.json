@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851204984",
+"p1": {
+"playerName": "wqs15",
+"fullTeam": [
+{
+"species": "Polteageist",
+"nickname": "Polteageist",
+"item": "White Herb",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Shell Smash", "Stored Power"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flame Charge"]
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Polteageist", "Indeedee", "Annihilape", "Armarouge"]
+},
+"p2": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Mist", "Blizzard", "Energy Ball"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Raging Bull", "Protect", "Aqua Jet"]
+},
+{
+"species": "Gothorita",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+}
+],
+"broughtTeam": ["Abomasnow", "Cetitan", "Tauros", "Eelektross"]
+},
+"outcome": 1
+}

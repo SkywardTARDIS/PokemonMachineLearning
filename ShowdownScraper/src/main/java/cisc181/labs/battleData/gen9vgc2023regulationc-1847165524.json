@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847165524",
+"p1": {
+"playerName": "Hadrian1917",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Shard", "Glaive Rush", "Icicle Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Baxcalibur", "Gyarados"]
+},
+"p2": {
+"playerName": "Borkis12",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Wide Guard"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Last Respects"]
+}
+],
+"broughtTeam": ["Lycanroc", "Tyranitar", "Garganacl", "Houndstone"]
+},
+"outcome": 0
+}

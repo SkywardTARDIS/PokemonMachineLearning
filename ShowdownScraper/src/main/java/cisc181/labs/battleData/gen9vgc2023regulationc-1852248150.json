@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852248150",
+"p1": {
+"playerName": "TerribleVGC",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sunny Day", "Haze", "Foul Play"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Corviknight"]
+},
+"p2": {
+"playerName": "EpicEra",
+"fullTeam": [
+{
+"species": "Scyther",
+"nickname": "Scyther",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": []
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Swords Dance", "Outrage"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Houndoom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scyther", "Garchomp", "Hawlucha", "Blissey"]
+},
+"outcome": 1
+}

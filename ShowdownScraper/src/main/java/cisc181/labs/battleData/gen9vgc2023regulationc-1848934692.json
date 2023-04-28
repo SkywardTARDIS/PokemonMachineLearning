@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848934692",
+"p1": {
+"playerName": "mxcaster",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Light Clay",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Fling", "Thief"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Shell Bell",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Gigaton Hammer"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Fling", "Thief", "Drain Punch"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Tinkaton", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "BoutEclipse",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Light Clay",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Will-O-Wisp", "Foul Play"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swords Dance", "Drain Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Sableye", "Iron Hands", "Sylveon"]
+},
+"outcome": 0
+}

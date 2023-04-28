@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847323432",
+"p1": {
+"playerName": "TehTerminator128",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "The Immortal",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Salt Cure", "Recover"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Porky",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Parting Shot"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Dreidra",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Nasty Plot", "Dark Pulse", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Garganacl", "Grimmsnarl", "Hydreigon"]
+},
+"p2": {
+"playerName": "joshmurr",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Eject Button",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Dragon Dance"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Grass Knot"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Wave Crash", "Close Combat", "Jet Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Raichu", "Palafin", "Dragapult"]
+},
+"outcome": 1
+}

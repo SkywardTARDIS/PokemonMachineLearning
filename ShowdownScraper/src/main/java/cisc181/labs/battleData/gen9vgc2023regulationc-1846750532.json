@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846750532",
+"p1": {
+"playerName": "ClickForVictory",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Mega Dodrio",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Poison",
+"moves": ["Snarl", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Mamoswole",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Ice Spinner"]
+},
+{
+"species": "Bruxish",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Fiendish Fish",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Great Tusk", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Ninjamix",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Draco Meteor"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Ceruledge", "Salamence", "Torkoal", "Flutter Mane"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845773906",
+"p1": {
+"playerName": "SoutherlySoup",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Protect", "Tera Blast", "Order Up"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Spore", "Sucker Punch", "Seed Bomb"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Brute Bonnet", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Himynameistanner",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression", "Bulk Up"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Substitute", "Bullet Seed"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Tailwind", "Volt Switch", "Air Cutter"]
+}
+],
+"broughtTeam": ["Slither Wing", "Breloom", "Chien-Pao", "Kilowattrel"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850412271",
+"p1": {
+"playerName": "UltimoRyu",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Heavy Slam", "Iron Defense", "Body Press"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Flash Cannon"]
+}
+],
+"broughtTeam": ["Orthworm", "Garchomp", "Tyranitar", "Magnezone"]
+},
+"p2": {
+"playerName": "K_Nishikigoi",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Glaive Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam", "Earthquake"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Flutter Mane", "Amoonguss", "Ting-Lu"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852090320",
+"p1": {
+"playerName": "DarkPaladin79",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Play Rough", "Shadow Sneak"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Hydro Pump", "Volt Switch"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Houndstone", "Rotom", "Tyranitar"]
+},
+"p2": {
+"playerName": "SaganBelmont",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Wild Charge"]
+}
+],
+"broughtTeam": ["Dragapult", "Chien-Pao", "Gyarados", "Iron Hands"]
+},
+"outcome": 1
+}

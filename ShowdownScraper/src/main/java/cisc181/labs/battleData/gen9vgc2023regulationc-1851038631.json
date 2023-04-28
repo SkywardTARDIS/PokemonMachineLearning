@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851038631",
+"p1": {
+"playerName": "Azun",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Salac Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Endure", "Rage Fist"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Ally Switch", "Psychic"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Protect", "Extreme Speed", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Annihilape", "Chien-Pao", "Farigiraf", "Arcanine"]
+},
+"p2": {
+"playerName": "wesleihas",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Foul Play"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Water",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Flutter Mane", "Chi-Yu", "Annihilape"]
+},
+"outcome": 1
+}

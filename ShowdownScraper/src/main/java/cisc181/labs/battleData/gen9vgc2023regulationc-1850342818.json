@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850342818",
+"p1": {
+"playerName": "iPikari",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Icicle Spear", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Rage Fist"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Energy Ball"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Palafin", "Annihilape", "Glimmora"]
+},
+"p2": {
+"playerName": "ExcelSheet",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Close Combat"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Body Press", "Taunt"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Corviknight", "Chi-Yu"]
+},
+"outcome": 1
+}

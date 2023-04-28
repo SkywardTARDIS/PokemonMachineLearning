@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851581139",
+"p1": {
+"playerName": "r3gCt3st",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Minimize", "Baton Pass"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Drain Punch", "Bulk Up"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed"]
+}
+],
+"broughtTeam": ["Drifblim", "Indeedee", "Annihilape", "Amoonguss"]
+},
+"p2": {
+"playerName": "JKAngelz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Super Fang", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Maushold", "Ting-Lu", "Palafin"]
+},
+"outcome": 1
+}

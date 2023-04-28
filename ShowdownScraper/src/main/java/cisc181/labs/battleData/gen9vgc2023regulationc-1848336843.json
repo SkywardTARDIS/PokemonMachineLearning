@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848336843",
+"p1": {
+"playerName": "Reloadset",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard", "Helping Hand", "Protect"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Play Rough", "Ice Spinner"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Protect", "Recover", "Body Press"]
+}
+],
+"broughtTeam": ["Abomasnow", "Cetitan", "Chi-Yu", "Garganacl"]
+},
+"p2": {
+"playerName": "Umbrakd",
+"fullTeam": [
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Blast", "Waterfall", "Icicle Spear"]
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "Moxie",
+"teraType": "Rock",
+"moves": ["Arm Thrust", "Rock Blast"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Foul Play", "Wish", "Baton Pass"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Cloyster", "Heracross", "Farigiraf", "Arcanine"]
+},
+"outcome": 1
+}

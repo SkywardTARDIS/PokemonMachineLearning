@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852279720",
+"p1": {
+"playerName": "b(R)2",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination", "Sand Tomb"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Purifying Salt",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Recover"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Garganacl", "Arcanine"]
+},
+"p2": {
+"playerName": "Ashketchumsburner",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "Fire",
+"moves": ["Hydro Pump", "Thunderbolt"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Talonflame", "Rotom", "Iron Treads", "Dragonite"]
+},
+"outcome": 1
+}

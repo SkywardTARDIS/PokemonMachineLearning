@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845946659",
+"p1": {
+"playerName": "kenkazoUnimarc",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch"]
+},
+{
+"species": "Rotom",
+"nickname": "ioechu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Nuzzle", "Follow Me", "Super Fang"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Rotom", "Flutter Mane", "Pachirisu"]
+},
+"p2": {
+"playerName": "Hiemer14",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Tailwind", "Foul Play"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Murkrow", "Flutter Mane", "Great Tusk", "Iron Bundle"]
+},
+"outcome": 1
+}

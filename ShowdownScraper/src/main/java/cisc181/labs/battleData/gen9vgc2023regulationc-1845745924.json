@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845745924",
+"p1": {
+"playerName": "KaitoYuki",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab", "Rock Slide", "Dragon Claw"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock", "Mystical Fire"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Garchomp", "Hatterene"]
+},
+"p2": {
+"playerName": "Inspire60",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Protect", "Air Slash", "Fiery Dance"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fire",
+"moves": ["Fiery Dance"]
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "Focus Sash",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Iron Moth", "Masquerain", "Florges"]
+},
+"outcome": 1
+}

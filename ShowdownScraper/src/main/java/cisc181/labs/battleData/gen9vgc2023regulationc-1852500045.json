@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852500045",
+"p1": {
+"playerName": "z0gre",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Reflect", "Follow Me"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Will-O-Wisp", "Protect", "Last Respects"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palossand",
+"nickname": "Palossand",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Indeedee", "Houndstone", "Palossand"]
+},
+"p2": {
+"playerName": "Borghi",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Belly Drum", "Ice Spinner", "Aqua Jet"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Azumarill", "Amoonguss", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 0
+}

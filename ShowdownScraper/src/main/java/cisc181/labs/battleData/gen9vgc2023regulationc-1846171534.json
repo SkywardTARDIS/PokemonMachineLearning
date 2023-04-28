@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846171534",
+"p1": {
+"playerName": "Taca y Taca",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Cabeça de Borracha",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Earthquake", "Protect", "Tera Blast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Dragonite", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Marconeus1991",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Play Rough", "Phantom Force"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Psychic", "Follow Me"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Drain Punch", "Wild Charge", "Swords Dance", "Protect"]
+}
+],
+"broughtTeam": ["Torkoal", "Mimikyu", "Indeedee", "Iron Hands"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846665944",
+"p1": {
+"playerName": "jyhgfguy",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Iron Head"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Earth Power", "Protect", "Sludge Bomb"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick", "Sucker Punch"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Protect", "Encore", "Tera Blast"]
+}
+],
+"broughtTeam": ["Bronzong", "Gastrodon", "Grimmsnarl", "Skeledirge"]
+},
+"p2": {
+"playerName": "salt-air24",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Yawn", "Wish", "Body Press", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Play Rough", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Flutter Mane", "Azumarill"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845792418",
+"p1": {
+"playerName": "Chaotic Raos",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Brave Bird",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Azumarill",
+"nickname": "Raid Champion",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Garchomp",
+"nickname": "Grandpa",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Rock Slide", "Stomping Tantrum", "Iron Head", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch"]
+}
+],
+"broughtTeam": ["Talonflame", "Azumarill", "Garchomp", "Iron Hands"]
+},
+"p2": {
+"playerName": "rkdcp",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed", "Aerial Ace", "Low Kick"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Icy Wind", "Hydro Pump", "Freeze-Dry", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Dragonite", "Iron Bundle", "Flutter Mane"]
+},
+"outcome": 0
+}

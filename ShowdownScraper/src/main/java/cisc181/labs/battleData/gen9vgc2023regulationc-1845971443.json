@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845971443",
+"p1": {
+"playerName": "Vulnerarily",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Earth Power", "Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Great Tusk", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Galuk",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Sabueso de Lava",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Dragonite",
+"nickname": "Droganite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Bako Kuri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "El Gran Pez",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+}
+],
+"broughtTeam": ["Arcanine", "Dragonite", "Tatsugiri", "Dondozo"]
+},
+"outcome": 0
+}

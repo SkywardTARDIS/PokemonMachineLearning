@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851597059",
+"p1": {
+"playerName": "Isaiahwillwin",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "mush",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Skiisoar",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Bullet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arkaneenay",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Dog Pow",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Amoonguss", "Scizor", "Arcanine", "Chien-Pao"]
+},
+"p2": {
+"playerName": "MLGmushroom",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Sacred Sword", "Ice Spinner"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Breaking Swipe", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Thunder Wave", "Taunt"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Roaring Moon", "Gyarados", "Scizor"]
+},
+"outcome": 1
+}

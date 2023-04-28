@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1844914196",
+"p1": {
+"playerName": "Stellabotrus",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Throat Spray",
+"ability": "Protean",
+"teraType": "Normal",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Skill Swap", "Flower Trick"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Silk Scarf",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo", "Helping Hand", "Population Bomb"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+}
+],
+"broughtTeam": ["Rotom", "Meowscarada", "Maushold", "Chi-Yu"]
+},
+"p2": {
+"playerName": "LaFuriaVasca",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Armor Cannon"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Fake Out", "Dazzling Gleam"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Breaking Swipe", "Jaw Lock"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Flutter Mane", "Roaring Moon"]
+},
+"outcome": 1
+}

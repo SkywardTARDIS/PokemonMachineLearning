@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847383471",
+"p1": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Protect", "Whirlwind", "Throat Chop"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Jaw Lock", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Torch Song", "Shadow Ball", "Slack Off", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"p2": {
+"playerName": "rillaroar",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Thunderbolt", "Hydro Pump"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Earthquake", "Protect", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Brave Bird", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Rotom", "Gyarados", "Flutter Mane", "Talonflame"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848605938",
+"p1": {
+"playerName": "Felon Degeneres",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Floatzel",
+"nickname": "Floatzel",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Wiki Berry",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Giga Drain", "Rage Powder"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Floatzel", "Meowscarada", "Volcarona"]
+},
+"p2": {
+"playerName": "cosmojamm",
+"fullTeam": [
+{
+"species": "Misdreavus",
+"nickname": "Misdreavus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Feint"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Loaded Dice",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush", "Protect"]
+}
+],
+"broughtTeam": ["Misdreavus", "Great Tusk", "Raichu", "Baxcalibur"]
+},
+"outcome": 1
+}

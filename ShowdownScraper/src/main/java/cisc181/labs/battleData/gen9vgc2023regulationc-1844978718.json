@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844978718",
+"p1": {
+"playerName": "Mature Madness",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Fiery Dance", "Giga Drain", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Roseli Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Extreme Speed"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Volcarona", "Annihilape", "Dragonite"]
+},
+"p2": {
+"playerName": "Dollarmonke",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Assurance", "Sucker Punch"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Kingambit", "Murkrow", "Great Tusk"]
+},
+"outcome": 0
+}

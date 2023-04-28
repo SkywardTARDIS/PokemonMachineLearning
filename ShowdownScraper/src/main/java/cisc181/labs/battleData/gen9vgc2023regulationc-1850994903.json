@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850994903",
+"p1": {
+"playerName": "Terotes",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Shell Smash", "Protect"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Instruct", "Psych Up", "Stored Power"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Detect", "Brave Bird"]
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+}
+],
+"broughtTeam": ["Torkoal", "Oranguru", "Flamigo", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Zardycoolers",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Rock Slide"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Super Fang"]
+}
+],
+"broughtTeam": ["Ceruledge", "Iron Bundle", "Dragonite", "Maushold"]
+},
+"outcome": 1
+}

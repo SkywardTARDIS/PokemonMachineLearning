@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845899174",
+"p1": {
+"playerName": "Taca y Taca",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Cabeça de Borracha",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Fake Out", "Wild Charge"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Arcanine", "Iron Hands"]
+},
+"p2": {
+"playerName": "PBR ESC4N0R",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Icicle Crash", "Ice Shard"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Palafin", "Baxcalibur"]
+},
+"outcome": 0
+}

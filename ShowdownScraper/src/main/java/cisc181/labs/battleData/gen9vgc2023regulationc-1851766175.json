@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851766175",
+"p1": {
+"playerName": "SnowConsumer",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "Cole",
+"item": "Absorb Bulb",
+"ability": "Steam Engine",
+"teraType": "Grass",
+"moves": ["Power Gem", "Protect", "Heat Wave"]
+},
+{
+"species": "Torkoal",
+"nickname": "Fuji",
+"item": "Aguav Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Earth Power"]
+},
+{
+"species": "Palafin",
+"nickname": "Willy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Iron Head"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Bundy",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Coalossal", "Torkoal", "Palafin", "Iron Bundle"]
+},
+"p2": {
+"playerName": "MLGmushroom",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect", "Sacred Sword"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Roaring Moon", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845248203",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Energy Ball", "Moonblast"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Gyarados", "Dragonite", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "SnowConsumer",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "Cole",
+"item": "Absorb Bulb",
+"ability": "Steam Engine",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Ancient Power"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Willy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Smiling Snack",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Boops",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Protect"]
+}
+],
+"broughtTeam": ["Coalossal", "Palafin", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

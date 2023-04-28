@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852086739",
+"p1": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "Starf Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Fling"]
+},
+{
+"species": "Annihilape",
+"nickname": "Hamlet's Dad",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Calm Mind"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Thunderbolt", "Thunder Wave", "Light Screen", "Pin Missile"]
+}
+],
+"broughtTeam": ["Krookodile", "Annihilape", "Rabsca", "Jolteon"]
+},
+"p2": {
+"playerName": "catsue",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Parting Shot", "Light Screen"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Protect", "Leech Seed", "Foul Play"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Clawitzer", "Wo-Chien", "Corviknight"]
+},
+"outcome": 1
+}

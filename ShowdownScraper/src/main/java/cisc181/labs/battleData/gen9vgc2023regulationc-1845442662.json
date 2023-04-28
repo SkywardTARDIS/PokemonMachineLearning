@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845442662",
+"p1": {
+"playerName": "pokemon_and_beer",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Energy Ball", "Blizzard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Liquidation", "Aqua Jet"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Extreme Speed"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Azumarill", "Dragonite"]
+},
+"p2": {
+"playerName": "jeremydidi",
+"fullTeam": [
+{
+"species": "Salazzle",
+"nickname": "Salazzle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Body Press", "Salt Cure", "Recover", "Iron Defense"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Ice Fang", "Iron Head"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Salazzle", "Indeedee", "Garganacl", "Gyarados"]
+},
+"outcome": 1
+}

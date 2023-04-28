@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850330210",
+"p1": {
+"playerName": "niftynifty",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Low Kick"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Wide Guard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Pollen Puff", "Knock Off", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Tatsugiri", "Garganacl", "Wo-Chien"]
+},
+"p2": {
+"playerName": "calbhi",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Drain Punch", "Rage Fist", "Protect", "Bulk Up"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me", "Super Fang"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Rocky Helmet",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Heavy Slam"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Aguav Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Helping Hand", "Shed Tail", "Protect", "Body Press"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Ting-Lu", "Orthworm"]
+},
+"outcome": 1
+}

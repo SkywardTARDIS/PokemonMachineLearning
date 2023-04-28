@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848064903",
+"p1": {
+"playerName": "Minimanuel_art",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "",
+"ability": "Oblivious",
+"teraType": "Grass",
+"moves": ["Protect", "Trick Room", "Liquidation", "Zen Headbutt"]
+},
+{
+"species": "Camerupt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Poison Jab", "Protect"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowbro", "Gothitelle", "Muk", "Honchkrow"]
+},
+"p2": {
+"playerName": "Kodora",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Waterfall", "Taunt", "Iron Head"]
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

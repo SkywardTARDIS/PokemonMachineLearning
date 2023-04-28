@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847927322",
+"p1": {
+"playerName": "Lutraso123",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Dragon Claw", "Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Waterfall"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Quick Claw",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Palafin", "Brute Bonnet", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Donato Glaciale",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Snarl"]
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge"]
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Arcanine", "Magneton"]
+},
+"outcome": 1
+}

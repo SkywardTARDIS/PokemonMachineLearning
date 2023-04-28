@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845003390",
+"p1": {
+"playerName": "Yojohanpop",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Sitrus Berry",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Protect", "Close Combat", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Swords Dance", "Iron Head"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Palafin", "Amoonguss", "Kingambit"]
+},
+"p2": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Bulk Up", "Iron Head", "Roost", "Brave Bird"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Thunderbolt", "Reflect", "Light Screen"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848736098",
+"p1": {
+"playerName": "Alaskan_fisher",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Dragon Dance", "Glaive Rush", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Arcanine", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "Miggle SoCal",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Goblin",
+"item": "",
+"ability": "Defiant",
+"teraType": "Water",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Beat Up", "Follow Me"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "MegaMence",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Acrobatics", "Throat Chop"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Encore"]
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Roaring Moon", "Iron Bundle"]
+},
+"outcome": 0
+}

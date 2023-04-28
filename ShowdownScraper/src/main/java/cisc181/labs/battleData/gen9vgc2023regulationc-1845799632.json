@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845799632",
+"p1": {
+"playerName": "jackboucher",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Hydro Pump"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Taunt"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Rotom", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Nyomincia",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Jubilee",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Mean Look", "Moonblast"]
+},
+{
+"species": "Electrode",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Falinks",
+"nickname": "Phalanx",
+"item": "",
+"ability": "Defiant",
+"teraType": "Steel",
+"moves": ["No Retreat", "Iron Head", "Close Combat"]
+},
+{
+"species": "Flamigo",
+"nickname": "Graciavian",
+"item": "King's Rock",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Fling", "Acrobatics"]
+},
+{
+"species": "Toedscool",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Falinks", "Flamigo"]
+},
+"outcome": 0
+}

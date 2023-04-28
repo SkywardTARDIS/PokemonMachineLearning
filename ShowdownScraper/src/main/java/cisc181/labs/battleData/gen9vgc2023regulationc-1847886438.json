@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847886438",
+"p1": {
+"playerName": "FurretTurret",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Lava Plume"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Wiki Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Protect", "Wish", "Helping Hand"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Bulk Up", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Amoonguss", "Dachsbun", "Annihilape"]
+},
+"p2": {
+"playerName": "cb-sooner",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Cool Spook",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Moonblast", "Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Capsule J",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Haze", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Awoofy",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed", "Will-O-Wisp"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Boxin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Wild Charge", "Drain Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Arcanine", "Iron Hands"]
+},
+"outcome": 0
+}

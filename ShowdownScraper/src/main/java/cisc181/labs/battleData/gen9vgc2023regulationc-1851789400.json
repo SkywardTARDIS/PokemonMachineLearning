@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851789400",
+"p1": {
+"playerName": "Zakkalla",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Fenyx",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Sylveon",
+"nickname": "Satin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Pikachu",
+"nickname": "Pikachu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "Electric",
+"moves": ["Volt Switch", "Brick Break"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Red Sus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Sylveon", "Pikachu", "Amoonguss"]
+},
+"p2": {
+"playerName": "AceJac3",
+"fullTeam": [
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Boomburst"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Helping Hand", "Volt Switch"]
+},
+{
+"species": "Copperajah",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Noivern", "Ceruledge", "Electrode"]
+},
+"outcome": 0
+}

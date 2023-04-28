@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846016078",
+"p1": {
+"playerName": "BirdKeeperNeek",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump", "Hurricane"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Weather Ball", "Thunder"]
+},
+{
+"species": "Bombirdier",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Braviary",
+"nickname": "Braviary",
+"item": "",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Pelipper", "Kilowattrel", "Braviary"]
+},
+"p2": {
+"playerName": "play3r35",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Protect", "Bulk Up", "Shadow Claw"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Dragonite", "Gyarados", "Ceruledge"]
+},
+"outcome": 1
+}

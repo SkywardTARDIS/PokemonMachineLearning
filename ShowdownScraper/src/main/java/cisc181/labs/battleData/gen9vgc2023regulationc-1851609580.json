@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851609580",
+"p1": {
+"playerName": "Duecal1on",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Chien-Pao", "Scizor"]
+},
+"p2": {
+"playerName": "DiddlyDii",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Salt Cure"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Air Slash"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Volcarona", "Oricorio", "Gholdengo"]
+},
+"outcome": 1
+}

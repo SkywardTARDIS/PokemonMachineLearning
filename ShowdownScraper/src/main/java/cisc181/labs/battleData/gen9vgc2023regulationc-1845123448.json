@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845123448",
+"p1": {
+"playerName": "ShadowFlameDragn",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Safeguard", "Tailwind"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Gigaton Hammer", "Play Rough", "Knock Off"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Protect", "Drain Punch"]
+}
+],
+"broughtTeam": ["Dragonite", "Tinkaton", "Annihilape"]
+},
+"p2": {
+"playerName": "ActualMagister",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Bright Powder",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Power Gem", "Spiky Shield"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Garganacl", "Flutter Mane", "Glimmora"]
+},
+"outcome": 1
+}

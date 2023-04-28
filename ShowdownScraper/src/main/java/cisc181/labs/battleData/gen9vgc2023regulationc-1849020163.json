@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849020163",
+"p1": {
+"playerName": "TheMismatcher",
+"fullTeam": [
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane", "Overheat"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch", "Brick Break"]
+}
+],
+"broughtTeam": ["Electrode", "Talonflame", "Sylveon", "Chien-Pao"]
+},
+"p2": {
+"playerName": "SlyAbby",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Fire",
+"moves": ["Breaking Swipe", "Earthquake", "Protect"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Pelipper", "Magneton", "Haxorus"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846325681",
+"p1": {
+"playerName": "Matutinha",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Encore", "Reflect", "Taunt"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Protect", "Blizzard", "Hydro Pump"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Bulldoze", "Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sableye", "Iron Bundle", "Abomasnow", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Il Mule",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Tasconi",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Protect"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Dentoni",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Bando",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Ciance",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Trick", "Shadow Ball", "Make It Rain"]
+}
+],
+"broughtTeam": ["Great Tusk", "Chi-Yu", "Iron Bundle", "Gholdengo"]
+},
+"outcome": 0
+}

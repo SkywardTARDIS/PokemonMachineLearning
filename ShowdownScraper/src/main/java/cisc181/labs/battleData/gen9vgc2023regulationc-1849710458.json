@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849710458",
+"p1": {
+"playerName": "DNDS",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick", "Encore", "Psychic"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Indeedee", "Murkrow", "Garganacl"]
+},
+"p2": {
+"playerName": "vargalicious",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sponge Bob",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Plankton",
+"item": "Leftovers",
+"ability": "Flash Fire",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Protect", "Shadow Sneak"]
+},
+{
+"species": "Corviknight",
+"nickname": "Eugene Krabs",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Patrick Star",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Sableye", "Ceruledge", "Corviknight", "Iron Hands"]
+},
+"outcome": 1
+}

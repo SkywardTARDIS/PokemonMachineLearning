@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850806630",
+"p1": {
+"playerName": "Tizio20",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Tailwind", "U-turn", "Brave Bird"]
+}
+],
+"broughtTeam": ["Iron Treads", "Amoonguss", "Flutter Mane", "Talonflame"]
+},
+"p2": {
+"playerName": "fullpickle",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Parting Shot", "Reflect"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dual Wingbeat"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Mach Punch", "Aerial Ace"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Salamence", "Breloom", "Clodsire"]
+},
+"outcome": 1
+}

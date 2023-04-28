@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846026813",
+"p1": {
+"playerName": "jabaydragon",
+"fullTeam": [
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "Salac Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Focus Sash",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Oricorio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Krookodile", "Meowscarada", "Sableye", "Flamigo"]
+},
+"p2": {
+"playerName": "LegalizedNukes",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Iron Defense", "Body Press"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "Fairy",
+"moves": ["Follow Me"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Bronzong", "Indeedee", "Hatterene"]
+},
+"outcome": 0
+}

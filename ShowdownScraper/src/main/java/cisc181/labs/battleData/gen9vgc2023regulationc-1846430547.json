@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846430547",
+"p1": {
+"playerName": "HeartOfOak",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Tailwind", "Flatter"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Water",
+"moves": ["Hydro Pump", "Protect", "Icy Wind"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Flare Blitz"]
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Murkrow", "Iron Bundle", "Talonflame"]
+},
+"p2": {
+"playerName": "SweetP",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn", "Overheat", "Protect"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm", "Sleep Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Taunt", "Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Jumpluff", "Great Tusk", "Chien-Pao"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845220663",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Moxie",
+"teraType": "Flying",
+"moves": ["Protect", "Dragon Dance", "Tera Blast"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Thunderbolt"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Gyarados", "Flutter Mane", "Dragonite"]
+},
+"p2": {
+"playerName": "AnimeLover6",
+"fullTeam": [
+{
+"species": "Raichu",
+"nickname": "Chub Chub",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Nasty Plot", "Thunderbolt"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Oongaboongus",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Blu-Glo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Toilet Bord",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Raichu", "Brute Bonnet", "Azumarill", "Pelipper"]
+},
+"outcome": 1
+}

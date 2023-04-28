@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846909686",
+"p1": {
+"playerName": "BluFalconTwitch",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Taunt", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Leftovers",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Nasty Plot"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+}
+],
+"broughtTeam": ["Gyarados", "Chi-Yu", "Brute Bonnet", "Dragapult"]
+},
+"p2": {
+"playerName": "comprestrict",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["U-turn", "Flower Trick", "Play Rough"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Close Combat"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play"]
+}
+],
+"broughtTeam": ["Meowscarada", "Scizor", "Amoonguss", "Sableye"]
+},
+"outcome": 0
+}

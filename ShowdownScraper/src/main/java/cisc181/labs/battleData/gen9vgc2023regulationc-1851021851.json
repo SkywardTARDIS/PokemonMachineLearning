@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851021851",
+"p1": {
+"playerName": "Linkflash",
+"fullTeam": [
+{
+"species": "Pikachu",
+"nickname": "Pikachu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Fake Out", "Discharge"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "Electric",
+"moves": ["Discharge"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lumineon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pikachu", "Raichu", "Gastrodon", "Tatsugiri"]
+},
+"p2": {
+"playerName": "DNDS",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sunny Day", "Tailwind"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wide Guard", "Explosion"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Indeedee", "Murkrow", "Garganacl"]
+},
+"outcome": 0
+}

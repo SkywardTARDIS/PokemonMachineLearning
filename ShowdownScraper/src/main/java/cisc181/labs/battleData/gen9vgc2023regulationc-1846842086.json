@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1846842086",
+"p1": {
+"playerName": "RaytedR",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Dark",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Earthquake"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Annihilape", "Great Tusk"]
+},
+"p2": {
+"playerName": "Lupostrasz",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Iron Head"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Garchomp", "Chien-Pao", "Gyarados", "Talonflame"]
+},
+"outcome": 1
+}

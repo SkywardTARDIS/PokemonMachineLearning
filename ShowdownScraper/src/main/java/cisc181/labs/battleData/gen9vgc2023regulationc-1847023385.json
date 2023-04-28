@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847023385",
+"p1": {
+"playerName": "dreamswgh",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Arizona",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Nevada",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Helping Hand", "Dazzling Gleam", "Follow Me"]
+},
+{
+"species": "Hatterene",
+"nickname": "New Mexico",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "Okalahoma",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Brave Bird"]
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Indeedee", "Hatterene", "Corviknight"]
+},
+"p2": {
+"playerName": "RgAngel",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower", "Yawn", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Close Combat", "Earthquake", "Ice Spinner", "Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Torkoal", "Great Tusk", "Gyarados", "Iron Bundle"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848010315",
+"p1": {
+"playerName": "Borghi",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Population Bomb"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Rock Slide", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "ZaikoAir",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Clarita",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Trick Room", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "Cubero",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower", "Protect", "Clear Smog"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Paco fiestas",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Detect", "Thunder Punch"]
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Oranguru", "Hariyama"]
+},
+"outcome": 0
+}

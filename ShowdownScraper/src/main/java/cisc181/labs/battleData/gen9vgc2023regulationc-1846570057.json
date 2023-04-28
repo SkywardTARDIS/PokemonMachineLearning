@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846570057",
+"p1": {
+"playerName": "Ninjamuff3n",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm", "Protect", "After You"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Earthquake"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ground",
+"moves": ["Tailwind", "Earth Power"]
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Garchomp", "Iron Jugulis"]
+},
+"p2": {
+"playerName": "Welwitchia",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Fries",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Energy Ball"]
+},
+{
+"species": "Oinkologne",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Aqua Step", "Ice Spinner", "Tera Blast"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+}
+],
+"broughtTeam": ["Gholdengo", "Scovillain", "Quaquaval", "Garganacl"]
+},
+"outcome": 1
+}

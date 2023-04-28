@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848871038",
+"p1": {
+"playerName": "Jamtarokun",
+"fullTeam": [
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Skill Swap"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Fissure", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slaking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Medicham", "Lycanroc", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "mrknight234",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Anger Point",
+"teraType": "Fairy",
+"moves": ["Raging Bull", "Tera Blast"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Trick", "Flower Trick"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Chansey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Meowscarada", "Noivern", "Ceruledge"]
+},
+"outcome": 1
+}

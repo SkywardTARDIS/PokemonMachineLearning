@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847060142",
+"p1": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Whirlwind", "Throat Chop"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Substitute", "Protect", "Jaw Lock", "Acrobatics"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Light Screen"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"p2": {
+"playerName": "MadMat48",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break", "Bullet Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Taunt", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Tomb"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Braviary",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Gyarados", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 1
+}

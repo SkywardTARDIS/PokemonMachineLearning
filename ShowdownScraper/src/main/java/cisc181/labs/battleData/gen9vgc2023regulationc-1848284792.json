@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848284792",
+"p1": {
+"playerName": "Obvaltisobv",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "Water",
+"moves": ["Draco Meteor", "Surf"]
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "",
+"ability": "Dry Skin",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat", "Poison Jab", "Bullet Punch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Surf", "Tailwind", "Hurricane"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Toxicroak", "Pelipper", "Vaporeon"]
+},
+"p2": {
+"playerName": "SumoVGC",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Heavy Slam", "Protect", "Earthquake", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 0
+}

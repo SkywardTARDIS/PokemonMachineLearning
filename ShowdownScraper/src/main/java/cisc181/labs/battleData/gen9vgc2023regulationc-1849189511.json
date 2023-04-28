@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849189511",
+"p1": {
+"playerName": "Sonite",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Ice Shard", "Heavy Slam"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psyshock", "Yawn", "Chilly Reception"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Swords Dance", "Thunder Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Bitter Blade", "Protect", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Cetitan", "Slowking", "Iron Hands", "Ceruledge"]
+},
+"p2": {
+"playerName": "LukeMineWalker",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Psycho Cut"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "Yache Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Protect", "Draco Meteor"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Iron Defense", "Body Press", "Recover"]
+},
+{
+"species": "Salazzle",
+"nickname": "Salazzle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Flamethrower"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Noivern", "Garganacl", "Salazzle"]
+},
+"outcome": 1
+}

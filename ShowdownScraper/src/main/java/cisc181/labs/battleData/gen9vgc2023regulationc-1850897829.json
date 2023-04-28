@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850897829",
+"p1": {
+"playerName": "VGCcol",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist", "Protect"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Annihilape", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Marco Fettuccine",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Wizz",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Zacchete",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Pavarotti",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "er pinguino",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Ceruledge", "Flutter Mane", "Iron Bundle"]
+},
+"outcome": 1
+}

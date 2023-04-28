@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847430567",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Chocnut",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Protect", "Yawn"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Riko",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Ice Shard", "Stomping Tantrum", "Icicle Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Hanabishi",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Baxcalibur", "Rotom"]
+},
+"p2": {
+"playerName": "Devonpl",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Heavy Slam"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Wish", "Yawn", "Body Press", "Protect"]
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Chi-Yu", "Dachsbun"]
+},
+"outcome": 1
+}

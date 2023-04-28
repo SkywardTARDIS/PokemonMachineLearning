@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845880138",
+"p1": {
+"playerName": "Crest of Thunders",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Claude",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Gravestone",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "5A1NT_N1K",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Mellow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "Ianne Wildfyre",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Overheat", "Heat Wave"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Great Tusk", "Chi-Yu", "Dragonite"]
+},
+"outcome": 1
+}

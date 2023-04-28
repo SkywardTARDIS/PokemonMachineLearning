@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847723680",
+"p1": {
+"playerName": "King of Gambit",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Aurora Veil", "Giga Drain"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect"]
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Maushold", "Gholdengo"]
+},
+"p2": {
+"playerName": "RowanRowan",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Focus Sash",
+"ability": "Wind Rider",
+"teraType": "Ghost",
+"moves": ["Protect", "Power Whip", "Shadow Sneak", "Tera Blast"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Discharge", "Air Slash"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Throat Chop", "Sacred Sword"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Brambleghast", "Kilowattrel", "Chien-Pao"]
+},
+"outcome": 0
+}

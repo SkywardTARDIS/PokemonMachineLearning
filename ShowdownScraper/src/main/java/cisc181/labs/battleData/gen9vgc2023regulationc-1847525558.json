@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847525558",
+"p1": {
+"playerName": "titahornofresco",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Rage Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Lum Berry",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Protect", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Wild Charge"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Arcanine", "Iron Hands"]
+},
+"p2": {
+"playerName": "cb-sooner",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Cappy",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Pengy",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Palafin",
+"nickname": "Capsule J",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Awoofy",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Iron Bundle", "Palafin", "Arcanine"]
+},
+"outcome": 0
+}

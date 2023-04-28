@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846428643",
+"p1": {
+"playerName": "elgervax",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Sand Tomb", "Stomping Tantrum", "Ruination", "Heavy Slam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Acrobatics"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Ting-Lu", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Dr Scoob",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Monkey Business",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Bulk Up", "Rage Fist"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Psilocybin",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Spore", "Rage Powder"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Icicle Crash"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Happy Holidays",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Chilling Water"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Amoonguss", "Baxcalibur", "Iron Bundle"]
+},
+"outcome": 0
+}

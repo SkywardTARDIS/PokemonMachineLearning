@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847587727",
+"p1": {
+"playerName": "AdriiVGC",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Tiburoncio",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Talonflame",
+"nickname": "Pájaro Asado",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash", "Overheat"]
+},
+{
+"species": "Gyarados",
+"nickname": "Snakey",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Talonflame", "Gyarados", "Amoonguss"]
+},
+"p2": {
+"playerName": "Bobby Seegul",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall", "Iron Head"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Perish Song", "Disable"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Wild Charge", "Drain Punch", "Heavy Slam"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Reflect", "Parting Shot"]
+}
+],
+"broughtTeam": ["Gyarados", "Scream Tail", "Iron Hands", "Grimmsnarl"]
+},
+"outcome": 0
+}

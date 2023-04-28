@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845529762",
+"p1": {
+"playerName": "t4vr",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Snarl"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Headlong Rush"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Arcanine", "Great Tusk", "Palafin", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Brummes",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Flame Charge", "Close Combat"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Throat Chop", "First Impression"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Tauros", "Rotom", "Lokix", "Gholdengo"]
+},
+"outcome": 1
+}

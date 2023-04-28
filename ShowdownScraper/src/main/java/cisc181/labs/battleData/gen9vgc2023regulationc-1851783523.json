@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851783523",
+"p1": {
+"playerName": "LumpySangsu",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Sitrus Berry",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination", "Protect", "Body Press"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Protect", "Clear Smog"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Purifying Salt",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Recover"]
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Amoonguss", "Garganacl"]
+},
+"p2": {
+"playerName": "MLGmushroom",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Throat Chop", "Acrobatics"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Taunt", "Thunder Wave"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Flutter Mane", "Amoonguss", "Gyarados"]
+},
+"outcome": 0
+}

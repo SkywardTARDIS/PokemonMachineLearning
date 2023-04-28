@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848741218",
+"p1": {
+"playerName": "MGArtificial",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Ice Punch"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Lycanroc", "Annihilape", "Tyranitar", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "EeveeAddict",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Tetanus",
+"item": "Safety Goggles",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Skill Swap", "Gravity", "Hypnosis"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Rabies",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Endeavor"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Cancer",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Lycanroc", "Ting-Lu"]
+},
+"outcome": 0
+}

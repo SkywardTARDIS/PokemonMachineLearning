@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845148330",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Reflect"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball", "Heat Wave"]
+}
+],
+"broughtTeam": ["Orthworm", "Salamence", "Sandy Shocks", "Iron Moth"]
+},
+"p2": {
+"playerName": "TTVNuzlockeAcademy",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Facade"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Earth Power", "Rage Powder"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "Aftermath",
+"teraType": "",
+"moves": ["Hex"]
+}
+],
+"broughtTeam": ["Rotom", "Flareon", "Toedscruel", "Drifblim"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844906514",
+"p1": {
+"playerName": "gahelar",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "grande pesce",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Tera Blast", "Wave Crash", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "piccolo pesce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Talk", "Draco Meteor"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "mangio pesce",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Glimmora",
+"nickname": "alga",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Mortal Spin"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Iron Bundle", "Glimmora"]
+},
+"p2": {
+"playerName": "Keveloper",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Stomping Tantrum", "Ruination", "Earthquake", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Flutter Mane", "Ting-Lu"]
+},
+"outcome": 0
+}

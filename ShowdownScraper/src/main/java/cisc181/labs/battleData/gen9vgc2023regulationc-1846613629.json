@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846613629",
+"p1": {
+"playerName": "Dunnakhiin",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Draco Meteor", "Protect", "Flash Cannon"]
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Power Gem", "Flamethrower", "Tera Blast"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Hydreigon", "Coalossal", "Florges"]
+},
+"p2": {
+"playerName": "Taca y Taca",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Cabeça de Borracha",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Thunderbolt", "Protect", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Arcanine", "Dragonite"]
+},
+"outcome": 1
+}

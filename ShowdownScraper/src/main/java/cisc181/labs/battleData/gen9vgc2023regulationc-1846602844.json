@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846602844",
+"p1": {
+"playerName": "vivian20",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Snarl", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Arcanine", "Wo-Chien"]
+},
+"p2": {
+"playerName": "Uao",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Smoky",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat", "Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "Whip",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sleep Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Frida Kalo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Garganacl",
+"nickname": "Shitcraft",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Iron Defense", "Body Press", "Recover", "Salt Cure"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Flutter Mane", "Garganacl"]
+},
+"outcome": 1
+}

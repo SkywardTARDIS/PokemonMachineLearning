@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848614646",
+"p1": {
+"playerName": "Jbenn",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Acrobatics", "Protect", "Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Make It Rain", "Thunderbolt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Headlong Rush"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Wide Guard"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Gholdengo", "Great Tusk", "Hariyama"]
+},
+"p2": {
+"playerName": "Evil Flowey",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Luigi",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Lava Plume", "Protect", "Solar Beam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Cagnotta",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Kingambit",
+"nickname": "Queengambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Assurance", "Iron Head", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Torkoal", "Chi-Yu", "Dachsbun", "Kingambit"]
+},
+"outcome": 1
+}

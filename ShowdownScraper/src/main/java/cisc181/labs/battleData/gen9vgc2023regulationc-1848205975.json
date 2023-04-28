@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848205975",
+"p1": {
+"playerName": "WoomyInverso",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "Flying",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Froslass",
+"nickname": "Froslass",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Indeedee", "Corviknight", "Froslass"]
+},
+"p2": {
+"playerName": "Nucleartoad",
+"fullTeam": [
+{
+"species": "Sunflora",
+"nickname": "Sunny Bono",
+"item": "",
+"ability": "Solar Power",
+"teraType": "",
+"moves": ["Solar Beam", "Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "NatKing Koal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Hatterene",
+"nickname": "Irene Cara",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Protect", "Psychic"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sunflora", "Torkoal", "Hatterene"]
+},
+"outcome": 0
+}

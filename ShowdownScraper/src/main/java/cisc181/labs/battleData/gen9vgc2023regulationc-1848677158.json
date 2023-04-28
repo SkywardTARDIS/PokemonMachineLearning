@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848677158",
+"p1": {
+"playerName": "The drestroyer",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Hyper Voice", "Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet", "Play Rough"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drill Peck", "Roost", "Protect"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Breloom", "Azumarill", "Corviknight"]
+},
+"p2": {
+"playerName": "mogulmoves1",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Wish", "Protect", "Yawn"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Iron Head", "Tera Blast", "Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Dragonite", "Azumarill"]
+},
+"outcome": 1
+}

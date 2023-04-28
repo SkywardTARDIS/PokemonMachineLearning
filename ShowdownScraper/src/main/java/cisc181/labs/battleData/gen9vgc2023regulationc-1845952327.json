@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845952327",
+"p1": {
+"playerName": "Zucmpall",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Protect", "Waterfall", "Iron Head"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Sucker Punch", "Seed Bomb"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Badwish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Foul Play", "Haze"]
+}
+],
+"broughtTeam": ["Gyarados", "Flutter Mane", "Brute Bonnet", "Murkrow"]
+},
+"p2": {
+"playerName": "peytoncookie",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Psychic"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball", "Perish Song"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+}
+],
+"broughtTeam": ["Gothitelle", "Scream Tail", "Flutter Mane", "Palafin"]
+},
+"outcome": 1
+}

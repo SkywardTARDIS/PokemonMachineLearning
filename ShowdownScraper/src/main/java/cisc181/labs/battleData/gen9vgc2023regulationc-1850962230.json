@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850962230",
+"p1": {
+"playerName": "Determewnation",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect", "Earthquake"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Hyper Voice", "Tera Blast", "Hyper Beam"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Treads", "Murkrow", "Goodra", "Sylveon"]
+},
+"p2": {
+"playerName": "ZerosGal",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Snarl", "Flare Blitz", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

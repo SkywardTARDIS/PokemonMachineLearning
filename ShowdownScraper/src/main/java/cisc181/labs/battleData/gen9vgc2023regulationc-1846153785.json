@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1846153785",
+"p1": {
+"playerName": "jacomen",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge", "Close Combat"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Fissure"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Talonflame", "Iron Hands", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Skuntomk",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Skuntank",
+"nickname": "Skuntank",
+"item": "Black Sludge",
+"ability": "Aftermath",
+"teraType": "",
+"moves": ["Poison Gas", "Fire Spin", "Protect", "Sucker Punch"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Hammer Arm"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Protect", "Dragon Dance", "Waterfall"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Skuntank", "Garganacl", "Gyarados"]
+},
+"outcome": 0
+}

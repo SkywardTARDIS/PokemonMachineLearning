@@ -1,0 +1,80 @@
+{
+"id": "gen9vgc2023regulationc-1846485771",
+"p1": {
+"playerName": "Gyufre",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Nasty Plot", "Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Chi-Yu", "Flutter Mane", "Iron Hands"]
+},
+"p2": {
+"playerName": "Lukob",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Body Slam", "Earthquake"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Zen Headbutt"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Slaking", "Medicham", "Talonflame", "Chien-Pao"]
+},
+"outcome": 0
+}

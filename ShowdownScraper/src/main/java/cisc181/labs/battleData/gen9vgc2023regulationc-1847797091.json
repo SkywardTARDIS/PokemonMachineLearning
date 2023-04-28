@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847797091",
+"p1": {
+"playerName": "AbyssV0525",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Ice Spinner"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Dragon Dance", "Icicle Crash", "Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Quaquaval", "Baxcalibur", "Ting-Lu", "Iron Bundle"]
+},
+"p2": {
+"playerName": "bl1ng",
+"fullTeam": [
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Low Kick", "Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Muddy Water", "Recover", "Clear Smog"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psyshock"]
+}
+],
+"broughtTeam": ["Tyranitar", "Chi-Yu", "Gastrodon", "Farigiraf"]
+},
+"outcome": 1
+}

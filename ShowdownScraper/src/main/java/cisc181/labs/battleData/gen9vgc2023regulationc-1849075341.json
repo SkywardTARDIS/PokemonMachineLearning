@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849075341",
+"p1": {
+"playerName": "Inkin",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Uao",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Pelomagneto",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Flash Cannon"]
+},
+{
+"species": "Torkoal",
+"nickname": "Smoky",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Eruption", "Overheat"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Yawn", "Body Press", "Wish", "Helping Hand"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Torkoal", "Dachsbun", "Chi-Yu"]
+},
+"outcome": 0
+}

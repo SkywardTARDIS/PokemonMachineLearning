@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848141981",
+"p1": {
+"playerName": "Kaibar",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Windy",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Protect", "Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Kingambit", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Eselprimo",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Protect", "Feint"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Night Slash", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Goodra", "Scizor", "Honchkrow"]
+},
+"outcome": 1
+}

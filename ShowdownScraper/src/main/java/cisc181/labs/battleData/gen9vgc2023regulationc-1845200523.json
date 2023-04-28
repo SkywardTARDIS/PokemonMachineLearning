@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845200523",
+"p1": {
+"playerName": "Zydroxequil",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide", "Tera Blast", "Fire Punch", "Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Thunder Wave", "Iron Head", "Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Garchomp", "Gyarados", "Amoonguss"]
+},
+"p2": {
+"playerName": "LovelyTheSavage",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Breaking Swipe", "Glaive Rush"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Roost", "Tailwind", "Rock Slide"]
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flash Cannon"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Amoonguss", "Dragonite", "Magnezone"]
+},
+"outcome": 1
+}

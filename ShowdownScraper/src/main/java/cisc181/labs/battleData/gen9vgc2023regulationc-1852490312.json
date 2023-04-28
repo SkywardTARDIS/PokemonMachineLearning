@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1852490312",
+"p1": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Jaw Lock", "Protect", "Acrobatics"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"p2": {
+"playerName": "lajoyapalacios",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sleep Powder"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower", "Eruption", "Earth Power", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Throat Chop", "Breaking Swipe", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Roaring Moon", "Flutter Mane"]
+},
+"outcome": 1
+}

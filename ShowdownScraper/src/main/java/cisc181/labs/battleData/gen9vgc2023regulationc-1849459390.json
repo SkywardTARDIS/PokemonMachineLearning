@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849459390",
+"p1": {
+"playerName": "jchemmy",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Jet Punch", "Wave Crash", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush", "Ice Shard"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Ting-Lu", "Baxcalibur"]
+},
+"p2": {
+"playerName": "brauli94",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Tera Blast", "Shadow Sneak"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis", "Lumina Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Earth Power", "Protect"]
+}
+],
+"broughtTeam": ["Ceruledge", "Espathra", "Gyarados", "Sandy Shocks"]
+},
+"outcome": 1
+}

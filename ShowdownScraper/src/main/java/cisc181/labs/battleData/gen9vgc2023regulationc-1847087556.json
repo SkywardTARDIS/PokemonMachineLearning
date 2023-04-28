@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847087556",
+"p1": {
+"playerName": "ThePyre",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Wild Charge"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Helping Hand"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+}
+],
+"broughtTeam": ["Iron Hands", "Gothitelle", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak", "Bitter Blade", "Bulk Up", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Snarl", "Lick", "Mud-Slap"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Phantom Force", "Dragon Darts", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Ceruledge", "Grimmsnarl", "Dachsbun", "Dragapult"]
+},
+"outcome": 0
+}

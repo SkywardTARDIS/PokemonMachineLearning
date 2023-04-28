@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847615310",
+"p1": {
+"playerName": "whosgemini",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Dark Pulse", "Protect", "Heat Wave"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Hydreigon", "Palafin", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "MrTheMatt",
+"fullTeam": [
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Parting Shot", "Fake Out"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Figy Berry",
+"ability": "",
+"teraType": "Ice",
+"moves": []
+}
+],
+"broughtTeam": ["Slowking", "Iron Bundle", "Grimmsnarl", "Cetitan"]
+},
+"outcome": 1
+}

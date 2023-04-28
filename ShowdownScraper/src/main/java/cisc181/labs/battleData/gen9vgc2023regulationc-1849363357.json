@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849363357",
+"p1": {
+"playerName": "gu1castro_",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Clear Smog"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Haze", "Wave Crash"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Snarl", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Amoonguss", "Palafin", "Arcanine"]
+},
+"p2": {
+"playerName": "joshmurr",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "White Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Dragon Dance", "Waterfall"]
+},
+{
+"species": "Mismagius",
+"nickname": "Mismagius",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Tera Blast", "Protect"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Volt Switch", "Fake Out"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Mismagius", "Raichu", "Dragapult"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845017517",
+"p1": {
+"playerName": "Even Greener Grass",
+"fullTeam": [
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Red Wine Mommy",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Close Combat"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Beverly",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Tara",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Icicle Crash"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Chi-Yu", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Enrico96v",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Low Kick"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Dragonite"]
+},
+"outcome": 1
+}

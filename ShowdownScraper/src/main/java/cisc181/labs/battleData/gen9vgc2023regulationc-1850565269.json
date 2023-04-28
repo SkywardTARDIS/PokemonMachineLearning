@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850565269",
+"p1": {
+"playerName": "Fastjon4444",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Arcanine", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "walkin.steele",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Gallade",
+"nickname": "Nanami",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psycho Cut"]
+},
+{
+"species": "Corviknight",
+"nickname": "Yata-Garasu",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "Dragon",
+"moves": ["Tailwind", "Iron Head"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Ariana",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Encore", "Disable"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Gallade", "Corviknight", "Scream Tail"]
+},
+"outcome": 1
+}

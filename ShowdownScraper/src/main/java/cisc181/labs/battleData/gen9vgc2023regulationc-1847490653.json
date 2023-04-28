@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847490653",
+"p1": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Throat Chop", "Acrobatics"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Arcanine", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Jaw Lock", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Dazzling Gleam", "Light Screen"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Slack Off"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Klefki", "Skeledirge"]
+},
+"outcome": 0
+}

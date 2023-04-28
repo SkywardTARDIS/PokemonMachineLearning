@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847469957",
+"p1": {
+"playerName": "SuperBlanketMan",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Waterfall", "Thunder Wave", "Dragon Dance", "Ice Fang"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Roost", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Protect", "Hurricane"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Dark Pulse"]
+}
+],
+"broughtTeam": ["Gyarados", "Talonflame", "Pelipper", "Iron Jugulis"]
+},
+"p2": {
+"playerName": "dunsparcedingo",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Leftovers",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Helping Hand", "Overheat", "Protect"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Sleep Powder", "Pollen Puff"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Jumpluff", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

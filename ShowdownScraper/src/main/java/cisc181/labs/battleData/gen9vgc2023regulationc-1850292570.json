@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1850292570",
+"p1": {
+"playerName": "Tempo18",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Glut-ton",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Wish", "Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Hell-Fish",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Steel",
+"moves": ["Lava Plume", "Dark Pulse"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Exca-liber",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Iron-Sands",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Charge Beam", "Earth Power"]
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Chi-Yu", "Baxcalibur", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "ee2eee3",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Order Up", "Rest", "Sleep Talk", "Liquidation"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "Flying",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Flamigo", "Amoonguss"]
+},
+"outcome": 1
+}

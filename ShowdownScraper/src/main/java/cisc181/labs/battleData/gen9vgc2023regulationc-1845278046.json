@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845278046",
+"p1": {
+"playerName": "z0gre",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Yawn", "Fissure", "Slack Off"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Reflect", "Follow Me", "Draining Kiss", "Light Screen"]
+},
+{
+"species": "Hawlucha",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palossand",
+"nickname": "Palossand",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sandstorm", "Chilling Water", "Stockpile"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Phantom Force"]
+}
+],
+"broughtTeam": ["Hippowdon", "Indeedee", "Palossand", "Houndstone"]
+},
+"p2": {
+"playerName": "WillowYT",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Helping Hand", "Iron Defense", "Body Press"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Flip Turn", "Jet Punch", "Drain Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Palafin", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 0
+}

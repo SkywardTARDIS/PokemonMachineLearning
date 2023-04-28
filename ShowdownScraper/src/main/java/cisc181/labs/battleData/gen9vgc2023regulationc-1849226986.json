@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849226986",
+"p1": {
+"playerName": "Insertable194",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Thunder Punch", "Protect"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Flutter Mane", "Iron Hands"]
+},
+"p2": {
+"playerName": "YumeAn5",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "$DOGE",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Una de bravas",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Seta",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Camarero",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Amoonguss", "Palafin"]
+},
+"outcome": 1
+}

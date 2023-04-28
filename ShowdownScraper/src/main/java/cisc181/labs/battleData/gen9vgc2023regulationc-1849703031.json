@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849703031",
+"p1": {
+"playerName": "Blur123",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Waterfall", "Earthquake"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect", "Encore", "Freeze-Dry"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Gyarados", "Ceruledge", "Iron Bundle", "Flutter Mane"]
+},
+"p2": {
+"playerName": "oredaruma",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "チオンジェン",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Pollen Puff", "Taunt", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "ディンルー",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "キラフロル",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Spiky Shield"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "ハバタクカミ",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Glimmora", "Flutter Mane"]
+},
+"outcome": 1
+}

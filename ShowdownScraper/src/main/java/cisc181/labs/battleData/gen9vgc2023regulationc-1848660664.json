@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848660664",
+"p1": {
+"playerName": "Baudry",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Knock Off", "Leech Seed", "Protect", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall", "Thunder Wave"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Bulk Up", "Protect", "Drain Punch"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Gyarados", "Annihilape"]
+},
+"p2": {
+"playerName": "Xcdc9182",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Terrain Extender",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Assault Vest",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Low Kick", "Kowtow Cleave"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Kingambit", "Hatterene"]
+},
+"outcome": 1
+}

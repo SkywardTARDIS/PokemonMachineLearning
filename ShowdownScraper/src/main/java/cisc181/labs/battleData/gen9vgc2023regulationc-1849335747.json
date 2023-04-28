@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849335747",
+"p1": {
+"playerName": "PianginaPardo",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Icy Wind", "Thunder Wave", "Taunt", "Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "MankeyDlufy",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rage Fist", "Protect", "Bulk Up", "Drain Punch"]
+}
+],
+"broughtTeam": ["Gyarados", "Iron Bundle", "Maushold", "Annihilape"]
+},
+"p2": {
+"playerName": "aquinoxx",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Rest", "Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Dragonite", "Flutter Mane"]
+},
+"outcome": 1
+}

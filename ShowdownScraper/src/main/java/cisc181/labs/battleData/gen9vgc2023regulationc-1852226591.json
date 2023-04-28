@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852226591",
+"p1": {
+"playerName": "VeeGey",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spicy Extract"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "Steel",
+"moves": ["Phantom Force", "Dragon Darts"]
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Squawkabilly",
+"nickname": "Squawkabilly",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Brave Bird", "Quick Attack"]
+},
+{
+"species": "Golduck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scovillain", "Dragapult", "Squawkabilly"]
+},
+"p2": {
+"playerName": "Jintoski",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Azumarill", "Flutter Mane", "Chi-Yu", "Dragonite"]
+},
+"outcome": 1
+}

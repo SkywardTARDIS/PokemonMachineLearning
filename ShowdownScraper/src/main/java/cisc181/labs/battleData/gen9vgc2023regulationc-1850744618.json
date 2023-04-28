@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850744618",
+"p1": {
+"playerName": "goosegooseduck",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Raging Bull", "Close Combat"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Ice Beam", "U-turn"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Ice Punch", "Jet Punch"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Tauros", "Pelipper", "Palafin", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Dr.Disney",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Lava Plume", "Psychic", "Armor Cannon", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Lava Plume", "Yawn", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Chi-Yu", "Armarouge", "Torkoal"]
+},
+"outcome": 0
+}

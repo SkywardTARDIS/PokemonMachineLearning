@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850928126",
+"p1": {
+"playerName": "chicagolocaltop16",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Bax",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Icicle Crash", "Glaive Rush", "Protect", "Ice Shard"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafriend",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Skill",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Spooky-doo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Palafin", "Flutter Mane", "Arcanine"]
+},
+"p2": {
+"playerName": "gamerzach",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Sacred Sword"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Nasty Plot", "Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chien-Pao", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

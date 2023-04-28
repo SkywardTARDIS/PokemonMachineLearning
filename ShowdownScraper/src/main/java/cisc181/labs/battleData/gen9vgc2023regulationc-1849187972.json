@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849187972",
+"p1": {
+"playerName": "Eli?ISThatYou",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Psychic"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Polteageist",
+"nickname": "Polteageist",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Ally Switch", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Hatterene", "Hariyama", "Indeedee", "Polteageist"]
+},
+"p2": {
+"playerName": "JiangTang",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Accelerock", "Sucker Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Sacred Sword"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Taunt", "Freeze-Dry", "Electric Terrain", "Protect"]
+}
+],
+"broughtTeam": ["Lycanroc", "Chien-Pao", "Flutter Mane", "Iron Bundle"]
+},
+"outcome": 1
+}

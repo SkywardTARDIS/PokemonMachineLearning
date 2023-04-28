@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1850993236",
+"p1": {
+"playerName": "They34",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Freeze-Dry"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Body Press"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Bronzong", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Dazzling Gleam", "Reflect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Klefki", "Skeledirge", "Iron Bundle"]
+},
+"outcome": 1
+}

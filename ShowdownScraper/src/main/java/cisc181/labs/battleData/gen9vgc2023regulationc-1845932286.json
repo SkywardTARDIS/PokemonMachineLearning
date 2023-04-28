@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845932286",
+"p1": {
+"playerName": "LegalizedNukes",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force", "Armor Cannon"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Close Combat", "Heavy Slam"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Trick Room", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Hariyama", "Hatterene"]
+},
+"p2": {
+"playerName": "Skoild",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Protect", "Snarl", "Pollen Puff"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Garganacl", "Indeedee", "Great Tusk"]
+},
+"outcome": 1
+}

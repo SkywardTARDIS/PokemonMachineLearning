@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852272480",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Ordinance",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Birdman",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Stomping Tantrum"]
+},
+{
+"species": "Talonflame",
+"nickname": "Bolt the birb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Taunt"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Garchomp", "Talonflame"]
+},
+"p2": {
+"playerName": "tastethekoalabear",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Gucci Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Task",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Gerald",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "Tobias",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Torkoal", "Jumpluff"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852241170",
+"p1": {
+"playerName": "GoodBoiz",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Houndoom",
+"nickname": "Houndoom",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mabosstiff",
+"nickname": "Mabosstiff",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press"]
+}
+],
+"broughtTeam": ["Arcanine", "Houndoom", "Mabosstiff", "Dachsbun"]
+},
+"p2": {
+"playerName": "humble_jose",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Fairy",
+"moves": ["Lumina Crash", "Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Snarl"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+}
+],
+"broughtTeam": ["Espathra", "Arcanine", "Iron Bundle", "Great Tusk"]
+},
+"outcome": 1
+}

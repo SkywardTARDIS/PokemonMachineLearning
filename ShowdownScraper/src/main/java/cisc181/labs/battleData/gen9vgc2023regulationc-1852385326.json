@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852385326",
+"p1": {
+"playerName": "J3MMY",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Flower Trick", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Yawn", "Protect", "Overheat", "Helping Hand"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Amoonguss", "Flutter Mane", "Torkoal"]
+},
+"p2": {
+"playerName": "BabyGrizzley",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Sitrus Berry",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Snarl", "Fissure"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Ingrain", "Tickle", "Leech Seed", "Pollen Puff"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Stealth Rock", "Toxic Spikes"]
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Wo-Chien", "Murkrow", "Glimmora"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845873030",
+"p1": {
+"playerName": "SlothSpeed",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "Purifying Salt",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Wide Guard", "Recover", "Protect"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Kasib Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick Room", "Psychic"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Encore", "Disable"]
+}
+],
+"broughtTeam": ["Arcanine", "Garganacl", "Gothitelle", "Scream Tail"]
+},
+"p2": {
+"playerName": "yemia",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "Trace",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Taunt"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Brick Break", "Shadow Claw", "Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Apple Acid", "Grassy Terrain", "Tera Blast"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gardevoir", "Ceruledge", "Volcarona", "Appletun"]
+},
+"outcome": 1
+}

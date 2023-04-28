@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845869455",
+"p1": {
+"playerName": "Kiriziio",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Hex", "Moonblast", "Substitute", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Toxic", "Power Gem"]
+}
+],
+"broughtTeam": ["Dondozo", "Chi-Yu", "Flutter Mane", "Glimmora"]
+},
+"p2": {
+"playerName": "bizhopp",
+"fullTeam": [
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Pounce", "Shadow Sneak"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Ice Shard"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Earthquake", "Protect", "Extreme Speed"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Brambleghast", "Chien-Pao", "Dragonite", "Gholdengo"]
+},
+"outcome": 1
+}

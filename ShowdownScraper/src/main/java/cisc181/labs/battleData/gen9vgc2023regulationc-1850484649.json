@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850484649",
+"p1": {
+"playerName": "plesiooo",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Taunt"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Poison",
+"moves": ["Earthquake", "Gunk Shot"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Gastrodon", "Krookodile"]
+},
+"p2": {
+"playerName": "jennjarrett",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Cuddles",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide", "Brick Break"]
+},
+{
+"species": "Rotom",
+"nickname": "Bluster Buster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Air Slash", "Thunderbolt"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oinkologne",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Millinery",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+}
+],
+"broughtTeam": ["Tyranitar", "Rotom", "Hatterene", "Houndstone"]
+},
+"outcome": 0
+}

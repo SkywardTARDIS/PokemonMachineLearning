@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847113573",
+"p1": {
+"playerName": "ugh50",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Order Up", "Body Press"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "Focus Sash",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Sticky Web", "Soak", "Bug Buzz"]
+}
+],
+"broughtTeam": ["Iron Moth", "Dondozo", "Tatsugiri", "Masquerain"]
+},
+"p2": {
+"playerName": "Ykrach",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Protect", "Swords Dance"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Thunder Wave", "Perish Song", "Foul Play"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Leftovers",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Water",
+"moves": ["Fiery Dance", "Tera Blast", "Air Slash"]
+}
+],
+"broughtTeam": ["Scizor", "Murkrow", "Arboliva", "Iron Moth"]
+},
+"outcome": 0
+}

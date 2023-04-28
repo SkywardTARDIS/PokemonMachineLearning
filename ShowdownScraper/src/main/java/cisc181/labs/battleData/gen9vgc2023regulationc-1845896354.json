@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845896354",
+"p1": {
+"playerName": "AttackOnBacklog",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Aqua Jet"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Azumarill", "Amoonguss", "Arcanine", "Gholdengo"]
+},
+"p2": {
+"playerName": "Obvaltisobv",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Protect", "Psychic"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Safeguard"]
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Gunk Shot"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Dragon Dance", "Rock Slide", "Protect"]
+}
+],
+"broughtTeam": ["Hatterene", "Bronzong", "Toxicroak", "Tyranitar"]
+},
+"outcome": 0
+}

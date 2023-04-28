@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847133653",
+"p1": {
+"playerName": "Abugbog",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Leech Seed", "Pollen Puff", "Giga Drain"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Salt Cure", "Recover", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Parting Shot", "Spirit Break"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Garganacl", "Grimmsnarl", "Arcanine"]
+},
+"p2": {
+"playerName": "sptea",
+"fullTeam": [
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Heat Wave", "Extreme Speed"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Earth Power"]
+},
+{
+"species": "Dedenne",
+"nickname": "Dedenne",
+"item": "Sitrus Berry",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Volt Switch", "Nuzzle", "Discharge"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Taunt", "Spirit Break", "Light Screen"]
+}
+],
+"broughtTeam": ["Arcanine", "Gastrodon", "Dedenne", "Grimmsnarl"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848983613",
+"p1": {
+"playerName": "zek123",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn", "Helping Hand", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Mago Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+}
+],
+"broughtTeam": ["Torkoal", "Rotom", "Dragonite", "Garchomp"]
+},
+"p2": {
+"playerName": "PatMatrick",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Charlie",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Frank",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Sweet Dee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Mac",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Palafin"]
+},
+"outcome": 1
+}

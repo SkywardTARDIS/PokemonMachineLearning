@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847467992",
+"p1": {
+"playerName": "lazysquirrel",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Encore", "Super Fang", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "JEEA",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Sucker Punch", "Acupressure"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Belly Drum"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Electric Seed",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Muddy Water", "Protect"]
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Hands", "Hatterene", "Bellibolt"]
+},
+"outcome": 1
+}

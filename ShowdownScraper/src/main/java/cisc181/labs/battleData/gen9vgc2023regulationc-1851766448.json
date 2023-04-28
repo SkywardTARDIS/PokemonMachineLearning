@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851766448",
+"p1": {
+"playerName": "NicoHaxVGC",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Clear Smog", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stone Edge", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Amoonguss", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "r3gCt3st",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Memento"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Protect", "Rage Fist", "Drain Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Population Bomb", "Bite", "Protect"]
+}
+],
+"broughtTeam": ["Drifblim", "Annihilape", "Indeedee", "Maushold"]
+},
+"outcome": 0
+}

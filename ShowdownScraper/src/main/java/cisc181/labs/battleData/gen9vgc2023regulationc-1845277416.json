@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845277416",
+"p1": {
+"playerName": "tumorcio",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Amoonguss", "Palafin"]
+},
+"p2": {
+"playerName": "korpi",
+"fullTeam": [
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "Steel",
+"moves": ["Acid Spray", "Flamethrower", "Chilling Water"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Giga Drain"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Protect"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Leftovers",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Goodra", "Wo-Chien", "Glimmora", "Bellibolt"]
+},
+"outcome": 1
+}

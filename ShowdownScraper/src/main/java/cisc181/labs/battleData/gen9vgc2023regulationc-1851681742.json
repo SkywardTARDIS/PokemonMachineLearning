@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851681742",
+"p1": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Encore", "Pollen Puff"]
+},
+{
+"species": "Volcarona",
+"nickname": "Bunk",
+"item": "",
+"ability": "Flame Body",
+"teraType": "Grass",
+"moves": ["Overheat", "Tailwind"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Omar",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist", "Protect"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "McNulty",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+}
+],
+"broughtTeam": ["Jumpluff", "Volcarona", "Annihilape", "Jolteon"]
+},
+"p2": {
+"playerName": "bad123",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Musician",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Play Rough", "Aqua Jet"]
+},
+{
+"species": "Volcarona",
+"nickname": "Dancer",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Heat Wave"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Foul Play", "Haze"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Helping Hand"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Azumarill", "Volcarona", "Murkrow", "Maushold"]
+},
+"outcome": 1
+}

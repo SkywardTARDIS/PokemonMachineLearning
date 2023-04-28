@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846647665",
+"p1": {
+"playerName": "murdina",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Hyper Voice"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade", "Shadow Sneak", "Tera Blast"]
+},
+{
+"species": "Ditto",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Foul Play", "Haze"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Ceruledge", "Murkrow"]
+},
+"p2": {
+"playerName": "harrythegoat",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Leech Seed", "Flamethrower", "Protect"]
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "",
+"ability": "Moody",
+"teraType": "Water",
+"moves": ["Freeze-Dry", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Thunder Wave"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scovillain", "Glalie", "Grimmsnarl", "Volcarona"]
+},
+"outcome": 1
+}

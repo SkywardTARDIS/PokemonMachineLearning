@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846883490",
+"p1": {
+"playerName": "sardinio",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Wild Charge"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Arcanine", "Amoonguss", "Iron Hands"]
+},
+"p2": {
+"playerName": "Bukan226",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Protect", "Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch", "Spore", "Bullet Seed"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Armarouge", "Indeedee", "Breloom"]
+},
+"outcome": 1
+}

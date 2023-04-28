@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845007272",
+"p1": {
+"playerName": "Dunnakhiin",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Heat Crash", "Earthquake", "Rock Slide"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Corviknight", "Coalossal", "Florges", "Palafin"]
+},
+"p2": {
+"playerName": "lardopanza",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Solar Beam"]
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Sludge Bomb"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Mystical Fire", "Draining Kiss"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Amoonguss", "Hatterene"]
+},
+"outcome": 1
+}

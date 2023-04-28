@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1848916282",
+"p1": {
+"playerName": "Gsproductions",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "Goku",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Tunak",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Landotusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "UAV inbound",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Flamethrower", "Phantom Force"]
+}
+],
+"broughtTeam": ["Lucario", "Chien-Pao", "Great Tusk", "Dragapult"]
+},
+"p2": {
+"playerName": "Inspire60",
+"fullTeam": [
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Milo",
+"item": "Focus Sash",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Sandyghast",
+"item": "Leftovers",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Leech Seed", "Phantom Force"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Symthis",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Qwilfish",
+"nickname": "Qwilfish",
+"item": "Black Sludge",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Destiny Bond"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Brambleghast", "Flutter Mane", "Qwilfish"]
+},
+"outcome": 1
+}

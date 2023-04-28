@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851797147",
+"p1": {
+"playerName": "Sia's Lullaby",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "Good as Gold",
+"teraType": "Flying",
+"moves": ["Nasty Plot", "Make It Rain", "Protect"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Muddy Water", "Volt Switch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Swords Dance"]
+}
+],
+"broughtTeam": ["Amoonguss", "Gholdengo", "Bellibolt", "Iron Hands"]
+},
+"p2": {
+"playerName": "ILoveFurryOvO",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "敗露球菇",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "風速狗",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "振翼髮",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "快龍",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Outrage"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Flutter Mane", "Dragonite"]
+},
+"outcome": 0
+}

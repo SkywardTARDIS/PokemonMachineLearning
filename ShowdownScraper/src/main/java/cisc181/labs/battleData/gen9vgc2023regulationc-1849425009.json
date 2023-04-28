@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849425009",
+"p1": {
+"playerName": "Tehspap",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Aqua Jet"]
+},
+{
+"species": "Palossand",
+"nickname": "Palossand",
+"item": "Weakness Policy",
+"ability": "Water Compaction",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball", "Earth Power", "Energy Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Cyclizar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bruxish", "Palossand", "Amoonguss", "Scizor"]
+},
+"p2": {
+"playerName": "MAJOLION",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "Flying",
+"moves": ["Helping Hand", "Protect", "Overheat"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Ting-Lu", "Torkoal"]
+},
+"outcome": 1
+}

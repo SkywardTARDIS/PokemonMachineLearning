@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851776943",
+"p1": {
+"playerName": "Ori1",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Quash", "Will-O-Wisp"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Squawkabilly",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scyther",
+"nickname": "Scyther",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Swords Dance", "Tera Blast"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sableye", "Scyther", "Garganacl"]
+},
+"p2": {
+"playerName": "billpriv",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "",
+"moves": ["Explosion"]
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Self-Destruct"]
+}
+],
+"broughtTeam": ["Ceruledge", "Garganacl", "Drifblim", "Revavroom"]
+},
+"outcome": 1
+}

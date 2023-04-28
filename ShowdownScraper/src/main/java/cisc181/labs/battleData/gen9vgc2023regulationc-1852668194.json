@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852668194",
+"p1": {
+"playerName": "iwillbuild",
+"fullTeam": [
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Moxie",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Flare Blitz"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Krookodile", "Talonflame"]
+},
+"p2": {
+"playerName": "MatRod",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Espathra", "Sandy Shocks", "Flutter Mane", "Maushold"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847419151",
+"p1": {
+"playerName": "tomate palta",
+"fullTeam": [
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Draco Meteor"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics"]
+}
+],
+"broughtTeam": ["Lokix", "Appletun", "Gyarados", "Roaring Moon"]
+},
+"p2": {
+"playerName": "SnackIsle",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Room Service",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Trick Room", "Thunderbolt", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Torkoal", "Roaring Moon", "Farigiraf"]
+},
+"outcome": 0
+}

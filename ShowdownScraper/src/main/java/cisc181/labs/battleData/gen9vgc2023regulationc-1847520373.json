@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847520373",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "BB",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Kiryu",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Glaive Rush", "Ice Shard", "Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Red Sus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Rotom",
+"nickname": "Hanabishi",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Baxcalibur", "Amoonguss", "Rotom"]
+},
+"p2": {
+"playerName": "BigBusted",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Protect", "Swords Dance", "Dragon Claw", "Earthquake"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Protect", "Earthquake"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Great Tusk", "Corviknight"]
+},
+"outcome": 0
+}

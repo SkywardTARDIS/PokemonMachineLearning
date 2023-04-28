@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846761082",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Yoda",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Jabba The Hutt",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Pollen Puff", "Stun Spore"]
+},
+{
+"species": "Gholdengo",
+"nickname": "C3-P0",
+"item": "",
+"ability": "Good as Gold",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "The Force",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Haze"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Wo-Chien", "Gholdengo", "Palafin"]
+},
+"p2": {
+"playerName": "perfective",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Lava Plume", "Protect"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Yawn", "Body Press", "Wish", "Play Rough"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Azumarill", "Chi-Yu", "Dachsbun", "Dragonite"]
+},
+"outcome": 1
+}

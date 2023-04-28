@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852351018",
+"p1": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Apolo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Will-O-Wisp", "Extreme Speed", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Benito",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Protect", "Throat Chop"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Zachkahan",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Aura Sphere", "Shadow Ball"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Protect", "Bulk Up", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide", "Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Ceruledge", "Ting-Lu", "Palafin"]
+},
+"outcome": 0
+}

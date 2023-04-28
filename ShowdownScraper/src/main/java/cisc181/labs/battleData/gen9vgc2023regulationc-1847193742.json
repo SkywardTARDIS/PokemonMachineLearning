@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847193742",
+"p1": {
+"playerName": "Qicide",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Wide Guard"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Arcanine", "Ting-Lu", "Garganacl"]
+},
+"p2": {
+"playerName": "Bricclow",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Low Kick"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Last Respects", "Will-O-Wisp"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Houndstone", "Gastrodon", "Orthworm"]
+},
+"outcome": 1
+}

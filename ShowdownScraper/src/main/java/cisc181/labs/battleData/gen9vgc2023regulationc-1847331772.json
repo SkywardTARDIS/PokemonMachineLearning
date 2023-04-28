@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847331772",
+"p1": {
+"playerName": "Barbie120",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Psychic", "Dark Pulse"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Icicle Crash"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Bulk Up", "Body Press"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Baxcalibur", "Corviknight"]
+},
+"p2": {
+"playerName": "HitFissureThenLose",
+"fullTeam": [
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Infestation", "Baneful Bunker", "Recover"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Sitrus Berry",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+}
+],
+"broughtTeam": ["Toxapex", "Grimmsnarl", "Chi-Yu", "Wo-Chien"]
+},
+"outcome": 1
+}

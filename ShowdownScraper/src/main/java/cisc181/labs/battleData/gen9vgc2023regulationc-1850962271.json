@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850962271",
+"p1": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Sucker Punch", "Iron Head"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Arcanine", "Kingambit"]
+},
+"p2": {
+"playerName": "testlab12",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Brave Bird", "Tailwind", "Will-O-Wisp", "Taunt"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Protect"]
+}
+],
+"broughtTeam": ["Breloom", "Talonflame", "Orthworm", "Garchomp"]
+},
+"outcome": 1
+}

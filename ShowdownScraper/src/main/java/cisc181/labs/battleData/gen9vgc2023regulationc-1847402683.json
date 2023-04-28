@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847402683",
+"p1": {
+"playerName": "oskkky",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Iron Head", "Jet Punch"]
+},
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Fang", "Dark Pulse"]
+}
+],
+"broughtTeam": ["Palafin", "Toxapex", "Slowking", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Xcdc9182",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Waterfall", "Protect", "Taunt", "Earthquake"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Howl", "Encore"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Gyarados", "Great Tusk", "Scream Tail", "Flutter Mane"]
+},
+"outcome": 1
+}

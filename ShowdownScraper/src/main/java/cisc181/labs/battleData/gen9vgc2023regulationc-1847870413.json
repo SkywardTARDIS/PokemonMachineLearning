@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847870413",
+"p1": {
+"playerName": "fabio43",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Tera Blast", "Earthquake"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Joull",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Vox",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Aura Sphere", "Vacuum Wave", "Bullet Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Flipper",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Wave Crash", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Trix",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lucario", "Palafin", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844854452",
+"p1": {
+"playerName": "Savirisu",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Play Rough", "Earthquake", "Close Combat"]
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Seed Bomb", "U-turn"]
+}
+],
+"broughtTeam": ["Talonflame", "Chien-Pao", "Great Tusk", "Tsareena"]
+},
+"p2": {
+"playerName": "Joy840",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Follow Me"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "Leftovers",
+"ability": "Sap Sipper",
+"teraType": "Water",
+"moves": ["Bulk Up", "Leaf Blade"]
+}
+],
+"broughtTeam": ["Hariyama", "Indeedee", "Raichu", "Gogoat"]
+},
+"outcome": 0
+}

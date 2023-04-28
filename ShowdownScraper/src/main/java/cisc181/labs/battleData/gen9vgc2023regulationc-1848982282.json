@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848982282",
+"p1": {
+"playerName": "Snowblind Px",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Flying",
+"moves": ["Protect", "Acrobatics"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Roaring Moon"]
+},
+"p2": {
+"playerName": "lagartolocura",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Martin",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist", "Drain Punch", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Michele",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Annihilape", "Maushold"]
+},
+"outcome": 0
+}

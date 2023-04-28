@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847913394",
+"p1": {
+"playerName": "Leafaruen",
+"fullTeam": [
+{
+"species": "Scyther",
+"nickname": "Scyther",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder", "Earth Power"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Scyther", "Pelipper", "Sandy Shocks", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Whismuravocado",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Stone Edge"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Corviknight", "Houndstone", "Gastrodon"]
+},
+"outcome": 0
+}

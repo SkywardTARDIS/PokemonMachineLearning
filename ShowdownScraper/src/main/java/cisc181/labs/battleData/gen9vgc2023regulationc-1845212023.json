@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845212023",
+"p1": {
+"playerName": "Agent 301",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Aerial Ace", "Spore", "Mach Punch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Roost", "Rock Slide", "Dragon Dance"]
+}
+],
+"broughtTeam": ["Breloom", "Maushold", "Gholdengo", "Dragonite"]
+},
+"p2": {
+"playerName": "mangowarfare23",
+"fullTeam": [
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fire",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt"]
+}
+],
+"broughtTeam": ["Oranguru", "Ting-Lu", "Iron Hands", "Gyarados"]
+},
+"outcome": 1
+}

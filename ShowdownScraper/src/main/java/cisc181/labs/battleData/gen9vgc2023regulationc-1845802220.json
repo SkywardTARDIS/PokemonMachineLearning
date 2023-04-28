@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845802220",
+"p1": {
+"playerName": "Chaotic Raos",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Iron Petals",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water", "Moonblast"]
+},
+{
+"species": "Talonflame",
+"nickname": "Brave Bird",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Azumarill",
+"nickname": "Raid Champion",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Aqua Jet", "Play Rough"]
+},
+{
+"species": "Garchomp",
+"nickname": "Grandpa",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Iron Head", "Stomping Tantrum"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Florges", "Talonflame", "Azumarill", "Garchomp"]
+},
+"p2": {
+"playerName": "arbokiara",
+"fullTeam": [
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Ice Punch", "Jet Punch"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Chien-Pao", "Dragonite"]
+},
+"outcome": 1
+}

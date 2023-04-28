@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846008483",
+"p1": {
+"playerName": "RPDubs",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Flutter Mane", "Azumarill", "Chien-Pao"]
+},
+"p2": {
+"playerName": "oLLLiver",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind"]
+}
+],
+"broughtTeam": ["Slither Wing", "Tyranitar", "Volcarona"]
+},
+"outcome": 0
+}

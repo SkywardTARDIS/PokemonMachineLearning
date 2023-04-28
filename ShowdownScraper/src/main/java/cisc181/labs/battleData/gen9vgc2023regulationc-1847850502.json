@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847850502",
+"p1": {
+"playerName": "AndrwApple",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Yoda",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Jabba The Hutt",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Ruination", "Pollen Puff", "Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "AT-AT",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Close Combat", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "The Force",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Haze", "Jet Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Wo-Chien", "Arcanine", "Palafin"]
+},
+"p2": {
+"playerName": "Moonlight Flutter",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["U-turn", "Knock Off"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Waterfall", "Helping Hand"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Protect", "Icicle Crash", "Ice Shard"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Meowscarada", "Gyarados", "Baxcalibur"]
+},
+"outcome": 0
+}

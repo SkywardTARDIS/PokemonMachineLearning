@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850070562",
+"p1": {
+"playerName": "blockybot2001",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Justified",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+}
+],
+"broughtTeam": ["Annihilape", "Arcanine", "Espathra", "Maushold"]
+},
+"p2": {
+"playerName": "DayMoth",
+"fullTeam": [
+{
+"species": "Revavroom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Breaking Swipe"]
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Iron Treads", "Cyclizar", "Electrode", "Tyranitar"]
+},
+"outcome": 1
+}

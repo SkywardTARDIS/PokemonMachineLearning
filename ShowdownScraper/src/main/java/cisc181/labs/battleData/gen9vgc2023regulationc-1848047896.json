@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848047896",
+"p1": {
+"playerName": "That_Leek",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Shadow Ball", "Make It Rain", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Maushold", "Annihilape"]
+},
+"p2": {
+"playerName": "color_or_colour",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Altaria",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "Steel",
+"moves": ["Throat Chop", "Acrobatics"]
+},
+{
+"species": "Ampharos",
+"nickname": "Ampharos",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Magnetic Flux"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Toxtricity",
+"nickname": "Toxtricity",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Magnetic Flux", "Overdrive"]
+}
+],
+"broughtTeam": ["Flamigo", "Ampharos", "Sylveon", "Toxtricity"]
+},
+"outcome": 1
+}

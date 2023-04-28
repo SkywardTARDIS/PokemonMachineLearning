@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852455908",
+"p1": {
+"playerName": "Yuhunglo",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Haze", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Howl"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Protect", "Flower Trick"]
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Ting-Lu", "Meowscarada"]
+},
+"p2": {
+"playerName": "leafeonthegoat",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Bitter Blade", "Shadow Sneak", "Tera Blast"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Sludge Bomb"]
+}
+],
+"broughtTeam": ["Gholdengo", "Dragapult", "Ceruledge", "Gengar"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847767787",
+"p1": {
+"playerName": "Skottymon",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Drain Punch", "Fire Punch", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Protect", "Follow Me"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flare Blitz"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Talonflame"]
+},
+"p2": {
+"playerName": "Marzbar",
+"fullTeam": [
+{
+"species": "Impidimp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Lava Plume", "Psychic"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aerial Ace"]
+},
+{
+"species": "Houndoom",
+"nickname": "Houndoom",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop"]
+}
+],
+"broughtTeam": ["Armarouge", "Gogoat", "Houndoom", "Chien-Pao"]
+},
+"outcome": 1
+}

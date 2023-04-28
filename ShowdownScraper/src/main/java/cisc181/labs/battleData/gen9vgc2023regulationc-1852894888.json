@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852894888",
+"p1": {
+"playerName": "Froglock",
+"fullTeam": [
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "Fighting",
+"moves": ["Body Press", "Rock Slide"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Iron Head", "Sucker Punch"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Skill Swap", "Gigaton Hammer", "Play Rough"]
+}
+],
+"broughtTeam": ["Mudsdale", "Maushold", "Kingambit", "Tinkaton"]
+},
+"p2": {
+"playerName": "Tawn",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Sucker Punch", "Iron Head", "Protect", "Tera Blast"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Step"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Tera Blast", "Psychic"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Haze", "Icy Wind", "Tailwind"]
+}
+],
+"broughtTeam": ["Bisharp", "Quaquaval", "Chi-Yu", "Murkrow"]
+},
+"outcome": 0
+}

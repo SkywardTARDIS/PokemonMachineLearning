@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1845499001",
+"p1": {
+"playerName": "Pkmushroom",
+"fullTeam": [
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Haze"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "Dragon",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Bulldoze"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Tauros", "Ceruledge"]
+},
+"p2": {
+"playerName": "duff72",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spidops",
+"nickname": "Spidops",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Lunge", "Silk Trap"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Luxray",
+"nickname": "Luxray",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Volt Switch", "Snarl"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Lunge"]
+}
+],
+"broughtTeam": ["Spidops", "Gyarados", "Luxray", "Slither Wing"]
+},
+"outcome": 1
+}

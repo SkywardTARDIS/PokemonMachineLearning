@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851865781",
+"p1": {
+"playerName": "Steakman5",
+"fullTeam": [
+{
+"species": "Ursaring",
+"nickname": "Ursaring",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Energy Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ursaring", "Talonflame", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "LazY2401",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Palossand",
+"nickname": "Palossand",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earth Power"]
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Houndstone", "Palossand"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846219118",
+"p1": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Bitter Blade", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Swagger", "Sucker Punch"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mud-Slap"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Phantom Force", "Will-O-Wisp", "Dragon Darts"]
+}
+],
+"broughtTeam": ["Ceruledge", "Grimmsnarl", "Dachsbun", "Dragapult"]
+},
+"p2": {
+"playerName": "starterX",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum", "Ruination", "Fissure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Brute Bonnet", "Ting-Lu", "Flutter Mane", "Iron Bundle"]
+},
+"outcome": 1
+}

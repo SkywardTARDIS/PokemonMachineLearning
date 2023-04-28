@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845632184",
+"p1": {
+"playerName": "Tears tears",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drill Run"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Liquidation"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+}
+],
+"broughtTeam": ["Arcanine", "Lycanroc", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "fo50",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Solar Beam", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Own Tempo",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "Ground",
+"moves": ["Yawn", "Protect", "Earth Power"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Pounce"]
+}
+],
+"broughtTeam": ["Scovillain", "Tinkaton", "Torkoal", "Scizor"]
+},
+"outcome": 1
+}

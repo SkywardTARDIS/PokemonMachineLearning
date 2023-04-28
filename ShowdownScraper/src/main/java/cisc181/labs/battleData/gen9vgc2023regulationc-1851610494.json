@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851610494",
+"p1": {
+"playerName": "HoneyPaisennn",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Quick Attack"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Protect", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Pelipper", "Palafin", "Barraskewda", "Gholdengo"]
+},
+"p2": {
+"playerName": "Krib_Underscore",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Big Horns",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Headlong Rush", "Close Combat"]
+},
+{
+"species": "Corviknight",
+"nickname": "Taxi Service",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "HoHoHomicide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Knockoff Mega",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dragon Claw"]
+}
+],
+"broughtTeam": ["Great Tusk", "Corviknight", "Iron Bundle", "Roaring Moon"]
+},
+"outcome": 1
+}

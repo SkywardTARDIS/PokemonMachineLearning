@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848708508",
+"p1": {
+"playerName": "Enroclets",
+"fullTeam": [
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "CapiPutazo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ground",
+"moves": ["Knock Off"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Callampa",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Leech Seed", "Energy Ball", "Rage Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Palafin", "Great Tusk", "Toedscruel", "Flutter Mane"]
+},
+"p2": {
+"playerName": "westleyfsm",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Choice Band",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Petal Blizzard"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "Water",
+"moves": ["Aqua Tail"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Air Slash", "Tailwind"]
+}
+],
+"broughtTeam": ["Meowscarada", "Goodra", "Masquerain"]
+},
+"outcome": 0
+}

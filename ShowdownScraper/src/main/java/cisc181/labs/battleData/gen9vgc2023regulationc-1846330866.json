@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846330866",
+"p1": {
+"playerName": "hero231",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Smiles Back",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mid",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Taunt", "Shadow Ball"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Pee Wee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Tatsugiri"]
+},
+"p2": {
+"playerName": "BCDefault",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Heavy Slam"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Beam", "Moonblast"]
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lucario", "Espathra", "Stonjourner", "Sylveon"]
+},
+"outcome": 1
+}

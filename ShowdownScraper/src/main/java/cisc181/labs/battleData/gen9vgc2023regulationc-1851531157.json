@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851531157",
+"p1": {
+"playerName": "Kagenonessho",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Leftovers",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Talonflame", "Great Tusk", "Tinkaton"]
+},
+"p2": {
+"playerName": "sonniko",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "Weakness Policy",
+"ability": "Rattled",
+"teraType": "Psychic",
+"moves": ["Coil", "Baton Pass"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pin Missile"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Low Kick", "Brave Bird"]
+}
+],
+"broughtTeam": ["Dudunsparce", "Jolteon", "Garchomp", "Flamigo"]
+},
+"outcome": 0
+}

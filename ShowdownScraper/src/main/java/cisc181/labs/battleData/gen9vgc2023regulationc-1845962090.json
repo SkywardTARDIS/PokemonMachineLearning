@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845962090",
+"p1": {
+"playerName": "Rickinch",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Sumo San",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Protect", "Disable", "Howl"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Torment", "Protect", "Mirror Coat"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Iron Hands", "Scream Tail", "Gothorita"]
+},
+"p2": {
+"playerName": "lmorais",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Thunderbolt"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Pulse", "Rock Slide", "Heat Wave"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Chien-Pao", "Salamence"]
+},
+"outcome": 1
+}

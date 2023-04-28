@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845057555",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Morgrem",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Overheat"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Draco Meteor", "Heat Wave"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Houndstone", "Iron Moth", "Salamence"]
+},
+"p2": {
+"playerName": "Acelia",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bombastic Side-eye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Doohickey",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ice Spinner"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "LVP",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Rain Dance", "Shadow Sneak"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Shellman",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bruxish", "Iron Treads", "Mimikyu", "Drednaw"]
+},
+"outcome": 1
+}

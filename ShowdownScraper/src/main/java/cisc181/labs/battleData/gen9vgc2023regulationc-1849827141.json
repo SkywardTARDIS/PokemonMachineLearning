@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849827141",
+"p1": {
+"playerName": "Murlokkio",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Bulldoze", "Will-O-Wisp"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Heavy Slam", "Iron Defense", "Shed Tail"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Orthworm", "Dragonite"]
+},
+"p2": {
+"playerName": "awesome54",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Waterfall", "Iron Head"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Helping Hand"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Brick Break", "Nuzzle"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Skeledirge", "Gyarados", "Sylveon", "Pawmot"]
+},
+"outcome": 1
+}

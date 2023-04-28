@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852592267",
+"p1": {
+"playerName": "playroughbulu",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Colbur Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Imprison", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Protect", "Giga Drain"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Dazzling Gleam", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Farigiraf", "Wo-Chien", "Chi-Yu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "m f mew2",
+"fullTeam": [
+{
+"species": "Eelektross",
+"nickname": "KoKoGnRyoRku",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Zap Cannon", "Volt Switch", "Flamethrower"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Dazzling Gleam", "Power Gem"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Earthquake", "Hex", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "Gothitelle",
+"teraType": "Grass",
+"moves": ["Heal Pulse", "Dark Pulse", "Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Eelektross", "Glimmora", "Ting-Lu", "Gothitelle"]
+},
+"outcome": 1
+}

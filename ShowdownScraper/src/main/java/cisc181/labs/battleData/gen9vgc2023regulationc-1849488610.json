@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849488610",
+"p1": {
+"playerName": "Tchoubib",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Sucker Punch", "Drain Punch"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Doodle", "Encore", "Helping Hand"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Ground",
+"moves": ["Earthquake", "Iron Head"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Garchomp", "Gardevoir"]
+},
+"p2": {
+"playerName": "Picaro7",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Flying",
+"moves": ["Heavy Slam", "Rock Slide"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Disable", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Lucario", "Tyranitar", "Scream Tail"]
+},
+"outcome": 1
+}

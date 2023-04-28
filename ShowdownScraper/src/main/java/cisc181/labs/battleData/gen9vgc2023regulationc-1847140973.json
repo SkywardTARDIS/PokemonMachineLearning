@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847140973",
+"p1": {
+"playerName": "npqc",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Protect", "Psycho Cut"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Thunderbolt", "Protect", "Will-O-Wisp", "Overheat"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Dondozo", "Gallade", "Rotom"]
+},
+"p2": {
+"playerName": "dreamswgh",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Arizona",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Nevada",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Hatterene",
+"nickname": "New Mexico",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Texas",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Torkoal", "Indeedee", "Hatterene", "Mudsdale"]
+},
+"outcome": 1
+}

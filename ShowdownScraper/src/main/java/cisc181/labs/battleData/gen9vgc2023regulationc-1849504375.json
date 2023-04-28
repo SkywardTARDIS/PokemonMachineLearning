@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849504375",
+"p1": {
+"playerName": "PR0J3CT Nub",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Flare Blitz", "Snarl", "Will-O-Wisp", "Morning Sun"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Ice Beam", "Earth Power", "Recover", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Corviknight", "Gastrodon"]
+},
+"p2": {
+"playerName": "Pizzarcato",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Rage Powder", "Pollen Puff", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Volt Switch", "Thunderbolt", "Hydro Pump"]
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Talonflame", "Great Tusk", "Rotom"]
+},
+"outcome": 1
+}

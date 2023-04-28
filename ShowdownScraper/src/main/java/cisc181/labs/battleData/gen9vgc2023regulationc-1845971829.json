@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845971829",
+"p1": {
+"playerName": "uhoh I poopd",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Toad",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "Brutus",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Annihilape",
+"nickname": "Angy",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist", "Protect"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Palafin", "Annihilape"]
+},
+"p2": {
+"playerName": "AguaSteppin'",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "MoistCrit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Hasanabi",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Kowtow Cleave", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "PokiMane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Dragonite",
+"nickname": "Patterz",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Palafin", "Kingambit", "Flutter Mane", "Dragonite"]
+},
+"outcome": 1
+}

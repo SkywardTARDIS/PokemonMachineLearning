@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849969193",
+"p1": {
+"playerName": "FuratBang",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Arcanine", "Kilowattrel"]
+},
+"p2": {
+"playerName": "Specs Hex Pex",
+"fullTeam": [
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Ground",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Ice Shard"]
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Weather Ball"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Houndstone", "Chien-Pao", "Rabsca"]
+},
+"outcome": 0
+}

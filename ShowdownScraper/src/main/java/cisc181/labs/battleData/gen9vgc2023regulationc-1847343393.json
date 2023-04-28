@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847343393",
+"p1": {
+"playerName": "totallynotatworkrn",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Ice Shard", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect"]
+}
+],
+"broughtTeam": ["Garganacl", "Glimmora", "Baxcalibur", "Arcanine"]
+},
+"p2": {
+"playerName": "teamskull_testing",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Shadow Sneak"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Occa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Garchomp", "Flutter Mane", "Ceruledge", "Amoonguss"]
+},
+"outcome": 1
+}

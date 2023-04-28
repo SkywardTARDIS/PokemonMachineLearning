@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852042927",
+"p1": {
+"playerName": "Tchoubib",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Ruination", "Stomping Tantrum", "Rock Slide"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+}
+],
+"broughtTeam": ["Amoonguss", "Palafin", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Overheat", "Rage Powder"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Calm Mind", "Stored Power", "Protect"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Jumpluff", "Volcarona", "Krookodile", "Rabsca"]
+},
+"outcome": 0
+}

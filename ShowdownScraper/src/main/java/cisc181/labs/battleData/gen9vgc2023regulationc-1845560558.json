@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845560558",
+"p1": {
+"playerName": "KB1107",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Outrage", "Hurricane"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Surf"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Tera Blast", "Protect"]
+}
+],
+"broughtTeam": ["Dragonite", "Garchomp", "Raichu", "Palafin"]
+},
+"p2": {
+"playerName": "anboxing",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Sudowoodo",
+"nickname": "Sudowoodo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Iron Defense", "Body Press"]
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Indeedee", "Sudowoodo", "Bronzong"]
+},
+"outcome": 1
+}

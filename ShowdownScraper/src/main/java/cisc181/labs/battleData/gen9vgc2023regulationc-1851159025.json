@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851159025",
+"p1": {
+"playerName": "TonyJazs",
+"fullTeam": [
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Body Slam", "Drain Punch"]
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "Soundproof",
+"teraType": "",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Florges", "Slaking", "Electrode"]
+},
+"p2": {
+"playerName": "hdhcgjg",
+"fullTeam": [
+{
+"species": "Skuntank",
+"nickname": "Skuntank",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Snarl"]
+},
+{
+"species": "Oricorio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Hurricane", "Discharge"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum"]
+}
+],
+"broughtTeam": ["Skuntank", "Talonflame", "Kilowattrel", "Cetitan"]
+},
+"outcome": 1
+}

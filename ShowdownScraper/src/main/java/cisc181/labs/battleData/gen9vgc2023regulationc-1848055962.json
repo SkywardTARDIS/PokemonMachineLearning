@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848055962",
+"p1": {
+"playerName": "Ayrshire20Scythers",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Discharge", "Protect", "Recover"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Thunder Punch", "Protect"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Air Slash", "U-turn"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Moth", "Iron Thorns", "Iron Jugulis"]
+},
+"p2": {
+"playerName": "AceTrainerNite",
+"fullTeam": [
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Rest"]
+},
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Draco Meteor"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bullet Seed", "Spore"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Hydreigon", "Breloom"]
+},
+"outcome": 1
+}

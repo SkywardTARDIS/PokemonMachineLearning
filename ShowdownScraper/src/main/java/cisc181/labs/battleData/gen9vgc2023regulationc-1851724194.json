@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851724194",
+"p1": {
+"playerName": "Can'tStopFalling",
+"fullTeam": [
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect", "Low Kick"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Cherry",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap", "Protect", "Psyshock"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gravity"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Icy Wind", "Protect", "Muddy Water"]
+}
+],
+"broughtTeam": ["Stonjourner", "Farigiraf", "Sandy Shocks", "Tatsugiri"]
+},
+"p2": {
+"playerName": "PMTrainerMugi",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Tera Blast", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Arcanine", "Iron Hands"]
+},
+"outcome": 1
+}

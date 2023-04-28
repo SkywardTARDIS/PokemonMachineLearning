@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852401376",
+"p1": {
+"playerName": "Benjaturtle",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Icy Wind", "Sacred Sword", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Population Bomb", "Follow Me", "Bite"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Maushold"]
+},
+"p2": {
+"playerName": "Veloko~5849",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "haze",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "leesh seed",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "extremespeed",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Morning Sun", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Protect"]
+}
+],
+"broughtTeam": ["Murkrow", "Wo-Chien", "Arcanine", "Maushold"]
+},
+"outcome": 1
+}

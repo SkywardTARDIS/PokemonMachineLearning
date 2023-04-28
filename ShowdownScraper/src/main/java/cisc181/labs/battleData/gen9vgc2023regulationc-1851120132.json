@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851120132",
+"p1": {
+"playerName": "Sourav Dey",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Hurricane", "Thunder", "Protect", "Draco Meteor"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Rain Dance", "Foul Play"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Sableye", "Barraskewda", "Drednaw"]
+},
+"p2": {
+"playerName": "SumoVGC",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Will-O-Wisp", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Outrage"]
+}
+],
+"broughtTeam": ["Brute Bonnet", "Talonflame", "Chien-Pao", "Dragonite"]
+},
+"outcome": 1
+}

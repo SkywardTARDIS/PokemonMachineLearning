@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844845616",
+"p1": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swagger", "Thunder Wave", "Sucker Punch"]
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Phantom Force", "Will-O-Wisp", "Acrobatics"]
+}
+],
+"broughtTeam": ["Ceruledge", "Grimmsnarl", "Dragapult"]
+},
+"p2": {
+"playerName": "Siwis2",
+"fullTeam": [
+{
+"species": "Altaria",
+"nickname": "Cloud Bird",
+"item": "Leftovers",
+"ability": "Cloud Nine",
+"teraType": "Steel",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Bargaining",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "CS Delibird",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Kingambit",
+"nickname": "FG Annihilape",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Iron Head", "Kowtow Cleave"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Altaria", "Iron Hands", "Iron Bundle", "Kingambit"]
+},
+"outcome": 1
+}

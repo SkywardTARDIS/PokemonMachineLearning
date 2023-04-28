@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847203404",
+"p1": {
+"playerName": "Outer Ent.",
+"fullTeam": [
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Tera Blast", "Leaf Blade"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Trick Room", "Psychic", "Follow Me"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Solar Beam", "Eruption"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+}
+],
+"broughtTeam": ["Leafeon", "Indeedee", "Torkoal", "Sylveon"]
+},
+"p2": {
+"playerName": "BelliboltAbuser",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Power Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics", "Dragon Darts", "Protect", "Phantom Force"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Recover"]
+}
+],
+"broughtTeam": ["Dragapult", "Flutter Mane", "Chi-Yu", "Garganacl"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845142327",
+"p1": {
+"playerName": "PinoBlack89",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Protect", "Surf"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "Poison",
+"moves": ["Poison Jab", "Rock Slide", "Waterfall"]
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane", "Surf"]
+}
+],
+"broughtTeam": ["Hydreigon", "Clodsire", "Raichu", "Pelipper"]
+},
+"p2": {
+"playerName": "PokemonPesticide",
+"fullTeam": [
+{
+"species": "Seviper",
+"nickname": "Seviper",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Wrap", "Dig", "Poison Fang"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Snarl", "Protect", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Mystical Fire", "Shadow Ball"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Seviper", "Wo-Chien", "Flutter Mane", "Gyarados"]
+},
+"outcome": 0
+}

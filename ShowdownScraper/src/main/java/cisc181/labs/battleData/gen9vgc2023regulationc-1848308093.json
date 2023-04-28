@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848308093",
+"p1": {
+"playerName": "oniwabanchuri",
+"fullTeam": [
+{
+"species": "Spidops",
+"nickname": "Spidops",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["String Shot", "Sticky Web", "Circle Throw"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Population Bomb", "Follow Me"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Vacuum Wave"]
+}
+],
+"broughtTeam": ["Spidops", "Krookodile", "Maushold", "Lucario"]
+},
+"p2": {
+"playerName": "Steakman5",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Entrainment", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Chlorophyll",
+"teraType": "",
+"moves": ["Icicle Spear", "Stomping Tantrum"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Solar Beam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Baxcalibur", "Armarouge"]
+},
+"outcome": 0
+}

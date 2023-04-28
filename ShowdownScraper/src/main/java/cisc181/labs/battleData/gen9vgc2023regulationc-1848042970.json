@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848042970",
+"p1": {
+"playerName": "HildaisViscous",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Rock Slide", "Protect", "Earthquake"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Draco Meteor", "Rock Slide", "Earthquake"]
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "",
+"moves": ["Self-Destruct"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Garchomp", "Salamence", "Revavroom", "Tinkaton"]
+},
+"p2": {
+"playerName": "MeowBurgee",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Anything (Viva!)",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Detect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "(Not)Eve",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Этажи-Судно",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Expanding Force", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Hammer Fall",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Solar Beam"]
+}
+],
+"broughtTeam": ["Iron Hands", "Indeedee", "Armarouge", "Torkoal"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847758659",
+"p1": {
+"playerName": "ultramandyna",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Giga Drain"]
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "Lum Berry",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Palafin", "Wo-Chien", "Haxorus"]
+},
+"p2": {
+"playerName": "fireball0809",
+"fullTeam": [
+{
+"species": "Flareon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Blizzard", "Hydro Pump"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Hyper Beam", "Yawn", "Wish"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dragon Dance", "Dragon Claw", "Extreme Speed"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Gunk Shot", "Focus Blast"]
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Vaporeon", "Jolteon", "Dragonite", "Gengar"]
+},
+"outcome": 1
+}

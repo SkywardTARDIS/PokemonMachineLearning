@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846042991",
+"p1": {
+"playerName": "IAmAnissue",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Sneak"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Colbur Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fake Out", "Psychic"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Psychic", "Protect"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Gothitelle", "Kingambit", "Farigiraf"]
+},
+"p2": {
+"playerName": "Kyasumi",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Fighting",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Knock Off", "Flower Trick"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Imprison", "Thunder Wave", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Meowscarada", "Flutter Mane", "Klefki"]
+},
+"outcome": 1
+}

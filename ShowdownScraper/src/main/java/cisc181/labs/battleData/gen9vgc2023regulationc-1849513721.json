@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849513721",
+"p1": {
+"playerName": "Spler",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hydro Pump", "Hurricane"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Choice Specs",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Drednaw", "Dragonite"]
+},
+"p2": {
+"playerName": "assault_wolf117",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Sucker Punch", "Knock Off", "Flower Trick"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor", "Tailwind"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "IDK WHAT ELSE",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Meowscarada", "Hydreigon", "Flutter Mane", "Lucario"]
+},
+"outcome": 1
+}

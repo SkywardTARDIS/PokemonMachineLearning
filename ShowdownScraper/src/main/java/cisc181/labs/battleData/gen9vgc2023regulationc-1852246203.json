@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852246203",
+"p1": {
+"playerName": "NqNSuper",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Spiky Shield", "Power Gem"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice"]
+},
+{
+"species": "Ursaring",
+"nickname": "Ursaring",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Facade"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Glimmora", "Farigiraf", "Ursaring"]
+},
+"p2": {
+"playerName": "IrishHawk",
+"fullTeam": [
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Body Slam", "Thunder Wave"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Armor Cannon", "Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psychic", "Follow Me"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Stantler", "Dragapult", "Armarouge", "Indeedee"]
+},
+"outcome": 1
+}

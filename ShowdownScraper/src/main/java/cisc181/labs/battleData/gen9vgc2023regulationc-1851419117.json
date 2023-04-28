@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851419117",
+"p1": {
+"playerName": "jashon12",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "Normal",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Ruination"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Detect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Dragonite", "Ting-Lu", "Iron Hands", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Jalapeppah",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Ttar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Assurance", "Rock Slide", "Low Kick"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect", "Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Protect"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind"]
+}
+],
+"broughtTeam": ["Tyranitar", "Flutter Mane", "Gastrodon", "Salamence"]
+},
+"outcome": 1
+}

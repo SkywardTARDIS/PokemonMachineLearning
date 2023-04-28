@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848822487",
+"p1": {
+"playerName": "CheesyCheeserton",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Noms",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Ice Beam"]
+},
+{
+"species": "Glimmora",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Spiky Shield", "Venoshock"]
+},
+{
+"species": "Garchomp",
+"nickname": "Chomps",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Dill Dough",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earth Power", "Protect", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Tyranitar", "Glimmora", "Garchomp", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "PakTinCTC",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Dondophan",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Misdreavus",
+"nickname": "Mane",
+"item": "",
+"ability": "Levitate",
+"teraType": "Electric",
+"moves": ["Trick Room", "Skill Swap", "Foul Play"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Howling Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide", "Stone Edge"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Chikoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Fissure"]
+}
+],
+"broughtTeam": ["Great Tusk", "Misdreavus", "Lycanroc", "Torkoal"]
+},
+"outcome": 1
+}

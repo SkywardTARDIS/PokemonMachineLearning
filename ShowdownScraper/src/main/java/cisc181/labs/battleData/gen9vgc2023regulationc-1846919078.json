@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846919078",
+"p1": {
+"playerName": "Athene_HF",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "Rattled",
+"teraType": "Psychic",
+"moves": ["Stored Power", "Boomburst"]
+}
+],
+"broughtTeam": ["Slither Wing", "Gengar", "Maushold", "Dudunsparce"]
+},
+"p2": {
+"playerName": "Vall_NB",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Fiery Dance"]
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dual Wingbeat", "Tailwind", "Outrage"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Volcarona", "Salamence"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849285905",
+"p1": {
+"playerName": "Zak-001",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Snarl", "Protect", "Flamethrower"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Ice Beam", "Quiver Dance", "Giga Drain"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Frosmoth", "Flutter Mane", "Gastrodon"]
+},
+"p2": {
+"playerName": "Artmantalo",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Protect", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Protect"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Amoonguss", "Dragonite"]
+},
+"outcome": 0
+}

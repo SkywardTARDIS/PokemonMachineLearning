@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850276184",
+"p1": {
+"playerName": "superseriousboi",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Misty Terrain", "Reflect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Protect", "Recover"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Giga Drain", "Leech Seed"]
+}
+],
+"broughtTeam": ["Klefki", "Flutter Mane", "Garganacl", "Arboliva"]
+},
+"p2": {
+"playerName": "MAF1001",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab", "Drain Punch", "Rage Fist", "Close Combat"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Flamethrower", "Chilling Water", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Rotom", "Staraptor", "Annihilape", "Goodra"]
+},
+"outcome": 1
+}

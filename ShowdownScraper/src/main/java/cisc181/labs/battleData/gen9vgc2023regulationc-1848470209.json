@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1848470209",
+"p1": {
+"playerName": "Polentino",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Wide Guard"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Bullet Punch", "Protect"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+}
+],
+"broughtTeam": ["Pelipper", "Iron Jugulis", "Scizor", "Breloom"]
+},
+"p2": {
+"playerName": "LeafeonLou12",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Acrobatics", "Tailwind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Drifblim", "Chi-Yu"]
+},
+"outcome": 0
+}

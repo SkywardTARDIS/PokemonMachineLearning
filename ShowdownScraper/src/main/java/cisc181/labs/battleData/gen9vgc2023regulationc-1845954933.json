@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845954933",
+"p1": {
+"playerName": "slowpoke.jpg",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Fiery Dance"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Dazzling Gleam", "Thunder Wave"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Sucker Punch", "Spore", "Bullet Seed", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Moth", "Klefki", "Garchomp", "Brute Bonnet"]
+},
+"p2": {
+"playerName": "11Banks",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Swords Dance"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Instruct", "Encore", "Psyshock"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat"]
+}
+],
+"broughtTeam": ["Kingambit", "Torkoal", "Oranguru", "Hariyama"]
+},
+"outcome": 1
+}

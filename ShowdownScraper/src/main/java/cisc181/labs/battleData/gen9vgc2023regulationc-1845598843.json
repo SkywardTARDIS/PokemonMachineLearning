@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845598843",
+"p1": {
+"playerName": "yrdt5",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Perish Song", "Foul Play"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Loaded Dice",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Icicle Spear"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Lava Plume"]
+}
+],
+"broughtTeam": ["Murkrow", "Baxcalibur", "Arcanine", "Torkoal"]
+},
+"p2": {
+"playerName": "KB1107",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump", "Tailwind"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Play Rough"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Outrage"]
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+}
+],
+"broughtTeam": ["Pelipper", "Tinkaton", "Garchomp", "Palafin"]
+},
+"outcome": 0
+}

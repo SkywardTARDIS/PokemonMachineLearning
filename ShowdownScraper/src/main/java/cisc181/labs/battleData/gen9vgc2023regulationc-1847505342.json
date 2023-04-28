@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847505342",
+"p1": {
+"playerName": "shm0406",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Order Up"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Endure"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Liquidation", "Protect", "Close Combat"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Garganacl", "Flamigo"]
+},
+"p2": {
+"playerName": "Pantsuit",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Iron Head", "Tera Blast"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm", "Encore", "Sleep Powder", "Tailwind"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Helping Hand", "Overheat"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Kingambit", "Jumpluff", "Torkoal"]
+},
+"outcome": 1
+}

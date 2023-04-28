@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847734642",
+"p1": {
+"playerName": "uka_aokai",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Tailwind", "Jaw Lock", "Breaking Swipe"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Torkoal", "Roaring Moon"]
+},
+"p2": {
+"playerName": "DeathToScarfChiYu",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Self Control",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "White Ferrari",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Protect"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Pretty Sweet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Shadow Sneak"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Skyline To",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "Fire",
+"moves": ["Bulk Up"]
+}
+],
+"broughtTeam": ["Gastrodon", "Iron Treads", "Mimikyu", "Corviknight"]
+},
+"outcome": 1
+}

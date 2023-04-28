@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849104333",
+"p1": {
+"playerName": "Dr.Dedded",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Low Kick", "Rock Slide"]
+},
+{
+"species": "Cacturne",
+"nickname": "Cacturne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Spiky Shield", "Sucker Punch"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Sandaconda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Last Respects"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Cacturne", "Hippowdon", "Houndstone"]
+},
+"p2": {
+"playerName": "Chi-Yuh",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flapple",
+"nickname": "Flapple",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Rush", "Grav Apple", "Sucker Punch"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Fairy",
+"moves": ["Hypnosis", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Volt Switch", "Earth Power"]
+}
+],
+"broughtTeam": ["Flapple", "Espathra", "Iron Bundle", "Sandy Shocks"]
+},
+"outcome": 1
+}

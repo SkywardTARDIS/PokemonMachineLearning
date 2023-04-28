@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845144845",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Recover"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Thunderbolt", "Protect"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Orthworm", "Salamence", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "TTVNuzlockeAcademy",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Hydro Pump"]
+},
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Facade"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Earth Power", "Protect"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Wacan Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Hex", "Tailwind", "Protect"]
+}
+],
+"broughtTeam": ["Rotom", "Flareon", "Toedscruel", "Drifblim"]
+},
+"outcome": 1
+}

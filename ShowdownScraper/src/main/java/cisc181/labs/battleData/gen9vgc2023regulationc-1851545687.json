@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851545687",
+"p1": {
+"playerName": "WillieDangerously",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Bullet Punch", "Feint", "Pounce"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ghost",
+"moves": ["Protect", "Gravity", "Thunder"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Salamence", "Scizor", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "tefgr2",
+"fullTeam": [
+{
+"species": "Ditto",
+"nickname": "Ditto",
+"item": "",
+"ability": "Transform",
+"teraType": "",
+"moves": ["Pounce"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Icicle Crash", "Protect", "Throat Chop"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ditto", "Dragonite", "Chien-Pao", "Amoonguss"]
+},
+"outcome": 1
+}

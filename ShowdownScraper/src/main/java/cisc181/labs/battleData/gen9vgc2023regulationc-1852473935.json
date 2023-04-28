@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852473935",
+"p1": {
+"playerName": "kim0626",
+"fullTeam": [
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Zap Cannon", "Drain Punch", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Heavy Slam", "Earthquake", "Fissure"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Protect", "Super Fang", "Follow Me"]
+}
+],
+"broughtTeam": ["Eelektross", "Flutter Mane", "Ting-Lu", "Maushold"]
+},
+"p2": {
+"playerName": "Kraven Morhed",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Energy Ball"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Aguav Berry",
+"ability": "Levitate",
+"teraType": "Electric",
+"moves": ["Tera Blast", "Flash Cannon", "Psychic", "Trick Room"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Sylveon", "Indeedee", "Bronzong"]
+},
+"outcome": 1
+}

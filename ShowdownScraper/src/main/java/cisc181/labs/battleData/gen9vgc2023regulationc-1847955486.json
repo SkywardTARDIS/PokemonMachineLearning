@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847955486",
+"p1": {
+"playerName": "Alexis_student",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Dark Pulse"]
+}
+],
+"broughtTeam": ["Glimmora", "Iron Bundle", "Dragonite", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Wwhite841",
+"fullTeam": [
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Ice Shard"]
+},
+{
+"species": "Lumineon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Thorns", "Gyarados", "Baxcalibur", "Iron Moth"]
+},
+"outcome": 1
+}

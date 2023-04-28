@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851714863",
+"p1": {
+"playerName": "GILGAMESHU",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Akicalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Devil",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Earthquake", "Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Makimane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Talonflame",
+"nickname": "POWERRRR",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Brave Bird"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Ting-Lu", "Flutter Mane", "Talonflame"]
+},
+"p2": {
+"playerName": "sangano",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wild Charge", "Volt Switch", "Fake Out", "Drain Punch"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Amoonguss", "Iron Hands"]
+},
+"outcome": 1
+}

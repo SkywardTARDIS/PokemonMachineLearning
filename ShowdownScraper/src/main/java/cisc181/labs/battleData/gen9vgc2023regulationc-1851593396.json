@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851593396",
+"p1": {
+"playerName": "JustAWoterBattle",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Missie",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Low Kick"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Yawn", "Acid Spray"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Chien-Pao", "Dragonite", "Clodsire"]
+},
+"p2": {
+"playerName": "PanchamNerd",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "BIG BRAIN",
+"item": "Weakness Policy",
+"ability": "Justified",
+"teraType": "Ghost",
+"moves": ["Drain Punch", "Shadow Claw"]
+},
+{
+"species": "Maushold",
+"nickname": "Frenemy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Balanced",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Nightmare",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball"]
+}
+],
+"broughtTeam": ["Lucario", "Maushold", "Roaring Moon", "Flutter Mane"]
+},
+"outcome": 1
+}

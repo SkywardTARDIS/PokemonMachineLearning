@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851143882",
+"p1": {
+"playerName": "StantlerGOAT",
+"fullTeam": [
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Skill Swap", "Trick Room", "Tera Blast"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch", "Protect"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wigglytuff",
+"nickname": "Wigglytuff",
+"item": "Sitrus Berry",
+"ability": "Competitive",
+"teraType": "",
+"moves": ["Nasty Plot", "Dazzling Gleam"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Stantler", "Annihilape", "Wigglytuff", "Indeedee"]
+},
+"p2": {
+"playerName": "First try I guess",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Giga Drain"]
+},
+{
+"species": "Ampharos",
+"nickname": "Ampharos",
+"item": "",
+"ability": "Static",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Power Gem"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Stomping Tantrum", "Protect", "Dual Wingbeat"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me", "Psychic"]
+}
+],
+"broughtTeam": ["Arboliva", "Ampharos", "Slither Wing", "Indeedee"]
+},
+"outcome": 1
+}

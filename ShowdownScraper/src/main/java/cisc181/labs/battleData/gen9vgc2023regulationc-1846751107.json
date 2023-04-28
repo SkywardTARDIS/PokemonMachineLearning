@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846751107",
+"p1": {
+"playerName": "PkmnTrainerHotPink",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Body Press"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+}
+],
+"broughtTeam": ["Bronzong", "Amoonguss", "Chien-Pao", "Palafin"]
+},
+"p2": {
+"playerName": "Jerichowalls",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Stealth Rock", "Earthquake"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Make It Rain", "Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Eject Pack",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Gholdengo", "Rotom", "Abomasnow"]
+},
+"outcome": 0
+}

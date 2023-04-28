@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1847279603",
+"p1": {
+"playerName": "G-Jet",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Focus Energy"]
+},
+{
+"species": "Talonflame",
+"nickname": "KFC",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Flare Blitz", "Tailwind"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect", "Lumina Crash"]
+}
+],
+"broughtTeam": ["Hydreigon", "Talonflame", "Iron Treads", "Espathra"]
+},
+"p2": {
+"playerName": "StrawHatRonin",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Protect", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Tsareena",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "U-turn"]
+}
+],
+"broughtTeam": ["Maushold", "Annihilape", "Amoonguss", "Tsareena"]
+},
+"outcome": 0
+}

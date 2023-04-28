@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845684974",
+"p1": {
+"playerName": "SdJUB",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Steel",
+"moves": ["Fake Out", "Wild Charge", "Ice Punch"]
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Belly Drum", "Aqua Jet"]
+}
+],
+"broughtTeam": ["Iron Hands", "Lokix", "Breloom", "Azumarill"]
+},
+"p2": {
+"playerName": "AirForestOne",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Energy Ball", "Protect", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Iron Head", "Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chien-Pao", "Dragonite", "Talonflame"]
+},
+"outcome": 1
+}

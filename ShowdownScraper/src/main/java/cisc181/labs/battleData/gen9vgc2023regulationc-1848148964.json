@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848148964",
+"p1": {
+"playerName": "HildaisViscous",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Rock Slide", "Swords Dance"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Revavroom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Clear Amulet",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Rock Slide", "Gigaton Hammer", "Fake Tears"]
+}
+],
+"broughtTeam": ["Garchomp", "Salamence", "Iron Valiant", "Tinkaton"]
+},
+"p2": {
+"playerName": "Eselprimo",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Protect", "Close Combat"]
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Night Slash"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Goodra", "Gyarados", "Scizor", "Honchkrow"]
+},
+"outcome": 1
+}

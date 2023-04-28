@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845422076",
+"p1": {
+"playerName": "AbyssV0525",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step", "Protect", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+}
+],
+"broughtTeam": ["Quaquaval", "Ting-Lu", "Iron Bundle"]
+},
+"p2": {
+"playerName": "manfaceee",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Rest", "Drain Punch"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Beat Up", "Ice Spinner", "Ice Shard"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic Fangs"]
+},
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+}
+],
+"broughtTeam": ["Annihilape", "Weavile", "Barraskewda", "Cyclizar"]
+},
+"outcome": 1
+}

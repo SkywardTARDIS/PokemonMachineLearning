@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851465376",
+"p1": {
+"playerName": "Jstardude",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dragon Darts"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Swords Dance", "Bullet Punch"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Air Balloon",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Fake Out", "Nuzzle", "Thunderbolt", "Protect"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Scizor", "Raichu"]
+},
+"p2": {
+"playerName": "DerpyBronze117",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Bulk Up", "Body Press"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Thunderbolt"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Gooey",
+"teraType": "",
+"moves": ["Flamethrower", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Tyranitar", "Corviknight", "Kilowattrel", "Goodra"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846605681",
+"p1": {
+"playerName": "trex0928",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Close Combat"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tailwind", "Will-O-Wisp", "Brave Bird", "Taunt"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Icy Wind", "Protect"]
+}
+],
+"broughtTeam": ["Great Tusk", "Talonflame", "Flutter Mane", "Iron Bundle"]
+},
+"p2": {
+"playerName": "PiccoloRuiz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Sasha Colby",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Bianca",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Waterfall"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Katya",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Icicle Crash", "Glaive Rush", "Ice Shard", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Ting-Lu", "Baxcalibur"]
+},
+"outcome": 1
+}

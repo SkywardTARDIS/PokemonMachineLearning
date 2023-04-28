@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851654190",
+"p1": {
+"playerName": "gankyburner",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Dragula",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Last Respects", "Howl"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Godzilla",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Palafin",
+"nickname": "Ocean Man",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Mr. Jones",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+}
+],
+"broughtTeam": ["Houndstone", "Tyranitar", "Palafin", "Corviknight"]
+},
+"p2": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Clear Smog"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge", "Fake Out"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Taunt", "Icy Wind", "Thunder Wave", "Waterfall"]
+}
+],
+"broughtTeam": ["Amoonguss", "Iron Hands", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

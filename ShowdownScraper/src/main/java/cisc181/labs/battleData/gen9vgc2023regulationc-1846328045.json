@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846328045",
+"p1": {
+"playerName": "ZerotheFox",
+"fullTeam": [
+{
+"species": "Salandit",
+"nickname": "Gremlin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Endeavor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Sitrus Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psyshock", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Hex", "Dark Pulse", "Psychic"]
+}
+],
+"broughtTeam": ["Salandit", "Flutter Mane", "Indeedee", "Chi-Yu"]
+},
+"p2": {
+"playerName": "JaviWhatHappens",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heal Pulse"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Snarl", "Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Protect", "Perish Song"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Gothitelle", "Ting-Lu", "Azumarill", "Amoonguss"]
+},
+"outcome": 1
+}

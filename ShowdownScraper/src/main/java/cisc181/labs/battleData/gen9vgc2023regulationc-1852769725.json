@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852769725",
+"p1": {
+"playerName": "betelgeuse",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Detect", "Thunderbolt"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+}
+],
+"broughtTeam": ["Vaporeon", "Jolteon", "Sylveon", "Leafeon"]
+},
+"p2": {
+"playerName": "PinnotheChamp",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Fake Out", "Tera Blast", "Thunder Punch"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Dragon Darts"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Scream Tail", "Gyarados", "Dragapult"]
+},
+"outcome": 0
+}

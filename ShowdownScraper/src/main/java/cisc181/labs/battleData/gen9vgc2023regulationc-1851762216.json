@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851762216",
+"p1": {
+"playerName": "antolin19",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Rock Slide", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Garchomp", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "r3gCt3st",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist", "Drain Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Heal Pulse"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+}
+],
+"broughtTeam": ["Drifblim", "Annihilape", "Indeedee", "Maushold"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850905587",
+"p1": {
+"playerName": "Icefanngs",
+"fullTeam": [
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Icy Wind", "Muddy Water"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Volt Switch"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+}
+],
+"broughtTeam": ["Vaporeon", "Jolteon", "Leafeon"]
+},
+"p2": {
+"playerName": "QueenRegentBiden",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Air Balloon",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Gigaton Hammer", "Thunder Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Maushold", "Tinkaton", "Iron Bundle", "Breloom"]
+},
+"outcome": 1
+}

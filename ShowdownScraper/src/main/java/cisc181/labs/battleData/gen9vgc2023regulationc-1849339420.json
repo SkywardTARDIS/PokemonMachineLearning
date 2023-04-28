@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849339420",
+"p1": {
+"playerName": "KnickNom",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Ground",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Salazzle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndoom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Hydro Pump"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Rotom", "Breloom"]
+},
+"p2": {
+"playerName": "CurryBean",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Blazebeak",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Sandshark",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Arcanine",
+"nickname": "Flamehound",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Flare Blitz"]
+},
+{
+"species": "Komala",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salazzle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Shadowcrush",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Dark",
+"moves": ["Dragon Dance", "Crunch"]
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Arcanine", "Tyranitar"]
+},
+"outcome": 0
+}

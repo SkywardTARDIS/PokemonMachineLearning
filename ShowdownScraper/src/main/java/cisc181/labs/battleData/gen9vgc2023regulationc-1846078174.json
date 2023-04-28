@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846078174",
+"p1": {
+"playerName": "Pokemon iz trasssh",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Fissure"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Leftovers",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Guillotine"]
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "Wide Lens",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Sheer Cold"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sheer Cold"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Kingambit", "Glalie", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Feach",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice", "Calm Mind"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Infestation", "Struggle Bug", "Icy Wind"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Knock Off", "Rapid Spin"]
+}
+],
+"broughtTeam": ["Amoonguss", "Sylveon", "Frosmoth", "Cyclizar"]
+},
+"outcome": 0
+}

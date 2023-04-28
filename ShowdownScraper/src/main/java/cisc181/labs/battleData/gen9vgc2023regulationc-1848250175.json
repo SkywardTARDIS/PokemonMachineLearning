@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848250175",
+"p1": {
+"playerName": "Fruit456",
+"fullTeam": [
+{
+"species": "Cyclizar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Dazzling Gleam", "Spiky Shield", "Memento"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Destiny Bond"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Shell Bell",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Dual Wingbeat"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Ceruledge", "Salamence", "Tauros"]
+},
+"p2": {
+"playerName": "MysticGremlin",
+"fullTeam": [
+{
+"species": "Scyther",
+"nickname": "Scyther",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aerial Ace", "Tailwind", "Feint"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Megahorn"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam"]
+}
+],
+"broughtTeam": ["Scyther", "Heracross", "Masquerain", "Frosmoth"]
+},
+"outcome": 0
+}

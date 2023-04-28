@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848030823",
+"p1": {
+"playerName": "PokemonBreederJoey",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect", "Light Screen", "Spirit Break"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Purifying Salt",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Recover", "Iron Defense", "Body Press"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Garganacl", "Sylveon", "Iron Treads"]
+},
+"p2": {
+"playerName": "joshdonnie",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch", "Protect", "Rage Fist"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Iron Head", "Assurance"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice", "Thunderbolt"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Hydro Pump", "Reflect", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Annihilape", "Kingambit", "Farigiraf", "Rotom"]
+},
+"outcome": 0
+}

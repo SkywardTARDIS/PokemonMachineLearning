@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846591918",
+"p1": {
+"playerName": "sucabaVGC",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Glaive Rush", "Icicle Crash"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Tailwind", "Brave Bird", "Protect", "Sunny Day"]
+}
+],
+"broughtTeam": ["Great Tusk", "Slowking", "Baxcalibur", "Talonflame"]
+},
+"p2": {
+"playerName": "thejordanvgc",
+"fullTeam": [
+{
+"species": "Floatzel",
+"nickname": "Palafin's Cousin",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Crunch", "Low Kick"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Juggy Baby",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxicroak",
+"nickname": "Mozilla Firefrog",
+"item": "Focus Sash",
+"ability": "Poison Touch",
+"teraType": "",
+"moves": ["Feint", "Close Combat"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipè",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane", "Icy Wind"]
+}
+],
+"broughtTeam": ["Floatzel", "Iron Jugulis", "Toxicroak", "Pelipper"]
+},
+"outcome": 0
+}

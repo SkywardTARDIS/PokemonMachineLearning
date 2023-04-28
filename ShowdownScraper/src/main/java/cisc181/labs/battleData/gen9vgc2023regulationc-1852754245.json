@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852754245",
+"p1": {
+"playerName": "ManciniTheAmazing",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Ute",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Shadow Ball"]
+},
+{
+"species": "Tauros",
+"nickname": "Platypus",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Electric",
+"moves": ["Wild Charge", "Wave Crash", "Aqua Jet"]
+},
+{
+"species": "Veluza",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Yowie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Dazzling Gleam", "Thunder Wave"]
+},
+{
+"species": "Toxtricity",
+"nickname": "Lamingtons",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+},
+{
+"species": "Hoppip",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Tauros", "Grimmsnarl", "Toxtricity"]
+},
+"p2": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Substitute", "Protect", "Shadow Ball", "Moonblast"]
+},
+{
+"species": "Crocalor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Donphan",
+"nickname": "Donphan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Draco Meteor"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "Wacan Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Ice Beam", "Encore"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Donphan", "Hydreigon", "Lumineon"]
+},
+"outcome": 1
+}

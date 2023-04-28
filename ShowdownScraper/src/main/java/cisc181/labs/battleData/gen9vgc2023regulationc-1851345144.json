@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851345144",
+"p1": {
+"playerName": "mpduncan75",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Air Balloon",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Thunder Wave", "Gigaton Hammer", "Knock Off"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Tinkaton", "Iron Hands", "Arcanine"]
+},
+"p2": {
+"playerName": "Fetus Karate",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Thunder Wave"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Taunt", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tinkaton", "Gyarados", "Flutter Mane", "Garchomp"]
+},
+"outcome": 0
+}

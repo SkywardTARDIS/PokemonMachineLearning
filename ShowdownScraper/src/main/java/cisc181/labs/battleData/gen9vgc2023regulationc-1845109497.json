@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845109497",
+"p1": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Clear Amulet",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Struggle Bug"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Gyarados", "Volcarona"]
+},
+"p2": {
+"playerName": "Hashitashimaru",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Orcbolg",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flatter", "Reflect", "Light Screen"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Clifford",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Gucci Godzilla",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clawitzer",
+"nickname": "Federer",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Muddy Water"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Arcanine", "Tyranitar", "Clawitzer"]
+},
+"outcome": 1
+}

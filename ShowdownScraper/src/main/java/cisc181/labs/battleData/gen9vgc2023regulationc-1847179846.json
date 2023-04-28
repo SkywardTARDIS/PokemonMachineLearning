@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847179846",
+"p1": {
+"playerName": "Bolsa_25",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Heavy Slam"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Spirit Break", "Light Screen"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Bulk Up", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Grimmsnarl", "Gastrodon", "Annihilape"]
+},
+"p2": {
+"playerName": "the mudkip warrior",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Captain Coral",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Twilight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dolce",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dragon Dance", "Stomping Tantrum"]
+},
+{
+"species": "Dragapult",
+"nickname": "Salvo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Phantom Force"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Dragonite", "Dragapult"]
+},
+"outcome": 1
+}

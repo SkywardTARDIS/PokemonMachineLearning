@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845906905",
+"p1": {
+"playerName": "Monachrome",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Quiet kid",
+"item": "Weakness Policy",
+"ability": "Rattled",
+"teraType": "Psychic",
+"moves": ["Ice Beam", "Stored Power", "Boomburst"]
+},
+{
+"species": "Jolteon",
+"nickname": "Peter Quill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pin Missile"]
+},
+{
+"species": "Flamigo",
+"nickname": "plastic",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Acrobatics"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dudunsparce", "Jolteon", "Flamigo", "Flutter Mane"]
+},
+"p2": {
+"playerName": "KoramTrainer",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Corviknight", "Rotom", "Ting-Lu", "Flutter Mane"]
+},
+"outcome": 1
+}

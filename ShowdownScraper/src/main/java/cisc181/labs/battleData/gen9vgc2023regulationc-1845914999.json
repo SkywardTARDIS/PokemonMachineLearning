@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845914999",
+"p1": {
+"playerName": "Keveloper",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Earthquake", "Tera Blast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect"]
+}
+],
+"broughtTeam": ["Orthworm", "Dragonite", "Ting-Lu", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Txabo McTxabo",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Quaso",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me"]
+},
+{
+"species": "Hatterene",
+"nickname": "Maitetxu",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gallade",
+"nickname": "Eduardo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sacred Sword", "Psycho Cut"]
+},
+{
+"species": "Torkoal",
+"nickname": "He gomitao",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+}
+],
+"broughtTeam": ["Indeedee", "Hatterene", "Gallade", "Torkoal"]
+},
+"outcome": 1
+}

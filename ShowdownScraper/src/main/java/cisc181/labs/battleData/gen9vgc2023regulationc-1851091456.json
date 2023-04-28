@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851091456",
+"p1": {
+"playerName": "99jiuli",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave", "Light Screen", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Bulk Up"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect", "Acrobatics"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Corviknight", "Flutter Mane", "Roaring Moon"]
+},
+"p2": {
+"playerName": "ZerimarEsoj",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Icy Wind", "Quiver Dance", "Revelation Dance"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Quiver Dance"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Close Combat", "Liquidation", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Volcarona", "Pelipper", "Barraskewda"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847438640",
+"p1": {
+"playerName": "TrainerRYSA",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Drain Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Sasuke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Poison",
+"moves": ["Dragon Dance", "Waterfall", "Taunt"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Umbreon", "Gyarados"]
+},
+"p2": {
+"playerName": "Lon Jackdon",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fairy",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump", "Icy Wind"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Earth Power"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Helping Hand"]
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Iron Bundle", "Toedscruel", "Dachsbun"]
+},
+"outcome": 1
+}

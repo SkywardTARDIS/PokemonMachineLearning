@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849837561",
+"p1": {
+"playerName": "EldyOnetrick",
+"fullTeam": [
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Draco Meteor", "Tera Blast", "Fire Blast"]
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch", "Protect"]
+}
+],
+"broughtTeam": ["Oranguru", "Goodra", "Skeledirge", "Breloom"]
+},
+"p2": {
+"playerName": "WillieDangerously",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis", "Lumina Crash", "Dazzling Gleam", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Dragon Rush"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ghost",
+"moves": ["Gravity", "Thunder", "Earth Power"]
+}
+],
+"broughtTeam": ["Espathra", "Salamence", "Sandy Shocks"]
+},
+"outcome": 0
+}

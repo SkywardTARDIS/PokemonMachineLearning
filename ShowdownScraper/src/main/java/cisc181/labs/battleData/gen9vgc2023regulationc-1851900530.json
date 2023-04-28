@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851900530",
+"p1": {
+"playerName": "adrilf2000",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Sitrus Berry",
+"ability": "Electromorphosis",
+"teraType": "Electric",
+"moves": ["Parabolic Charge", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Iron Defense", "Reflect"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Sucker Punch", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dragon Dance"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bellibolt", "Corviknight", "Brute Bonnet", "Dragapult"]
+},
+"p2": {
+"playerName": "Kagura_9",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["U-turn", "Knock Off", "Flower Trick"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Thunderbolt", "Sludge Bomb"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade", "Shadow Sneak", "Brick Break"]
+}
+],
+"broughtTeam": ["Murkrow", "Meowscarada", "Gengar", "Ceruledge"]
+},
+"outcome": 1
+}

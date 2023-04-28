@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852504912",
+"p1": {
+"playerName": "jimbusmoombumbus",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "Weakness Policy",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Will-O-Wisp", "Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Freeze-Dry"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Accelerock", "Protect", "Rock Slide"]
+}
+],
+"broughtTeam": ["Coalossal", "Iron Bundle", "Tyranitar", "Lycanroc"]
+},
+"p2": {
+"playerName": "A0000000",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Dark",
+"moves": ["Nasty Plot", "Dark Pulse"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Steam Engine",
+"teraType": "",
+"moves": ["Skill Swap", "Reflect", "Thunder Wave"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Adrenaline Orb",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Protect", "Close Combat"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Stantler", "Annihilape", "Amoonguss"]
+},
+"outcome": 0
+}

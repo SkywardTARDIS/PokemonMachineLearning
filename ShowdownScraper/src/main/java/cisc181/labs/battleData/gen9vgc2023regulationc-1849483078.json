@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849483078",
+"p1": {
+"playerName": "BolinFB",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Body Press", "Rock Slide"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Leftovers",
+"ability": "Insomnia",
+"teraType": "",
+"moves": ["Trick", "Mystical Fire", "Moonblast", "Psyshock"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Gardevoir", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Jangia",
+"fullTeam": [
+{
+"species": "Braviary",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Iron Defense", "Substitute", "Body Press"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Snarl"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "Focus Sash",
+"ability": "Infiltrator",
+"teraType": "",
+"moves": ["Tailwind", "Strength Sap", "Worry Seed", "Rage Powder"]
+}
+],
+"broughtTeam": ["Orthworm", "Dragonite", "Arcanine", "Jumpluff"]
+},
+"outcome": 1
+}

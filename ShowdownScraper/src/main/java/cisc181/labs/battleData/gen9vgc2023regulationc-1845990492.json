@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845990492",
+"p1": {
+"playerName": "BaeruttVGC",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Aerial Ace", "Extreme Speed"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Earthquake", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Dragonite", "Gyarados", "Flutter Mane", "Garchomp"]
+},
+"p2": {
+"playerName": "ClickForVictory",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Spectral Spaghetti",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Mega Dodrio",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Poison",
+"moves": ["Tailwind", "Snarl", "Earth Power", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bruxish",
+"nickname": "Flambuoyant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Fiendish Fish",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Jugulis", "Bruxish", "Chi-Yu"]
+},
+"outcome": 0
+}

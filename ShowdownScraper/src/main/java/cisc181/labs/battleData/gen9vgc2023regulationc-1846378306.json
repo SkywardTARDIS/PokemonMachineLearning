@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846378306",
+"p1": {
+"playerName": "z693611670",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Rest"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Perish Song", "Disable"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Shadow Ball"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Gothitelle", "Scream Tail", "Flutter Mane"]
+},
+"p2": {
+"playerName": "bambambi",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Weather Ball", "Discharge"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "Good as Gold",
+"teraType": "Steel",
+"moves": ["Make It Rain", "Protect", "Nasty Plot"]
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Instruct"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+}
+],
+"broughtTeam": ["Bellibolt", "Gholdengo", "Oranguru", "Abomasnow"]
+},
+"outcome": 0
+}

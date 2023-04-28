@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852400683",
+"p1": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Thunderbolt", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Apolo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Good Soup",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Ting-Lu"]
+},
+"p2": {
+"playerName": "AccidentalHipster",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Follow Me"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "Vital Spirit",
+"teraType": "",
+"moves": ["Rage Fist", "Drain Punch", "Encore", "Protect"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "Normal",
+"moves": ["Rock Slide", "Ice Spinner", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Maushold", "Gastrodon", "Annihilape", "Dragonite"]
+},
+"outcome": 1
+}

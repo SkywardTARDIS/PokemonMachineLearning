@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847501296",
+"p1": {
+"playerName": "lttr",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Bullet Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Icy Wind", "Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Draco Meteor"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hariyama", "Iron Bundle", "Chi-Yu", "Dragapult"]
+},
+"p2": {
+"playerName": "Duecal1on",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Close Combat", "Bullet Punch"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Leftovers",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Terrain Pulse"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Scizor", "Arboliva", "Chi-Yu"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845673784",
+"p1": {
+"playerName": "Dum Mickey",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Palafin", "Dragapult", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Bozzolodio",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "o' piccion",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "a calamita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "o sorcio blu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Annihilape",
+"nickname": "la scimmia zozza",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch", "Protect", "Rage Fist"]
+}
+],
+"broughtTeam": ["Talonflame", "Magnezone", "Azumarill", "Annihilape"]
+},
+"outcome": 0
+}

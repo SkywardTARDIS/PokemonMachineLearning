@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852394685",
+"p1": {
+"playerName": "GholDenko",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Roost"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+}
+],
+"broughtTeam": ["Palafin", "Corviknight", "Gothitelle", "Iron Hands"]
+},
+"p2": {
+"playerName": "Rk9s",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Art kid",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Psychic"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Nerd",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect", "Encore"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Cheer Captain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quick Guard"]
+},
+{
+"species": "Garchomp",
+"nickname": "Baddest Dude",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Fairy",
+"moves": ["Rock Slide", "Protect", "Earthquake"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Iron Bundle", "Talonflame", "Garchomp"]
+},
+"outcome": 1
+}

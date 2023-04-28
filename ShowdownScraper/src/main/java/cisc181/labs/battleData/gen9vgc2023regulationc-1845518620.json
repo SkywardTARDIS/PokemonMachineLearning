@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845518620",
+"p1": {
+"playerName": "JustRadAlex",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Blues",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Pollen Puff"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "TrickSnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Wave", "Spirit Break"]
+},
+{
+"species": "Rotom",
+"nickname": "Wishy Washy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Amoonguss", "Grimmsnarl", "Rotom"]
+},
+"p2": {
+"playerName": "Brummes",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flame Charge", "Close Combat", "Raging Bull"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Volt Switch", "Thunderbolt"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Encore", "Play Rough", "Thunder Wave"]
+},
+{
+"species": "Lokix",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect"]
+}
+],
+"broughtTeam": ["Tauros", "Rotom", "Scream Tail", "Gholdengo"]
+},
+"outcome": 1
+}

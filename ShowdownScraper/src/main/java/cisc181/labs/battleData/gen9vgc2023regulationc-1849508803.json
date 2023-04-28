@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1849508803",
+"p1": {
+"playerName": "jchemmy",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Ruination", "Fissure", "Heavy Slam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Amoonguss"]
+},
+"p2": {
+"playerName": "Inspire60",
+"fullTeam": [
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Milo",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Sandyghast",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "Ground",
+"moves": ["Power Whip"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Symthis",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Qwilfish",
+"nickname": "Hiro",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Brambleghast", "Flutter Mane", "Qwilfish"]
+},
+"outcome": 1
+}

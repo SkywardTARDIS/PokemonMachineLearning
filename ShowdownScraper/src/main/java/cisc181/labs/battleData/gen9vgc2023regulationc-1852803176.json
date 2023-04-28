@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852803176",
+"p1": {
+"playerName": "henritos22",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Cacturne",
+"nickname": "Cacturne",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Venoshock", "Dark Pulse", "Spiky Shield", "Focus Blast"]
+},
+{
+"species": "Banette",
+"nickname": "Banette",
+"item": "",
+"ability": "Banette",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Braviary",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Glimmora", "Cacturne", "Banette", "Staraptor"]
+},
+"p2": {
+"playerName": "Tayekc",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Dragonite", "Chien-Pao"]
+},
+"outcome": 0
+}

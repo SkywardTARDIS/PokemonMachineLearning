@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846561367",
+"p1": {
+"playerName": "BlackSam88",
+"fullTeam": [
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes", "Substitute", "Recover"]
+},
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Flash Cannon", "U-turn"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Ice Beam", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Toxapex", "Chansey", "Corviknight", "Gyarados"]
+},
+"p2": {
+"playerName": "eldelpoliwhirl",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Ruination"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Substitute", "Shadow Ball", "Protect", "Moonblast"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Glaive Rush"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Amoonguss", "Flutter Mane", "Baxcalibur"]
+},
+"outcome": 0
+}

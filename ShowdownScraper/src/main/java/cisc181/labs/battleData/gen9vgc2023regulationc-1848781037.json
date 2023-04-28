@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848781037",
+"p1": {
+"playerName": "Coach M Slays",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Drain Punch"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Murkrow", "Dragonite", "Gallade"]
+},
+"p2": {
+"playerName": "Sprye0216",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Talonflame", "Garchomp", "Ting-Lu"]
+},
+"outcome": 0
+}

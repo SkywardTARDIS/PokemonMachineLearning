@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845002349",
+"p1": {
+"playerName": "jfkdleneke",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Heal Pulse", "Slack Off", "Surf"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Reflect", "Light Screen", "Dazzling Gleam"]
+},
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Protect", "Bulk Up", "Ice Hammer"]
+}
+],
+"broughtTeam": ["Slowbro", "Skeledirge", "Klefki", "Crabominable"]
+},
+"p2": {
+"playerName": "IceGymDuoOus",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Opportunist",
+"teraType": "",
+"moves": ["Lumina Crash", "Protect"]
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Room Service",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Fire Spin", "Snarl"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Spirit Break", "Chilling Water"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Curse", "Drain Punch", "Protect", "Slack Off"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Espathra", "Arcanine", "Grimmsnarl", "Slowking"]
+},
+"outcome": 0
+}

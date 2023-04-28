@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1848420513",
+"p1": {
+"playerName": "Khonsou",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sleep Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Steel",
+"moves": ["Earthquake", "Heavy Slam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Taunt", "Waterfall"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect"]
+}
+],
+"broughtTeam": ["Vivillon", "Ting-Lu", "Gyarados", "Ceruledge"]
+},
+"p2": {
+"playerName": "Kaibar",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Windy",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Clear Smog"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Dark",
+"moves": ["Swords Dance", "Sucker Punch", "Kowtow Cleave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Kingambit", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846575062",
+"p1": {
+"playerName": "Welwitchia",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Oinkologne",
+"nickname": "Oinkologne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Mud-Slap", "Body Press"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Aqua Step", "Rapid Spin"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "Purifying Salt",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Iron Defense", "Body Press"]
+}
+],
+"broughtTeam": ["Scovillain", "Oinkologne", "Quaquaval", "Garganacl"]
+},
+"p2": {
+"playerName": "NAR_Slowbro",
+"fullTeam": [
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Calm Mind", "Hyper Voice", "Psychic", "Soft-Boiled"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Foul Play"]
+},
+{
+"species": "Drifblim",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Ruination", "Pollen Puff", "Protect"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Blissey", "Sableye", "Wo-Chien", "Krookodile"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852428416",
+"p1": {
+"playerName": "BattlelegendRyan",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "zoomie",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Belly Drum", "Play Rough", "Aqua Jet"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "heybrotha",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Imposter",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Azumarill", "Maushold", "Gholdengo", "Amoonguss"]
+},
+"p2": {
+"playerName": "Sorenjedi",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze", "Sacred Sword"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+}
+],
+"broughtTeam": ["Dragapult", "Ting-Lu", "Chien-Pao", "Maushold"]
+},
+"outcome": 1
+}

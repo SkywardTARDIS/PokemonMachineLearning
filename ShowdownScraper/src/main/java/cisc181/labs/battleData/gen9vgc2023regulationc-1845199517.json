@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845199517",
+"p1": {
+"playerName": "Galahad Excalibur",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Will-O-Wisp", "Pain Split", "Snarl"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Belly Drum", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Eject Button",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Protect", "Toxic Spikes"]
+}
+],
+"broughtTeam": ["Scizor", "Spiritomb", "Iron Hands", "Pincurchin"]
+},
+"p2": {
+"playerName": "Darkskin gawd",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Stomping Tantrum", "Fissure", "Tera Blast"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Super Fang", "Follow Me"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Ting-Lu", "Maushold", "Dragapult"]
+},
+"outcome": 1
+}

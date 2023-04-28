@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852047821",
+"p1": {
+"playerName": "jvo7",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "After You"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "Fire",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Chien-Pao", "Corviknight"]
+},
+"p2": {
+"playerName": "LibraryMushroom",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scissors",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Ice Weasel",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Fido",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Wo-Chein",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Protect"]
+}
+],
+"broughtTeam": ["Scizor", "Chien-Pao", "Arcanine", "Amoonguss"]
+},
+"outcome": 1
+}

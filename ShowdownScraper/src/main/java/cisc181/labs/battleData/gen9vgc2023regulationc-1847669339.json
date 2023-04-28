@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847669339",
+"p1": {
+"playerName": "SeviperGliscor",
+"fullTeam": [
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Stealth Rock", "Body Press"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Aura Sphere"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "Armor Tail",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Houndstone", "Hippowdon", "Armarouge", "Farigiraf"]
+},
+"p2": {
+"playerName": "Ultra35",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat", "Helping Hand"]
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Breaking Swipe"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "Moxie",
+"teraType": "Rock",
+"moves": ["Pin Missile", "Rock Blast"]
+}
+],
+"broughtTeam": ["Torkoal", "Roaring Moon", "Chien-Pao", "Heracross"]
+},
+"outcome": 1
+}

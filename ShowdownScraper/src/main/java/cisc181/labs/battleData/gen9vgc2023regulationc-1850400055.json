@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850400055",
+"p1": {
+"playerName": "cacazzo",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "tonin a cicogn",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step", "Aqua Jet"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Roost", "Brave Bird"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Don Ciro",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+}
+],
+"broughtTeam": ["Quaquaval", "Arcanine", "Corviknight", "Chien-Pao"]
+},
+"p2": {
+"playerName": "lateralvs",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash", "Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Thunder Wave", "Helping Hand", "Taunt"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Assurance", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Gholdengo", "Gyarados", "Kingambit"]
+},
+"outcome": 0
+}

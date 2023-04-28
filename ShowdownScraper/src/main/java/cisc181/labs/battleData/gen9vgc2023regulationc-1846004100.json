@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846004100",
+"p1": {
+"playerName": "kolbalt",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Earthquake", "Brick Break", "Thunder Punch", "Fire Punch"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Play Rough", "Iron Head"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Fire Blast"]
+}
+],
+"broughtTeam": ["Quaquaval", "Tyranitar", "Lycanroc", "Dragapult"]
+},
+"p2": {
+"playerName": "MCsquidzy",
+"fullTeam": [
+{
+"species": "Jigglypuff",
+"nickname": "Jigglypuff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gravity", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Fissure", "Rest", "Sleep Talk"]
+},
+{
+"species": "Cryogonal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Hone Claws"]
+}
+],
+"broughtTeam": ["Jigglypuff", "Dondozo", "Tatsugiri", "Weavile"]
+},
+"outcome": 1
+}

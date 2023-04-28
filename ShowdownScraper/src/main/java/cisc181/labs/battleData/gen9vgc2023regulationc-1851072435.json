@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851072435",
+"p1": {
+"playerName": "turbronius",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Sucker Punch", "Spore"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Belly Drum"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball", "Ice Shard"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Brute Bonnet", "Cetitan", "Abomasnow"]
+},
+"p2": {
+"playerName": "xingtian888",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Energy Ball", "Blizzard", "Aurora Veil"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Blizzard"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Abomasnow", "Iron Bundle", "Baxcalibur"]
+},
+"outcome": 1
+}

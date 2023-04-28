@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848059457",
+"p1": {
+"playerName": "PearDaddy",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Noms",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Garchomp",
+"nickname": "Chomps",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Earthquake", "Iron Head"]
+},
+{
+"species": "Corviknight",
+"nickname": "Squab",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Drill Peck"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Glimmora", "Garchomp", "Corviknight"]
+},
+"p2": {
+"playerName": "Muk masters",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Dragon Dance", "Tera Blast", "Ice Shard"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Abomasnow", "Iron Bundle", "Chien-Pao"]
+},
+"outcome": 1
+}

@@ -1,6 +1,9 @@
 package cisc181.labs;
 
+import com.github.cliftonlabs.json_simple.JsonObject;
+
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class PokemonInfo {
     String species;
@@ -17,6 +20,19 @@ public class PokemonInfo {
         this.ability = "";
         this.teraType = "";
         this.moves = new ArrayList<>();
+    }
+
+    PokemonInfo(JsonObject pokemonJSON){
+        this.species = pokemonJSON.get(PokemonInfoFields.species.getKey()).toString();
+        this.nickname = pokemonJSON.get(PokemonInfoFields.nickname.getKey()).toString();
+        this.item = pokemonJSON.get(PokemonInfoFields.item.getKey()).toString();
+        this.ability = pokemonJSON.get(PokemonInfoFields.ability.getKey()).toString();
+        this.teraType = pokemonJSON.get(PokemonInfoFields.teraType.getKey()).toString();
+        this.moves = new ArrayList<>();
+        ArrayList<String> moveHolder = new ArrayList<String>(Arrays.asList(pokemonJSON.get(PokemonInfoFields.moves.getKey()).toString().replace("[", "").replace("]", "").split(",")));
+        for(int i=0; i<moveHolder.size(); i++){
+            this.moves.add(moveHolder.get(i));
+        }
     }
 
     public void setNickname(String nickname){
@@ -53,6 +69,20 @@ public class PokemonInfo {
         System.out.println("Tera Type: " + this.teraType);
         System.out.print("Moves: ");
         System.out.println(this.moves);
+    }
+
+    public String toJSON(){
+        String holder = "{\n\"species\": \"" + this.species + "\",\n" + "\"nickname\": \"" + this.nickname.replace("\"", "") + "\",\n" +
+        "\"item\": \"" + this.item + "\",\n" + "\"ability\": \"" + this.ability + "\",\n" +
+                "\"teraType\": \"" + this.teraType + "\",\n" + "\"moves\": [";
+        for(int i=0; i<this.moves.size(); i++){
+            if(i != 0){
+                holder = holder + ", ";
+            }
+            holder = holder + "\"" + this.moves.get(i) + "\"";
+        }
+        holder = holder + "]\n}";
+        return holder;
     }
 
 }

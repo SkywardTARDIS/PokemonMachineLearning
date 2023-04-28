@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849376112",
+"p1": {
+"playerName": "Esspecialy",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Who?",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Mausmaus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Population Bomb"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Poo",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Salamance",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Maushold", "Chien-Pao", "Dragonite"]
+},
+"p2": {
+"playerName": "Chicaino 2",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt"]
+}
+],
+"broughtTeam": ["Breloom", "Garchomp", "Arcanine", "Murkrow"]
+},
+"outcome": 1
+}

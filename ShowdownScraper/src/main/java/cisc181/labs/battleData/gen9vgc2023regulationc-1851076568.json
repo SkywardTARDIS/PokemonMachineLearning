@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1851076568",
+"p1": {
+"playerName": "avantguard",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "梵鐘",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "怨嗟の鬼",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "マンモス",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Earthquake", "Protect", "Rock Slide", "Throat Chop"]
+},
+{
+"species": "Rotom",
+"nickname": "雷の逆転",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge"]
+}
+],
+"broughtTeam": ["Bronzong", "Annihilape", "Ting-Lu", "Rotom"]
+},
+"p2": {
+"playerName": "Gholdjunge",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation", "Protect", "Aqua Jet", "Play Rough"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Sitrus Berry",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Azumarill", "Pelipper", "Chien-Pao", "Flutter Mane"]
+},
+"outcome": 1
+}

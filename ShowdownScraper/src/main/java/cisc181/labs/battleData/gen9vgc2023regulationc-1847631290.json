@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847631290",
+"p1": {
+"playerName": "PotatoLord9662",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Leftovers",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Tailwind", "Hydro Pump", "Protect"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Venomoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Electric",
+"moves": ["Shadow Ball", "Energy Ball"]
+}
+],
+"broughtTeam": ["Palafin", "Pelipper", "Chien-Pao", "Flutter Mane"]
+},
+"p2": {
+"playerName": "crinaft",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Disable", "Dragon Darts", "Phantom Force"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Dragon Dance", "Rock Blast"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Iron Head", "Extreme Speed", "Tailwind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Tyranitar", "Dragonite", "Gholdengo"]
+},
+"outcome": 0
+}

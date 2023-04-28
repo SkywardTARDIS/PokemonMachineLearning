@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850873581",
+"p1": {
+"playerName": "PoGoboy",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Iron Head", "Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Aguav Berry",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Wish", "Play Rough", "Body Press", "Protect"]
+}
+],
+"broughtTeam": ["Houndstone", "Gyarados", "Chi-Yu", "Dachsbun"]
+},
+"p2": {
+"playerName": "Alexis_student",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Kowtow Cleave", "Iron Head", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Flutter Mane", "Chi-Yu", "Kingambit"]
+},
+"outcome": 0
+}

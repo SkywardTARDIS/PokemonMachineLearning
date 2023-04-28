@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845937304",
+"p1": {
+"playerName": "qzy1993",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fairy",
+"moves": ["Tera Blast", "Sucker Punch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hydro Pump", "Hurricane"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Kingambit", "Pelipper"]
+},
+"p2": {
+"playerName": "Aurachild",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Protect", "Tera Blast"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Eject Button",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Iron Valiant", "Pincurchin", "Iron Bundle"]
+},
+"outcome": 1
+}

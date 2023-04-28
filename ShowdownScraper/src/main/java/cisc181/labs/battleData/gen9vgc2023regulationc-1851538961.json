@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851538961",
+"p1": {
+"playerName": "herofire81",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Sitrus Berry",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Stomping Tantrum", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Protect", "Breaking Swipe", "Jaw Lock"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Annihilape", "Roaring Moon"]
+},
+"p2": {
+"playerName": "hancec",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Nezuko",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute"]
+},
+{
+"species": "Garganacl",
+"nickname": "Bignacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Salt Cure", "Recover"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Protect", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Encore", "Freeze-Dry", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Garganacl", "Arcanine", "Iron Bundle"]
+},
+"outcome": 0
+}

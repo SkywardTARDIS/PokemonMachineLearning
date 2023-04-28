@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849711168",
+"p1": {
+"playerName": "420monkidori",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "King's Rock",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Protect", "Fling", "Fake Out"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Spore", "Close Combat"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Trick Room", "Dazzling Gleam", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press", "Snarl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gothitelle", "Brute Bonnet", "Scream Tail", "Ting-Lu"]
+},
+"p2": {
+"playerName": "GHS730",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Protect", "Bullet Punch"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Safety Goggles",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Helping Hand"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Scizor", "Armarouge", "Indeedee", "Iron Bundle"]
+},
+"outcome": 1
+}

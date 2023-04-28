@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848903105",
+"p1": {
+"playerName": "qp9wirth",
+"fullTeam": [
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap", "Body Slam", "Disable"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Adrenaline Orb",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Dragon Claw"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+}
+],
+"broughtTeam": ["Stantler", "Annihilape", "Dragonite", "Maushold"]
+},
+"p2": {
+"playerName": "Jbfda",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunder Punch"]
+}
+],
+"broughtTeam": ["Amoonguss", "Garganacl", "Iron Hands"]
+},
+"outcome": 0
+}

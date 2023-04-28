@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845850373",
+"p1": {
+"playerName": "ARIVAL101",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Pounce"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Foul Play"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gravity", "Thunder", "Protect"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Scizor", "Sableye", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "gankyburner",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "C'mon C'mon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sunny Day", "Foul Play", "Haze"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "B.H. Sun",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Overheat"]
+},
+{
+"species": "Corviknight",
+"nickname": "Mr. Jones",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Leafeon",
+"nickname": "Plantasia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+}
+],
+"broughtTeam": ["Murkrow", "Chi-Yu", "Corviknight", "Leafeon"]
+},
+"outcome": 0
+}

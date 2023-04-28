@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849845941",
+"p1": {
+"playerName": "omg_its_daddy",
+"fullTeam": [
+{
+"species": "Dragalge",
+"nickname": "Dragalge",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Drowzee",
+"nickname": "Drowzee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Low Kick", "Rain Dance", "Foul Play"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Ice Fang", "Dragon Dance", "Waterfall"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragalge", "Drowzee", "Gyarados", "Raichu"]
+},
+"p2": {
+"playerName": "Gemstone Bandits",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Earthquake"]
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+}
+],
+"broughtTeam": ["Tyranitar", "Garchomp", "Orthworm"]
+},
+"outcome": 0
+}

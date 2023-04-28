@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1844914366",
+"p1": {
+"playerName": "Grubbs 4 President",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Body Press"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+}
+],
+"broughtTeam": ["Torkoal", "Arcanine", "Gastrodon", "Chi-Yu"]
+},
+"p2": {
+"playerName": "coop1990",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Protect"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Chilly Reception", "Blizzard", "Trick Room", "Slack Off"]
+},
+{
+"species": "Glaceon",
+"nickname": "Glaceon",
+"item": "Leftovers",
+"ability": "Ice Body",
+"teraType": "",
+"moves": ["Wish", "Blizzard"]
+}
+],
+"broughtTeam": ["Garganacl", "Glimmora", "Slowking", "Glaceon"]
+},
+"outcome": 0
+}

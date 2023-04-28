@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846754301",
+"p1": {
+"playerName": "WDMichael",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Aurora Veil", "Sheer Cold", "Rest", "Sleep Talk"]
+},
+{
+"species": "Beartic",
+"nickname": "Beartic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sheer Cold"]
+},
+{
+"species": "Cryogonal",
+"nickname": "Cryogonal",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sheer Cold"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Quick Claw",
+"ability": "",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Beartic", "Cryogonal", "Garganacl"]
+},
+"p2": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Ruination", "Heavy Slam", "Fissure"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Ting-Lu", "Arcanine"]
+},
+"outcome": 0
+}

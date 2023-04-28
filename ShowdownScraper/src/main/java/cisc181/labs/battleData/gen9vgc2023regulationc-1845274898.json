@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845274898",
+"p1": {
+"playerName": "Emberbloom",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Garchomp", "Gyarados"]
+},
+"p2": {
+"playerName": "Maxman101100",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Kong",
+"item": "Sitrus Berry",
+"ability": "Defiant",
+"teraType": "Water",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "The Goons",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Beat Up", "Follow Me"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Hussy",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Flutter Mane"]
+},
+"outcome": 1
+}

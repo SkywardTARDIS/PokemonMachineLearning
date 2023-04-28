@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845196691",
+"p1": {
+"playerName": "Galahad Excalibur",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Drain Punch"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Eject Button",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Toxic Spikes"]
+}
+],
+"broughtTeam": ["Farigiraf", "Ting-Lu", "Iron Hands", "Pincurchin"]
+},
+"p2": {
+"playerName": "Darkskin gawd",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swords Dance", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Super Fang", "Follow Me"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Ting-Lu", "Maushold"]
+},
+"outcome": 0
+}

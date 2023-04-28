@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847024826",
+"p1": {
+"playerName": "Asoda",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Protect", "Waterfall"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Gyarados", "Wo-Chien"]
+},
+"p2": {
+"playerName": "VgcPro(real)",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunderbolt"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Wiki Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Overheat", "Struggle Bug", "Protect"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Stomping Tantrum", "Dragon Claw"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Protect"]
+},
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kilowattrel", "Volcarona", "Garchomp", "Gastrodon"]
+},
+"outcome": 1
+}

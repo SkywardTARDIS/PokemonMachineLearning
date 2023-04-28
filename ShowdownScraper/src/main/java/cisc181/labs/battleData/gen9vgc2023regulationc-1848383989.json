@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848383989",
+"p1": {
+"playerName": "MirtonVGC",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Swords Dance", "Iron Head"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Gyarados", "Flutter Mane", "Kingambit"]
+},
+"p2": {
+"playerName": "HildaisViscous",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Gunk Shot"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Moonblast", "Thunderbolt"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Leftovers",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Rock Slide", "Gigaton Hammer"]
+}
+],
+"broughtTeam": ["Salamence", "Revavroom", "Iron Valiant", "Tinkaton"]
+},
+"outcome": 0
+}

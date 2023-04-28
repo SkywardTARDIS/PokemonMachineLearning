@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845922938",
+"p1": {
+"playerName": "Shearman360",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Sludge Bomb"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Iron Defense", "Wide Guard"]
+}
+],
+"broughtTeam": ["Torkoal", "Amoonguss", "Oranguru", "Garganacl"]
+},
+"p2": {
+"playerName": "Drinkwt",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Eruption", "Earth Power"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed", "Close Combat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Shadow Ball"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Curse"]
+}
+],
+"broughtTeam": ["Torkoal", "Brute Bonnet", "Flutter Mane", "Mimikyu"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846773514",
+"p1": {
+"playerName": "Alice_NightMare",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Bulldoze", "Waterfall"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Fire",
+"moves": ["Earthquake"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Orthworm"]
+},
+"p2": {
+"playerName": "The Umpire",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Sitrus Berry",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Trick Room", "Instruct"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Own Tempo",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Torkoal", "Oranguru", "Mudsdale"]
+},
+"outcome": 0
+}

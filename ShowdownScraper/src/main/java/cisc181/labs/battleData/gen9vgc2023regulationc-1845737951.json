@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845737951",
+"p1": {
+"playerName": "TwinnPines",
+"fullTeam": [
+{
+"species": "Finizen",
+"nickname": "Finizen",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Flittle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Smoliv",
+"nickname": "Smoliv",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Noibat",
+"nickname": "Noibat",
+"item": "",
+"ability": "Noibat",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Tinkatink",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Larvesta",
+"nickname": "Larvesta",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+}
+],
+"broughtTeam": ["Finizen", "Smoliv", "Noibat", "Larvesta"]
+},
+"p2": {
+"playerName": "TheFlareVGC",
+"fullTeam": [
+{
+"species": "Gastly",
+"nickname": "Gastly",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Energy Ball", "Shadow Ball"]
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "High Horsepower"]
+},
+{
+"species": "Wattrel",
+"nickname": "Wattrel",
+"item": "Covert Cloak",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Quaxly",
+"nickname": "Quaxly",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Litleo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drowzee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastly", "Mudbray", "Wattrel", "Quaxly"]
+},
+"outcome": 0
+}

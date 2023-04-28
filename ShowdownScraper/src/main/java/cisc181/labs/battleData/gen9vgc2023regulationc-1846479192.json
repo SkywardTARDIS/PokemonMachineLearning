@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846479192",
+"p1": {
+"playerName": "tukeydukey",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "PP",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Protect", "Phantom Force", "Dragon Darts"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Pupper",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Dragapult", "Arcanine", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "Monachrome",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Core koal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Heat Wave"]
+},
+{
+"species": "Lilligant",
+"nickname": "I insist",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["After You"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Mutter Flane",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Snackfish",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Flutter Mane", "Chi-Yu"]
+},
+"outcome": 1
+}

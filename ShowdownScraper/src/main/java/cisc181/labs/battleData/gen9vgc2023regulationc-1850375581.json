@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850375581",
+"p1": {
+"playerName": "Chicaino 2",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Mach Punch"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Ground",
+"moves": ["Swords Dance", "Dragon Claw", "Protect"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Taunt", "Tailwind"]
+}
+],
+"broughtTeam": ["Breloom", "Garchomp", "Arcanine", "Murkrow"]
+},
+"p2": {
+"playerName": "marioman6444",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Pawn",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Knight",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Icy Wind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "Queen",
+"item": "",
+"ability": "Queenly Majesty",
+"teraType": "Fire",
+"moves": ["Protect", "High Jump Kick", "Tera Blast", "Power Whip"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Rook",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+}
+],
+"broughtTeam": ["Murkrow", "Gyarados", "Tsareena", "Ting-Lu"]
+},
+"outcome": 0
+}

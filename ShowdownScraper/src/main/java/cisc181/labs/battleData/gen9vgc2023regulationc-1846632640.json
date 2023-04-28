@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846632640",
+"p1": {
+"playerName": "Stempe",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Protect", "Shadow Ball", "Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Headlong Rush", "Protect", "Close Combat"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Murkrow", "Great Tusk", "Dachsbun"]
+},
+"p2": {
+"playerName": "DegeneraVGC",
+"fullTeam": [
+{
+"species": "Haunter",
+"nickname": "Haunter",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide", "Tera Blast", "Crunch"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Haunter", "Amoonguss", "Tyranitar", "Lycanroc"]
+},
+"outcome": 0
+}

@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1847329714",
+"p1": {
+"playerName": "throwaway0988",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Belly Drum", "Protect", "Earthquake"]
+}
+],
+"broughtTeam": ["Dondozo", "Pelipper", "Tatsugiri", "Iron Hands"]
+},
+"p2": {
+"playerName": "jackiepeanuts",
+"fullTeam": [
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "Bug",
+"moves": ["U-turn", "First Impression", "Sucker Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Eject Pack",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Protect", "Jet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze", "Ice Spinner", "Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Lokix", "Palafin", "Flutter Mane", "Chien-Pao"]
+},
+"outcome": 0
+}

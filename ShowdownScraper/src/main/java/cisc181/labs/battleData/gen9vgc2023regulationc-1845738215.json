@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845738215",
+"p1": {
+"playerName": "TwinnPines",
+"fullTeam": [
+{
+"species": "Finizen",
+"nickname": "Finizen",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Flittle",
+"nickname": "Flittle",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "Dark",
+"moves": ["Calm Mind", "Stored Power", "Protect"]
+},
+{
+"species": "Smoliv",
+"nickname": "Smoliv",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Noibat",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkatink",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Larvesta",
+"nickname": "Larvesta",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Finizen", "Flittle", "Smoliv", "Larvesta"]
+},
+"p2": {
+"playerName": "TheFlareVGC",
+"fullTeam": [
+{
+"species": "Gastly",
+"nickname": "Gastly",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Earthquake", "Protect", "Rock Slide", "High Horsepower"]
+},
+{
+"species": "Wattrel",
+"nickname": "Wattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind", "Discharge"]
+},
+{
+"species": "Quaxly",
+"nickname": "Quaxly",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Litleo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drowzee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastly", "Mudbray", "Wattrel", "Quaxly"]
+},
+"outcome": 0
+}

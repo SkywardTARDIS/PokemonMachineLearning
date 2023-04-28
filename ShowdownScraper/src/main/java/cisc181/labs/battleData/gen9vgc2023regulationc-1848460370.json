@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848460370",
+"p1": {
+"playerName": "Tom Foley",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Eject Pack",
+"ability": "",
+"teraType": "",
+"moves": ["Stone Edge", "Taunt", "Close Combat"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Dynamic Punch"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flash Cannon"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Medicham", "Sandy Shocks", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Rickinch",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "MiLucario",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Protect", "Sucker Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Disable", "Protect"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Mirror Coat"]
+}
+],
+"broughtTeam": ["Lucario", "Chien-Pao", "Scream Tail", "Gothorita"]
+},
+"outcome": 0
+}

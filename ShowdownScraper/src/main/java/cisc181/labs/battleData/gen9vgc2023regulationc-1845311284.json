@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845311284",
+"p1": {
+"playerName": "Flashab23",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Earthquake", "Protect", "Rest", "Order Up"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Protect"]
+}
+],
+"broughtTeam": ["Glimmora", "Dondozo", "Dragonite", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Orhsfasr",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Venomoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Icy Wind"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Heat Wave", "Sludge Wave", "Protect"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Flare Blitz", "Earthquake"]
+}
+],
+"broughtTeam": ["Masquerain", "Frosmoth", "Iron Moth", "Slither Wing"]
+},
+"outcome": 0
+}

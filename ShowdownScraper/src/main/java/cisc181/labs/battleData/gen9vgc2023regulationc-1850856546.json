@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850856546",
+"p1": {
+"playerName": "NoNotNobody",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Power Herb",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Phantom Force", "Acrobatics", "Protect"]
+},
+{
+"species": "Staravia",
+"nickname": "Staravia",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Play Rough", "Knock Off", "Gigaton Hammer"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Staravia", "Tinkaton"]
+},
+"p2": {
+"playerName": "FinalGambitVGC",
+"fullTeam": [
+{
+"species": "Fletchinder",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Quash"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Mabosstiff",
+"nickname": "Mabosstiff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Sableye", "Iron Valiant", "Mabosstiff", "Amoonguss"]
+},
+"outcome": 1
+}

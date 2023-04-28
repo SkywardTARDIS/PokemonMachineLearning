@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851658290",
+"p1": {
+"playerName": "Dragonitekid157",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Fake Out"]
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "Absorb Bulb",
+"ability": "Steam Engine",
+"teraType": "Grass",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Raichu", "Coalossal", "Breloom", "Rotom"]
+},
+"p2": {
+"playerName": "YGO_better",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Abyssmegalo",
+"item": "Leftovers",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Evotile",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cyclizar",
+"nickname": "Vrum",
+"item": "",
+"ability": "",
+"teraType": "Bug",
+"moves": ["Shed Tail", "Body Slam"]
+}
+],
+"broughtTeam": ["Vaporeon", "Torkoal", "Cyclizar"]
+},
+"outcome": 0
+}

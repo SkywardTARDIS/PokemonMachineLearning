@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845565282",
+"p1": {
+"playerName": "Yadicvgc",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Poison Jab"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Rage Powder", "Spore"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Aqua Jet", "Play Rough"]
+}
+],
+"broughtTeam": ["Muk", "Amoonguss", "Arcanine", "Azumarill"]
+},
+"p2": {
+"playerName": "FarGas",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["U-turn"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Palafin", "Dragapult"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847320716",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Weakness Policy",
+"ability": "Electromorphosis",
+"teraType": "Fairy",
+"moves": ["Discharge", "Tera Blast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Wacan Berry",
+"ability": "Oblivious",
+"teraType": "",
+"moves": ["Trick Room", "Bulldoze"]
+},
+{
+"species": "Morgrem",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Bellibolt", "Amoonguss", "Slowbro"]
+},
+"p2": {
+"playerName": "Samythril",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Thunderbolt", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Baxcalibur", "Great Tusk", "Gardevoir"]
+},
+"outcome": 1
+}

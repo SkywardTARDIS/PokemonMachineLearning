@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852489091",
+"p1": {
+"playerName": "ImIsolde",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat", "Dark Pulse"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam", "Yawn"]
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Leaf Blade", "Double-Edge"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Detect", "Quick Attack"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Vaporeon", "Leafeon", "Sylveon"]
+},
+"p2": {
+"playerName": "aiex72",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Voom",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Wave Crash", "Rest"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Trick Room", "Protect", "Dazzling Gleam", "Yawn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Dondozo", "Torkoal", "Hatterene", "Amoonguss"]
+},
+"outcome": 1
+}

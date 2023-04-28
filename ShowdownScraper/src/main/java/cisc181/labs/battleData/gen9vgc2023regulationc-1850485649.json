@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850485649",
+"p1": {
+"playerName": "digrignante",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "Competitive",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Discharge"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Ground",
+"moves": ["Earth Power"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Iron Bundle", "Chi-Yu", "Abomasnow"]
+},
+"p2": {
+"playerName": "lateralvs",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Fagioli 2-0",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Cuadrado 3-2",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Higuain 3-2",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Marchisio 2-1",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Gyarados", "Gholdengo", "Iron Hands"]
+},
+"outcome": 0
+}

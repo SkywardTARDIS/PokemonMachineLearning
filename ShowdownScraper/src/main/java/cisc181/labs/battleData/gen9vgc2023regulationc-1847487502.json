@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847487502",
+"p1": {
+"playerName": "vvJuice",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Fairy",
+"moves": ["Leech Seed", "Protect", "Pollen Puff", "Knock Off"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Spirit Break", "Taunt"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Headlong Rush", "Close Combat", "Protect", "Rock Slide"]
+}
+],
+"broughtTeam": ["Arcanine", "Wo-Chien", "Grimmsnarl", "Great Tusk"]
+},
+"p2": {
+"playerName": "MagierinSchnee",
+"fullTeam": [
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Grass Knot", "Flash Cannon"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "Life Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Shadow Sneak"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "Mirror Armor",
+"teraType": "Fighting",
+"moves": ["Bulk Up", "Body Press", "Brave Bird", "Roost"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Eelektross", "Mimikyu", "Corviknight", "Arcanine"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852785798",
+"p1": {
+"playerName": "JeloOrange",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect"]
+},
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "Toxic Orb",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Belly Drum", "Earthquake", "Body Slam"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gardevoir", "Grimmsnarl", "Greedent"]
+},
+"p2": {
+"playerName": "swurli",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "kingdom hearts",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo"]
+},
+{
+"species": "Grafaiai",
+"nickname": "doodle jump",
+"item": "",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Doodle", "Knock Off"]
+},
+{
+"species": "Slaking",
+"nickname": "wacky stats",
+"item": "Leftovers",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Poison Jab", "Drain Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "checkmate",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Swords Dance", "Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Grafaiai", "Slaking", "Kingambit"]
+},
+"outcome": 1
+}

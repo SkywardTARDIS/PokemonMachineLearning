@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849913000",
+"p1": {
+"playerName": "Millie Jean",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Thunder Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Moonblast", "Icy Wind"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Iron Hands", "Chi-Yu", "Flutter Mane", "Arcanine"]
+},
+"p2": {
+"playerName": "Kingbants",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "Riju",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Drain Punch", "Psychic Fangs", "Thunder Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Tai Lung",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Sacred Sword", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Falcor",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Xehanort",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scream Tail", "Chien-Pao", "Dragonite", "Ceruledge"]
+},
+"outcome": 1
+}

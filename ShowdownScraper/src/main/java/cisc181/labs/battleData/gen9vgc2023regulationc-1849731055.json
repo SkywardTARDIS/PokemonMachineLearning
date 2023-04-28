@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849731055",
+"p1": {
+"playerName": "b4d3",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press", "Roost"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Meowscarada", "Garchomp", "Corviknight"]
+},
+"p2": {
+"playerName": "padhug",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Protect", "Screech", "Foul Play"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Heat Wave"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Earthquake", "Protect", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Umbreon", "Talonflame", "Great Tusk"]
+},
+"outcome": 1
+}

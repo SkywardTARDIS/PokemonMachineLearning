@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846692146",
+"p1": {
+"playerName": "The_Chauffeur",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Thunder Wave", "Encore", "Disable", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "Roc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Mimic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tarrasque",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Protect", "Dragon Dance"]
+}
+],
+"broughtTeam": ["Scream Tail", "Corviknight", "Gholdengo", "Tyranitar"]
+},
+"p2": {
+"playerName": "haviy",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Shard"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Struggle"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Tatsugiri", "Dondozo", "Chi-Yu"]
+},
+"outcome": 1
+}

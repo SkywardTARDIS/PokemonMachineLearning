@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847600865",
+"p1": {
+"playerName": "Leafaruen",
+"fullTeam": [
+{
+"species": "Scyther",
+"nickname": "Scyther",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Protect", "Aerial Ace"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Wave Crash", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scyther", "Great Tusk", "Palafin", "Pelipper"]
+},
+"p2": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry", "Encore"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Swagger", "Drain Punch", "Thunder Wave"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl", "Mud-Slap", "Body Press"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics", "Phantom Force"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Grimmsnarl", "Dachsbun", "Dragapult"]
+},
+"outcome": 0
+}

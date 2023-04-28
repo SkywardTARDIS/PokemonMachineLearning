@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847253259",
+"p1": {
+"playerName": "ScepTorBird",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Mr. Chip",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Birdo",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ground",
+"moves": ["Tera Blast", "Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Fang",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Iron Will",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird", "Protect", "Tailwind"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Iron Bundle", "Chien-Pao", "Corviknight"]
+},
+"p2": {
+"playerName": "Cynthia Blueheart",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Encore"]
+},
+{
+"species": "Bombirdier",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Fighting",
+"moves": ["Sacred Sword", "Sucker Punch", "Protect", "Ice Spinner"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Chien-Pao", "Arcanine", "Dragapult"]
+},
+"outcome": 0
+}

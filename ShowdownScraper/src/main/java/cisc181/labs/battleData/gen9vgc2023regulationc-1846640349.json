@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846640349",
+"p1": {
+"playerName": "Fluttermane Eyes",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Wave Crash", "Aqua Jet"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Drain Punch", "Rage Fist", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Ting-Lu", "Scream Tail", "Annihilape"]
+},
+"p2": {
+"playerName": "MegaZtorm",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Lancelot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Sneak"]
+},
+{
+"species": "Maushold",
+"nickname": "The Army",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Population Bomb", "Protect", "Follow Me"]
+},
+{
+"species": "Great Tusk",
+"nickname": "G-TEQ",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Kung-Fu-Panda",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Swords Dance", "Ice Shard", "Throat Chop"]
+}
+],
+"broughtTeam": ["Ceruledge", "Maushold", "Great Tusk", "Chien-Pao"]
+},
+"outcome": 1
+}

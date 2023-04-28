@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851623680",
+"p1": {
+"playerName": "GoodUnity-YT",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hex"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Earth Power", "Sludge Wave"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Wo-Chien", "Glimmora"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Reflect"]
+},
+{
+"species": "Volcarona",
+"nickname": "Bunk",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Struggle Bug"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Omar",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Rage Fist", "Protect"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "McNulty",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Pin Missile"]
+}
+],
+"broughtTeam": ["Jumpluff", "Volcarona", "Annihilape", "Jolteon"]
+},
+"outcome": 1
+}

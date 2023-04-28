@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1851392881",
+"p1": {
+"playerName": "ArchAvenger",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Explosion"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Imprison", "Helping Hand", "Quash", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Hydro Pump"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Muddy Water", "Tera Blast"]
+}
+],
+"broughtTeam": ["Drifblim", "Sableye", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "RipTide1388",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Lava Plume"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Leftovers",
+"ability": "Thermal Exchange",
+"teraType": "Ground",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Snarl", "Protect"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Armarouge", "Baxcalibur", "Wo-Chien"]
+},
+"outcome": 1
+}

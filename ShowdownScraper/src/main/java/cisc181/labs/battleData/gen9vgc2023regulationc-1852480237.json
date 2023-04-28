@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852480237",
+"p1": {
+"playerName": "daveboy77",
+"fullTeam": [
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Discharge", "Hydro Pump"]
+},
+{
+"species": "Gallade",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Protect", "Giga Drain", "Fire Fang"]
+}
+],
+"broughtTeam": ["Iron Treads", "Rotom", "Scovillain"]
+},
+"p2": {
+"playerName": "cobalt_poke",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Substitute"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+}
+],
+"broughtTeam": ["Dragonite", "Amoonguss", "Flutter Mane", "Ting-Lu"]
+},
+"outcome": 1
+}

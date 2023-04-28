@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851226914",
+"p1": {
+"playerName": "Hacker tumbleweed",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Belly Drum", "Rock Slide"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Figy Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Acupressure", "Chilling Water"]
+}
+],
+"broughtTeam": ["Iron Hands", "Klefki", "Sableye", "Pincurchin"]
+},
+"p2": {
+"playerName": "DontRespectFissure",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Protect", "Glaive Rush"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Taunt", "Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Choice Scarf",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Flamethrower"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Baxcalibur", "Talonflame", "Chi-Yu"]
+},
+"outcome": 0
+}

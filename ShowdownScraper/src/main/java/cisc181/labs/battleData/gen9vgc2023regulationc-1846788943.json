@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846788943",
+"p1": {
+"playerName": "Cat Scottish Fold",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "ファイアロー",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "テツノツツミ",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump", "Icy Wind", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "ドドゲザン",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "モロバレル",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder"]
+}
+],
+"broughtTeam": ["Talonflame", "Iron Bundle", "Kingambit", "Amoonguss"]
+},
+"p2": {
+"playerName": "gnblr",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure", "Heavy Slam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Moonblast", "Shadow Ball", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Palafin", "Baxcalibur"]
+},
+"outcome": 1
+}

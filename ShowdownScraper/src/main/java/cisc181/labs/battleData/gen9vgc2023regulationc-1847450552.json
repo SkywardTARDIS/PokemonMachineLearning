@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847450552",
+"p1": {
+"playerName": "Treeckoguy1",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Haze"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Focus Sash",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Giga Drain", "Aurora Veil"]
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Protect", "Ice Shard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump", "Encore", "Freeze-Dry"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Abomasnow", "Baxcalibur", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Galuk",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "No risk - No win",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Sugar",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Flare Blitz", "Howl"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Bako Kuri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "El Gran Pez",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Arcanine", "Tatsugiri", "Dondozo"]
+},
+"outcome": 1
+}

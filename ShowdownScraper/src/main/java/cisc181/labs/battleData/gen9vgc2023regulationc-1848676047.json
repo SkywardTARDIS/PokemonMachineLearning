@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848676047",
+"p1": {
+"playerName": "NewRegret",
+"fullTeam": [
+{
+"species": "Tropius",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Boomburst", "Heat Wave"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Aqua Jet", "Play Rough"]
+},
+{
+"species": "Dugtrio",
+"nickname": "Dugtrio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ancient Power", "Earthquake"]
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Noivern", "Torkoal", "Azumarill", "Dugtrio"]
+},
+"p2": {
+"playerName": "inklines",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Leftovers",
+"ability": "Rough Skin",
+"teraType": "Water",
+"moves": ["Spikes", "Stealth Rock", "Earthquake"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Light Screen", "Pollen Puff"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Hurricane", "Roost", "Flamethrower"]
+}
+],
+"broughtTeam": ["Garchomp", "Arcanine", "Vivillon", "Salamence"]
+},
+"outcome": 1
+}

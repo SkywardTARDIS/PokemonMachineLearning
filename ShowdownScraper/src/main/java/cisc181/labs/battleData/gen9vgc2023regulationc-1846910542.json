@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846910542",
+"p1": {
+"playerName": "ts02942461",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Bullet Punch", "Pounce", "Protect"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water", "Earth Power", "Protect"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "Leftovers",
+"ability": "Rattled",
+"teraType": "",
+"moves": ["Stealth Rock", "Ice Spinner", "Hyper Drill"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Scizor", "Gastrodon", "Dudunsparce", "Staraptor"]
+},
+"p2": {
+"playerName": "SadSob",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Howl", "Extreme Speed"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Pollen Puff", "Spore"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+}
+],
+"broughtTeam": ["Arcanine", "Flutter Mane", "Amoonguss", "Roaring Moon"]
+},
+"outcome": 1
+}

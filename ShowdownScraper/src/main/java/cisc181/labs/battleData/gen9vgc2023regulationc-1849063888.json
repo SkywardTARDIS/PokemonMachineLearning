@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849063888",
+"p1": {
+"playerName": "Gorbism",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Gigaton Hammer", "Play Rough"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extrasensory"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Claw", "Rock Slide"]
+}
+],
+"broughtTeam": ["Tinkaton", "Azumarill", "Oranguru", "Garchomp"]
+},
+"p2": {
+"playerName": "Azrocketman",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ampharos",
+"nickname": "Ampharos",
+"item": "Shuca Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Dazzling Gleam", "Protect", "Helping Hand"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Wide Guard"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Iron Ball",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Fling"]
+},
+{
+"species": "Hypno",
+"nickname": "Hypno",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Draining Kiss"]
+}
+],
+"broughtTeam": ["Ampharos", "Stonjourner", "Meowscarada", "Hypno"]
+},
+"outcome": 1
+}

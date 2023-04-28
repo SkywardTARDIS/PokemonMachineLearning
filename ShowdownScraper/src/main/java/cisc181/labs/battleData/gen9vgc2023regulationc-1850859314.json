@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1850859314",
+"p1": {
+"playerName": "primeluke",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake", "Earth Power"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Weakness Policy",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Rage Fist", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Annihilape", "Chien-Pao", "Dragonite"]
+},
+"p2": {
+"playerName": "ljhartman",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "Leftovers",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake", "Protect", "Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Haxorus", "Flutter Mane", "Gyarados"]
+},
+"outcome": 1
+}

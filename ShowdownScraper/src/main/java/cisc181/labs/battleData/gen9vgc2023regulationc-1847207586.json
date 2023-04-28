@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1847207586",
+"p1": {
+"playerName": "ShadowAgain",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Surf", "Taunt", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Fire Blast", "Giga Drain"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Gyarados", "Volcarona"]
+},
+"p2": {
+"playerName": "JacobMe",
+"fullTeam": [
+{
+"species": "Vespiquen",
+"nickname": "Vespiquen",
+"item": "Leftovers",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Protect", "Defend Order", "Struggle"]
+},
+{
+"species": "Zangoose",
+"nickname": "Zangoose",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Gunk Shot"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Energy Ball", "Follow Me"]
+}
+],
+"broughtTeam": ["Vespiquen", "Zangoose", "Clawitzer", "Indeedee"]
+},
+"outcome": 1
+}

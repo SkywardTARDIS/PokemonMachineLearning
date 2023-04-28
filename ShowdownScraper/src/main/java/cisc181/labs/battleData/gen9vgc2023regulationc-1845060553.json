@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845060553",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Morgrem",
+"nickname": "Morgrem",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Fake Tears"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Heat Wave", "Draco Meteor"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Morgrem", "Hippowdon", "Salamence"]
+},
+"p2": {
+"playerName": "Acelia",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Doohickey",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "LVP",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Oblivion",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Tera Blast", "Draco Meteor"]
+},
+{
+"species": "Drednaw",
+"nickname": "Shellman",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Iron Treads", "Mimikyu", "Hydreigon", "Drednaw"]
+},
+"outcome": 1
+}

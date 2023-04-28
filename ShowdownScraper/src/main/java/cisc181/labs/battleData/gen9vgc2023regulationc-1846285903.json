@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846285903",
+"p1": {
+"playerName": "FunnyGuyAlert",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Fire Fang", "Protect", "Dragon Claw"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Body Press"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder", "Spore"]
+}
+],
+"broughtTeam": ["Garchomp", "Kilowattrel", "Tyranitar", "Amoonguss"]
+},
+"p2": {
+"playerName": "yokai19",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Stomping Tantrum"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["U-turn", "Protect", "Close Combat"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Ting-Lu", "Scizor"]
+},
+"outcome": 0
+}

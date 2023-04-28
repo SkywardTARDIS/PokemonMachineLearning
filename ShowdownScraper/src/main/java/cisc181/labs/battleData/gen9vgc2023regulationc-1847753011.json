@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847753011",
+"p1": {
+"playerName": "TDDwarf",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Assurance"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect", "Sludge Bomb"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Protect", "Icy Wind", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Goodra", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "riadma",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Maradona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Beaker",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Turqoise",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Protect", "Wave Crash"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "BlockBuster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard"]
+}
+],
+"broughtTeam": ["Iron Hands", "Pelipper", "Palafin", "Baxcalibur"]
+},
+"outcome": 0
+}

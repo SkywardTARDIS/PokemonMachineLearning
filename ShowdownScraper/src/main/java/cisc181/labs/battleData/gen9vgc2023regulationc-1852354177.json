@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852354177",
+"p1": {
+"playerName": "yonakacoolio",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Dilectus",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Fumus",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Flos puella",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["After You", "Helping Hand", "Solar Beam"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Ignis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Solar Beam"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Torkoal", "Lilligant", "Iron Moth"]
+},
+"p2": {
+"playerName": "nub1234",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Protect", "Close Combat"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Dragon Dance"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Palafin", "Ting-Lu", "Gyarados"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845215242",
+"p1": {
+"playerName": "BandTingLu",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Trick Room", "Gyro Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Bronzong", "Amoonguss"]
+},
+"p2": {
+"playerName": "BrunDoge",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Clauws",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Saber Tooth Cat",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Angry Waifu",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Knock Off", "Shadow Sneak"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Lava Feesh",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Chien-Pao", "Iron Valiant", "Chi-Yu"]
+},
+"outcome": 1
+}

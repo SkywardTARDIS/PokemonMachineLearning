@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851771143",
+"p1": {
+"playerName": "NinjaStyle",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Rage Powder"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chien-Pao", "Amoonguss", "Baxcalibur"]
+},
+"p2": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gold OS",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Make It Rain", "Nasty Plot"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Ordinance",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Garchomp",
+"nickname": "Birdman",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Stomping Tantrum", "Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "Bolt the birb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Iron Bundle", "Garchomp", "Talonflame"]
+},
+"outcome": 0
+}

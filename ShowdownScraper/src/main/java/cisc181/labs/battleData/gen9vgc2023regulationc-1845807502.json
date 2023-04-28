@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845807502",
+"p1": {
+"playerName": "ghuymaa",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Hien",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corv",
+"item": "Lum Berry",
+"ability": "Mirror Armor",
+"teraType": "Dragon",
+"moves": ["Tailwind", "Bulk Up", "Brave Bird"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chiy",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Snarl", "Heat Wave"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylv",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Tera Blast"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Corviknight", "Chi-Yu", "Sylveon"]
+},
+"p2": {
+"playerName": "bentroei",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Shell Bell",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Flare Blitz", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Dragon Dance", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Air Slash", "Low Kick"]
+}
+],
+"broughtTeam": ["Talonflame", "Amoonguss", "Gyarados", "Dragonite"]
+},
+"outcome": 1
+}

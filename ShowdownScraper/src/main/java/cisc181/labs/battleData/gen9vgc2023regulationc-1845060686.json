@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1845060686",
+"p1": {
+"playerName": "AbbebbeBongo",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Ruination", "Fissure"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tera Blast", "Close Combat", "Flare Blitz"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Arcanine", "Corviknight"]
+},
+"p2": {
+"playerName": "Janniw",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Leftovers",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Tailwind"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Waterfall"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Barraskewda", "Dondozo", "Tatsugiri"]
+},
+"outcome": 1
+}

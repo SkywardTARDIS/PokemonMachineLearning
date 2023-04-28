@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847624982",
+"p1": {
+"playerName": "Atc13",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Phantom Force", "Thunder Wave", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stealth Rock"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Electric",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Protect", "Aqua Step", "Taunt"]
+}
+],
+"broughtTeam": ["Dragapult", "Ting-Lu", "Arcanine", "Quaquaval"]
+},
+"p2": {
+"playerName": "KEerer1",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "小咆哮虎",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "芝士雪豹",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Protect", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "发姐",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "地裂4/5",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Arcanine", "Chien-Pao", "Flutter Mane", "Ting-Lu"]
+},
+"outcome": 1
+}

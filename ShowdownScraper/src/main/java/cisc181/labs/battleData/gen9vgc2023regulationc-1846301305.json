@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846301305",
+"p1": {
+"playerName": "LucienTaran",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Leftovers",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Giga Drain", "Protect"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Psychic"]
+}
+],
+"broughtTeam": ["Arboliva", "Barraskewda", "Garchomp", "Espeon"]
+},
+"p2": {
+"playerName": "Ricardo Randorez",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Gyarados", "Dragonite", "Volcarona", "Chien-Pao"]
+},
+"outcome": 0
+}

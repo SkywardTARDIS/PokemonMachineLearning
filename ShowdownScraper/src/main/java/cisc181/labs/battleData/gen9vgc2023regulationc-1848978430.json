@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848978430",
+"p1": {
+"playerName": "drake-deck",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "MIDRANGE",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "FISSURE",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Corviknight",
+"nickname": "BIRD UP",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Bulk Up", "Tailwind", "Roost"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "DA SHOX",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Arcanine", "Ting-Lu", "Corviknight", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "CoDameron",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Muddy Water", "Soak"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Protect", "Leech Seed"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shell Smash", "Rock Blast", "Icicle Spear"]
+},
+{
+"species": "Foongus",
+"nickname": "Foongus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Morgrem",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bellibolt", "Wo-Chien", "Cloyster", "Foongus"]
+},
+"outcome": 0
+}

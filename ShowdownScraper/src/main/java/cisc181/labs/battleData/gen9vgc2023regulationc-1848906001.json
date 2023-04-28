@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848906001",
+"p1": {
+"playerName": "BrazBR",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Apolo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Howl", "Protect", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "Caioba",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Protect", "Haze", "Wave Crash"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Godzilla",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Protect", "Glaive Rush", "Ice Shard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Medusa",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Palafin", "Baxcalibur", "Flutter Mane"]
+},
+"p2": {
+"playerName": "kamusito98",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Bulk Up", "Tailwind", "Brave Bird", "Body Press"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Protect", "Iron Head", "Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Rage Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Garchomp", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

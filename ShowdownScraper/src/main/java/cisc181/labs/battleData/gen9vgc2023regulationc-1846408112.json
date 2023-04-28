@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846408112",
+"p1": {
+"playerName": "arturin96",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Protect", "Flare Blitz"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Sylveon", "Arcanine", "Dragonite"]
+},
+"p2": {
+"playerName": "Mac/Jade",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bombirdier",
+"nickname": "Bombirdier",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electro Ball"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Shell Bell",
+"ability": "Gooey",
+"teraType": "Dragon",
+"moves": ["Ice Beam", "Rest", "Sleep Talk"]
+}
+],
+"broughtTeam": ["Bombirdier", "Kilowattrel", "Azumarill", "Goodra"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846002196",
+"p1": {
+"playerName": "Escpd",
+"fullTeam": [
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Rock",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Beat Up", "Hyper Voice"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Dragalge",
+"nickname": "Dragalge",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb", "Haze"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Farigiraf", "Kingambit", "Dragalge"]
+},
+"p2": {
+"playerName": "Feach",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Knock Off", "Shed Tail", "Dragon Claw"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Calm Mind"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Cyclizar", "Sylveon"]
+},
+"outcome": 0
+}

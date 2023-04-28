@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846820676",
+"p1": {
+"playerName": "cap4816",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "祖母綠",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "請訂閱馬卡洛妮",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Icy Wind", "Protect", "Encore"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Yui",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "這是雪豹",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Bundle", "Chi-Yu", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Slimmora",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Signed Sealed",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Gallade",
+"nickname": "Cut em Off",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psycho Cut", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Dauntless",
+"item": "Leftovers",
+"ability": "Mirror Armor",
+"teraType": "Dragon",
+"moves": ["Tailwind", "Iron Head"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Gallade", "Corviknight", "Azumarill"]
+},
+"outcome": 0
+}

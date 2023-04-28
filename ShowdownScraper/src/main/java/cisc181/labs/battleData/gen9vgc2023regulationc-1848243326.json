@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1848243326",
+"p1": {
+"playerName": "SeviperGliscor",
+"fullTeam": [
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": ["Stored Power"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Psychic", "Helping Hand"]
+}
+],
+"broughtTeam": ["Houndstone", "Hippowdon", "Armarouge", "Farigiraf"]
+},
+"p2": {
+"playerName": "slimbean",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Power Herb",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Solar Beam", "Ally Switch", "Armor Cannon"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+}
+],
+"broughtTeam": ["Gyarados", "Armarouge", "Talonflame", "Iron Hands"]
+},
+"outcome": 1
+}

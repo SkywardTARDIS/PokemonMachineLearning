@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852765867",
+"p1": {
+"playerName": "Tawn",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Iron Head", "Tera Blast", "Sucker Punch"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step", "Brave Bird"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Tailwind", "Icy Wind"]
+}
+],
+"broughtTeam": ["Bisharp", "Quaquaval", "Chi-Yu", "Murkrow"]
+},
+"p2": {
+"playerName": "oujoio",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["U-turn", "Psychic Fangs"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Follow Me"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall", "Earthquake"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Indeedee", "Gyarados", "Garchomp"]
+},
+"outcome": 1
+}

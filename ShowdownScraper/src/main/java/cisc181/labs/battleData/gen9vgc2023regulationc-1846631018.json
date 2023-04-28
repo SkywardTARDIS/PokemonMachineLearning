@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846631018",
+"p1": {
+"playerName": "SoggyWaffles35",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Iron Defense", "Heavy Slam", "Body Press"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Rock Slide"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Alterphyco21",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Gigaton Hammer", "Play Rough"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chansey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Helping Hand", "Close Combat"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Leftovers",
+"ability": "Truant",
+"teraType": "",
+"moves": ["Earthquake", "Drain Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+}
+],
+"broughtTeam": ["Tinkaton", "Medicham", "Slaking", "Flutter Mane"]
+},
+"outcome": 1
+}

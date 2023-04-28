@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1844931429",
+"p1": {
+"playerName": "12123434a",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bullet Seed", "Spore", "Crunch"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Sunny Day", "Leech Seed"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Quick Claw",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Eruption", "Earth Power"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Brute Bonnet", "Arboliva", "Torkoal", "Armarouge"]
+},
+"p2": {
+"playerName": "bil101010",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["First Impression", "Close Combat", "Leech Life"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Knock Off"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slither Wing", "Grafaiai", "Torkoal", "Sandy Shocks"]
+},
+"outcome": 1
+}

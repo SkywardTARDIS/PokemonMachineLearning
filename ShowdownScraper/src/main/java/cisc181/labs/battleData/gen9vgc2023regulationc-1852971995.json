@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852971995",
+"p1": {
+"playerName": "JasonvK",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Will-O-Wisp", "Howl", "Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+}
+],
+"broughtTeam": ["Dragapult", "Arcanine", "Palafin", "Amoonguss"]
+},
+"p2": {
+"playerName": "Jbenn",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Smaug",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Jaw Lock", "Protect", "Acrobatics", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "50 Cent",
+"item": "Leftovers",
+"ability": "Good as Gold",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Thunderbolt"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Casper",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Curse"]
+},
+{
+"species": "Gyarados",
+"nickname": "Haku",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Gholdengo", "Mimikyu", "Gyarados"]
+},
+"outcome": 0
+}

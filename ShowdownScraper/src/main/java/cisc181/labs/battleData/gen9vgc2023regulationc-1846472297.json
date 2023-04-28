@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846472297",
+"p1": {
+"playerName": "Jos3l",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Waterfall", "Substitute", "Play Rough"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Eelektross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Focus Sash",
+"ability": "Psychic Surge",
+"teraType": "Steel",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Azumarill", "Tyranitar", "Indeedee"]
+},
+"p2": {
+"playerName": "TheWanderer55",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Dark",
+"moves": ["Bitter Blade", "Protect", "Phantom Force", "Solar Blade"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Draining Kiss"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Ceruledge", "Indeedee"]
+},
+"outcome": 0
+}

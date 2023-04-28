@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845270503",
+"p1": {
+"playerName": "SnugNap",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Hurricane", "Protect", "Thunderbolt", "Draco Meteor"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Protect", "Thunder Punch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Sitrus Berry",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "U-turn"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Pawmot", "Pelipper", "Chi-Yu"]
+},
+"p2": {
+"playerName": "FallenTurtlle",
+"fullTeam": [
+{
+"species": "Bombirdier",
+"nickname": "Dropper",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Blast"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Neptune",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Glimmora",
+"nickname": "OOB",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Mortal Spin", "Spiky Shield", "Venoshock"]
+},
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Sir Kale",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Claw", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Bombirdier", "Iron Bundle", "Glimmora", "Ceruledge"]
+},
+"outcome": 1
+}

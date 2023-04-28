@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848057276",
+"p1": {
+"playerName": "BarrelsOfCans",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunderbolt", "Reflect"]
+},
+{
+"species": "Sandaconda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Azumarill", "Tyranitar", "Lucario", "Raichu"]
+},
+"p2": {
+"playerName": "themodpros_Bros",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hypno",
+"nickname": "Hypno",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic"]
+},
+{
+"species": "Impidimp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ursaring",
+"nickname": "Ursaring",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Close Combat", "Facade"]
+}
+],
+"broughtTeam": ["Hypno", "Ursaring"]
+},
+"outcome": 0
+}

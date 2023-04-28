@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852322107",
+"p1": {
+"playerName": "r3gCt3st",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Bulk Up", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+}
+],
+"broughtTeam": ["Gyarados", "Annihilape", "Ting-Lu", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "chickeneggduckeggs",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Leftovers",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect", "Yawn", "Heat Wave"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Torkoal", "Flutter Mane", "Lilligant"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847566065",
+"p1": {
+"playerName": "Post GC2 testing",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Iron Defense", "Shed Tail"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Ting-Lu", "Gyarados", "Flutter Mane"]
+},
+"p2": {
+"playerName": "SmeargleMyBeloved",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "BananaCream Pie",
+"item": "Sitrus Berry",
+"ability": "Defiant",
+"teraType": "Water",
+"moves": ["Bulk Up", "Drain Punch", "Protect", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Blueberry Pie",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Protect", "Icy Wind"]
+},
+{
+"species": "Arcanine",
+"nickname": "Pumpkin Pie",
+"item": "Mago Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz", "Protect", "Will-O-Wisp"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Pecan Pie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Low Kick"]
+}
+],
+"broughtTeam": ["Annihilape", "Iron Bundle", "Arcanine", "Dragonite"]
+},
+"outcome": 0
+}

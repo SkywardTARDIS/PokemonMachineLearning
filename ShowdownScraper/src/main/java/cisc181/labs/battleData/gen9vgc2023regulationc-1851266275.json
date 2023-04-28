@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851266275",
+"p1": {
+"playerName": "Adsheesh",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist", "Protect"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Chien-Pao"]
+},
+"p2": {
+"playerName": "labboo",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "birb",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Great Tusk",
+"nickname": "elephante",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Close Combat"]
+},
+{
+"species": "Eelektross",
+"nickname": "immune",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "birb",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Protect", "Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Corviknight", "Great Tusk", "Eelektross", "Palafin"]
+},
+"outcome": 1
+}

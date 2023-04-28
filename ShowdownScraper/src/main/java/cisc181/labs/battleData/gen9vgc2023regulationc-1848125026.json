@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848125026",
+"p1": {
+"playerName": "Ephrammb",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Acrobatics"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave"]
+}
+],
+"broughtTeam": ["Great Tusk", "Torkoal", "Talonflame", "Murkrow"]
+},
+"p2": {
+"playerName": "Zeltink",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Bullet Seed", "Mach Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Noivern",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Ruination", "Fissure"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Breloom", "Palafin", "Ting-Lu"]
+},
+"outcome": 0
+}

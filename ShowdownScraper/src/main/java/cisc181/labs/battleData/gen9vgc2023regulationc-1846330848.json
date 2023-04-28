@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846330848",
+"p1": {
+"playerName": "tera fairy Trump",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard", "Hydro Pump"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Sitrus Berry",
+"ability": "Snow Warning",
+"teraType": "Fire",
+"moves": ["Blizzard"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Ting-Lu", "Vivillon", "Abomasnow"]
+},
+"p2": {
+"playerName": "Il Mule",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Dentoni",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Tu quoque",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed", "Sucker Punch"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Ciance",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Brute Bonnet", "Gholdengo"]
+},
+"outcome": 0
+}

@@ -1,0 +1,80 @@
+{
+"id": "gen9vgc2023regulationc-1850525235",
+"p1": {
+"playerName": "pokechu_vgc",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "Salac Berry",
+"ability": "Anger Point",
+"teraType": "Ground",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Detect"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+}
+],
+"broughtTeam": ["Meowscarada", "Krookodile", "Flamigo", "Sableye"]
+},
+"p2": {
+"playerName": "blackcharizard94",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Make It Rain"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Gholdengo"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848215794",
+"p1": {
+"playerName": "coachbryan1.0",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Fall",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Assurance"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cover Girl",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Talonflame",
+"nickname": "Worldwide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Honey",
+"item": "",
+"ability": "Armor Tail",
+"teraType": "Fire",
+"moves": ["Psyshock", "Protect", "Tera Blast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Flutter Mane", "Talonflame", "Farigiraf"]
+},
+"p2": {
+"playerName": "Hellomarioimluigi",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Leftovers",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "U-turn", "Feint"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Protect", "Spore", "Energy Ball"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Scizor", "Palafin", "Amoonguss"]
+},
+"outcome": 1
+}

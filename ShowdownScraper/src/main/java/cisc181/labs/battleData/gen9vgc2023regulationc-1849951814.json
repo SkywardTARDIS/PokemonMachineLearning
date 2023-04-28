@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849951814",
+"p1": {
+"playerName": "MatRod",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Hypnosis"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Heal Pulse", "Skill Swap", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Focus Blast", "Energy Ball"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Zap Cannon"]
+}
+],
+"broughtTeam": ["Espathra", "Indeedee", "Armarouge", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "Pokesull",
+"fullTeam": [
+{
+"species": "Glaceon",
+"nickname": "Glaceon",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Spirit Break"]
+},
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Power Whip", "Knock Off", "Protect"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glaceon", "Iron Valiant", "Wo-Chien", "Sandy Shocks"]
+},
+"outcome": 1
+}

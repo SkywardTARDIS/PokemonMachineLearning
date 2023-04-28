@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845048165",
+"p1": {
+"playerName": "IceBeam724",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ryuma",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Kingambit",
+"nickname": "Mihawk",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Aramaki",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Perona",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Moonblast", "Protect"]
+}
+],
+"broughtTeam": ["Ceruledge", "Kingambit", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "wesleihas",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Tomb", "Earthquake"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Encore"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Protect", "Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Corviknight", "Scream Tail", "Kingambit"]
+},
+"outcome": 1
+}

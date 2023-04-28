@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851245258",
+"p1": {
+"playerName": "Dynamic29_VGC",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fire Fang"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Protect"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Claw", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Lycanroc", "Clawitzer", "Flutter Mane", "Dragonite"]
+},
+"p2": {
+"playerName": "VGC Bug Catcher",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "Anavae",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Rage Powder"]
+},
+{
+"species": "Volcarona",
+"nickname": "Iris",
+"item": "Weakness Policy",
+"ability": "Flame Body",
+"teraType": "Fire",
+"moves": ["Quiver Dance", "Giga Drain", "Heat Wave", "Protect"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Mondo Drag",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Masquerain",
+"nickname": "Oasis",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Aqua Jet", "Air Slash", "Tailwind"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Forretress",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Vivillon", "Volcarona", "Slither Wing", "Masquerain"]
+},
+"outcome": 0
+}

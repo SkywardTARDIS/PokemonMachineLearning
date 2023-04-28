@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849827940",
+"p1": {
+"playerName": "Valiiiii",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Wendy",
+"item": "Choice Specs",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Thunderbolt"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "Ghost",
+"moves": ["Taunt", "Thunder Wave"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Scizor"]
+},
+"p2": {
+"playerName": "Hex Literal Legend",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "Gothitelle",
+"teraType": "",
+"moves": ["Fake Out", "Psychic"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Gothitelle", "Palafin"]
+},
+"outcome": 1
+}

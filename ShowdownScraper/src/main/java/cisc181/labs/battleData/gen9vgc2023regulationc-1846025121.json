@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846025121",
+"p1": {
+"playerName": "fo50",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Extreme Speed"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Gigaton Hammer"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Bullet Punch", "Acrobatics", "Swords Dance"]
+}
+],
+"broughtTeam": ["Dragonite", "Tinkaton", "Garchomp", "Scizor"]
+},
+"p2": {
+"playerName": "negative_00",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Fiery Dance"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Iron Defense", "Salt Cure", "Recover"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunder Wave"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Iron Moth", "Garganacl", "Maushold"]
+},
+"outcome": 1
+}

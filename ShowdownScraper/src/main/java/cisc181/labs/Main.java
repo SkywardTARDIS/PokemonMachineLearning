@@ -23,11 +23,60 @@ public class Main {
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        convertToTeams();
+        //convertToTeams();
+        revertTeamsFromJSON();
     }
 
-    public static void writeTeamToFile(String battleID,teamsData teams){
-        
+    public static void revertTeamsFromJSON() throws IOException {
+        File teamFile = new File("src/main/java/cisc181/labs/lists/nicknames.txt");
+        FileWriter fw = new FileWriter(teamFile);
+        ArrayList<String> fileNames = new ArrayList<>();
+        File[] files = new File("src/main/java/cisc181/labs/battleData/").listFiles();
+        for(File file: files) {
+            if (file.isFile()) {
+                fileNames.add(file.getName());
+            }
+        }
+        int f = fileNames.size();
+        for(int i=0; i<f; i++){
+            File battleF = new File("src/main/java/cisc181/labs/battleData/" + fileNames.get(i));
+            try {
+                if (battleF.exists()) {
+                    InputStream is = new FileInputStream(battleF);
+                    teamsData battleHolder = new teamsData((JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8")));
+                    //battleHolder.printData();
+                    //printNicknames(battleHolder, fw);
+                }
+            } catch (JsonException | FileNotFoundException e) {
+                e.printStackTrace();
+                System.out.println(fileNames.get(i));
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        fw.close();
+    }
+
+    public static void printNicknames(teamsData battle, FileWriter fw) throws IOException {
+        for(int i=0; i<battle.p1.fullTeam.size(); i++){
+            if(!battle.p1.fullTeam.get(i).species.equals(battle.p1.fullTeam.get(i).nickname) && !battle.p1.fullTeam.get(i).nickname.equals("")){
+                //System.out.println(battle.p1.fullTeam.get(i).species + " | " + battle.p1.fullTeam.get(i).nickname);
+                fw.write(battle.p1.fullTeam.get(i).species + " | " + battle.p1.fullTeam.get(i).nickname + "\n");
+            }
+        }
+        for(int i=0; i<battle.p2.fullTeam.size(); i++){
+            if(!battle.p2.fullTeam.get(i).species.equals(battle.p2.fullTeam.get(i).nickname) && !battle.p2.fullTeam.get(i).nickname.equals("")){
+                //System.out.println(battle.p2.fullTeam.get(i).species + " | " + battle.p2.fullTeam.get(i).nickname);
+                fw.write(battle.p2.fullTeam.get(i).species + " | " + battle.p2.fullTeam.get(i).nickname + "\n");
+            }
+        }
+    }
+
+    public static void writeTeamToFile(String battleID,teamsData teams) throws IOException {
+        File teamFile = new File("src/main/java/cisc181/labs/battleData/" + battleID + ".json");
+        FileWriter fw = new FileWriter(teamFile);
+        fw.write(teams.toJSON());
+        fw.close();
     }
 
     public static void getUnique(ArrayList<String> lines, String folderName) throws IOException {
@@ -71,7 +120,7 @@ public class Main {
                     JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
                     battleData currentBattle = new battleData(battleJson);
                     teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
-                    parseLog(currentBattle, currentTeams, abilityLines, itemLines);
+                    parseLog(currentBattle, currentTeams, abilityLines, itemLines, currentBattle.id);
                 }
             } catch (JsonException e) {
                 //e.printStackTrace();
@@ -82,7 +131,7 @@ public class Main {
         //getUnique(itemLines, "item");
     }
 
-    public static void parseLog(battleData dataLog, teamsData teams, ArrayList<String> abilityLines, ArrayList<String> itemLines) throws IOException, JsonException {
+    public static void parseLog(battleData dataLog, teamsData teams, ArrayList<String> abilityLines, ArrayList<String> itemLines, String battleID) throws IOException, JsonException {
         String[] logHolder = dataLog.log.split("\n");
         ArrayList<String> logLines = new ArrayList<>(Arrays.asList(logHolder));
         ArrayList<String> paldeaDex =  paldeaFromJson();
@@ -145,7 +194,6 @@ public class Main {
             //gets nicknames
             for (int j = 0; j < logLines.size(); j++) {
                 if (logLines.get(j).contains("|switch|p1") && logLines.get(j).contains(currentSpecies)) {
-                    //fix getting nicknames
                     String getNickname = Arrays.asList(logLines.get(j).split("\\|")).get(2);
                     getNickname = Arrays.asList(getNickname.split(":")).get(1).trim();
                     //System.out.println(logLines.get(j));
@@ -262,7 +310,8 @@ public class Main {
                 }
             }
         }
-        teams.printData();
+        //teams.printData();
+        writeTeamToFile(battleID, teams);
     }
 
     public static void itemGrabber(PokemonInfo currentPokemon, String playerNo, String logLine, String currentSpecies){

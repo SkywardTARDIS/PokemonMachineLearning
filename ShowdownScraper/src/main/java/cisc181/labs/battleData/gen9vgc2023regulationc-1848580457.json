@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848580457",
+"p1": {
+"playerName": "BMDL_Champ_Phenix",
+"fullTeam": [
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Sans",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Melman",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Applejack",
+"item": "",
+"ability": "Stamina",
+"teraType": "Steel",
+"moves": ["Heavy Slam", "High Horsepower"]
+},
+{
+"species": "Morgrem",
+"nickname": "YOLO",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Dark Pulse", "Light Screen"]
+}
+],
+"broughtTeam": ["Skeledirge", "Farigiraf", "Mudsdale", "Morgrem"]
+},
+"p2": {
+"playerName": "Brawlicjon",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "HE HOLDS",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Population Bomb", "Follow Me", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "#7 lol",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Puff Puff Pass",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Palossand",
+"nickname": "Shore Thing",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Shadow Ball"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Flutter Mane", "Amoonguss", "Palossand"]
+},
+"outcome": 0
+}

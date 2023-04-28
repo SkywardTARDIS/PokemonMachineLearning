@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848196518",
+"p1": {
+"playerName": "Dynasty1994",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Protect", "Extreme Speed"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast", "Shadow Ball", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Baxcalibur", "Flutter Mane"]
+},
+"p2": {
+"playerName": "QueenElizabethVGC",
+"fullTeam": [
+{
+"species": "Naclstack",
+"nickname": "Terracotta",
+"item": "",
+"ability": "Purifying Salt",
+"teraType": "",
+"moves": ["Iron Defense", "Body Press", "Salt Cure", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "peppino",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dragon Claw"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "die",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": [""]
+},
+{
+"species": "Amoonguss",
+"nickname": "Imposter",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Rage Powder", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Naclstack", "Dragonite", "Flutter Mane", "Amoonguss"]
+},
+"outcome": 1
+}

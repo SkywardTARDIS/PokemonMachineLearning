@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846415435",
+"p1": {
+"playerName": "The_Chauffeur",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Mogaru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Swords Dance", "Rock Slide"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Disable"]
+},
+{
+"species": "Corviknight",
+"nickname": "Roc",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Iron Head", "Bulk Up", "Roost", "Brave Bird"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tarrasque",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Low Kick", "Rock Slide", "Dragon Dance"]
+}
+],
+"broughtTeam": ["Garchomp", "Scream Tail", "Corviknight", "Tyranitar"]
+},
+"p2": {
+"playerName": "yukke1209",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Payback", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Earth Power"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Heavy Slam", "Wide Guard"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Flutter Mane", "Gastrodon", "Garganacl"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847261468",
+"p1": {
+"playerName": "Juan Turnueika",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Tailwind", "Strength Sap"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Blast"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Raging Bull", "Will-O-Wisp", "Close Combat", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Jumpluff", "Iron Thorns", "Tauros", "Iron Bundle"]
+},
+"p2": {
+"playerName": "maucs",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush", "Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Close Combat", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Talonflame", "Flutter Mane", "Great Tusk"]
+},
+"outcome": 1
+}

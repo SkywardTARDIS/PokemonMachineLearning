@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846916878",
+"p1": {
+"playerName": "Athene_HF",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Flower Veil",
+"teraType": "",
+"moves": ["Body Slam", "Brick Break"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Flower Veil",
+"teraType": "",
+"moves": ["Doodle", "Parting Shot"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Stun Spore", "Leech Life"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Slither Wing", "Gengar"]
+},
+"p2": {
+"playerName": "Vall_NB",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Rage Powder", "Will-O-Wisp"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Blissey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Perish Song", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Volcarona", "Florges", "Gyarados", "Scream Tail"]
+},
+"outcome": 0
+}

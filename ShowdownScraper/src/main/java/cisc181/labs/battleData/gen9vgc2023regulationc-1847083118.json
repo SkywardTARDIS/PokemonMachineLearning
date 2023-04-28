@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847083118",
+"p1": {
+"playerName": "Mdc3599",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Drain Punch", "Rage Fist", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Parting Shot"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Annihilape", "Grimmsnarl", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Uao",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Pelomagneto",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Torkoal",
+"nickname": "Smoky",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Lilligant",
+"nickname": "Whip",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Leaf Storm"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Dark",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Torkoal", "Lilligant", "Chi-Yu"]
+},
+"outcome": 1
+}

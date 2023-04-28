@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849665442",
+"p1": {
+"playerName": "Flamingwrench11234",
+"fullTeam": [
+{
+"species": "Riolu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Dragonite", "Baxcalibur"]
+},
+"p2": {
+"playerName": "rv100",
+"fullTeam": [
+{
+"species": "Riolu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Dragapult",
+"nickname": "OMG",
+"item": "Power Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts", "Phantom Force"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam", "Protect"]
+}
+],
+"broughtTeam": ["Garchomp", "Iron Bundle", "Dragapult", "Flutter Mane"]
+},
+"outcome": 1
+}

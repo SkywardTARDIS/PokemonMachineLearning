@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1844910362",
+"p1": {
+"playerName": "Goombada",
+"fullTeam": [
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["U-turn", "Close Combat", "Brave Bird"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Nuzzle"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Dragon Claw"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Haze", "Muddy Water"]
+}
+],
+"broughtTeam": ["Staraptor", "Raichu", "Garchomp", "Vaporeon"]
+},
+"p2": {
+"playerName": "TrainerRYSA",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Sasuke",
+"item": "Mirror Herb",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Snarl", "Skill Swap", "Foul Play", "Moonlight"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Taunt"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Umbreon", "Gyarados", "Palafin"]
+},
+"outcome": 0
+}

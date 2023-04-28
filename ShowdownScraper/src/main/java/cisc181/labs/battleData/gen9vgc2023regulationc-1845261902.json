@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845261902",
+"p1": {
+"playerName": "catsue",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fairy",
+"moves": ["Tera Blast", "Snarl", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Iron Defense", "Roost", "Body Press"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Eject Pack",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Overheat"]
+},
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Iron Jugulis", "Corviknight", "Arcanine"]
+},
+"p2": {
+"playerName": "dotcubus",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Stealth Rock", "Stomping Tantrum", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "Water Veil",
+"teraType": "",
+"moves": ["Yawn", "Heavy Slam"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Low Kick", "Outrage"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Icy Wind", "Protect", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Dondozo", "Dragonite", "Flutter Mane"]
+},
+"outcome": 1
+}

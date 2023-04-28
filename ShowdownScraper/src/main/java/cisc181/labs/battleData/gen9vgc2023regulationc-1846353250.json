@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846353250",
+"p1": {
+"playerName": "suhayb1910",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Body Press", "Raging Bull"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Earth Power"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "Fairy",
+"moves": ["Follow Me", "Trick Room", "Psyshock"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Body Press", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Tauros", "Torkoal", "Indeedee", "Garganacl"]
+},
+"p2": {
+"playerName": "theiceclimber2",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Powah",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Protect", "Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Bolk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Wild Charge"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Flutter Who?",
+"item": "Sitrus Berry",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Heat Wave", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Okay buddy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Iron Hands", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 1
+}

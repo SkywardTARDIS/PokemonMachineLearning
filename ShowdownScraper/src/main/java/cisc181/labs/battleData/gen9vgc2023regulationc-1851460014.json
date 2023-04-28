@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1851460014",
+"p1": {
+"playerName": "Jstardude",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner", "Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Phantom Force"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunderbolt", "Nuzzle", "Protect"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Scizor", "Raichu"]
+},
+"p2": {
+"playerName": "DerpyBronze117",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Fire Punch", "Low Kick", "Tera Blast"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Bulk Up", "Brave Bird"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Yache Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects", "Ally Switch"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Corviknight", "Kilowattrel", "Houndstone"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852801500",
+"p1": {
+"playerName": "Jbenn",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Yokozuna",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Fake Out", "Iron Head", "Close Combat"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Casper",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Trick Room", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Haku",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall"]
+}
+],
+"broughtTeam": ["Great Tusk", "Hariyama", "Mimikyu", "Gyarados"]
+},
+"p2": {
+"playerName": "Beaugardes",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trick Room", "Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice", "Psychic"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Crunch", "Bullet Seed"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+}
+],
+"broughtTeam": ["Hatterene", "Farigiraf", "Brute Bonnet", "Iron Hands"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846571537",
+"p1": {
+"playerName": "uhoh I poopd",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "de Havilland",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet", "Struggle Bug"]
+},
+{
+"species": "Coalossal",
+"nickname": "Armavee",
+"item": "Weakness Policy",
+"ability": "Steam Engine",
+"teraType": "",
+"moves": ["Power Gem", "Protect", "Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Toad",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Protect", "Wave Crash"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Masquerain", "Coalossal", "Amoonguss", "Palafin"]
+},
+"p2": {
+"playerName": "Gui7",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "Water",
+"moves": ["Dragon Claw", "Protect", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Brave Bird"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance"]
+}
+],
+"broughtTeam": ["Garchomp", "Flutter Mane", "Talonflame", "Iron Hands"]
+},
+"outcome": 1
+}

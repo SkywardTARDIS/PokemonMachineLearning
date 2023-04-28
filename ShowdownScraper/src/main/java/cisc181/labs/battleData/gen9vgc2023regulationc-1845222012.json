@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1845222012",
+"p1": {
+"playerName": "Sandy_Simis",
+"fullTeam": [
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Entrainment", "Charm"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Shadow Ball", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Cetitan", "Abomasnow", "Chi-Yu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "bostonl1",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "BBloom",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Cheems-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bowl",
+"item": "Leftovers",
+"ability": "Slush Rush",
+"teraType": "Poison",
+"moves": ["Rock Tomb", "Stomping Tantrum", "Ruination"]
+}
+],
+"broughtTeam": ["Breloom", "Chien-Pao", "Dragonite", "Ting-Lu"]
+},
+"outcome": 1
+}

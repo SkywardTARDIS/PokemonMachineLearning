@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848783956",
+"p1": {
+"playerName": "CoDameron",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Protect"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Dual Wingbeat", "Dragon Claw"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Sitrus Berry",
+"ability": "Electromorphosis",
+"teraType": "Water",
+"moves": ["Thunderbolt", "Muddy Water", "Soak", "Protect"]
+},
+{
+"species": "Foongus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Polteageist",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Pounce"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Salamence", "Bellibolt", "Scizor"]
+},
+"p2": {
+"playerName": "micktown",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Waterfall", "Iron Head", "Thunder Wave"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Gyarados", "Ting-Lu"]
+},
+"outcome": 1
+}

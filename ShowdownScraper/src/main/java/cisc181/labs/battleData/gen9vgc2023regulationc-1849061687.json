@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1849061687",
+"p1": {
+"playerName": "Azrocketman",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ampharos",
+"nickname": "Ampharos",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Earthquake"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hypno",
+"nickname": "Hypno",
+"item": "Leftovers",
+"ability": "Plus",
+"teraType": "Fairy",
+"moves": ["Role Play", "Draining Kiss", "Helping Hand"]
+}
+],
+"broughtTeam": ["Armarouge", "Ampharos", "Stonjourner", "Hypno"]
+},
+"p2": {
+"playerName": "doodlebob01",
+"fullTeam": [
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "",
+"ability": "Cloud Nine",
+"teraType": "Ice",
+"moves": ["Dragon Breath", "Cotton Guard", "Ice Beam"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Iron Head"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Protect", "Zing Zap"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Forretress",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Electric Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Altaria", "Iron Treads", "Pincurchin", "Iron Hands"]
+},
+"outcome": 1
+}

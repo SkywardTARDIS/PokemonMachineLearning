@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852477487",
+"p1": {
+"playerName": "tarkus474",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Air Slash", "Tailwind", "Hydro Pump"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Water Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flash Cannon"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Focus Blast"]
+}
+],
+"broughtTeam": ["Salamence", "Clawitzer", "Sandy Shocks", "Gholdengo"]
+},
+"p2": {
+"playerName": "Dymosin",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Dumbo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Rock Slide"]
+},
+{
+"species": "Armarouge",
+"nickname": "Tenshinhan",
+"item": "White Herb",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Energy Ball", "Armor Cannon"]
+},
+{
+"species": "Arboliva",
+"nickname": "Green Zenyatta",
+"item": "Salac Berry",
+"ability": "Harvest",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam", "Fling", "Helping Hand"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Great Tusk", "Armarouge", "Arboliva"]
+},
+"outcome": 0
+}

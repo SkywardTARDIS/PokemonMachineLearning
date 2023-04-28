@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1850093044",
+"p1": {
+"playerName": "Kelenar",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Muddy Water"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Protect", "Recover"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Parting Shot", "Spirit Break"]
+}
+],
+"broughtTeam": ["Gastrodon", "Garganacl", "Tyranitar", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Esspecialy",
+"fullTeam": [
+{
+"species": "Lumineon",
+"nickname": "Lumineon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Soak", "Encore", "Tailwind"]
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "Sitrus Berry",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Bulk Up", "Horn Leech", "Protect"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Petal Blizzard", "Pollen Puff"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance"]
+}
+],
+"broughtTeam": ["Lumineon", "Gogoat", "Florges", "Ceruledge"]
+},
+"outcome": 0
+}

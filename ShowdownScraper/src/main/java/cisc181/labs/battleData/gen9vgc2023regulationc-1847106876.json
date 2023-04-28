@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847106876",
+"p1": {
+"playerName": "ultramandyna",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Will-O-Wisp", "Torch Song", "Protect", "Earth Power"]
+}
+],
+"broughtTeam": ["Kingambit", "Ting-Lu", "Palafin", "Skeledirge"]
+},
+"p2": {
+"playerName": "Stabbington III",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bucket Head",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Stomping Tantrum"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Carp Kent",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Haze"]
+},
+{
+"species": "Arcanine",
+"nickname": "Iroh",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Sus",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Palafin", "Arcanine", "Amoonguss"]
+},
+"outcome": 1
+}

@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1845783833",
+"p1": {
+"playerName": "MightyMudsdale",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Hairspray",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Squishy",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "Fire",
+"moves": ["Earth Power", "Recover"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Aroostook",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Talonflame",
+"nickname": "MAXIMUM BIRD",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gastrodon", "Ting-Lu", "Talonflame"]
+},
+"p2": {
+"playerName": "Chaotic Raos",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Silver Wing",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Sludge Wave"]
+},
+{
+"species": "Florges",
+"nickname": "Iron Petals",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Chilling Water", "Helping Hand"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Raid Champion",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Ice Spinner"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swords Dance"]
+}
+],
+"broughtTeam": ["Iron Moth", "Florges", "Azumarill", "Iron Hands"]
+},
+"outcome": 1
+}

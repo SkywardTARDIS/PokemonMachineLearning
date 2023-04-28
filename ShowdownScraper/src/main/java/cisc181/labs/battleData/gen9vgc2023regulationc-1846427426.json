@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1846427426",
+"p1": {
+"playerName": "Paladin Dawn",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Baxcalibur", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "charlie0301",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Rex",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Heavy Slam", "Protect"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Artificer",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Void Fiend",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Perish Song"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Engineer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Gothitelle", "Flutter Mane", "Amoonguss"]
+},
+"outcome": 1
+}

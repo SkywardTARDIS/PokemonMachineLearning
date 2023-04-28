@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847129647",
+"p1": {
+"playerName": "azadel",
+"fullTeam": [
+{
+"species": "Leafeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Yawn", "Muddy Water", "Ice Beam"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl", "Moonlight", "Foul Play"]
+}
+],
+"broughtTeam": ["Vaporeon", "Sylveon", "Chi-Yu", "Umbreon"]
+},
+"p2": {
+"playerName": "ShadowAgain",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water", "Icy Wind"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Surf", "Thunder Wave", "Waterfall", "Taunt"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Giga Drain", "Bug Buzz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Clear Smog"]
+}
+],
+"broughtTeam": ["Gastrodon", "Gyarados", "Volcarona", "Amoonguss"]
+},
+"outcome": 0
+}

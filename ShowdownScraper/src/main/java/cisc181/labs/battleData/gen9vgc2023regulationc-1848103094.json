@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1848103094",
+"p1": {
+"playerName": "Candy (Arcanine)",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Sucker Punch", "Low Kick"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Swords Dance"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Wickie moment",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Protect", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Kingambit", "Volcarona", "Toxicroak", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Goozy Goobler",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bombirdier",
+"nickname": "Bombirdier",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Protect", "Sucker Punch", "Dual Wingbeat"]
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "Apicot Berry",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Stuff Cheeks", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Heat Wave"]
+}
+],
+"broughtTeam": ["Bombirdier", "Greedent", "Flutter Mane", "Chi-Yu"]
+},
+"outcome": 1
+}

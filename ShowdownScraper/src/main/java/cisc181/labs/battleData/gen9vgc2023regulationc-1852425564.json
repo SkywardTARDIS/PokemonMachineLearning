@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1852425564",
+"p1": {
+"playerName": "ChossyVGC",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Ah-Hulneb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Slowbro",
+"nickname": "Itzamna",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Trick Room", "Heal Pulse"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Ah-Puch",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "Tlacolotl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Slowbro", "Lycanroc", "Dondozo"]
+},
+"p2": {
+"playerName": "HoldaUno",
+"fullTeam": [
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fissure", "Protect"]
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dugtrio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Play Rough", "Stone Edge"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Imprison", "Skill Swap", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Mudbray", "Lycanroc", "Indeedee", "Sableye"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1847963612",
+"p1": {
+"playerName": "FunnyGuyAlert",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash", "Volt Switch"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Spore"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Hariyama", "Tyranitar", "Amoonguss"]
+},
+"p2": {
+"playerName": "Suddy Soap",
+"fullTeam": [
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Coil", "Drain Punch", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Psychic"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Forretress",
+"nickname": "Forretress",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Body Press", "Explosion"]
+}
+],
+"broughtTeam": ["Eelektross", "Gothitelle", "Forretress"]
+},
+"outcome": 0
+}
