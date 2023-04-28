@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853434828",
+"p1": {
+"playerName": "Frozen_ATM",
+"fullTeam": [
+{
+"species": "Slowpoke",
+"nickname": "Slowpoke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wigglytuff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Thunderbolt", "Discharge"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Icy Wind", "Protect"]
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowpoke", "Bellibolt", "Iron Bundle", "Pyroar"]
+},
+"p2": {
+"playerName": "kevsmoreno",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Brick Break"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Leaf Storm", "Protect", "Will-O-Wisp"]
+},
+{
+"species": "Donphan",
+"nickname": "Donphan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Persian",
+"nickname": "Persian",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Icy Wind"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Rotom", "Donphan", "Persian"]
+},
+"outcome": 0
+}

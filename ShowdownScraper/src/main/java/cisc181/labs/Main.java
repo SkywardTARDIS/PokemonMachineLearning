@@ -19,15 +19,16 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException {
-        //scrapeData();
+        scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        //convertToTeams();
-        //revertTeamsFromJSON();
+        convertToTeams();
+        //ArrayList<teamsData> allBattles = new ArrayList<>();
+        //revertTeamsFromJSON(allBattles);
     }
 
-    public static void revertTeamsFromJSON() throws IOException {
+    public static void revertTeamsFromJSON(ArrayList<teamsData> allBattles) throws IOException {
         File teamFile = new File("src/main/java/cisc181/labs/lists/nicknames.txt");
         FileWriter fw = new FileWriter(teamFile);
         ArrayList<String> fileNames = new ArrayList<>();
@@ -44,6 +45,7 @@ public class Main {
                 if (battleF.exists()) {
                     InputStream is = new FileInputStream(battleF);
                     teamsData battleHolder = new teamsData((JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8")));
+                    allBattles.add(battleHolder);
                     //battleHolder.printData();
                     //printNicknames(battleHolder, fw);
                 }

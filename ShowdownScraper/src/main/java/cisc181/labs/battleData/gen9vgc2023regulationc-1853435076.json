@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853435076",
+"p1": {
+"playerName": "Frozen_ATM",
+"fullTeam": [
+{
+"species": "Slowpoke",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wigglytuff",
+"nickname": "Wigglytuff",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Normal",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Icy Wind"]
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Wigglytuff", "Bellibolt", "Iron Bundle", "Pyroar"]
+},
+"p2": {
+"playerName": "kevsmoreno",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "Electric",
+"moves": ["Protect", "Discharge", "Leaf Storm"]
+},
+{
+"species": "Donphan",
+"nickname": "Donphan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Persian",
+"nickname": "Persian",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Rotom", "Donphan", "Persian"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853362913",
+"p1": {
+"playerName": "cap4816",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "蓋瑞達",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Whirlpool"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Yui",
+"item": "Sitrus Berry",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "這是雪豹",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Flying",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Murkrow",
+"nickname": "真黑",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Haze"]
+}
+],
+"broughtTeam": ["Gyarados", "Chi-Yu", "Chien-Pao", "Murkrow"]
+},
+"p2": {
+"playerName": "JayVolver",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Low Kick", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Bulk Up", "Iron Head", "Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Dragonite", "Chien-Pao", "Corviknight"]
+},
+"outcome": 0
+}

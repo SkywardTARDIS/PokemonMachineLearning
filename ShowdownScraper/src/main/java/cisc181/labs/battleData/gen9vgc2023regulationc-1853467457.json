@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1853467457",
+"p1": {
+"playerName": "Edro360",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Bug",
+"moves": ["Lava Plume", "Will-O-Wisp"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Bitter Blade"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Aguav Berry",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Yawn", "Body Press"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Ceruledge", "Dachsbun", "Maushold"]
+},
+"p2": {
+"playerName": "Negstra",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Swords Dance", "Bullet Punch"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flare Blitz", "Brave Bird"]
+}
+],
+"broughtTeam": ["Scizor", "Sandy Shocks", "Pawmot", "Talonflame"]
+},
+"outcome": 1
+}

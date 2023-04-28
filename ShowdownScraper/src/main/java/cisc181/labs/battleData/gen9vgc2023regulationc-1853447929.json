@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1853447929",
+"p1": {
+"playerName": "Inky Rain",
+"fullTeam": [
+{
+"species": "Spiritomb",
+"nickname": "Tim",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Joey C",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Heat Wave", "Protect", "Tera Blast"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Joey B",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Ice Shard", "Glaive Rush", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Jonathan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Spiritomb", "Chi-Yu", "Baxcalibur", "Annihilape"]
+},
+"p2": {
+"playerName": "Flowboat",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Psychic"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Acrobatics", "Earthquake"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Chi-Yu", "Roaring Moon"]
+},
+"outcome": 1
+}
