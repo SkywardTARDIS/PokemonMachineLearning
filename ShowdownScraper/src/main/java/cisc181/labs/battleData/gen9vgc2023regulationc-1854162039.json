@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854162039",
+"p1": {
+"playerName": "LasermanZ111",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Drain Punch", "Wild Charge", "Stomping Tantrum"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Taunt"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Protect", "Ice Shard"]
+}
+],
+"broughtTeam": ["Amoonguss", "Iron Hands", "Gyarados", "Baxcalibur"]
+},
+"p2": {
+"playerName": "Hyanryu",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Namazu",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rest", "Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Ghost",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Sulfera",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Spiky Shield", "Power Gem", "Sludge Bomb"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Fissure", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Glimmora", "Ting-Lu"]
+},
+"outcome": 1
+}

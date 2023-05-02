@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854906432",
+"p1": {
+"playerName": "Behindyaa",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Leftovers",
+"ability": "Seed Sower",
+"teraType": "Water",
+"moves": ["Tera Blast", "Giga Drain", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Brave Bird", "Iron Head"]
+},
+{
+"species": "Bruxish",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Houndstone", "Arboliva", "Corviknight"]
+},
+"p2": {
+"playerName": "Tr1pl3-33",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "White Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Bulk Up"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Sucker Punch"]
+},
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Krookodile", "Torkoal", "Spiritomb"]
+},
+"outcome": 1
+}

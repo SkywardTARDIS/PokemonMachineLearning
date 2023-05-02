@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855734308",
+"p1": {
+"playerName": "Canal copag",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Psyshock", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Oranguru", "Torkoal", "Kingambit"]
+},
+"p2": {
+"playerName": "SolTheDrifblim",
+"fullTeam": [
+{
+"species": "Drifblim",
+"nickname": "Sol",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Yang",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Skywalker",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Imprison", "Liquidation"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Spook",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break", "Flower Trick"]
+}
+],
+"broughtTeam": ["Drifblim", "Chi-Yu", "Iron Valiant", "Meowscarada"]
+},
+"outcome": 0
+}

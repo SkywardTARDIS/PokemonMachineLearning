@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855173002",
+"p1": {
+"playerName": "Emberbloom",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Low Kick", "Rock Slide"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Rock Slide"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Tyranitar", "Garchomp", "Arcanine"]
+},
+"p2": {
+"playerName": "spma13",
+"fullTeam": [
+{
+"species": "Grafaiai",
+"nickname": "King Julien",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo", "Swagger"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Fossa",
+"item": "Mirror Herb",
+"ability": "Sword of Ruin",
+"teraType": "Flying",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Marty",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Skipper",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect", "Encore"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grafaiai", "Chien-Pao", "Ting-Lu", "Iron Bundle"]
+},
+"outcome": 1
+}

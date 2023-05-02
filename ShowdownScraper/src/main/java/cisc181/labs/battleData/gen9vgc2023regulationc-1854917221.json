@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854917221",
+"p1": {
+"playerName": "ironhandsfanacct",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hydro Pump", "Hurricane", "Struggle"]
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Protect", "Assurance", "Sucker Punch"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Flash Cannon", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Pelipper", "Bisharp", "Glimmora", "Magnezone"]
+},
+"p2": {
+"playerName": "BodaciousBulbasaur",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Low Kick", "Dragon Claw"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Encore", "Protect", "Disable"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Close Combat", "Stomping Tantrum"]
+},
+{
+"species": "Houndoom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Scream Tail", "Tauros", "Rotom"]
+},
+"outcome": 0
+}

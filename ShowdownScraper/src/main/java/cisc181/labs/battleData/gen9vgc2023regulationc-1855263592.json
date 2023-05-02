@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855263592",
+"p1": {
+"playerName": "fmvtis",
+"fullTeam": [
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Pikachu",
+"nickname": "Pikachu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Tackle"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "Water",
+"moves": ["Brick Break", "Aqua Step"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Shift Gear", "Iron Head"]
+}
+],
+"broughtTeam": ["Amoonguss", "Pikachu", "Quaquaval", "Revavroom"]
+},
+"p2": {
+"playerName": "chazers",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Cleogaga",
+"item": "Leftovers",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Substitute", "Calm Mind", "Stored Power", "Dazzling Gleam"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Throat Chop"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Follow Me", "Encore"]
+}
+],
+"broughtTeam": ["Espathra", "Iron Moth", "Ting-Lu", "Maushold"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854809438",
+"p1": {
+"playerName": "Mr. Darwin",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Assurance", "Rock Slide"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Recover", "Protect", "Body Press"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Tyranitar", "Garganacl", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Blaziken Blazers",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Lizardon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Crunch", "Stomping Tantrum"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Subway Surfer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Gadha",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["High Horsepower", "Heavy Slam"]
+},
+{
+"species": "Ampharos",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Saandu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Close Combat", "Trailblaze"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Gholdengo", "Mudsdale", "Tauros"]
+},
+"outcome": 1
+}

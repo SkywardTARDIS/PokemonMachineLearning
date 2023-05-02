@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854148089",
+"p1": {
+"playerName": "ttsui234",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Hurricane", "Protect"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Iron Head", "Wave Crash", "Aqua Jet"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Mystic Water",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Gothitelle", "Altaria", "Tauros", "Gastrodon"]
+},
+"p2": {
+"playerName": "h6016701",
+"fullTeam": [
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Rock Slide", "Accelerock", "Play Rough"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance"]
+},
+{
+"species": "Passimian",
+"nickname": "Passimian",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Feint", "Drain Punch"]
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Hurricane"]
+}
+],
+"broughtTeam": ["Lycanroc", "Grafaiai", "Passimian", "Masquerain"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855015019",
+"p1": {
+"playerName": "CaliberChamp",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Hyrok",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frysa",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Icy Wind", "Struggle Bug"]
+},
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Monado",
+"item": "Weakness Policy",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Protect", "Bitter Blade"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Frosmoth", "Ceruledge"]
+},
+"p2": {
+"playerName": "Aster Lyons",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Dark Pulse"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Clear Smog", "Protect"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Encore"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Gastrodon", "Jumpluff"]
+},
+"outcome": 1
+}

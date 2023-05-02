@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855646076",
+"p1": {
+"playerName": "zek123",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Discharge"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Icy Wind", "Shadow Ball"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Swords Dance"]
+}
+],
+"broughtTeam": ["Rotom", "Gengar", "Dragonite", "Garchomp"]
+},
+"p2": {
+"playerName": "PanduxD",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Tobilloflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Tauros",
+"nickname": "Kchauros",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "Fighting",
+"moves": ["Protect", "Rock Slide", "Liquidation"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Tuskar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Headlong Rush"]
+},
+{
+"species": "Rotom",
+"nickname": "Oster",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Reflect", "Substitute", "Discharge", "Helping Hand"]
+}
+],
+"broughtTeam": ["Talonflame", "Tauros", "Great Tusk", "Rotom"]
+},
+"outcome": 1
+}

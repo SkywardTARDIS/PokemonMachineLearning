@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855284042",
+"p1": {
+"playerName": "Cemposer",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Weakness Policy",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Volt Switch", "Wild Charge", "Close Combat"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Gyro Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Flutter Mane", "Iron Hands", "Bronzong"]
+},
+"p2": {
+"playerName": "Morlaye",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragalge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "DinoNAH",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Waterfall", "Rock Slide", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "NigelfromNemo",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Helping Hand", "Wide Guard"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Passthegas",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Muddy Water", "Recover"]
+},
+{
+"species": "Gallade",
+"nickname": "BankaiMan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psycho Cut", "Protect"]
+}
+],
+"broughtTeam": ["Drednaw", "Pelipper", "Gastrodon", "Gallade"]
+},
+"outcome": 0
+}

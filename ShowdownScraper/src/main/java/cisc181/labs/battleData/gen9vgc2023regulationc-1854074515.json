@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854074515",
+"p1": {
+"playerName": "finiro",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Ice Beam", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "Occa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Gothorita",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Arcanine", "Klefki", "Kingambit"]
+},
+"p2": {
+"playerName": "Acerola4",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Leftovers",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Reflect", "Follow Me"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Claw"]
+},
+{
+"species": "Spidops",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Mimikyu", "Flamigo"]
+},
+"outcome": 1
+}

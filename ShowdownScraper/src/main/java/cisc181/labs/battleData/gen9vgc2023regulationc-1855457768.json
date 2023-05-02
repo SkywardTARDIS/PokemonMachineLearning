@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855457768",
+"p1": {
+"playerName": "paddokweker3b",
+"fullTeam": [
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Baneful Bunker", "Chilling Water"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Trick Room", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Greedent", "Ting-Lu", "Toxapex", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Nauticles",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Flower Trick"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": ["Expanding Force", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psych Up", "Dazzling Gleam"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Psychic Seed",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Acrobatics"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Armarouge", "Indeedee", "Flamigo"]
+},
+"outcome": 0
+}

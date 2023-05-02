@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855787614",
+"p1": {
+"playerName": "IAmAnissue",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Zebra",
+"item": "",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Psyshock", "Dazzling Gleam"]
+},
+{
+"species": "Azumarill",
+"nickname": "Walking Nuke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Brick Break"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Flame Body",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up"]
+}
+],
+"broughtTeam": ["Gothitelle", "Farigiraf", "Azumarill", "Ceruledge"]
+},
+"p2": {
+"playerName": "thoming",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Moon",
+"item": "Figy Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Brave Bird"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Yawn", "Earth Power", "Ice Beam", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Roaring Moon", "Talonflame", "Gastrodon"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854083003",
+"p1": {
+"playerName": "Kaizen5",
+"fullTeam": [
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Spirit Break", "Parting Shot", "Reflect"]
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Curse", "Poison Jab"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Dark",
+"moves": ["Lumina Crash", "Protect"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Muk", "Tauros", "Espathra"]
+},
+"p2": {
+"playerName": "subChar",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge", "Close Combat"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunder"]
+},
+{
+"species": "Armarouge",
+"nickname": "Man Ray",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Heat Wave", "Armor Cannon"]
+},
+{
+"species": "Indeedee",
+"nickname": "Mindy",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Iron Hands", "Pincurchin", "Armarouge", "Indeedee"]
+},
+"outcome": 0
+}

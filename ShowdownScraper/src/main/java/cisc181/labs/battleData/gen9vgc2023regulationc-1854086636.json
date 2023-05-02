@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854086636",
+"p1": {
+"playerName": "Jscoot12",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Liquidation", "Earth Power", "Recover"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+}
+],
+"broughtTeam": ["Orthworm", "Chi-Yu", "Gastrodon", "Baxcalibur"]
+},
+"p2": {
+"playerName": "Mxno",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Sitrus Berry",
+"ability": "Mold Breaker",
+"teraType": "Water",
+"moves": ["Fake Out", "Gigaton Hammer"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Make It Rain"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "Mirror Herb",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step", "Close Combat", "Detect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Protect", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Tinkaton", "Gholdengo", "Quaquaval", "Arcanine"]
+},
+"outcome": 1
+}

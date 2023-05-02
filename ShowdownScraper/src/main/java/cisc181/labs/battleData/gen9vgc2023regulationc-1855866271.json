@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855866271",
+"p1": {
+"playerName": "Mait27",
+"fullTeam": [
+{
+"species": "Klawf",
+"nickname": "Klawf",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Swords Dance", "Crabhammer"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Parting Shot", "Thunder Wave", "Spirit Break"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Giga Drain"]
+}
+],
+"broughtTeam": ["Klawf", "Grimmsnarl", "Arcanine", "Wo-Chien"]
+},
+"p2": {
+"playerName": "Denngekibuko",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "Water",
+"moves": ["Surf"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Earthquake", "Wild Charge", "Close Combat"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Earth Power"]
+}
+],
+"broughtTeam": ["Oranguru", "Pelipper", "Iron Hands", "Gastrodon"]
+},
+"outcome": 1
+}

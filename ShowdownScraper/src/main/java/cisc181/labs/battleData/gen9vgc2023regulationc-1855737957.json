@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855737957",
+"p1": {
+"playerName": "WindaGaming",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Choice Specs",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Freeze-Dry", "Ice Beam"]
+},
+{
+"species": "Medicham",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Sitrus Berry",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Bug Buzz", "Rage Powder"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Volcarona"]
+},
+"p2": {
+"playerName": "Arceus's Bard",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Balerion",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Dark",
+"moves": ["Knock Off", "Leech Seed", "Ruination"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes", "Baneful Bunker"]
+},
+{
+"species": "Leafeon",
+"nickname": "Evergreen",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Wo-Chien", "Toxapex", "Leafeon"]
+},
+"outcome": 1
+}

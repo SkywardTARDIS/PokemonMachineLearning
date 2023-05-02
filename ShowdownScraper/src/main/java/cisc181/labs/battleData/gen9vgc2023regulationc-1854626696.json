@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1854626696",
+"p1": {
+"playerName": "superseriousboi",
+"fullTeam": [
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Misty Terrain", "Spirit Break", "Fake Tears"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Nasty Plot", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Substitute", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Chi-Yu", "Flutter Mane", "Iron Bundle"]
+},
+"p2": {
+"playerName": "PLS6687",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Light Screen"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Fissure"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Grass Knot", "Protect", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up"]
+}
+],
+"broughtTeam": ["Sandy Shocks", "Ting-Lu", "Maushold", "Annihilape"]
+},
+"outcome": 1
+}

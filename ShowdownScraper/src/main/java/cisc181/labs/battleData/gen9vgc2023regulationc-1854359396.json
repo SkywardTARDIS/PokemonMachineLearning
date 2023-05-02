@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854359396",
+"p1": {
+"playerName": "Agitativ40",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Fake Out", "Wild Charge"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "Steel",
+"moves": ["Substitute", "Dragon Dance", "Extreme Speed", "Iron Head"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Iron Hands", "Chien-Pao", "Dragonite", "Amoonguss"]
+},
+"p2": {
+"playerName": "Slimeks",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "All Might",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Haze"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Banshee",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Sam",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Toad",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Arcanine", "Amoonguss"]
+},
+"outcome": 1
+}

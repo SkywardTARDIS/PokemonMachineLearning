@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854409278",
+"p1": {
+"playerName": "ssaannccii",
+"fullTeam": [
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam", "Surf"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "Steel",
+"moves": ["Tera Blast", "Phantom Force"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Sitrus Berry",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Charm", "Howl", "Play Rough"]
+}
+],
+"broughtTeam": ["Toxapex", "Dragapult", "Gastrodon", "Houndstone"]
+},
+"p2": {
+"playerName": "Topperlecat",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Payback", "Stomping Tantrum", "Ruination"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Steel",
+"moves": ["Earth Power", "Tailwind", "Air Slash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Glimmora", "Ting-Lu", "Iron Jugulis"]
+},
+"outcome": 0
+}

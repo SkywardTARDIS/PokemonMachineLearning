@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854954380",
+"p1": {
+"playerName": "Leannerose",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "Psychic",
+"moves": ["Psychic", "Protect"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Trick Room", "Light Screen", "Play Rough", "Reflect"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Drain Punch"]
+}
+],
+"broughtTeam": ["Gardevoir", "Hatterene", "Armarouge", "Hariyama"]
+},
+"p2": {
+"playerName": "TuP1cha",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Quiver Dance", "Protect", "Fiery Dance", "Struggle Bug"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Volcarona", "Gyarados", "Kingambit", "Amoonguss"]
+},
+"outcome": 1
+}

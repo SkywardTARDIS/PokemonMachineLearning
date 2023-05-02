@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854810364",
+"p1": {
+"playerName": "Blaziken Blazers",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Lizardon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Crunch", "Stomping Tantrum"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Subway Surfer",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Gadha",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["High Horsepower"]
+},
+{
+"species": "Ampharos",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Saandu",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Trailblaze"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Gholdengo", "Mudsdale", "Tauros"]
+},
+"p2": {
+"playerName": "Mr. Darwin",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Yawn"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Energy Ball"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Garganacl", "Grimmsnarl", "Iron Moth"]
+},
+"outcome": 1
+}

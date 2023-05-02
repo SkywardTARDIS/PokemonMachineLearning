@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854328924",
+"p1": {
+"playerName": "5wamp",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "PUPPET",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "DOGTOOTH",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Flare Blitz", "Howl", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "OKRA",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "SAFARI",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Palafin"]
+},
+"p2": {
+"playerName": "pokemon_and_beer",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Spordyceps",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect", "Spore"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Willow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Shadow Ball"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Mugman",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "Pal-El",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Wave Crash"]
+}
+],
+"broughtTeam": ["Amoonguss", "Flutter Mane", "Ting-Lu", "Palafin"]
+},
+"outcome": 1
+}

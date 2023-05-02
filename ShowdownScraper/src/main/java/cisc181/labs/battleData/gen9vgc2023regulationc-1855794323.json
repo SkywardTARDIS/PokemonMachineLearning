@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855794323",
+"p1": {
+"playerName": "Kerazs",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Air Cutter"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Gyarados", "Tinkaton", "Kilowattrel", "Garchomp"]
+},
+"p2": {
+"playerName": "Even Greener Grass",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Dawg",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Mommy",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Quiver Dance", "Solar Beam", "Tera Blast"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "DEMI-GOD",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Flutter Mane"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854858278",
+"p1": {
+"playerName": "HeffNastyy",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Chompa",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Phoenix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quick Guard"]
+},
+{
+"species": "Gyarados",
+"nickname": "Jaws",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Lilith",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Talonflame", "Gyarados", "Flutter Mane"]
+},
+"p2": {
+"playerName": "bennoVGC",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Double Shock"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Palafin", "Flutter Mane", "Pawmot", "Ting-Lu"]
+},
+"outcome": 1
+}

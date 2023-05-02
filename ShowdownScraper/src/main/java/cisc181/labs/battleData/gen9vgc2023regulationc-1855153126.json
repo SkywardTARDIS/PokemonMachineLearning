@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855153126",
+"p1": {
+"playerName": "PanduxD",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Tobilloflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Protect"]
+},
+{
+"species": "Tauros",
+"nickname": "Kchauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Tuskar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Ice Spinner"]
+},
+{
+"species": "Rotom",
+"nickname": "Oster",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Substitute", "Discharge"]
+}
+],
+"broughtTeam": ["Talonflame", "Tauros", "Great Tusk", "Rotom"]
+},
+"p2": {
+"playerName": "Blazing8465",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Noivern",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Thunderbolt", "Overheat"]
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Chilling Water", "Freeze-Dry"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Brave Bird", "Tailwind"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Rotom", "Glalie", "Staraptor"]
+},
+"outcome": 0
+}

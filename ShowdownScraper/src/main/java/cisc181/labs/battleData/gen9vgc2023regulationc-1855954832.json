@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855954832",
+"p1": {
+"playerName": "test0704",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Stomping Tantrum", "Tera Blast"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Earth Power", "Energy Ball"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Abomasnow", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Sukiyaki Eater",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Read A Book.",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Mortal Spin", "Earth Power"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Get Some Sun.",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Take A Long Walk.",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Icy Wind"]
+},
+{
+"species": "Scizor",
+"nickname": "Cultivate Hope.",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Glimmora", "Chi-Yu", "Iron Bundle", "Scizor"]
+},
+"outcome": 1
+}

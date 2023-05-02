@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854083530",
+"p1": {
+"playerName": "VaultGames",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Thunderbolt"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Ruination", "Heavy Slam", "Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Ting-Lu", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "Marcosgh",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "White Herb",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Close Combat", "Rage Fist", "Acrobatics"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Protect", "Pollen Puff"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Annihilape", "Amoonguss", "Scizor"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854454962",
+"p1": {
+"playerName": "Shulva",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Tailwind", "Roost", "Aqua Step", "Revelation Dance"]
+},
+{
+"species": "Quaquaval",
+"nickname": "Quaquaval",
+"item": "",
+"ability": "Moxie",
+"teraType": "Water",
+"moves": ["Aqua Step"]
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff"]
+},
+{
+"species": "Swalot",
+"nickname": "Swalot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Quaquaval", "Lilligant", "Swalot"]
+},
+"p2": {
+"playerName": "captaincuba22",
+"fullTeam": [
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Last Respects"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Instruct", "Hyper Voice"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Flash Cannon", "Detect", "Focus Blast"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Houndstone", "Oranguru", "Lucario", "Tyranitar"]
+},
+"outcome": 1
+}

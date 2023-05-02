@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855133603",
+"p1": {
+"playerName": "ScalonetaPibe",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Eerie Impulse"]
+},
+{
+"species": "Annihilape",
+"nickname": "The real counter",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Rage Fist", "Protect"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Tera Blast", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Raichu", "Annihilape", "Rotom", "Dragonite"]
+},
+"p2": {
+"playerName": "Alphonse_gg",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Gooey",
+"teraType": "Fire",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Garchomp", "Goodra", "Tauros"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855321431",
+"p1": {
+"playerName": "fishinglikeaduck",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Assurance", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Glaive Rush", "Protect", "Ice Shard"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Kingambit", "Ting-Lu", "Baxcalibur"]
+},
+"p2": {
+"playerName": "SisalVT",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Bottas",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Hanako",
+"item": "Sitrus Berry",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Dondozo",
+"nickname": "Chonkster",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Rock Slide"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Pogsukiri",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Draco Meteor"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Dondozo", "Tatsugiri"]
+},
+"outcome": 1
+}

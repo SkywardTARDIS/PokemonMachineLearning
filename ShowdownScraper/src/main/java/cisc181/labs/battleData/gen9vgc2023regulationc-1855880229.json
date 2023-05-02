@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855880229",
+"p1": {
+"playerName": "SpadesTest",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Marino",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Fun Police",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Tiki",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Timeline",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "quick222",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Protect", "Spirit Break"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Sitrus Berry",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Sucker Punch", "Toxic Spikes", "Memento"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Defense", "Dragon Pulse", "Roost", "Air Slash"]
+},
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Moth", "Iron Valiant", "Pincurchin", "Salamence"]
+},
+"outcome": 0
+}

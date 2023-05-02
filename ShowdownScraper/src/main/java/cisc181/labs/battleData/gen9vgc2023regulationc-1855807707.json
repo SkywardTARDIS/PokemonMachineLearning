@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855807707",
+"p1": {
+"playerName": "MegaFromMom",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Flowroma",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "SantaMiniFri",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Water",
+"moves": ["Hydro Pump", "Freeze-Dry", "Protect", "Blizzard"]
+},
+{
+"species": "Kingambit",
+"nickname": "SwordDude",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Protect"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "FloatinCandy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Helping Hand", "Sleep Powder", "Giga Drain"]
+}
+],
+"broughtTeam": ["Meowscarada", "Iron Bundle", "Kingambit", "Jumpluff"]
+},
+"p2": {
+"playerName": "Kirizoamaro",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Protect", "Substitute", "Moonblast", "Hex"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Spiky Shield", "Power Gem", "Earth Power"]
+}
+],
+"broughtTeam": ["Dondozo", "Flutter Mane", "Dragonite", "Glimmora"]
+},
+"outcome": 0
+}

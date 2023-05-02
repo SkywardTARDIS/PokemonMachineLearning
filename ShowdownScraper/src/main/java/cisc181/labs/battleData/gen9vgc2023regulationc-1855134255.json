@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855134255",
+"p1": {
+"playerName": "Pokex265",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ally Switch", "Dazzling Gleam"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Wide Guard", "Recover", "Protect"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect", "Calm Mind", "Stored Power"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Moxie",
+"teraType": "Steel",
+"moves": ["Dragon Dance", "Dragon Claw", "Protect", "Tera Blast"]
+}
+],
+"broughtTeam": ["Farigiraf", "Garganacl", "Espathra", "Salamence"]
+},
+"p2": {
+"playerName": "tezminator",
+"fullTeam": [
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Petal Blizzard"]
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Horn Leech"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "Grass",
+"moves": ["Power Whip", "Dragon Claw", "Protect"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Brave Bird"]
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Florges", "Gogoat", "Goodra", "Corviknight"]
+},
+"outcome": 1
+}

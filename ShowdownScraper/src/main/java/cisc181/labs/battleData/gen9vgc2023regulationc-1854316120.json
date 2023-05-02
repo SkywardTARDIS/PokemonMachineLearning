@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854316120",
+"p1": {
+"playerName": "Dackt",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Substitute", "Drain Punch"]
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Colbur Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Tera Blast", "Expanding Force"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Encore", "Protect", "Play Rough", "Aqua Jet"]
+}
+],
+"broughtTeam": ["Iron Hands", "Indeedee", "Armarouge", "Azumarill"]
+},
+"p2": {
+"playerName": "Accidental",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "I AM HERE",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "BORF",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "GOBLIN DEEZ",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Spirit Break", "Assurance"]
+},
+{
+"species": "Foongus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "BLOODWING",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Grimmsnarl", "Roaring Moon"]
+},
+"outcome": 1
+}

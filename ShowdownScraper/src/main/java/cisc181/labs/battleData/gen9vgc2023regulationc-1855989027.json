@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855989027",
+"p1": {
+"playerName": "littlemagpie2",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Struggle Bug"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Sitrus Berry",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Reflect", "Gyro Ball"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Body Press", "Wide Guard"]
+}
+],
+"broughtTeam": ["Tyranitar", "Volcarona", "Bronzong", "Garganacl"]
+},
+"p2": {
+"playerName": "vgcclimber4",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Outrage"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wave Crash", "Earthquake", "Rest"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Dragonite", "Tatsugiri", "Dondozo"]
+},
+"outcome": 1
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1855445711",
+"p1": {
+"playerName": "ECMBB",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Gyarados", "Flutter Mane", "Amoonguss"]
+},
+"p2": {
+"playerName": "shivers64",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hypnosis", "Heal Pulse", "Foul Play"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity", "Zap Cannon", "Power Gem"]
+},
+{
+"species": "Flapple",
+"nickname": "Flapple",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Dragon Rush", "Grav Apple", "Tera Blast"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aura Sphere", "Dragon Pulse"]
+}
+],
+"broughtTeam": ["Gothitelle", "Sandy Shocks", "Flapple", "Clawitzer"]
+},
+"outcome": 1
+}

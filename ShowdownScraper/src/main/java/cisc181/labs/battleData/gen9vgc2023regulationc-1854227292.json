@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854227292",
+"p1": {
+"playerName": "Alexis_student",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch", "Assurance"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Clear Smog", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Kingambit", "Amoonguss"]
+},
+"p2": {
+"playerName": "baileyatg",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "ALGO",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "ALORDA",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Mortal Spin"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "MESSI",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Dondozo",
+"nickname": "MAGICO",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Wave Crash", "Protect", "Earthquake"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Glimmora", "Iron Bundle", "Dondozo"]
+},
+"outcome": 1
+}

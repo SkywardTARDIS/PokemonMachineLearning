@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854819801",
+"p1": {
+"playerName": "shbones",
+"fullTeam": [
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Poison",
+"moves": ["Iron Defense", "Body Press"]
+},
+{
+"species": "Lurantis",
+"nickname": "Lurantis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam"]
+}
+],
+"broughtTeam": ["Orthworm", "Lurantis", "Dudunsparce", "Frosmoth"]
+},
+"p2": {
+"playerName": "Joi1234",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Protect", "Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["First Impression", "Earthquake", "U-turn"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Iron Hands", "Arcanine", "Slither Wing"]
+},
+"outcome": 1
+}

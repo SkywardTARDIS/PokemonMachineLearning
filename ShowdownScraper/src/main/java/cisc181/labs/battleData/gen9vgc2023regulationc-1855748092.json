@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855748092",
+"p1": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "Dazzling",
+"teraType": "",
+"moves": ["Trick Room", "Psychic Fangs", "Protect"]
+},
+{
+"species": "Copperajah",
+"nickname": "Copperajah",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Curse", "Rock Slide", "Zen Headbutt"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Protect", "Rock Blast"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bruxish", "Copperajah", "Heracross"]
+},
+"p2": {
+"playerName": "Warity",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Drain Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Protect", "Extreme Speed"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Dragonite", "Flutter Mane"]
+},
+"outcome": 1
+}

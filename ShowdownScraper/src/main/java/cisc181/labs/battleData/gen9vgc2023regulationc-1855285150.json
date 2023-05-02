@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855285150",
+"p1": {
+"playerName": "Kratas",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Rammstein",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Mothörhead",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "The doors",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Queen",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Garchomp", "Iron Bundle", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Delilahman",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "Flying",
+"moves": ["Iron Head", "Kowtow Cleave"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Kingambit", "Gastrodon"]
+},
+"outcome": 0
+}

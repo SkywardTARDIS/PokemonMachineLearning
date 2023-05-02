@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854998286",
+"p1": {
+"playerName": "Flo Bros Inc.",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "MrBdyEvrthng",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Play Rough", "Will-O-Wisp"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Fake Out", "Wild Charge"]
+},
+{
+"species": "Torkoal",
+"nickname": "Tort",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Throat Spray",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Hyper Voice", "Giga Drain", "Earth Power", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Mimikyu", "Iron Hands", "Torkoal", "Arboliva"]
+},
+"p2": {
+"playerName": "leafyarrow",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Pollen Puff", "Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Heavy Slam", "Ruination", "Fissure"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Swords Dance"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Arcanine", "Kingambit"]
+},
+"outcome": 1
+}

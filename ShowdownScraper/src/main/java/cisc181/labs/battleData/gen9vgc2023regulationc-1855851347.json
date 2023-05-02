@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855851347",
+"p1": {
+"playerName": "UltimoRyu",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Claw"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Discharge", "Hydro Pump", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Rotom", "Slither Wing", "Gardevoir"]
+},
+"p2": {
+"playerName": "Conwebby",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Leftovers",
+"ability": "Speed Boost",
+"teraType": "Fighting",
+"moves": ["Protect", "Hypnosis", "Lumina Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Moonblast"]
+}
+],
+"broughtTeam": ["Espathra", "Flutter Mane", "Ceruledge", "Iron Valiant"]
+},
+"outcome": 1
+}

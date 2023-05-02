@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856145378",
+"p1": {
+"playerName": "AndyLaVGC",
+"fullTeam": [
+{
+"species": "Slowpoke",
+"nickname": "Slowpoke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Heal Pulse", "Slack Off"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Weakness Policy",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption", "Earth Power", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowpoke", "Torkoal", "Chi-Yu"]
+},
+"p2": {
+"playerName": "bsentinel",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Fake Out"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Play Rough"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Braviary",
+"nickname": "Braviary",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Gastrodon", "Iron Hands", "Scream Tail", "Braviary"]
+},
+"outcome": 1
+}

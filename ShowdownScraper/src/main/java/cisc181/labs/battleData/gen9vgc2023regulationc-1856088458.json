@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856088458",
+"p1": {
+"playerName": "Firebattler100",
+"fullTeam": [
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Shadow Sneak"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Grassy Seed",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flareon", "Spiritomb", "Garganacl", "Arboliva"]
+},
+"p2": {
+"playerName": "LBlues",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Taunt", "Iron Defense", "Body Press"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Pelipper", "Corviknight", "Chien-Pao"]
+},
+"outcome": 0
+}

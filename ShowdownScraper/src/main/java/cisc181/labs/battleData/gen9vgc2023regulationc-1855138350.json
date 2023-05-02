@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855138350",
+"p1": {
+"playerName": "lin12345",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind", "Thunder Wave", "Thunderbolt"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Earthquake"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Flutter Mane", "Chi-Yu", "Iron Hands"]
+},
+"p2": {
+"playerName": "Streek2002",
+"fullTeam": [
+{
+"species": "Jolteon",
+"nickname": "Jolteon Fuego",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trailblaze", "Flare Blitz"]
+},
+{
+"species": "Sylveon",
+"nickname": "Jolteon hada",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Substitute", "Hyper Voice"]
+},
+{
+"species": "Umbreon",
+"nickname": "Jolteon Siniestro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flareon",
+"nickname": "Jolteon Fuego",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trailblaze", "Flare Blitz"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Jolteon", "Sylveon", "Umbreon", "Flareon"]
+},
+"outcome": 0
+}

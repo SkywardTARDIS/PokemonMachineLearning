@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1855623611",
+"p1": {
+"playerName": "SirTails12",
+"fullTeam": [
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Muddy Water", "Thunderbolt", "Sludge Bomb", "Flamethrower"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Foul Play", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Goodra", "Murkrow", "Amoonguss", "Arcanine"]
+},
+"p2": {
+"playerName": "Polentino",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Armor Cannon", "Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "",
+"ability": "Cloud Nine",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "Poison",
+"moves": ["Poison Jab"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Double Shock", "Revival Blessing", "Mach Punch"]
+}
+],
+"broughtTeam": ["Armarouge", "Altaria", "Bisharp", "Pawmot"]
+},
+"outcome": 1
+}

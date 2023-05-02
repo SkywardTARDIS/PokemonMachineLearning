@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855590703",
+"p1": {
+"playerName": "SukItPhagz",
+"fullTeam": [
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "Moxie",
+"teraType": "Rock",
+"moves": ["Close Combat"]
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Thunderbolt"]
+},
+{
+"species": "Primeape",
+"nickname": "Primeape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Heracross", "Electrode", "Primeape", "Glalie"]
+},
+"p2": {
+"playerName": "Topical Rainstorm",
+"fullTeam": [
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Cryogonal",
+"nickname": "Cryogonal",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Frost Breath", "Confuse Ray"]
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Steel",
+"moves": ["Protect", "Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Fire Blast"]
+}
+],
+"broughtTeam": ["Krookodile", "Cryogonal", "Iron Bundle", "Chi-Yu"]
+},
+"outcome": 0
+}

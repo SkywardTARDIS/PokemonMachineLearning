@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855822504",
+"p1": {
+"playerName": "sabertooth81",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Foul Play"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Aerial Ace", "Mach Punch"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": ["Belly Drum", "Waterfall", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Talonflame", "Sableye", "Breloom", "Azumarill"]
+},
+"p2": {
+"playerName": "Colinspeed1",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Fire",
+"moves": ["Endure", "Bitter Blade"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Volcarona", "Arcanine", "Ceruledge", "Skeledirge"]
+},
+"outcome": 1
+}

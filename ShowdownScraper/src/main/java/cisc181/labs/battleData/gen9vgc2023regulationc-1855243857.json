@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855243857",
+"p1": {
+"playerName": "TDLemons",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Sanic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Pastel",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes", "Baneful Bunker", "Infestation"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "Heart",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Play Rough"]
+}
+],
+"broughtTeam": ["Lycanroc", "Toxapex", "Barraskewda", "Tinkaton"]
+},
+"p2": {
+"playerName": "PokemonPesticide",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Dazzling Gleam"]
+},
+{
+"species": "Klawf",
+"nickname": "Klawf",
+"item": "Weakness Policy",
+"ability": "Anger Shell",
+"teraType": "",
+"moves": ["Rock Slide", "Knock Off"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Klawf", "Flamigo", "Garchomp"]
+},
+"outcome": 0
+}

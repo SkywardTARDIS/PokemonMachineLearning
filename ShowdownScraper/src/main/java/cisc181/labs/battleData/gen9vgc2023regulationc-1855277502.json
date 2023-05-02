@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855277502",
+"p1": {
+"playerName": "StantlerGOAT",
+"fullTeam": [
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Drain Punch", "Ice Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Mental Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Foul Play"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Crabominable", "Farigiraf", "Abomasnow"]
+},
+"p2": {
+"playerName": "Niklasolofgfxfdf",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Air Balloon",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Acrobatics", "Thief"]
+}
+],
+"broughtTeam": ["Dragonite", "Brute Bonnet", "Chien-Pao", "Flamigo"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854496577",
+"p1": {
+"playerName": "vgcproto",
+"fullTeam": [
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Tera Blast", "Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Drednaw", "Pelipper", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Kojiiii",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Silembrim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Dazzling Gleam"]
+},
+{
+"species": "Indeedee",
+"nickname": "Servol",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "Grass",
+"moves": ["Trick Room", "Helping Hand", "Follow Me", "Dazzling Gleam"]
+},
+{
+"species": "Torkoal",
+"nickname": "Qurtel",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Clear Smog"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Heerashai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Indeedee", "Torkoal", "Dondozo"]
+},
+"outcome": 0
+}

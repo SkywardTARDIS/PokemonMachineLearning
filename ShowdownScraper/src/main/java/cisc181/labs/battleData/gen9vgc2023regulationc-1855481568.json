@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855481568",
+"p1": {
+"playerName": "appokalypstik",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Goobrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Quash"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom-Goob",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Goob",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+}
+],
+"broughtTeam": ["Murkrow", "Rotom", "Great Tusk", "Chi-Yu"]
+},
+"p2": {
+"playerName": "BlindMagneton",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Grass",
+"moves": ["Thunder", "Gravity", "Earth Power"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hydro Pump", "Hurricane", "Wide Guard"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sandy Shocks", "Pelipper"]
+},
+"outcome": 0
+}

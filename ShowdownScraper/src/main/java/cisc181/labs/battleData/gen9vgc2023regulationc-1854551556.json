@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854551556",
+"p1": {
+"playerName": "Hactorgv_128",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Iron Head", "Drain Punch"]
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song"]
+}
+],
+"broughtTeam": ["Farigiraf", "Iron Hands", "Kingambit", "Skeledirge"]
+},
+"p2": {
+"playerName": "Can'tStopFalling",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Parchita",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Papaya",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide", "Low Kick"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Cereza",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Skill Swap", "Psyshock", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Stonjourner", "Farigiraf"]
+},
+"outcome": 0
+}

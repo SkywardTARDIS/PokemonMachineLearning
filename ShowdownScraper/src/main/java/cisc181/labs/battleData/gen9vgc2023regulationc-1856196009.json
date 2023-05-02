@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856196009",
+"p1": {
+"playerName": "Evil Azumarills",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hurricane", "Dark Pulse", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Dark",
+"moves": ["Nasty Plot", "Dark Pulse", "Protect"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Amoonguss", "Chi-Yu"]
+},
+"p2": {
+"playerName": "trevenant999",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Mooshroom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Guy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ampharos",
+"nickname": "Zoro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Tuff",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Rock Slide"]
+}
+],
+"broughtTeam": ["Amoonguss", "Farigiraf", "Ampharos", "Ting-Lu"]
+},
+"outcome": 1
+}

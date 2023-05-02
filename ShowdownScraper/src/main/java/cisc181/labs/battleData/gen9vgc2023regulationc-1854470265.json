@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854470265",
+"p1": {
+"playerName": "Darkress(CR)",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Protect", "Bullet Punch"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Safety Goggles",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Raging Bull"]
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Garganacl", "Tauros"]
+},
+"p2": {
+"playerName": "chipp zanuff 7",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Luck",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Stealth Rock", "Salt Cure"]
+},
+{
+"species": "Gyarados",
+"nickname": "Magna",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Finral",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Vanessa",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Gyarados", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

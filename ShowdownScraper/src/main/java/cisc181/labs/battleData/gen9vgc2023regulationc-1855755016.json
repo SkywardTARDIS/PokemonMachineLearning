@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855755016",
+"p1": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Wave Crash"]
+},
+{
+"species": "Copperajah",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Pulse", "Apple Acid", "Sucker Punch"]
+},
+{
+"species": "Heracross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bruxish", "Sylveon", "Appletun"]
+},
+"p2": {
+"playerName": "rRedl",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic Spikes", "Poison Jab", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Tyranitar", "Revavroom", "Arcanine"]
+},
+"outcome": 1
+}

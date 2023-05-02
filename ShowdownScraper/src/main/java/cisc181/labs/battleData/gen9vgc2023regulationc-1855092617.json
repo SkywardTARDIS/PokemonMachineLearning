@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855092617",
+"p1": {
+"playerName": "A1ge7",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Draco Meteor", "Nasty Plot", "Protect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Torch Song", "Shadow Ball"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Gholdengo", "Hydreigon", "Skeledirge"]
+},
+"p2": {
+"playerName": "CaliberChamp",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxtricity",
+"nickname": "Riffit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Snarl"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Hyrok",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaquaval",
+"nickname": "Sylvanas",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Aqua Step", "Close Combat"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Monado",
+"item": "Weakness Policy",
+"ability": "Flash Fire",
+"teraType": "Grass",
+"moves": ["Bitter Blade", "Protect", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Toxtricity", "Grimmsnarl", "Quaquaval", "Ceruledge"]
+},
+"outcome": 0
+}

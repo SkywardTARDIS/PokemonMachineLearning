@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854085184",
+"p1": {
+"playerName": "JFACKE",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "答辩",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Tera Blast"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "亲兄弟",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "双冰冻",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Earth Power", "Giga Drain"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "鸡哥",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Blizzard", "Hydro Pump"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Abomasnow", "Iron Bundle"]
+},
+"p2": {
+"playerName": "qiin5",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Steel",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush", "Protect", "Icicle Crash"]
+}
+],
+"broughtTeam": ["Amoonguss", "Ting-Lu", "Flutter Mane", "Baxcalibur"]
+},
+"outcome": 0
+}

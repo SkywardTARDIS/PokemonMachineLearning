@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854103686",
+"p1": {
+"playerName": "healing94",
+"fullTeam": [
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Discharge"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Ice Spinner", "Protect", "Headlong Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Rotom", "Great Tusk", "Talonflame", "Annihilape"]
+},
+"p2": {
+"playerName": "AllTheBilgamesh",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Flinch Lockwood",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Roxie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Hear me out",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Lycanroc", "Flutter Mane", "Gyarados"]
+},
+"outcome": 0
+}

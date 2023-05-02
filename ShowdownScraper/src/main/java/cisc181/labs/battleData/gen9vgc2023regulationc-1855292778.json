@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855292778",
+"p1": {
+"playerName": "Titi Grech",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Discharge", "Hydro Pump"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Bullet Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Energy Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Rotom", "Scizor", "Flutter Mane", "Garchomp"]
+},
+"p2": {
+"playerName": "Sub-basser",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Perish Song", "Confuse Ray"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield"]
+},
+{
+"species": "Pyroar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klawf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Wide Guard", "Protect", "Salt Cure", "Recover"]
+}
+],
+"broughtTeam": ["Gholdengo", "Murkrow", "Glimmora", "Garganacl"]
+},
+"outcome": 1
+}

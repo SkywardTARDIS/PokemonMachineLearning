@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855136472",
+"p1": {
+"playerName": "Charlisito",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Grass",
+"moves": ["Heavy Slam", "Stomping Tantrum", "Ruination", "Protect"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "squishheh",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Alisnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Misty Terrain", "Reflect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Apollos",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Drain Punch", "Protect", "Wild Charge"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Perthquake",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Muddy Water", "Protect", "Recover"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Ice Spinner", "Stomping Tantrum"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Grimmsnarl", "Iron Hands", "Gastrodon", "Dragonite"]
+},
+"outcome": 1
+}

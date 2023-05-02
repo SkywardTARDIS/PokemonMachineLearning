@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854291572",
+"p1": {
+"playerName": "moratopablot",
+"fullTeam": [
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Coil", "Drain Punch", "Protect", "Wild Charge"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Accelerock", "Rock Slide"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl", "Wish", "Helping Hand"]
+},
+{
+"species": "Crocalor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Eelektross", "Lycanroc", "Umbreon", "Honchkrow"]
+},
+"p2": {
+"playerName": "Ejequie",
+"fullTeam": [
+{
+"species": "Ursaring",
+"nickname": "Ursaring",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Belly Drum", "Facade"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct", "Psychic"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hyper Drill", "Rock Slide"]
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Water Pulse"]
+}
+],
+"broughtTeam": ["Ursaring", "Oranguru", "Dudunsparce", "Clawitzer"]
+},
+"outcome": 1
+}

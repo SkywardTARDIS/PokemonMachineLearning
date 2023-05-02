@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854974356",
+"p1": {
+"playerName": "Kirziok",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "Ghost",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Hex"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Spiky Shield", "Power Gem"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Chi-Yu", "Flutter Mane", "Glimmora"]
+},
+"p2": {
+"playerName": "Foodster",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard", "Protect"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Heavy Slam"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Tailwind", "Dark Pulse", "Draco Meteor"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist"]
+}
+],
+"broughtTeam": ["Abomasnow", "Cetitan", "Hydreigon", "Annihilape"]
+},
+"outcome": 1
+}

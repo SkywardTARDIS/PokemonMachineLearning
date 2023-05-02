@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856122199",
+"p1": {
+"playerName": "ttsui234",
+"fullTeam": [
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gravity", "Rock Tomb"]
+},
+{
+"species": "Flapple",
+"nickname": "Flapple",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Grav Apple"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salazzle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Stonjourner", "Flapple", "Tatsugiri"]
+},
+"p2": {
+"playerName": "postman7534216",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Foul Play"]
+},
+{
+"species": "Spiritomb",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Naclstack",
+"nickname": "Naclstack",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tropius",
+"nickname": "Tropius",
+"item": "Sitrus Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Hurricane", "Leech Seed", "Protect"]
+},
+{
+"species": "Drifloon",
+"nickname": "Drifloon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Minimize"]
+}
+],
+"broughtTeam": ["Sableye", "Naclstack", "Tropius", "Drifloon"]
+},
+"outcome": 1
+}

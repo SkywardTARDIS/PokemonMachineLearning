@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855994024",
+"p1": {
+"playerName": "malimmd",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect", "Spore"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Kowtow Cleave"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Flutter Mane", "Kingambit"]
+},
+"p2": {
+"playerName": "HEARSWHOS",
+"fullTeam": [
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Protect", "Feint", "Discharge", "Fake Out"]
+},
+{
+"species": "Oricorio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Heat Wave", "Discharge"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Ice Spinner", "Liquidation"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Raichu", "Iron Moth", "Azumarill", "Scizor"]
+},
+"outcome": 1
+}

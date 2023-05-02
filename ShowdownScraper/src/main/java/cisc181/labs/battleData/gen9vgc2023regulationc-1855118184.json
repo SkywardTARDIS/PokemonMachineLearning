@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855118184",
+"p1": {
+"playerName": "Caleiva",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Quiver Dance", "Heat Wave"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Giga Drain", "Protect", "Pollen Puff"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Waterfall", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+}
+],
+"broughtTeam": ["Volcarona", "Wo-Chien", "Gyarados", "Palafin"]
+},
+"p2": {
+"playerName": "JDN07",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Elliot",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Heavy Slam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Zoboomafoo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bulk Up", "Rage Fist", "Drain Punch"]
+},
+{
+"species": "Azumarill",
+"nickname": "Bolin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Play Rough", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Mi Ex",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Annihilape", "Azumarill", "Gothitelle"]
+},
+"outcome": 1
+}

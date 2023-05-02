@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854342068",
+"p1": {
+"playerName": "andyhurricane",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Disable"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Beam", "Protect", "Earth Power"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Ceruledge", "Sableye", "Gastrodon", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Aperol Spinda",
+"fullTeam": [
+{
+"species": "Fletchling",
+"nickname": "Fletchling",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Noivern",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sawsbuck",
+"nickname": "Sawsbuck",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Slam", "Horn Leech"]
+}
+],
+"broughtTeam": ["Fletchling", "Chi-Yu", "Flutter Mane", "Sawsbuck"]
+},
+"outcome": 0
+}

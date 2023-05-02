@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854577112",
+"p1": {
+"playerName": "zjwf",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "城之内火焰",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "栗子球",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder", "Spore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "暗黑恋尸狂",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Thunderbolt"]
+},
+{
+"species": "Dragapult",
+"nickname": "奥西里斯的天空龙",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Darts"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Flutter Mane", "Dragapult"]
+},
+"p2": {
+"playerName": "Evlers",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "谁对王座露出獠牙",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch", "Ice Spinner"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "压轴",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "锦鲤藏于灾玉",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "乐迪",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Extreme Speed", "Tera Blast"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Flutter Mane", "Chi-Yu", "Dragonite"]
+},
+"outcome": 0
+}

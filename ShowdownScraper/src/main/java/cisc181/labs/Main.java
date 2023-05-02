@@ -121,7 +121,6 @@ public class Main {
             }
         }
 
-
         int f = fileNames.size();
         System.out.println(fileNames.size());
         for(int i=0; i<f; i++){
@@ -132,6 +131,7 @@ public class Main {
                     JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
                     battleData currentBattle = new battleData(battleJson);
                     teamsData currentTeams = new teamsData(currentBattle.id, currentBattle.p1, currentBattle.p2);
+                    //System.out.println(fileNames.get(i));
                     parseLog(currentBattle, currentTeams, abilityLines, itemLines, currentBattle.id);
                 }
             } catch (JsonException e) {
@@ -156,7 +156,7 @@ public class Main {
             if(holder.startsWith("|win|")){
                 teams.updateOutcome(holder.replace("|win|", "").trim());
             }
-            if(holder.contains("ability")){
+            if(holder.contains("ability:") || holder.contains("-ability")){
                 abilityLines.add(holder);
             }
             if(holder.contains("item")){
@@ -233,7 +233,7 @@ public class Main {
                     currentPokemon.addTera(splitTera.get(splitTera.size() - 1));
                 }
                 //gets abilities
-                if (logLines.get(j).contains("ability") && logLines.get(j).contains(currentSpecies)) {
+                if ((logLines.get(j).contains("-ability") || logLines.get(j).contains("ability:")) && logLines.get(j).contains(currentSpecies)) {
                     abilityGrabber(currentPokemon, "p1", logLines.get(j), currentSpecies);
                 }
                 //gets items
@@ -313,7 +313,7 @@ public class Main {
                     currentPokemon.addTera(splitTera.get(splitTera.size() - 1));
                 }
                 //gets abilities
-                if (logLines.get(j).contains("ability") && logLines.get(j).contains(currentSpecies)) {
+                if ((logLines.get(j).contains("-ability") || logLines.get(j).contains("ability:")) && logLines.get(j).contains(currentSpecies)) {
                     abilityGrabber(currentPokemon, "p2", logLines.get(j), currentSpecies);
                 }
                 //gets items
@@ -387,6 +387,7 @@ public class Main {
     }
 
     public static void abilityGrabber(PokemonInfo currentPokemon, String playerNo, String logLine, String currentSpecies){
+        //issue if Pokemon's nickname contains the word "ability"
         ArrayList<String> abilityLine = new ArrayList<>(Arrays.asList(logLine.split("\\|")));
         String openClause = abilityLine.get(1);
         switch (openClause) {
@@ -503,6 +504,32 @@ public class Main {
             }
         }
         return paldeaPokemon;
+    }
+
+    public static ArrayList<String> movesFromJson() throws IOException, JsonException {
+        File paldeaDex = new File("src/main/java/cisc181/labs/lists/MovesList.json");
+        ArrayList<String> paldeaMoves = new ArrayList<>();
+        if(paldeaDex.exists()) {
+            InputStream is = new FileInputStream(paldeaDex);
+            JsonArray battleJson = (JsonArray) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+            for(int i=0; i<battleJson.size(); i++){
+                paldeaMoves.add(battleJson.get(i).toString());
+            }
+        }
+        return paldeaMoves;
+    }
+
+    public static ArrayList<String> itemsFromJson() throws IOException, JsonException {
+        File paldeaDex = new File("src/main/java/cisc181/labs/lists/BattleItems.json");
+        ArrayList<String> paldeaItems = new ArrayList<>();
+        if(paldeaDex.exists()) {
+            InputStream is = new FileInputStream(paldeaDex);
+            JsonArray battleJson = (JsonArray) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+            for(int i=0; i<battleJson.size(); i++){
+                paldeaItems.add(battleJson.get(i).toString());
+            }
+        }
+        return paldeaItems;
     }
 
     public static void getLegalMoves() throws IOException {

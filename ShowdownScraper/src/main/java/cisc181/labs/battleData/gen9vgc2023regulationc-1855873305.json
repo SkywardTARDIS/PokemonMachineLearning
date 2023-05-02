@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855873305",
+"p1": {
+"playerName": "o'fenomenon't",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Curse", "Toxic", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Aqua Jet", "Protect", "Close Combat"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Muk", "Talonflame", "Tauros", "Dragonite"]
+},
+"p2": {
+"playerName": "ivangraus17",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Reflect", "Will-O-Wisp"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up"]
+}
+],
+"broughtTeam": ["Gengar", "Great Tusk", "Rotom", "Annihilape"]
+},
+"outcome": 1
+}

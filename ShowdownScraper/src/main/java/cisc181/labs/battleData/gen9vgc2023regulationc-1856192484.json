@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856192484",
+"p1": {
+"playerName": "WOLFIELIL",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Brave Bird", "Roost", "Tailwind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dual Wingbeat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Corviknight", "Salamence", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Rainmakerisback",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "TT",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["After You"]
+},
+{
+"species": "Torkoal",
+"nickname": "Breakthrough",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption", "Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Espresso",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Trouble",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Dragonite", "Great Tusk"]
+},
+"outcome": 1
+}

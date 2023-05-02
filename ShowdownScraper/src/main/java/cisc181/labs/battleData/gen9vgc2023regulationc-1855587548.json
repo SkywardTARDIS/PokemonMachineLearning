@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1855587548",
+"p1": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Trick Room"]
+},
+{
+"species": "Copperajah",
+"nickname": "Copperajah",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Curse", "Rock Slide", "Iron Head"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bruxish", "Copperajah", "Sylveon", "Heracross"]
+},
+"p2": {
+"playerName": "Everscreaming",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Live Slug",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Body Press"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": []
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Chien-Pao", "Chi-Yu"]
+},
+"outcome": 1
+}

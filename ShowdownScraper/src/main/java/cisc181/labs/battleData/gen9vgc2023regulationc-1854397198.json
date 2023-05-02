@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854397198",
+"p1": {
+"playerName": "SolarCetitan",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Protect", "Drain Punch"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Zen Headbutt"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Medicham", "Iron Hands", "Azumarill"]
+},
+"p2": {
+"playerName": "whatupdog123",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Froslass",
+"nickname": "Froslass",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Frost Breath", "Destiny Bond"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Protect"]
+}
+],
+"broughtTeam": ["Tauros", "Froslass", "Chien-Pao", "Arcanine"]
+},
+"outcome": 1
+}

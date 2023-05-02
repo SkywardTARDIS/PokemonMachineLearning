@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855259363",
+"p1": {
+"playerName": "Katkip",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze", "Protect", "Sacred Sword"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Dragon",
+"moves": ["Wild Charge", "Protect"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Gastrodon", "Sylveon", "Arcanine"]
+},
+"p2": {
+"playerName": "LilBadWord",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Starf Berry",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Grass Knot", "Protect", "Hyper Voice"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Starf Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fling", "Icy Wind", "Freeze-Dry"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Golduck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cacturne",
+"nickname": "Cacturne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Smart Strike"]
+}
+],
+"broughtTeam": ["Farigiraf", "Iron Bundle", "Cacturne", "Iron Treads"]
+},
+"outcome": 1
+}

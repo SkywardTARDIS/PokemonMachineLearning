@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854503783",
+"p1": {
+"playerName": "NationalLogic",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Water",
+"moves": ["Sand Tomb", "Protect", "Heavy Slam", "Slack Off"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Recover"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Garganacl"]
+},
+"p2": {
+"playerName": "Johnny Melaslavo",
+"fullTeam": [
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Brave Bird"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "White Herb",
+"ability": "",
+"teraType": "Water",
+"moves": ["Shell Smash", "Rock Blast"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Calm Mind", "Stored Power", "Draining Kiss"]
+}
+],
+"broughtTeam": ["Honchkrow", "Indeedee", "Cloyster", "Klefki"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1854134671",
+"p1": {
+"playerName": "Teamsure1",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb", "Power Gem", "Mortal Spin", "Spiky Shield"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Protect", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Glimmora", "Gyarados", "Ting-Lu"]
+},
+"p2": {
+"playerName": "WarlogFV",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Greedent",
+"nickname": "God Squirrel",
+"item": "Sitrus Berry",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Protect", "Belly Drum", "Earthquake", "Facade"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Greedent", "Torkoal", "Hatterene"]
+},
+"outcome": 0
+}

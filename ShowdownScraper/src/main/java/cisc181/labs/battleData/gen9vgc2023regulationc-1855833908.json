@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1855833908",
+"p1": {
+"playerName": "Sangano",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Amoonguss", "Iron Hands"]
+},
+"p2": {
+"playerName": "Felipe.Miller.V",
+"fullTeam": [
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "Dazzling",
+"teraType": "",
+"moves": ["Trick Room", "Psychic Fangs", "Protect"]
+},
+{
+"species": "Copperajah",
+"nickname": "Copperajah",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Sleep Talk"]
+},
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Heracross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Instruct", "Trick Room", "Psyshock"]
+}
+],
+"broughtTeam": ["Bruxish", "Copperajah", "Sylveon", "Oranguru"]
+},
+"outcome": 1
+}
