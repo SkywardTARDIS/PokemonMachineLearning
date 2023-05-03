@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856939901",
+"p1": {
+"playerName": "Malikeroni",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Acid Spray"]
+}
+],
+"broughtTeam": ["Garchomp", "Tyranitar", "Sandy Shocks", "Iron Moth"]
+},
+"p2": {
+"playerName": "FlockOfDeagles",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "OlBamaSnowden",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Giga Drain", "Helping Hand"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "MyBallsCold",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Blizzard"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Got In My Eyes",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 0
+}

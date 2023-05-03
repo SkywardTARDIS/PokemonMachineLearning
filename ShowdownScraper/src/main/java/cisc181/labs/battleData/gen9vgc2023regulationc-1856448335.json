@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856448335",
+"p1": {
+"playerName": "jamez10",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Dark",
+"moves": ["Tailwind", "Air Slash", "Snarl"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Red Card",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Light Screen"]
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "Leppa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Revival Blessing", "Psychic"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Iron Jugulis", "Indeedee", "Rabsca"]
+},
+"p2": {
+"playerName": "Killakyzr",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Follow Me"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Rage Fist", "Bulk Up", "Drain Punch"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Maushold", "Annihilape"]
+},
+"outcome": 1
+}

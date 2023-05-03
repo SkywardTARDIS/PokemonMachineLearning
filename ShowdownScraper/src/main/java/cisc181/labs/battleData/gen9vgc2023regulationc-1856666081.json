@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856666081",
+"p1": {
+"playerName": "ts02942461",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Coil", "Rock Slide", "Hyper Drill"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "Fire",
+"moves": ["Earth Power", "Chilling Water"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Dudunsparce", "Gastrodon", "Scizor"]
+},
+"p2": {
+"playerName": "Zerowen",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "BATMAN?!?!",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch", "Haze"]
+},
+{
+"species": "Arcanine",
+"nickname": "RK9",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "WALTER WHITE!??",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Tuskothy",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Iron Bundle", "Great Tusk"]
+},
+"outcome": 1
+}

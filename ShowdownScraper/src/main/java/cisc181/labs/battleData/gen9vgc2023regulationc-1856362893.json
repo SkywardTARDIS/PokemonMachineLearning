@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856362893",
+"p1": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Shinra",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "Umbrella",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Surf", "Hurricane"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Dexter",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "Rhine",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Tomb", "Protect", "Ice Punch"]
+}
+],
+"broughtTeam": ["Iron Thorns", "Pelipper", "Pincurchin", "Floatzel"]
+},
+"p2": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Calm Mind", "Hydro Pump", "Protect"]
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Donphan",
+"nickname": "Donphan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stone Edge"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Slowbro", "Haxorus", "Donphan"]
+},
+"outcome": 1
+}

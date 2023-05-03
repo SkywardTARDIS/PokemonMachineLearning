@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856398487",
+"p1": {
+"playerName": "Topical Rainstorm",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Muddy Water"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Wild Charge", "Flare Blitz"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Iron Bundle", "Arcanine", "Flutter Mane"]
+},
+"p2": {
+"playerName": "yahya_79",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "White Herb",
+"ability": "Costar",
+"teraType": "Steel",
+"moves": ["Close Combat", "Liquidation"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Ice Shard"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Aguav Berry",
+"ability": "Own Tempo",
+"teraType": "",
+"moves": ["Fake Out", "Follow Me"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+}
+],
+"broughtTeam": ["Flamigo", "Cetitan", "Indeedee", "Amoonguss"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856330904",
+"p1": {
+"playerName": "Krib_Underscore",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Big Horns",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Knock Off", "Headlong Rush"]
+},
+{
+"species": "Corviknight",
+"nickname": "Taxi Service",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind", "Roost"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "HoHoHomicide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Great Tusk", "Corviknight", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Sufiyathegreat",
+"fullTeam": [
+{
+"species": "Arboliva",
+"nickname": "chicken 1",
+"item": "Grassy Seed",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Annihilape",
+"nickname": "chicken 2",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "chicken 3",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "chicken 5",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arboliva", "Annihilape", "Kingambit", "Flutter Mane"]
+},
+"outcome": 1
+}

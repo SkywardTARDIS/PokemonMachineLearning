@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856693633",
+"p1": {
+"playerName": "Bdogplatinum",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Falinks",
+"nickname": "Falinks",
+"item": "Psychic Seed",
+"ability": "Defiant",
+"teraType": "Steel",
+"moves": ["No Retreat", "Iron Head", "Protect"]
+},
+{
+"species": "Eiscue",
+"nickname": "Eiscue",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Zen Headbutt"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Falinks", "Eiscue"]
+},
+"p2": {
+"playerName": "TheMismatcher",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Dual Wingbeat"]
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Throat Chop"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Toedscool",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Salamence", "Chien-Pao", "Sylveon"]
+},
+"outcome": 0
+}

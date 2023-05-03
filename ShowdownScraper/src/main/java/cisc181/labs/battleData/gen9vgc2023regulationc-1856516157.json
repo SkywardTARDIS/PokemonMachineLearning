@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856516157",
+"p1": {
+"playerName": "Cosentino",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Bitter Blade", "Shadow Sneak", "Bulk Up"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glaive Rush", "Ice Shard"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Clear Amulet",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Dragon Dance", "Waterfall", "Tera Blast", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Ceruledge", "Orthworm", "Baxcalibur", "Gyarados"]
+},
+"p2": {
+"playerName": "Gorbism",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Skill Swap", "Play Rough", "Gigaton Hammer"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Tinkaton", "Skeledirge", "Kilowattrel", "Iron Bundle"]
+},
+"outcome": 1
+}

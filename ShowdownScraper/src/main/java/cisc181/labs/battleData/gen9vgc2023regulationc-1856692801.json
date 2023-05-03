@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856692801",
+"p1": {
+"playerName": "rhysp1eces",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Safeguard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Phantom Force"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Sitrus Berry",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Haze", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Vivillon", "Annihilape", "Chien-Pao"]
+},
+"p2": {
+"playerName": "hysaaron",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Fist", "Bulk Up"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Beat Up"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Throat Chop"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Protect"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold", "Ting-Lu", "Amoonguss"]
+},
+"outcome": 0
+}

@@ -18,8 +18,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Main {
-    public static void main(String[] args) throws IOException, JsonException {
-        //scrapeData();
+    public static void main(String[] args) throws IOException, JsonException, InterruptedException {
+        scrapeData();
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
@@ -606,10 +606,10 @@ public class Main {
         fw.close();
     }
 
-    public static void scrapeData() throws JsonException, IOException {
+    public static void scrapeData() throws JsonException, IOException, InterruptedException {
         int prevFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
         int currentFiles;
-        for(int i=1; i<=25; i++) {
+        for(int i=14; i<=25; i++) {
             System.out.println("Page: " + i);
             ArrayList<BattleList> idsList = new ArrayList<>();
             Document battleHolder = Jsoup.connect("https://replay.pokemonshowdown.com/search.json?format=gen9vgc2023regulationc&page=" + i).ignoreContentType(true).get();
@@ -628,7 +628,7 @@ public class Main {
                 fw.write(fullBattle.body().text());
                 fw.close();
                 System.out.println("Battle done");
-                //Thread.sleep(500);
+                Thread.sleep(500);
             }
             currentFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
             if(currentFiles == prevFiles){

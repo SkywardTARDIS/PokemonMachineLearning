@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856581051",
+"p1": {
+"playerName": "dekukraken",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb", "Protect", "Encore", "Follow Me"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Blizzard"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Helping Hand", "Aurora Veil", "Blizzard", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Protect", "Nasty Plot"]
+}
+],
+"broughtTeam": ["Maushold", "Iron Bundle", "Abomasnow", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Cilan123",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Follow Me", "Encore", "Beat Up"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Armor Cannon"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Armarouge", "Annihilape", "Arboliva"]
+},
+"outcome": 0
+}

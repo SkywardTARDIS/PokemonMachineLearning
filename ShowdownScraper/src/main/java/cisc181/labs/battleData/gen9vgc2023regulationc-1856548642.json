@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856548642",
+"p1": {
+"playerName": "hhy6",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Stomping Tantrum"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Encore", "Torch Song", "Tera Blast", "Protect"]
+}
+],
+"broughtTeam": ["Bronzong", "Gastrodon", "Grimmsnarl", "Skeledirge"]
+},
+"p2": {
+"playerName": "PoGoboy",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "General Sandstorm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Klefki",
+"nickname": "Reginald Key",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "King Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet", "Ice Spinner"]
+},
+{
+"species": "Coalossal",
+"nickname": "Chef Campfire",
+"item": "Weakness Policy",
+"ability": "Steam Engine",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Protect"]
+}
+],
+"broughtTeam": ["Lycanroc", "Klefki", "Dragonite", "Coalossal"]
+},
+"outcome": 1
+}

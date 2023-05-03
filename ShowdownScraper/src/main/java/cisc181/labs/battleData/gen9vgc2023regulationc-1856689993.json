@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856689993",
+"p1": {
+"playerName": "mukdiamond",
+"fullTeam": [
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "Liechi Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Normal Gem",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Aqua Jet"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunderbolt", "Hyper Voice"]
+}
+],
+"broughtTeam": ["Florges", "Meowscarada", "Dragonite", "Oranguru"]
+},
+"p2": {
+"playerName": "hysaaron",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Taunt", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Iron Head", "Protect"]
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Flutter Mane", "Gyarados"]
+},
+"outcome": 0
+}

@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1856862264",
+"p1": {
+"playerName": "Nauticles",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "Fairy",
+"moves": ["Psych Up", "Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Close Combat"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Palafin"]
+},
+"p2": {
+"playerName": "Blastoise Farted",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Parting Shot", "Light Screen", "Reflect"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense", "Protect", "Salt Cure"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Calm Mind", "Draining Kiss", "Charm"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Instruct"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Garganacl", "Hatterene", "Oranguru"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856603996",
+"p1": {
+"playerName": "MAF1001",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Magnet",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Dark Pulse", "Volt Switch"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "Heavy-Duty Boots",
+"ability": "Intimidate",
+"teraType": "Ghost",
+"moves": ["Tailwind", "U-turn"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Rock Slide", "Drain Punch"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water"]
+}
+],
+"broughtTeam": ["Rotom", "Staraptor", "Annihilape", "Goodra"]
+},
+"p2": {
+"playerName": "Ocnarf30",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Ice Spinner"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge"]
+}
+],
+"broughtTeam": ["Tauros", "Dragonite", "Great Tusk", "Rotom"]
+},
+"outcome": 1
+}

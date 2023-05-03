@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856693716",
+"p1": {
+"playerName": "Bdogplatinum",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Trick Room", "Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Falinks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eiscue",
+"nickname": "Eiscue",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Zen Headbutt"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hatterene", "Indeedee", "Armarouge", "Eiscue"]
+},
+"p2": {
+"playerName": "TheMismatcher",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dual Wingbeat"]
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "",
+"ability": "Poison Touch",
+"teraType": "",
+"moves": ["Poison Jab", "Close Combat"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Throat Chop"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscool",
+"nickname": "Toedscool",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Trick Room", "Spore"]
+}
+],
+"broughtTeam": ["Salamence", "Toxicroak", "Chien-Pao", "Toedscool"]
+},
+"outcome": 1
+}

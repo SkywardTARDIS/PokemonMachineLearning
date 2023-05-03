@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856323019",
+"p1": {
+"playerName": "Froglock",
+"fullTeam": [
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "Grass",
+"moves": ["Body Press", "Rock Slide"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Solar Beam", "Pollen Puff"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Mudsdale", "Farigiraf", "Torkoal", "Amoonguss"]
+},
+"p2": {
+"playerName": "Rossarithm",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Haze", "Protect"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Leftovers",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Foul Play", "Skill Swap"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Fake Out", "Drain Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Palafin", "Umbreon", "Iron Hands", "Chien-Pao"]
+},
+"outcome": 1
+}

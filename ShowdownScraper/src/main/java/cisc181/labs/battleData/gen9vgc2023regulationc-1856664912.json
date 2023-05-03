@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856664912",
+"p1": {
+"playerName": "subChar",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Expanding Force", "Armor Cannon"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Focus Sash",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Sylveon"]
+},
+"p2": {
+"playerName": "Char7ine",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Lame Tortoise",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "rawr",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither",
+"item": "",
+"ability": "",
+"teraType": "Bug",
+"moves": ["Leech Life"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Roaring Moon", "Slither Wing"]
+},
+"outcome": 1
+}

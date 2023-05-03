@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856621066",
+"p1": {
+"playerName": "crakerd12",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Heat Wave"]
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Dragon Dance", "Outrage"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Raichu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Noivern",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Heracross", "Dragonite", "Gengar"]
+},
+"p2": {
+"playerName": "MAF1001",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Headlong Rush"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Dark Pulse"]
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Flamethrower", "Mud Shot"]
+}
+],
+"broughtTeam": ["Torkoal", "Great Tusk", "Rotom", "Goodra"]
+},
+"outcome": 0
+}

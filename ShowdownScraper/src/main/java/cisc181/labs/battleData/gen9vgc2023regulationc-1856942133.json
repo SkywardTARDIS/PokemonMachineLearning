@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856942133",
+"p1": {
+"playerName": "LeadTheRise",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["After You", "Sleep Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Flutter Mane", "Chien-Pao"]
+},
+"p2": {
+"playerName": "betelgeuse",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Detect", "Thunderbolt"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl", "Moonlight"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["X-Scissor", "Tera Blast", "Leaf Blade"]
+}
+],
+"broughtTeam": ["Jolteon", "Sylveon", "Umbreon", "Leafeon"]
+},
+"outcome": 0
+}

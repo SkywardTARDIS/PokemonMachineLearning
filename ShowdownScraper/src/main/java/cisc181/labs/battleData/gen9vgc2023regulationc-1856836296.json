@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856836296",
+"p1": {
+"playerName": "Osada",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Rage Fist", "Drain Punch", "Protect"]
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Coil", "Flamethrower", "Giga Drain", "Thunderbolt"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Seed Bomb"]
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+}
+],
+"broughtTeam": ["Annihilape", "Eelektross", "Brute Bonnet", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "merahmerona",
+"fullTeam": [
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fake Out", "Tickle", "Psychic"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Payback", "Protect", "Stomping Tantrum"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Altaria",
+"nickname": "Altaria",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Perish Song", "Protect", "Thief"]
+},
+{
+"species": "Kricketune",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gothorita", "Ting-Lu", "Cloyster", "Altaria"]
+},
+"outcome": 1
+}

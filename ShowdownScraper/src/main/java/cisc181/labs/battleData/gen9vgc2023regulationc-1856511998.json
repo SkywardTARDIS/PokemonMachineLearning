@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856511998",
+"p1": {
+"playerName": "Dual Tip",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard", "Hydro Pump", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Thunder Wave"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Ceruledge", "Scream Tail"]
+},
+"p2": {
+"playerName": "Rockymoreno2",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Shadow Ball"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Kowtow Cleave", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Skeledirge", "Oranguru", "Kingambit"]
+},
+"outcome": 0
+}

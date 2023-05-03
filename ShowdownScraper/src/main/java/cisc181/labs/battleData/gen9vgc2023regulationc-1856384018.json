@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856384018",
+"p1": {
+"playerName": "MammalianHybrid",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fiery Dance", "Bug Buzz", "Quiver Dance"]
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Hypnosis", "Lumina Crash"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Volcarona", "Espathra", "Oricorio", "Flamigo"]
+},
+"p2": {
+"playerName": "anshar_training",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cornelia",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Arcanine",
+"nickname": "Apolo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Susy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Benito",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Amoonguss", "Roaring Moon"]
+},
+"outcome": 1
+}

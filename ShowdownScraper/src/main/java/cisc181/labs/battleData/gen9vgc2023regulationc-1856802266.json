@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1856802266",
+"p1": {
+"playerName": "Hai8You",
+"fullTeam": [
+{
+"species": "Ampharos",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Alomomola",
+"nickname": "Bow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water"]
+},
+{
+"species": "Blissey",
+"nickname": "Fairy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Shadow Ball", "Soft-Boiled", "Thunder Wave"]
+},
+{
+"species": "Gyarados",
+"nickname": "Mau",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Dragon Dance", "Protect", "Earthquake", "Waterfall"]
+},
+{
+"species": "Sylveon",
+"nickname": "Psycho",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Alomomola", "Blissey", "Gyarados", "Sylveon"]
+},
+"p2": {
+"playerName": "surubinga",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Substitute"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed"]
+},
+{
+"species": "Alomomola",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "Steel",
+"moves": ["Tera Blast", "Eruption"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Flutter Mane", "Arcanine", "Torkoal"]
+},
+"outcome": 1
+}
