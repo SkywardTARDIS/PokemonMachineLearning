@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857551023",
+"p1": {
+"playerName": "Weebok",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Primeape",
+"nickname": "Primeape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Protect"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Extreme Speed"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Muk", "Primeape", "Gengar", "Arcanine"]
+},
+"p2": {
+"playerName": "DonPasic",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stone Edge", "Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Mortal Spin", "Earth Power", "Power Gem"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Glimmora", "Gyarados"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857283759",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Lurantis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Sambalilo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Torkoal",
+"nickname": "Pawikan",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption", "Protect", "Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Preggy",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Trick Room"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Ganryu",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Close Combat"]
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Indeedee", "Hariyama"]
+},
+"p2": {
+"playerName": "Masarute2",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Poison Jab"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Rain Dance"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Thunder", "Surf"]
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Clodsire", "Klefki", "Goodra"]
+},
+"outcome": 1
+}

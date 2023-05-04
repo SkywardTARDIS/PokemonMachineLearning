@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857260298",
+"p1": {
+"playerName": "clavo0025",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Ruination"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Swords Dance", "Play Rough", "Shadow Sneak"]
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Apple Acid", "Recover"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Iron Bundle", "Mimikyu", "Appletun"]
+},
+"p2": {
+"playerName": "Asuma199",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Soplapote",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Slack Off"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Metiche",
+"item": "Focus Sash",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Skill Swap", "Close Combat", "Bullet Punch"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranizilla",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Ghost",
+"moves": ["Substitute", "Shadow Claw"]
+},
+{
+"species": "Palafin",
+"nickname": "Patafinal",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Drain Punch"]
+}
+],
+"broughtTeam": ["Slowbro", "Medicham", "Tyranitar", "Palafin"]
+},
+"outcome": 1
+}

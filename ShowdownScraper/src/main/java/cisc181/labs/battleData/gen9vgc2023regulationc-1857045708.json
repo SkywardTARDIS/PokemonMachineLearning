@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857045708",
+"p1": {
+"playerName": "HoldaUno",
+"fullTeam": [
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Gravity"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Protect"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Trick Room", "Taunt", "Skill Swap", "Instruct"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chansey", "Ting-Lu", "Lycanroc", "Oranguru"]
+},
+"p2": {
+"playerName": "Stache_official",
+"fullTeam": [
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Doodle", "Scary Face", "Super Fang", "Parting Shot"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Serene Grace",
+"teraType": "",
+"moves": ["Bulk Up", "Facade"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "Focus Sash",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Grafaiai", "Slaking", "Rotom", "Toedscruel"]
+},
+"outcome": 1
+}

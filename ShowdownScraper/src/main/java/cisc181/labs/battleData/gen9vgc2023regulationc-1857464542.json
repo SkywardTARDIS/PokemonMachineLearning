@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857464542",
+"p1": {
+"playerName": "BlazinBoomsy",
+"fullTeam": [
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Wide Guard", "Calm Mind", "Air Slash", "Heal Pulse"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Reflect", "Dazzling Gleam"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Stone Edge"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam"]
+}
+],
+"broughtTeam": ["Gallade", "Farigiraf", "Ting-Lu", "Dondozo"]
+},
+"p2": {
+"playerName": "betelgeuse",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Muddy Water", "Chilling Water"]
+},
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Hyper Voice"]
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Psychic", "Reflect", "Light Screen"]
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+}
+],
+"broughtTeam": ["Vaporeon", "Sylveon", "Espeon", "Leafeon"]
+},
+"outcome": 0
+}

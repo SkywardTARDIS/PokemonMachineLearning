@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857374531",
+"p1": {
+"playerName": "XJ09",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Ice Fang"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bulk Up", "Drain Punch", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot"]
+}
+],
+"broughtTeam": ["Garganacl", "Gyarados", "Annihilape", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Bhaveesh2003",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Taunt"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Spirit Break", "Close Combat"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Sitrus Berry",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Protect", "Swords Dance", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Murkrow", "Palafin", "Iron Valiant", "Garchomp"]
+},
+"outcome": 1
+}

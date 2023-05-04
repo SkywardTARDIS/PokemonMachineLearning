@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857556583",
+"p1": {
+"playerName": "elpiblo",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Ingrain", "Protect", "Seed Bomb"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Room Service",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Stealth Rock", "Disable"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Brute Bonnet", "Annihilape", "Scream Tail"]
+},
+"p2": {
+"playerName": "Mikralas",
+"fullTeam": [
+{
+"species": "Ampharos",
+"nickname": "Amphos",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Magnetic Flux", "Protect", "Focus Blast", "Thunderbolt"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Psychic", "Moonblast", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxtricity",
+"nickname": "Toxtricity",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+}
+],
+"broughtTeam": ["Ampharos", "Gardevoir", "Toxtricity"]
+},
+"outcome": 0
+}

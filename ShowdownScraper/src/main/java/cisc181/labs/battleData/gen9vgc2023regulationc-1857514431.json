@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857514431",
+"p1": {
+"playerName": "noahthenumbat",
+"fullTeam": [
+{
+"species": "Gastly",
+"nickname": "Gastly",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Shadow Ball", "Psychic"]
+},
+{
+"species": "Stunky",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Crabrawler",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaxly",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Rock Slide", "High Horsepower", "Earthquake"]
+},
+{
+"species": "Bronzor",
+"nickname": "Bronzor",
+"item": "",
+"ability": "Levitate",
+"teraType": "Dark",
+"moves": ["Reflect", "Light Screen", "Flash Cannon"]
+}
+],
+"broughtTeam": ["Gastly", "Mudbray", "Bronzor"]
+},
+"p2": {
+"playerName": "Jo8h",
+"fullTeam": [
+{
+"species": "Drifloon",
+"nickname": "Drifloon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Air Cutter"]
+},
+{
+"species": "Makuhita",
+"nickname": "Makuhita",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Protect"]
+},
+{
+"species": "Skiddo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandile",
+"nickname": "Sandile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Crunch"]
+},
+{
+"species": "Tinkatink",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mareep",
+"nickname": "Mareep",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+}
+],
+"broughtTeam": ["Drifloon", "Makuhita", "Sandile", "Mareep"]
+},
+"outcome": 1
+}

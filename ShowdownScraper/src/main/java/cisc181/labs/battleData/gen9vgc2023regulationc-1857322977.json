@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857322977",
+"p1": {
+"playerName": "NilkSp",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Encore", "Super Fang", "Follow Me"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Protect"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Mago Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick Room", "Protect", "Psyshock"]
+}
+],
+"broughtTeam": ["Ceruledge", "Maushold", "Flutter Mane", "Gothitelle"]
+},
+"p2": {
+"playerName": "AootyPooty",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Air Balloon",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunder Wave", "Zing Zap", "Sucker Punch"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Pin Missile"]
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Belly Drum", "Earthquake"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Thorns", "Cetitan", "Abomasnow"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857261177",
+"p1": {
+"playerName": "kevsmoreno",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Donphan",
+"nickname": "Donphan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Knock Off"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Discharge"]
+},
+{
+"species": "Persian",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skuntank",
+"nickname": "Skuntank",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl", "Taunt", "Sludge Bomb"]
+}
+],
+"broughtTeam": ["Dragapult", "Donphan", "Rotom", "Skuntank"]
+},
+"p2": {
+"playerName": "Gazzlb",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Colbur Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Heal Pulse", "Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Expert Belt",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Tera Blast", "Heat Wave", "Expanding Force"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clawitzer",
+"nickname": "Clawitzer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Water Pulse"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Falinks",
+"nickname": "Falinks",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Megahorn"]
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Clawitzer", "Falinks"]
+},
+"outcome": 1
+}

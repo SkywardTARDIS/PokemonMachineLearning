@@ -19,12 +19,17 @@ import org.jsoup.select.Elements;
 
 public class Main {
     public static void main(String[] args) throws IOException, JsonException, InterruptedException {
-        scrapeData();
+//functions for getting enumerable data
         //getPokemonList();
         //getBattleItems();
         //getLegalMoves();
-        convertToTeams();
+        //getPokemonAbilities();
 
+//functions for pulling and then converting battle data
+        //scrapeData();
+        //convertToTeams();
+
+//functions for converting parsed data into vectors for algorithm application
         //ArrayList<teamsData> allBattles = new ArrayList<>();
         //revertTeamsFromJSON(allBattles);
     }
@@ -126,6 +131,7 @@ public class Main {
         for(int i=0; i<f; i++){
             File battleF = new File("src/main/java/cisc181/labs/battles/" + fileNames.get(i));
             try {
+                //only converts battle if it hasn't already
                 if (battleF.exists() && !newBattleFiles.contains(fileNames.get(i))) {
                     InputStream is = new FileInputStream(battleF);
                     JsonObject battleJson = (JsonObject) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
@@ -143,6 +149,7 @@ public class Main {
         //getUnique(itemLines, "item");
     }
 
+//Functions for parsing the battle log
     public static void parseLog(battleData dataLog, teamsData teams, ArrayList<String> abilityLines, ArrayList<String> itemLines, String battleID) throws IOException, JsonException {
         String[] logHolder = dataLog.log.split("\n");
         ArrayList<String> logLines = new ArrayList<>(Arrays.asList(logHolder));
@@ -493,6 +500,7 @@ public class Main {
         }
     }
 
+//Converts list jsons back to usable lists
     public static ArrayList<String> paldeaFromJson() throws IOException, JsonException {
         File paldeaDex = new File("src/main/java/cisc181/labs/lists/PaldeaDex.json");
         ArrayList<String> paldeaPokemon = new ArrayList<>();
@@ -532,6 +540,20 @@ public class Main {
         return paldeaItems;
     }
 
+    public static ArrayList<String> abilitiesFromJson() throws IOException, JsonException {
+        File paldeaDex = new File("src/main/java/cisc181/labs/lists/AbilitiesList.json");
+        ArrayList<String> paldeaAbilities = new ArrayList<>();
+        if(paldeaDex.exists()) {
+            InputStream is = new FileInputStream(paldeaDex);
+            JsonArray battleJson = (JsonArray) Jsoner.deserialize(IOUtils.toString(is, "UTF-8"));
+            for(int i=0; i<battleJson.size(); i++){
+                paldeaAbilities.add(battleJson.get(i).toString());
+            }
+        }
+        return paldeaAbilities;
+    }
+
+//web scrapers for getting list of all valid moves, items, Pokemon, and abilities (one time use)
     public static void getLegalMoves() throws IOException {
         ArrayList<String> illegal = new ArrayList<>();
         ArrayList<String> legal = new ArrayList<>();
@@ -606,10 +628,30 @@ public class Main {
         fw.close();
     }
 
+    public static void getPokemonAbilities() throws IOException {
+        Document dexHolder = Jsoup.connect("https://www.powerpyx.com/pokemon-scarlet-violet-all-abilities-list").get();
+        Element dexTable = dexHolder.select("ol").get(0);
+        Elements cells = dexTable.select("li");
+        ArrayList<String> pokemonList = new ArrayList<>();
+        for(int i=0; i< cells.size(); i++){
+            pokemonList.add(cells.get(i).text().split("–")[0].trim());
+        }
+
+        String writeFile ="src/main/java/cisc181/labs/lists/AbilitiesList.json";
+        FileWriter fw = new FileWriter(writeFile);
+        fw.write("[\"" + pokemonList.get(0) + "\"");
+        for(int i=1; i<pokemonList.size(); i++){
+            fw.write(", \n\"" + pokemonList.get(i) + "\"");
+        }
+        fw.write("]");
+        fw.close();
+    }
+
+//Pulls battle data from Pokemon Showdown website
     public static void scrapeData() throws JsonException, IOException, InterruptedException {
         int prevFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
         int currentFiles;
-        for(int i=14; i<=25; i++) {
+        for(int i=1; i<=25; i++) {
             System.out.println("Page: " + i);
             ArrayList<BattleList> idsList = new ArrayList<>();
             Document battleHolder = Jsoup.connect("https://replay.pokemonshowdown.com/search.json?format=gen9vgc2023regulationc&page=" + i).ignoreContentType(true).get();
@@ -628,7 +670,7 @@ public class Main {
                 fw.write(fullBattle.body().text());
                 fw.close();
                 System.out.println("Battle done");
-                Thread.sleep(500);
+                //Thread.sleep(500);
             }
             currentFiles = new File("src/main/java/cisc181/labs/battles/").listFiles().length;
             if(currentFiles == prevFiles){

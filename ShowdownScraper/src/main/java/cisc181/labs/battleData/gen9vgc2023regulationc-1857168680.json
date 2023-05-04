@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857168680",
+"p1": {
+"playerName": "Marvottolo",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Fungottolo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Blaze",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Flare Blitz"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ricettacolo",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam"]
+},
+{
+"species": "Annihilape",
+"nickname": "Incazzoscimmia",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Thunder Punch", "Drain Punch", "Rage Fist"]
+}
+],
+"broughtTeam": ["Amoonguss", "Arcanine", "Ting-Lu", "Annihilape"]
+},
+"p2": {
+"playerName": "ExcelSheet",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Headlong Rush", "Close Combat"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Safety Goggles",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind", "Taunt", "Bulk Up", "Brave Bird"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Great Tusk", "Corviknight", "Chi-Yu"]
+},
+"outcome": 0
+}

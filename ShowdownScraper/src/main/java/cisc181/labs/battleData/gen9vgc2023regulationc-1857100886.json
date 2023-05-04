@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857100886",
+"p1": {
+"playerName": "Lilbug0330",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect", "Thunderbolt"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Flamethrower"]
+}
+],
+"broughtTeam": ["Lycanroc", "Flutter Mane", "Tyranitar", "Garchomp"]
+},
+"p2": {
+"playerName": "Krib_Underscore",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Megaman",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Expanding Force", "Energy Ball", "Armor Cannon"]
+},
+{
+"species": "Indeedee",
+"nickname": "Bingidingle",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": [""]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Taxi Service",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Tailwind", "Roost", "Brave Bird"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "HoHoHomicide",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Hydro Pump", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Corviknight", "Iron Bundle"]
+},
+"outcome": 1
+}

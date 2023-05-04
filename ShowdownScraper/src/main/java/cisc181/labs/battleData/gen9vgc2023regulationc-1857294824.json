@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1857294824",
+"p1": {
+"playerName": "mtwoods444",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Protect", "Trick Room", "Yawn", "Chilling Water"]
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunderbolt", "Flash Cannon"]
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab", "Shadow Sneak", "Protect", "Drain Punch"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Slowbro", "Magneton", "Muk", "Vaporeon"]
+},
+"p2": {
+"playerName": "NicoHaxVGC",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Beast boy",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination"]
+},
+{
+"species": "Annihilape",
+"nickname": "Robin",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Water",
+"moves": ["Drain Punch", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Cyborg",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Star fire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Annihilape", "Iron Bundle", "Flutter Mane"]
+},
+"outcome": 1
+}

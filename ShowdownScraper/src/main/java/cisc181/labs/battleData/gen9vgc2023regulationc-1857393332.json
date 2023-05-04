@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857393332",
+"p1": {
+"playerName": "Joull",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Paul",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Leto",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Dragon Dance", "Rock Slide"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Gurney",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch", "Rage Fist", "Protect"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Idaho",
+"item": "",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Leech Seed", "Beat Up"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Tyranitar", "Annihilape", "Brambleghast"]
+},
+"p2": {
+"playerName": "SurpriseSensei",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Ice Shard"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Ting-Lu", "Ceruledge", "Abomasnow"]
+},
+"outcome": 1
+}

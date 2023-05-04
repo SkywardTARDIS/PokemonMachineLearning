@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857251449",
+"p1": {
+"playerName": "clavo0025",
+"fullTeam": [
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Quiver Dance", "Giga Drain"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Snarl", "Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Fissure", "Heavy Slam", "Stomping Tantrum"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "Appletun",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Apple Acid", "Recover"]
+}
+],
+"broughtTeam": ["Masquerain", "Arcanine", "Ting-Lu", "Appletun"]
+},
+"p2": {
+"playerName": "Asuma199",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "Soplapote",
+"item": "Leftovers",
+"ability": "Oblivious",
+"teraType": "Ice",
+"moves": ["Iron Defense", "Calm Mind", "Slack Off", "Stored Power"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "Slopapo",
+"item": "Sitrus Berry",
+"ability": "Oblivious",
+"teraType": "",
+"moves": ["Protect", "Trick Room", "Belch", "Future Sight"]
+},
+{
+"species": "Medicham",
+"nickname": "Metiche",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Bullet Punch"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranizilla",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Outrage"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowbro", "Slowking", "Medicham", "Tyranitar"]
+},
+"outcome": 0
+}

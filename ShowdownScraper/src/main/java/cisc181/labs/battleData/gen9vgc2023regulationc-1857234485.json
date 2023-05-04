@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857234485",
+"p1": {
+"playerName": "Bitt 24",
+"fullTeam": [
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Psychic Fangs", "Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "Dragon",
+"moves": ["Protect", "Draco Meteor", "Shadow Ball"]
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "Throat Spray",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Heat Wave", "Hyper Voice"]
+},
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Stomping Tantrum"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Barraskewda", "Dragapult", "Pyroar", "Clodsire"]
+},
+"p2": {
+"playerName": "Memebasedgod",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Space Jam",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Stomping Tantrum", "Fissure"]
+},
+{
+"species": "Arcanine",
+"nickname": "Paw Patrol",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Dragon Pulse", "Extreme Speed"]
+},
+{
+"species": "Gengar",
+"nickname": "Da Jokah Baybee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Bronzong",
+"nickname": "Taco Bell",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Night Shade", "Gravity", "Hypnosis"]
+},
+{
+"species": "Noivern",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pikachu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Arcanine", "Gengar", "Bronzong"]
+},
+"outcome": 0
+}

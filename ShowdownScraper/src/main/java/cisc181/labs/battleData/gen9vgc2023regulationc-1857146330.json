@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857146330",
+"p1": {
+"playerName": "ShadowDoyler",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Tahm Kench",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Nami",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Rotom",
+"nickname": "Zeri",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Hydro Pump", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Talonflame", "Rotom"]
+},
+"p2": {
+"playerName": "Topical Rainstorm",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water", "Draco Meteor"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Wild Charge", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Tatsugiri", "Arcanine"]
+},
+"outcome": 0
+}

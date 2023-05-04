@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857258206",
+"p1": {
+"playerName": "StridenVGC",
+"fullTeam": [
+{
+"species": "Toxtricity",
+"nickname": "Gumyun",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Boomburst", "Tera Blast"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Earthquake", "Heavy Slam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Sacred Sword"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Toxtricity", "Iron Treads", "Chien-Pao", "Arcanine"]
+},
+"p2": {
+"playerName": "test subject 2946N",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Live reaction",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Electric",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Grafaiai",
+"nickname": "recorded reaction",
+"item": "Air Balloon",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Doodle"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Wide Guard"]
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Grafaiai", "Garganacl", "Gengar"]
+},
+"outcome": 1
+}

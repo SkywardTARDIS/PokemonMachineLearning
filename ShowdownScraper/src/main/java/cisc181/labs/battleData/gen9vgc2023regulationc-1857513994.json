@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857513994",
+"p1": {
+"playerName": "noahthenumbat",
+"fullTeam": [
+{
+"species": "Gastly",
+"nickname": "Gastly",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Stunky",
+"nickname": "Stunky",
+"item": "Assault Vest",
+"ability": "",
+"teraType": "",
+"moves": ["Crunch", "Poison Jab", "Feint"]
+},
+{
+"species": "Crabrawler",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Quaxly",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "Eviolite",
+"ability": "Stamina",
+"teraType": "Grass",
+"moves": ["Rock Slide", "High Horsepower"]
+},
+{
+"species": "Bronzor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastly", "Stunky", "Mudbray"]
+},
+"p2": {
+"playerName": "Jo8h",
+"fullTeam": [
+{
+"species": "Drifloon",
+"nickname": "Drifloon",
+"item": "",
+"ability": "Aftermath",
+"teraType": "",
+"moves": ["Trick Room", "Shadow Ball"]
+},
+{
+"species": "Makuhita",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skiddo",
+"nickname": "Skiddo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Leech Seed"]
+},
+{
+"species": "Sandile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkatink",
+"nickname": "Tinkatink",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Protect"]
+},
+{
+"species": "Mareep",
+"nickname": "Mareep",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+}
+],
+"broughtTeam": ["Drifloon", "Skiddo", "Tinkatink", "Mareep"]
+},
+"outcome": 1
+}

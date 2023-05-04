@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857206223",
+"p1": {
+"playerName": "Eden_Riegan",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Claw", "Poison Jab", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+}
+],
+"broughtTeam": ["Tyranitar", "Garchomp", "Talonflame", "Houndstone"]
+},
+"p2": {
+"playerName": "Amongus6789",
+"fullTeam": [
+{
+"species": "Ampharos",
+"nickname": "Shep",
+"item": "Leftovers",
+"ability": "Static",
+"teraType": "Fairy",
+"moves": ["Electroweb", "Dazzling Gleam"]
+},
+{
+"species": "Luxray",
+"nickname": "Kitty",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Volt Switch", "Psychic Fangs", "Thunder Wave", "Snarl"]
+},
+{
+"species": "Scizor",
+"nickname": "Lobsta",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+},
+{
+"species": "Eelektross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "Spherical",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ampharos", "Luxray", "Scizor", "Electrode"]
+},
+"outcome": 0
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1857310525",
+"p1": {
+"playerName": "badatthis123",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Foul Play", "Tailwind"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Eject Pack",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Leaf Storm"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Focus Energy", "Draco Meteor", "Protect"]
+}
+],
+"broughtTeam": ["Murkrow", "Gholdengo", "Wo-Chien", "Hydreigon"]
+},
+"p2": {
+"playerName": "IceGymDuoOus",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Protect", "Salt Cure", "Recover"]
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Stealth Rock", "Spikes", "Earth Power"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Leppa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Nuzzle", "Revival Blessing"]
+}
+],
+"broughtTeam": ["Garganacl", "Drednaw", "Glimmora", "Pawmot"]
+},
+"outcome": 0
+}

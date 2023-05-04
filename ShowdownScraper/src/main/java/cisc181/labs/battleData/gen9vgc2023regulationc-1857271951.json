@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857271951",
+"p1": {
+"playerName": "Atiko0928",
+"fullTeam": [
+{
+"species": "Tsareena",
+"nickname": "My Queen",
+"item": "Sitrus Berry",
+"ability": "Queenly Majesty",
+"teraType": "",
+"moves": ["Trop Kick"]
+},
+{
+"species": "Talonflame",
+"nickname": "Taka",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "Goomba",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Tyson",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch", "Fire Punch"]
+}
+],
+"broughtTeam": ["Tsareena", "Talonflame", "Garchomp", "Iron Hands"]
+},
+"p2": {
+"playerName": "1 not 2",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spin Out"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Iron Hands", "Palafin", "Revavroom"]
+},
+"outcome": 1
+}

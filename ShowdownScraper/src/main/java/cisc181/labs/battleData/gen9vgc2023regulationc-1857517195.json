@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857517195",
+"p1": {
+"playerName": "Chaddyfootball",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Protect", "Jet Punch"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Sneak"]
+}
+],
+"broughtTeam": ["Arcanine", "Abomasnow", "Palafin", "Ceruledge"]
+},
+"p2": {
+"playerName": "usuallyze",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick", "Ally Switch", "Sucker Punch"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Apicot Berry",
+"ability": "Anger Point",
+"teraType": "Psychic",
+"moves": ["Flame Charge", "Zen Headbutt", "Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Tauros", "Annihilape"]
+},
+"outcome": 0
+}

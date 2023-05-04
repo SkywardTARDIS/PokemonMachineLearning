@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857204621",
+"p1": {
+"playerName": "rudyxkam",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Rodan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "T. Gojira",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Gigan",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Body Press", "Brave Bird"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Sker",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Heavy Slam", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Baxcalibur", "Corviknight", "Ting-Lu"]
+},
+"p2": {
+"playerName": "TranquEll",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Tailwind", "Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Aura Sphere"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Hydro Pump", "Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Aurora Veil", "Blizzard", "Energy Ball"]
+}
+],
+"broughtTeam": ["Corviknight", "Iron Valiant", "Rotom", "Abomasnow"]
+},
+"outcome": 1
+}

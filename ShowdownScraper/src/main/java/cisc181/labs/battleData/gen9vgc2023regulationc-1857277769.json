@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857277769",
+"p1": {
+"playerName": "OneStrangeOnion",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Thunder Wave"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Hex", "Perish Song"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Electric",
+"moves": ["Thunderbolt", "Shadow Ball", "Moonblast"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Make It Rain"]
+}
+],
+"broughtTeam": ["Sableye", "Gengar", "Flutter Mane", "Gholdengo"]
+},
+"p2": {
+"playerName": "zer0ck",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard", "Stomping Tantrum", "Soft-Boiled", "Flamethrower"]
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Electrode",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Toxapex",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Baneful Bunker", "Venoshock"]
+}
+],
+"broughtTeam": ["Blissey", "Haxorus", "Gengar", "Toxapex"]
+},
+"outcome": 1
+}

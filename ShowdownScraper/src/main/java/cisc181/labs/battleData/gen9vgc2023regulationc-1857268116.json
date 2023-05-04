@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857268116",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Lurantis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Sambalilo",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Mystical Fire"]
+},
+{
+"species": "Torkoal",
+"nickname": "Pawikan",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Indeedee",
+"nickname": "Preggy",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand", "Follow Me", "Trick Room"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "Ganryu",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Indeedee", "Hariyama"]
+},
+"p2": {
+"playerName": "Auraen",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Wide Guard"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Swords Dance", "Drain Punch"]
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Pelipper", "Iron Hands", "Magnezone"]
+},
+"outcome": 0
+}
