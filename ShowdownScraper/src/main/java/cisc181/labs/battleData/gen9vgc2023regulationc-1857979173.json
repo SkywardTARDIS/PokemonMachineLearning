@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857979173",
+"p1": {
+"playerName": "PkmnTrainerHotPink",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Gyro Ball", "Trick Room"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Arcanine", "Bronzong"]
+},
+"p2": {
+"playerName": "OwanTanSoup",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Protect", "Close Combat", "Bitter Blade"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Surf", "Icy Wind"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Helping Hand", "Hyper Voice"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Misdreavus",
+"nickname": "Misdreavus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Shadow Sneak"]
+}
+],
+"broughtTeam": ["Ceruledge", "Gastrodon", "Sylveon", "Misdreavus"]
+},
+"outcome": 1
+}

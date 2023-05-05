@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858016270",
+"p1": {
+"playerName": "Chinooooooo",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Drain Punch", "Protect"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Aguav Berry",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Dark Pulse", "Discharge", "Overheat"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "Gooey",
+"teraType": "",
+"moves": ["Flamethrower", "Thunderbolt", "Sunny Day", "Life Dew"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Muk", "Rotom", "Goodra", "Great Tusk"]
+},
+"p2": {
+"playerName": "trnchi",
+"fullTeam": [
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Fly"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Protect", "Thunderbolt"]
+},
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Blast", "Bug Buzz"]
+}
+],
+"broughtTeam": ["Gengar", "Dragonite", "Raichu", "Heracross"]
+},
+"outcome": 1
+}

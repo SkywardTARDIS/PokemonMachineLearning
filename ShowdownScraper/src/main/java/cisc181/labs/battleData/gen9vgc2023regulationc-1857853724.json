@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857853724",
+"p1": {
+"playerName": "ELFRAN132",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Helping Hand", "Strength Sap"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Shadow Ball", "Protect"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+}
+],
+"broughtTeam": ["Drifblim", "Flutter Mane", "Tatsugiri", "Arcanine"]
+},
+"p2": {
+"playerName": "Plexionth",
+"fullTeam": [
+{
+"species": "Salazzle",
+"nickname": "Smash so hard",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Acid Spray", "Poison Gas"]
+},
+{
+"species": "Torkoal",
+"nickname": "Cool but pass",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Pass",
+"item": "Eject Pack",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Leaf Storm"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Hear me out",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Salazzle", "Torkoal", "Amoonguss", "Flutter Mane"]
+},
+"outcome": 1
+}

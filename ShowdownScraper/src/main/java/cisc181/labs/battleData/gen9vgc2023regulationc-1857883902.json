@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857883902",
+"p1": {
+"playerName": "littleh4ck",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Iron Head"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff", "Rage Powder", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Close Combat"]
+}
+],
+"broughtTeam": ["Kingambit", "Chien-Pao", "Amoonguss", "Iron Hands"]
+},
+"p2": {
+"playerName": "Iron Daddy",
+"fullTeam": [
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Iron Jugulis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "Tailwind"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Blunder Policy",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Mismagius",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Thorns", "Iron Jugulis", "Rotom", "Maushold"]
+},
+"outcome": 0
+}

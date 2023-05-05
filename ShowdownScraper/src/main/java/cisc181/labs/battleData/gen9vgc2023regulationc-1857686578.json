@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857686578",
+"p1": {
+"playerName": "FalkSV",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Protect", "Taunt"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Body Press"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Arcanine", "Gyarados", "Ting-Lu"]
+},
+"p2": {
+"playerName": "kaizerfattah",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Hot Loaf",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press", "Yawn", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Ghost pepper",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Popsicle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Ice Shard", "Glaive Rush", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Smoked fillet",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Flutter Mane", "Baxcalibur", "Chi-Yu"]
+},
+"outcome": 0
+}

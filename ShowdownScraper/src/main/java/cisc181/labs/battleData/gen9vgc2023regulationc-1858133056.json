@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858133056",
+"p1": {
+"playerName": "bluezuzu",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Tailwind", "X-Scissor", "Bullet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Heat Wave"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Helping Hand"]
+}
+],
+"broughtTeam": ["Tyranitar", "Scizor", "Arcanine", "Sylveon"]
+},
+"p2": {
+"playerName": "RazorSquid",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Roseli Berry",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Drain Punch", "Taunt", "Phantom Force"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Sitrus Berry",
+"ability": "Sword of Ruin",
+"teraType": "Fire",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide", "Earthquake"]
+}
+],
+"broughtTeam": ["Vivillon", "Annihilape", "Chien-Pao", "Ting-Lu"]
+},
+"outcome": 0
+}

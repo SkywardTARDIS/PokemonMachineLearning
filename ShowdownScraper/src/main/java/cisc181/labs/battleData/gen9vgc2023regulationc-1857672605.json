@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857672605",
+"p1": {
+"playerName": "austinerzs",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psych Up", "Psychic", "Protect"]
+},
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Glaive Rush"]
+}
+],
+"broughtTeam": ["Pachirisu", "Armarouge", "Indeedee", "Baxcalibur"]
+},
+"p2": {
+"playerName": "OMGPACHIMARI",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Wide Guard", "Recover", "Heavy Slam"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bite"]
+},
+{
+"species": "Dedenne",
+"nickname": "Dedenne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain"]
+}
+],
+"broughtTeam": ["Garganacl", "Iron Valiant", "Gyarados", "Dedenne"]
+},
+"outcome": 1
+}

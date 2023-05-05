@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857669173",
+"p1": {
+"playerName": "austinerzs",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Chople Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Protect", "Iron Head"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Swords Dance", "Protect", "Ice Shard"]
+}
+],
+"broughtTeam": ["Kingambit", "Hatterene", "Baxcalibur"]
+},
+"p2": {
+"playerName": "OMGPACHIMARI",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Follow Me"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aura Sphere", "Protect", "Thunderbolt"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Waterfall", "Bite"]
+},
+{
+"species": "Dedenne",
+"nickname": "Dedenne",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "U-turn"]
+}
+],
+"broughtTeam": ["Indeedee", "Iron Valiant", "Gyarados", "Dedenne"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858062782",
+"p1": {
+"playerName": "Rean412",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Yawn", "Substitute", "Giga Impact", "Shadow Claw"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Doodle", "Toxic", "Gunk Shot", "Parting Shot"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Calm Mind"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Leftovers",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Armor Cannon", "Trick", "Expanding Force"]
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Flutter Mane", "Armarouge"]
+},
+"p2": {
+"playerName": "Nadoof",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Focus Sash",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Ruination", "Protect", "Pollen Puff"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Arcanine", "Wo-Chien"]
+},
+"outcome": 1
+}

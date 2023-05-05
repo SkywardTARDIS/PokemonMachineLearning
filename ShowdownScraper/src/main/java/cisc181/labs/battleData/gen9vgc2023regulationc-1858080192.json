@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858080192",
+"p1": {
+"playerName": "meteor1101",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "치파오",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Throat Chop"]
+},
+{
+"species": "Dragonite",
+"nickname": "재벌집망나니",
+"item": "Life Orb",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Extreme Speed", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "머리치는날개",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "디모",
+"item": "Covert Cloak",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Psyshock", "Taunt", "Protect"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Flutter Mane", "Gothitelle"]
+},
+"p2": {
+"playerName": "stomachpumper",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Iron Head", "Dragon Claw", "Earthquake"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Jet Punch"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Garchomp", "Palafin", "Iron Valiant"]
+},
+"outcome": 1
+}

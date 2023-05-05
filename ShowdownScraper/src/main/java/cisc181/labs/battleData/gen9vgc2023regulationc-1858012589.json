@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1858012589",
+"p1": {
+"playerName": "MEntalpengi",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Lappy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Lax Kun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Heavy Slam", "Drain Punch"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Squirt",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power", "Hydro Pump", "Icy Wind"]
+},
+{
+"species": "Arcanine",
+"nickname": "Zard",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Hands", "Gastrodon", "Arcanine"]
+},
+"p2": {
+"playerName": "Tempest brute",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Body Press", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Jaw Lock", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Will-O-Wisp", "Torch Song", "Slack Off"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Roaring Moon", "Klefki", "Skeledirge"]
+},
+"outcome": 1
+}

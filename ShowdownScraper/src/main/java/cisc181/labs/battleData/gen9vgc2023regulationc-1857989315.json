@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857989315",
+"p1": {
+"playerName": "Mattando97",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "Fadgie",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press"]
+},
+{
+"species": "Flareon",
+"nickname": "Nala",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Squawkabilly",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dozo Express",
+"item": "Chesto Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Body Press", "Rest", "Order Up"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Donductor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dachsbun", "Flareon", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Jimpo01",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Tailwind", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Ditto",
+"nickname": "Ditto",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed", "Mach Punch"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Ice Punch", "Night Slash"]
+}
+],
+"broughtTeam": ["Talonflame", "Ditto", "Breloom", "Weavile"]
+},
+"outcome": 1
+}

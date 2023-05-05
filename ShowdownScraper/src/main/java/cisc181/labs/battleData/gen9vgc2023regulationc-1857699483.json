@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857699483",
+"p1": {
+"playerName": "fkhg",
+"fullTeam": [
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Boomburst"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Helping Hand"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Noivern", "Sylveon", "Iron Hands", "Chi-Yu"]
+},
+"p2": {
+"playerName": "fooms",
+"fullTeam": [
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "Occa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Torch Song"]
+},
+{
+"species": "Dragalge",
+"nickname": "Dragalge",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb", "Draco Meteor"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Toedscruel", "Skeledirge", "Dragalge", "Gardevoir"]
+},
+"outcome": 1
+}

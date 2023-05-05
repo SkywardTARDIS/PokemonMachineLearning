@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857990995",
+"p1": {
+"playerName": "fakeplayer21",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Mabosstiff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Quick Attack", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Meowscarada", "Flareon"]
+},
+"p2": {
+"playerName": "Behindyaa",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects", "Crunch"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Pressure",
+"teraType": "Poison",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Houndstone", "Arboliva", "Corviknight"]
+},
+"outcome": 1
+}

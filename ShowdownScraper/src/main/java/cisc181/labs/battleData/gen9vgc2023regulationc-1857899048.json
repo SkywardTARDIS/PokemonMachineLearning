@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857899048",
+"p1": {
+"playerName": "Lealrec",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Dark Pulse", "Heat Wave", "Protect"]
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Yawn"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Aguav Berry",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Tera Blast", "Protect", "Giga Drain", "Dark Pulse"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Vaporeon", "Wo-Chien"]
+},
+"p2": {
+"playerName": "mangomeister18",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Bong Water",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Iron Head", "Earthquake", "Close Combat", "Aqua Jet"]
+},
+{
+"species": "Coalossal",
+"nickname": "Roach",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Stems",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Florges",
+"nickname": "Flower",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Giga Drain", "Wish", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Copperajah",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Coalossal", "Arboliva", "Florges"]
+},
+"outcome": 0
+}

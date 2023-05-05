@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857820223",
+"p1": {
+"playerName": "Publio Tolomeo",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Air Cutter"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Shell Smash", "Rock Slide"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Shed Tail", "Protect", "Body Press"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Kilowattrel", "Drednaw", "Orthworm"]
+},
+"p2": {
+"playerName": "PokemonOG92 #4489",
+"fullTeam": [
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Trick Room", "Aura Sphere"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Red Card",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Focus Sash",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Wide Guard", "Liquidation", "Acrobatics"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Greedent",
+"nickname": "Iron Squirrel",
+"item": "Sitrus Berry",
+"ability": "Cheek Pouch",
+"teraType": "Grass",
+"moves": ["Belly Drum", "Protect", "Facade", "Earthquake"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Flamigo", "Greedent"]
+},
+"outcome": 0
+}

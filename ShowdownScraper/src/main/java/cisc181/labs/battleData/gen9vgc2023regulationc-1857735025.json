@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857735025",
+"p1": {
+"playerName": "RaimuBeat",
+"fullTeam": [
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Bismuth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Arboliva",
+"nickname": "Steven",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "Ground",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Garnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Spinel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Arboliva", "Iron Hands", "Mimikyu"]
+},
+"p2": {
+"playerName": "SeaOfBlueFlowers",
+"fullTeam": [
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Absorb", "Tailwind"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Jumpluff", "Roaring Moon", "Torkoal"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857818329",
+"p1": {
+"playerName": "Mafijoka",
+"fullTeam": [
+{
+"species": "Dugtrio",
+"nickname": "Dugtrio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Blast", "Protect"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Wrap", "Spore"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Sucker Punch", "Light Screen", "Reflect"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Recover", "Salt Cure", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dugtrio", "Toedscruel", "Grimmsnarl", "Garganacl"]
+},
+"p2": {
+"playerName": "Pookie Prince D",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Primeape",
+"nickname": "Primeape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Drain Punch"]
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Acid Spray", "Giga Drain"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Psyshock", "Imprison", "Trick Room"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Primeape", "Eelektross", "Oranguru"]
+},
+"outcome": 1
+}

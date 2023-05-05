@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857750190",
+"p1": {
+"playerName": "Crest of Thunders",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "5UM0",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "Tigger",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Claude",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Sand Tomb"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Gravestone",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Arcanine", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Feng75",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Protect"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Energy Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Encore", "Freeze-Dry"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Glimmora", "Chi-Yu", "Iron Bundle"]
+},
+"outcome": 1
+}

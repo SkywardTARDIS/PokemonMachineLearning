@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857922786",
+"p1": {
+"playerName": "Avaddov",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Dol-Might",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Bowl Moose",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Earthquake", "Ruination"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Roost"]
+},
+{
+"species": "Tsareena",
+"nickname": "Thiccorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trop Kick", "U-turn"]
+}
+],
+"broughtTeam": ["Palafin", "Ting-Lu", "Corviknight", "Tsareena"]
+},
+"p2": {
+"playerName": "Charlisito",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "Grass",
+"moves": ["Parabolic Charge", "Volt Switch", "Muddy Water", "Tera Blast"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Flutter Mane", "Bellibolt"]
+},
+"outcome": 0
+}

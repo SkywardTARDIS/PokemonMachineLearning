@@ -32,6 +32,129 @@ public class Main {
 //functions for converting parsed data into vectors for algorithm application
         //ArrayList<teamsData> allBattles = new ArrayList<>();
         //revertTeamsFromJSON(allBattles);
+        //writeBattlesToVector(allBattles);
+    }
+
+    public static void writeBattlesToVector(ArrayList<teamsData> allBattles) throws IOException, JsonException {
+        ArrayList<String> paldeaDex = paldeaFromJson();
+        ArrayList<String> itemDex = itemsFromJson();
+        ArrayList<String> abilityDex = abilitiesFromJson();
+        ArrayList<String> moveDex = movesFromJson();
+        //How do I want to express the data???
+        // <label> <TeamPokemon> <BroughtPokemon> <Items> <Moves> <Abilities>
+        //    1         400            400          173     638         298     = 1910 ???
+        //Times two, to account for player one and player two???
+        //Store as 0 for neither, 1 for p1, 2 for p2, or 3 for both brought
+        //Convert to binary array inside of python implementation?
+        //For any attribute where the value is always 0, remove it from data set?
+        File teamFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
+        FileWriter fw = new FileWriter(teamFile);
+
+        //writing the enumerable files as column headers
+        fw.write("winner");
+        for(int i=0; i<paldeaDex.size(); i++){ //Full Team
+            fw.write("," + paldeaDex.get(i));
+        }
+        for(int i=0; i<paldeaDex.size(); i++){ //Brought Team
+            fw.write("," + paldeaDex.get(i));
+        }
+        for(int i=0; i<itemDex.size(); i++){ //Items
+            fw.write("," + itemDex.get(i));
+        }
+        for(int i=0; i<moveDex.size(); i++){ //Moves
+            fw.write("," + moveDex.get(i));
+        }
+        for(int i=0; i<abilityDex.size(); i++){ //Abilities
+            fw.write("," + abilityDex.get(i));
+        }
+
+        //converting battle data into vector
+        for(int i=0; i<allBattles.size(); i++){
+            if(i%100 == 0){
+                System.out.println(i);
+                System.out.println(allBattles.get(i).outcome);
+            }
+            teamsData currentBattle = allBattles.get(i);
+            fw.write("\n" + currentBattle.outcome);
+            int currentValue;
+
+            //Full Team
+            for(int j=0; j <paldeaDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).species.equals(paldeaDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).species.equals(paldeaDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Brought Team
+            for(int j=0; j <paldeaDex.size(); j++){
+                currentValue = 0;
+                if(currentBattle.p1.broughtTeam.contains(paldeaDex.get(j))){
+                    currentValue += 1;
+                }
+                if(currentBattle.p2.broughtTeam.contains(paldeaDex.get(j))){
+                    currentValue += 2;
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Items
+            for(int j=0; j <itemDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).item.equals(itemDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).item.equals(itemDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Moves
+            for(int j=0; j <moveDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentValue < 1 && currentBattle.p1.fullTeam.get(k).moves.contains(moveDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentValue < 2 && currentBattle.p2.fullTeam.get(k).moves.contains(moveDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Abilities
+            for(int j=0; j <abilityDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).ability.equals(abilityDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).ability.equals(abilityDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+        }
+        fw.close();
     }
 
     public static void revertTeamsFromJSON(ArrayList<teamsData> allBattles) throws IOException {

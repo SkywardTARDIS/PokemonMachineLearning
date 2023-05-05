@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1857789016",
+"p1": {
+"playerName": "Lewlo",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed", "Flare Blitz"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Wigfrid",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Iron Head", "Bulk Up", "Brave Bird", "Roost"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Arcanine", "Amoonguss", "Corviknight", "Flutter Mane"]
+},
+"p2": {
+"playerName": "brood34",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Competitive",
+"teraType": "",
+"moves": ["Discharge", "Air Slash", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Will-O-Wisp", "Discharge"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Protect"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Great Tusk", "Rotom", "Scizor"]
+},
+"outcome": 1
+}

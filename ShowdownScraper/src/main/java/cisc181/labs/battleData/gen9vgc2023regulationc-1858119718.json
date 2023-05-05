@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1858119718",
+"p1": {
+"playerName": "CryogonationInc",
+"fullTeam": [
+{
+"species": "Cryogonal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Camerupt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bug Buzz"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Instruct", "Psychic", "Protect", "Encore"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Hatterene", "Rabsca", "Oranguru", "Scizor"]
+},
+"p2": {
+"playerName": "yollaxi",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Weakness Policy",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Raging Bull"]
+},
+{
+"species": "Veluza",
+"nickname": "Veluza",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Wugtrio",
+"nickname": "Wugtrio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Aqua Jet"]
+},
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Veluza", "Wugtrio", "Crabominable"]
+},
+"outcome": 1
+}
