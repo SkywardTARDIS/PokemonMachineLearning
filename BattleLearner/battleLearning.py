@@ -10,32 +10,47 @@ def removeIrrelevant():
     for row in file:
         data.append([int(float(x)) for x in row.split(",")])
     data = numpy.array(data)
-    attributes = numpy.array(data[0,1:])
+    attributes = numpy.array(data[0,:])
     labels = numpy.array(data[1:,0])
-    data = numpy.delete(data, 0 , 1)
-    data = numpy.delete(data, 0, 0)
     numColumns = len(attributes)
-    i = 0
+    i = 1
     while i < numColumns:
         removeRow = True
-        for j in range(len(labels) - 2):
-            if data[j][i] != data [j+1][i]:
+        '''for j in range(len(labels) - 1):
+            if int(data[j+1][i]) != int(data[j+2][i]):
                 removeRow = False
+        print(removeRow)
+        print(attributes[i])'''
+        holderRow = numpy.array(data[:,i])
+        for j in range(len(holderRow)-1):
+            if int(holderRow[j+1]) > 0:
+                removeRow = False
+        #print(attributes[i])
+        #print(removeRow)
+        #print(holderRow)
         if(removeRow):
-            #print(attributes[i])
+            print(attributes[i])
             data  = numpy.delete(data, i, 1)
             attributes = numpy.delete(attributes, i)
             numColumns = numColumns - 1
         else:
             i = i + 1
-    data = numpy.concatenate((labels, data), 0)
-    data = numpy.concatenate((attributes, data), 1)
-    #writeFile = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/simplifiedBattles.txt", 'w')
-    numpy.savetxt("./ShowdownScraper/src/main/java/cisc181/labs/finalData/simplifiedBattles.txt", data, delimiter=',')
+
+    writeFile = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/simplifiedBattles.txt", 'w')
+
+    writeFile.write(str(data[0][0]))
+    for j in range(len(data[0]) - 1):
+        writeFile.write("," + str(data[0][j+1]))
+
+    for i in range(len(data) - 1):
+        writeFile.write("\n" + str(data[i+1][0]))
+        for j in range(len(data[0]) - 1):
+            writeFile.write("," + str(data[i+1][j+1]))
 
 
 def main():
-    removeIrrelevant()
+    #removeIrrelevant()
+    print("placeholder line")
 
 if __name__ == "__main__":
     main()
