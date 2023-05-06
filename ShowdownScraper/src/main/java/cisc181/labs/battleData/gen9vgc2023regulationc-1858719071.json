@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858719071",
+"p1": {
+"playerName": "SnackIsle",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Weakness Policy",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Solar Beam", "Earth Power"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Ally Switch", "Trick Room", "Armor Cannon"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Clear Smog"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Dragon Claw", "Zen Headbutt"]
+}
+],
+"broughtTeam": ["Torkoal", "Armarouge", "Amoonguss", "Roaring Moon"]
+},
+"p2": {
+"playerName": "manolynx",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Extreme Speed"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Hydro Pump", "Protect", "Thunderbolt"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Slither Wing",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Reflect", "Light Screen", "Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Misdreavus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Rotom", "Slither Wing", "Klefki"]
+},
+"outcome": 1
+}

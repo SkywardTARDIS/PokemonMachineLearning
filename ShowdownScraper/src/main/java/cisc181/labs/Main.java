@@ -2,6 +2,7 @@ package cisc181.labs;
 
 import java.io.*;
 import java.lang.reflect.Array;
+import java.nio.Buffer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
@@ -33,6 +34,47 @@ public class Main {
         //ArrayList<teamsData> allBattles = new ArrayList<>();
         //revertTeamsFromJSON(allBattles);
         //writeBattlesToVector(allBattles);
+
+//simplifying by removing unnecessary data
+        simplifyData();
+    }
+
+    public static void simplifyData() throws IOException {
+        File dataFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
+        FileReader fr = new FileReader(dataFile);
+        BufferedReader br = new BufferedReader(fr);
+        String lineHolder;
+        ArrayList<ArrayList<String>> data  = new ArrayList<>();
+        while((lineHolder = br.readLine()) != null){
+            data.add(new ArrayList<>(Arrays.asList(lineHolder.split(","))));
+        }
+        br.close();
+        fr.close();
+        //System.out.println(data.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        int i=1;
+        while(i<data.get(0).size()){
+            boolean removeRow = true;
+            for(int j=1; j<data.size()-1; j++){
+                if(!data.get(j).get(i).equals(data.get(j+1).get(i))){
+                    removeRow = false;
+                }
+            }
+            if(removeRow){
+                //System.out.println(data.get(0).get(i));
+                for(int j=0; j<data.size(); j++){
+                    data.get(j).remove(i);
+                }
+            }else{
+                i++;
+            }
+        }
+        File simplified = new File("src/main/java/cisc181/labs/finalData/simplifiedJava.txt");
+        FileWriter fw = new FileWriter(simplified);
+        fw.write(data.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        for(int j=1; j<data.size(); j++){
+            fw.write("\n" + data.get(j).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        }
+        fw.close();
     }
 
     public static void writeBattlesToVector(ArrayList<teamsData> allBattles) throws IOException, JsonException {

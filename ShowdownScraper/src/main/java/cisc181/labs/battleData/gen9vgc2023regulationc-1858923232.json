@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858923232",
+"p1": {
+"playerName": "Tomatosaurs",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Extreme Speed"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Earth Power", "Protect", "Eruption"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["After You", "Leaf Storm", "Sleep Powder", "Protect"]
+}
+],
+"broughtTeam": ["Great Tusk", "Dragonite", "Torkoal", "Lilligant"]
+},
+"p2": {
+"playerName": "S4mm3h",
+"fullTeam": [
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Trick Room", "Instruct", "Yawn"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Sitrus Berry",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Fake Out", "Follow Me"]
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Earthquake", "Tera Blast"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "Good as Gold",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oranguru", "Indeedee", "Coalossal", "Gholdengo"]
+},
+"outcome": 1
+}

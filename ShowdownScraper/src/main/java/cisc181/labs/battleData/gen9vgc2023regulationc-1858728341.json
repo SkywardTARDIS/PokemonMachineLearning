@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858728341",
+"p1": {
+"playerName": "Pugwah",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Fissure"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Bulk Up", "Drain Punch"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Arcanine", "Ceruledge", "Annihilape"]
+},
+"p2": {
+"playerName": "Sakpex",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "FANCY",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "Espresso",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Stomping Tantrum", "Tailwind", "Extreme Speed"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Trouble",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chien-Pao", "Dragonite", "Great Tusk"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858710746",
+"p1": {
+"playerName": "azrienvgc",
+"fullTeam": [
+{
+"species": "Houndoom",
+"nickname": "Akainu",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "M.D.Dragon",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Rock Slide"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Kuzan",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Tera Blast", "Electric Terrain"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Luxray",
+"nickname": "Kizaru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Houndoom", "Salamence", "Iron Bundle", "Luxray"]
+},
+"p2": {
+"playerName": "TheEeveeAnimations",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Leia",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "Flying",
+"moves": ["Follow Me", "Trick Room", "Imprison"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Jabba",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Earthquake", "Drain Punch"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Iron Hands"]
+},
+"outcome": 0
+}

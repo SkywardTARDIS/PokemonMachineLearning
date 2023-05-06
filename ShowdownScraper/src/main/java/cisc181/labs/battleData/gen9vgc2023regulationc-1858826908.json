@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858826908",
+"p1": {
+"playerName": "Blue Duck Pond",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Air Cutter"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Quiver Dance", "Giga Drain"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hydro Pump", "Icy Wind", "Roost"]
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Leech Seed"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Frosmoth", "Pelipper", "Scovillain"]
+},
+"p2": {
+"playerName": "gggr45",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Protect", "Body Press"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick", "Spirit Break", "Sucker Punch"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Encore", "Torch Song"]
+}
+],
+"broughtTeam": ["Torkoal", "Gastrodon", "Grimmsnarl", "Skeledirge"]
+},
+"outcome": 0
+}

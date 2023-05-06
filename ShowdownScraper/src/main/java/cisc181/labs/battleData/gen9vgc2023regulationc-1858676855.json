@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1858676855",
+"p1": {
+"playerName": "Ysalcrak",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Earthquake", "Dragon Claw", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Iron Hands", "Chi-Yu", "Garchomp"]
+},
+"p2": {
+"playerName": "RadiantBlue4552",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Curse", "Slack Off", "Drain Punch"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Fake Out"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+}
+],
+"broughtTeam": ["Slaking", "Sableye", "Roaring Moon", "Arcanine"]
+},
+"outcome": 1
+}

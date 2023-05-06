@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858761518",
+"p1": {
+"playerName": "OneStrangeOnion",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Waterfall", "Ice Spinner"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "Bug",
+"moves": ["Hurricane", "U-turn", "Surf"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Toxic Spikes", "Earthquake"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Icy Wind"]
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Azumarill", "Pelipper", "Clodsire", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Moonrockdoobie",
+"fullTeam": [
+{
+"species": "Vespiquen",
+"nickname": "Vespiquen",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Fury Cutter"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hypno",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "Psychic",
+"moves": ["Psychic"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psych Up", "Future Sight"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "Good as Gold",
+"teraType": "",
+"moves": ["Reflect", "Nasty Plot", "Make It Rain"]
+}
+],
+"broughtTeam": ["Vespiquen", "Indeedee", "Gothorita", "Gholdengo"]
+},
+"outcome": 1
+}
