@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858294628",
+"p1": {
+"playerName": "brood34",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Tailwind", "Protect", "Air Slash"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Overheat"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Bullet Punch", "U-turn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kilowattrel", "Great Tusk", "Rotom", "Scizor"]
+},
+"p2": {
+"playerName": "mafumafusimpsimp",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Cat",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Queen Gambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Only Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Protect"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Fumble",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Kingambit", "Iron Hands", "Iron Bundle"]
+},
+"outcome": 1
+}

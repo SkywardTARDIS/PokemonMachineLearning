@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858569070",
+"p1": {
+"playerName": "judevgc",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain", "Thunderbolt"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball", "Sludge Bomb"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "Fairy",
+"moves": ["Trick Room", "Dazzling Gleam", "Helping Hand", "Follow Me"]
+},
+{
+"species": "Brambleghast",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Eelektross", "Glimmora", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "Tr1pl3-33",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "EmoKid85",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Shadow Ball", "Energy Ball"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Let him krook",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Crunch"]
+},
+{
+"species": "Toxtricity",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Spiritomb",
+"nickname": "Aldi Genie Lamp",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Ally Switch", "Sucker Punch"]
+},
+{
+"species": "Floatzel",
+"nickname": "I cant swim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Crunch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Krookodile", "Spiritomb", "Floatzel"]
+},
+"outcome": 1
+}

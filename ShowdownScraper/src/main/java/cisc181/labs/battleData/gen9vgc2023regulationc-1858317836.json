@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858317836",
+"p1": {
+"playerName": "878g",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Nasty Plot", "Dragon Pulse", "Muddy Water"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Crunch", "Psychic Fangs"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulldoze"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Annihilape", "Chien-Pao", "Dondozo"]
+},
+"p2": {
+"playerName": "Mortipherus",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Clear Smog", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak", "Bulk Up", "Protect", "Bitter Blade"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect", "Moonblast"]
+}
+],
+"broughtTeam": ["Salamence", "Amoonguss", "Ceruledge", "Iron Valiant"]
+},
+"outcome": 0
+}

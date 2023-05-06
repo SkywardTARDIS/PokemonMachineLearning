@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858295798",
+"p1": {
+"playerName": "MissIN0",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "Levitate",
+"teraType": "Fire",
+"moves": ["Protect", "Draco Meteor", "Focus Energy", "Heat Wave"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Air Slash", "Tailwind"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hydreigon", "Mimikyu", "Kilowattrel", "Iron Hands"]
+},
+"p2": {
+"playerName": "appokalypstik",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Goobrow",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom-Goob",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Nasty Plot", "Protect"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Goob",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu-Shamones",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Snarl"]
+}
+],
+"broughtTeam": ["Murkrow", "Rotom", "Great Tusk", "Chi-Yu"]
+},
+"outcome": 1
+}

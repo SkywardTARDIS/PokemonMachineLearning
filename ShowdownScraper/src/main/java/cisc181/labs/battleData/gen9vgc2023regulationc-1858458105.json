@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858458105",
+"p1": {
+"playerName": "Astrostardust",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Red Card",
+"ability": "Wind Rider",
+"teraType": "",
+"moves": ["Leech Seed", "Spikes", "Phantom Force"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "White Herb",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Tailwind", "Close Combat"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Brambleghast", "Flamigo", "Pawmot"]
+},
+"p2": {
+"playerName": "joshmurr",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Jet Punch", "Close Combat"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Shadow Claw", "Dragon Claw"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn"]
+}
+],
+"broughtTeam": ["Raichu", "Palafin", "Garchomp", "Gastrodon"]
+},
+"outcome": 0
+}

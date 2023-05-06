@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858568337",
+"p1": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Shinra",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch", "Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "Umbrella",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Dexter",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunder"]
+},
+{
+"species": "Floatzel",
+"nickname": "Rhine",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Protect", "Wave Crash"]
+}
+],
+"broughtTeam": ["Iron Thorns", "Pelipper", "Pincurchin", "Floatzel"]
+},
+"p2": {
+"playerName": "DuaLipasMicrophone",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "dog",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Close Combat"]
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Microphone",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gogoat",
+"nickname": "Microphone",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Haxorus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Bigger Speaker",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Thunder"]
+}
+],
+"broughtTeam": ["Arcanine", "Chien-Pao", "Gogoat", "Kilowattrel"]
+},
+"outcome": 1
+}

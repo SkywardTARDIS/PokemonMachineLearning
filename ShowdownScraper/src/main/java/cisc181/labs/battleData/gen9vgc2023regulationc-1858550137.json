@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858550137",
+"p1": {
+"playerName": "C4_FTW",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "Sitrus Berry",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Belly Drum"]
+}
+],
+"broughtTeam": ["Farigiraf", "Dragonite", "Kingambit", "Greedent"]
+},
+"p2": {
+"playerName": "Olecram2102",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ally Switch", "Hyper Voice"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "Leftovers",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Trick Room"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fighting",
+"moves": ["Drain Punch", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Spiritomb", "Iron Hands", "Torkoal"]
+},
+"outcome": 0
+}

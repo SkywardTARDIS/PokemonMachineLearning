@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858292397",
+"p1": {
+"playerName": "GunGalione",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "The Super Villain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Solar Beam"]
+},
+{
+"species": "Torkoal",
+"nickname": "A wise man",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Gabe",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Swords Dance", "Leaf Blade", "Tera Blast", "Synthesis"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Spike",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Parting Shot", "Reflect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scovillain", "Torkoal", "Leafeon", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Escarletvg",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Super Fang"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heavy Slam", "Protect"]
+},
+{
+"species": "Skeledirge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+}
+],
+"broughtTeam": ["Palafin", "Pachirisu", "Bronzong", "Iron Valiant"]
+},
+"outcome": 1
+}

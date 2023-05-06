@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858577239",
+"p1": {
+"playerName": "Bruno Emerson",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Reflect", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Slowbro", "Arboliva", "Annihilape"]
+},
+"p2": {
+"playerName": "Benjaturtle",
+"fullTeam": [
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Butch",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Howl", "Encore", "Disable", "Play Rough"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Dom",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Population Bomb"]
+}
+],
+"broughtTeam": ["Scream Tail", "Maushold"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858660271",
+"p1": {
+"playerName": "offofoff",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "Dragapult",
+"teraType": "",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Icicle Crash", "Sacred Sword", "Sucker Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hex"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Blunder Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Sing", "Disable", "Helping Hand"]
+}
+],
+"broughtTeam": ["Dragapult", "Chien-Pao", "Flutter Mane", "Scream Tail"]
+},
+"p2": {
+"playerName": "twincell",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Kasib Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Heal Pulse"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Play Rough", "Perish Song"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gothitelle", "Salamence", "Azumarill"]
+},
+"outcome": 0
+}

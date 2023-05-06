@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858568232",
+"p1": {
+"playerName": "DuaLipasMicrophone",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Microphone",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Milk Drink", "Horn Leech"]
+},
+{
+"species": "Gogoat",
+"nickname": "Microphone",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Milk Drink", "Horn Leech"]
+},
+{
+"species": "Haxorus",
+"nickname": "Bigger Speaker",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Bigger Speaker",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hurricane"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Gogoat", "Haxorus", "Kilowattrel"]
+},
+"p2": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Vault-TEC",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Reflect", "Dazzling Gleam"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "Shinra",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Ice Punch", "Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Abstergo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Dexter",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunder"]
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Iron Thorns", "Krookodile", "Pincurchin"]
+},
+"outcome": 0
+}

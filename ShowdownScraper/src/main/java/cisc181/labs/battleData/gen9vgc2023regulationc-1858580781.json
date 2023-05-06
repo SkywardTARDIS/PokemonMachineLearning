@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1858580781",
+"p1": {
+"playerName": "rambah",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "Effect Spore",
+"teraType": "",
+"moves": ["Clear Smog", "Spore", "Pollen Puff"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Iron Bundle", "Talonflame"]
+},
+"p2": {
+"playerName": "PinkRainbowMan",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Order Up"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Endure"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Normal Gem",
+"ability": "Sturdy",
+"teraType": "",
+"moves": ["Explosion"]
+}
+],
+"broughtTeam": ["Dondozo", "Tatsugiri", "Flamigo", "Garganacl"]
+},
+"outcome": 1
+}

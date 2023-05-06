@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858600627",
+"p1": {
+"playerName": "kuroshiLG",
+"fullTeam": [
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": ["Protect", "Ice Beam", "Yawn", "Muddy Water"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Hyper Voice", "Quick Attack", "Yawn", "Protect"]
+},
+{
+"species": "Umbreon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Psychic", "Yawn"]
+},
+{
+"species": "Glaceon",
+"nickname": "Glaceon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Freeze-Dry", "Wish"]
+}
+],
+"broughtTeam": ["Vaporeon", "Sylveon", "Espeon", "Glaceon"]
+},
+"p2": {
+"playerName": "Chiversoze",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mystical Fire"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Icy Wind", "Hydro Pump", "Protect"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Throat Chop", "Dragon Dance", "Rock Slide"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Bundle", "Roaring Moon", "Amoonguss"]
+},
+"outcome": 1
+}
