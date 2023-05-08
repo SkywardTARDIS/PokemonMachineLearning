@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859331057",
+"p1": {
+"playerName": "sparktide",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Blitz",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder", "Weather Ball"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "Aria",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pepper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "U-turn", "Hurricane"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain", "Foul Play", "Spore", "Toxic"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kilowattrel", "Barraskewda", "Pelipper", "Amoonguss"]
+},
+"p2": {
+"playerName": "joju997",
+"fullTeam": [
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Steel Wing"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Draco Meteor", "Earthquake"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Protect", "Body Slam"]
+}
+],
+"broughtTeam": ["Talonflame", "Corviknight", "Garchomp", "Sylveon"]
+},
+"outcome": 1
+}

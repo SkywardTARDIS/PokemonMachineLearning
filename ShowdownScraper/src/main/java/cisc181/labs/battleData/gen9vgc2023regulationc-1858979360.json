@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858979360",
+"p1": {
+"playerName": "SoMuchAppletun",
+"fullTeam": [
+{
+"species": "Appletun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Escargoon",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Giga Drain"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Dedede",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Scizor",
+"nickname": "Tuff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Protect", "Bullet Punch"]
+},
+{
+"species": "Armarouge",
+"nickname": "Meta Knight",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Trick Room", "Armor Cannon"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Scizor", "Armarouge"]
+},
+"p2": {
+"playerName": "TGH_sr",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Dragon Claw", "Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Kowtow Cleave"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mystical Fire"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+}
+],
+"broughtTeam": ["Garchomp", "Kingambit", "Flutter Mane", "Amoonguss"]
+},
+"outcome": 1
+}

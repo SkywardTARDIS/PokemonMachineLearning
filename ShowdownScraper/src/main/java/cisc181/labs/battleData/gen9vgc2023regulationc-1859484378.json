@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859484378",
+"p1": {
+"playerName": "Zebraschinge",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "Focus Sash",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Hyper Voice", "Follow Me"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Justified",
+"teraType": "",
+"moves": ["Flame Charge", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Flamigo", "Maushold", "Chi-Yu", "Arcanine"]
+},
+"p2": {
+"playerName": "BapeChiang",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Throat Chop", "Rock Slide"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Safeguard", "Protect", "Rage Powder"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Iron Bundle", "Dragonite", "Vivillon"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859177183",
+"p1": {
+"playerName": "Caelthefruit",
+"fullTeam": [
+{
+"species": "Crabominable",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Honchkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "Steel",
+"moves": ["Close Combat", "Acrobatics"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Amoonguss", "Flamigo", "Iron Hands", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "Topical Rainstorm",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Endure"]
+},
+{
+"species": "Skuntank",
+"nickname": "Skuntank",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Explosion"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Order Up", "Wave Crash", "Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Skuntank", "Dondozo", "Palafin"]
+},
+"outcome": 0
+}

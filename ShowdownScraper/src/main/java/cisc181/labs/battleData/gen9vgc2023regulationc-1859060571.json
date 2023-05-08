@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859060571",
+"p1": {
+"playerName": "bug catcher dale",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Dwagon",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Stone Edge"]
+},
+{
+"species": "Ceruledge",
+"nickname": "joe",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Shadow Sneak", "Bitter Blade", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "just a bird",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Brave Bird", "Roost", "Bulk Up", "Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "fair",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Reflect"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Salamence", "Ceruledge", "Corviknight", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "McMarc27",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bitter Blade"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Sucker Punch", "Iron Head"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Thunderbolt", "Will-O-Wisp"]
+},
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Pulse"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Kingambit", "Rotom", "Noivern"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859377539",
+"p1": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Tailwind"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "Volt Absorb",
+"teraType": "",
+"moves": ["Fake Tears", "Thunderbolt"]
+},
+{
+"species": "Polteageist",
+"nickname": "Polteageist",
+"item": "White Herb",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Giga Drain", "Strength Sap", "Will-O-Wisp"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Wide Guard", "Taunt", "Stone Edge"]
+}
+],
+"broughtTeam": ["Murkrow", "Jolteon", "Polteageist", "Hariyama"]
+},
+"p2": {
+"playerName": "Freischieb",
+"fullTeam": [
+{
+"species": "Clodsire",
+"nickname": "Clodding bodies",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Stockpile", "Recover", "Earth Power"]
+},
+{
+"species": "Sableye",
+"nickname": "Salad Fingers",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play", "Quash"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Eleki after meth",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Discharge", "Protect", "Earth Power"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "THICC BOI",
+"item": "Clear Amulet",
+"ability": "Unnerve",
+"teraType": "Flying",
+"moves": ["Rock Slide", "Protect", "Tera Blast"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Clodsire", "Sableye", "Sandy Shocks", "Tyranitar"]
+},
+"outcome": 0
+}

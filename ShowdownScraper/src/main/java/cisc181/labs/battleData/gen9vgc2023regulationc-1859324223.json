@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859324223",
+"p1": {
+"playerName": "ethan06",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dual Wingbeat", "Dragon Claw"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Fire Punch"]
+},
+{
+"species": "Spewpa",
+"nickname": "Spewpa",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Struggle Bug", "Stun Spore", "Rage Powder"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Salamence", "Iron Valiant", "Spewpa"]
+},
+"p2": {
+"playerName": "Tonsoffamage",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Gigaton Hammer", "Play Rough"]
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "Grass",
+"moves": ["Ally Switch", "Bitter Blade", "Protect", "Shadow Claw"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Sitrus Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Reflect", "Giga Drain", "Protect"]
+},
+{
+"species": "Bruxish",
+"nickname": "Bruxish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Taunt", "Super Fang"]
+}
+],
+"broughtTeam": ["Tinkaton", "Ceruledge", "Arboliva", "Bruxish"]
+},
+"outcome": 0
+}

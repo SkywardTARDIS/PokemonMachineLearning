@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859552439",
+"p1": {
+"playerName": "betelgeuse",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Protect", "Yawn"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Detect", "Thunderbolt"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Tera Blast", "Hyper Voice"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Vaporeon", "Jolteon", "Sylveon", "Umbreon"]
+},
+"p2": {
+"playerName": "Tomspki",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Heal Pulse"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shell Smash"]
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Body Press"]
+}
+],
+"broughtTeam": ["Armarouge", "Hatterene", "Cloyster", "Dachsbun"]
+},
+"outcome": 1
+}

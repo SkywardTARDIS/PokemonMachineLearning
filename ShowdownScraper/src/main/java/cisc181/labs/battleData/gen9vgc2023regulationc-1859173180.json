@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859173180",
+"p1": {
+"playerName": "Topical Rainstorm",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Steel",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "Effect Spore",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Mystical Fire"]
+}
+],
+"broughtTeam": ["Palafin", "Iron Bundle", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Caelthefruit",
+"fullTeam": [
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Ice Hammer", "Earthquake"]
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Night Slash", "Tailwind"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "Effect Spore",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Crabominable", "Honchkrow", "Amoonguss", "Flamigo"]
+},
+"outcome": 1
+}

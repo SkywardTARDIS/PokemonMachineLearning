@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859048086",
+"p1": {
+"playerName": "StridenVGC",
+"fullTeam": [
+{
+"species": "Misdreavus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxtricity",
+"nickname": "Toxtricity",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Boomburst"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flapple",
+"nickname": "Flapple",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Toxtricity", "Arcanine", "Flapple", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Hactorgv_128",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "Weakness Policy",
+"ability": "Rattled",
+"teraType": "Psychic",
+"moves": ["Drill Run"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "Focus Sash",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Beat Up", "Protect"]
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dudunsparce", "Weavile", "Gastrodon", "Skeledirge"]
+},
+"outcome": 1
+}

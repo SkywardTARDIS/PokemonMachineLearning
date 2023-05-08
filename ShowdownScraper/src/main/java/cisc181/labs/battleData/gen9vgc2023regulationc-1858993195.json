@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1858993195",
+"p1": {
+"playerName": "Chrustopher",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Earth Power"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Blizzard"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Baxcalibur", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "eshe0",
+"fullTeam": [
+{
+"species": "Pawmot",
+"nickname": "Dani Martín",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Double Shock"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "José Muñoz",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Aura Sphere"]
+},
+{
+"species": "Kingambit",
+"nickname": "El padre de José",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break"]
+},
+{
+"species": "Goodra",
+"nickname": "La madre de José",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Blizzard", "Tera Blast"]
+},
+{
+"species": "Stantler",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Basculin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pawmot", "Iron Valiant", "Kingambit", "Goodra"]
+},
+"outcome": 1
+}

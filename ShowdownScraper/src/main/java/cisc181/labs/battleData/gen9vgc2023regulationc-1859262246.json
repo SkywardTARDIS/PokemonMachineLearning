@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859262246",
+"p1": {
+"playerName": "SunriseArrow",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "Vivillon",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide", "Heavy Slam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Heat Wave", "Tera Blast"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Vivillon", "Ting-Lu", "Chi-Yu", "Iron Bundle"]
+},
+"p2": {
+"playerName": "GSolVLuna",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Midway",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Armarouge",
+"nickname": "IntoTheFire",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Trick Room", "Armor Cannon"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bismarck",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Waterfall", "Tera Blast", "Protect"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Gott Mit Uns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Armarouge", "Gyarados", "Hydreigon"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859008667",
+"p1": {
+"playerName": "Nijiatw",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat", "Volt Switch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Glaive Rush", "Icicle Crash"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Dazzling Gleam", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Iron Hands", "Amoonguss", "Baxcalibur", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Twimberly",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Crocalor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Calm Mind", "Shadow Ball", "Mystical Fire"]
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "Aguav Berry",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Rage Powder", "Overheat", "Will-O-Wisp"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Snarl", "Leech Seed", "Growth"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Leppa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Revival Blessing"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Scovillain", "Wo-Chien", "Pawmot"]
+},
+"outcome": 1
+}

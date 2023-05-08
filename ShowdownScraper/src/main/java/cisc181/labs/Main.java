@@ -27,18 +27,19 @@ public class Main {
         //getPokemonAbilities();
 
 //functions for pulling and then converting battle data
-        //scrapeData();
-        //convertToTeams();
+        scrapeData();
+        convertToTeams();
 
 //functions for converting parsed data into vectors for algorithm application
-        //ArrayList<teamsData> allBattles = new ArrayList<>();
-        //revertTeamsFromJSON(allBattles);
-        //writeBattlesToVector(allBattles);
+        ArrayList<teamsData> allBattles = new ArrayList<>();
+        revertTeamsFromJSON(allBattles);
+        writeBattlesToVector(allBattles);
 
 //simplifying by removing unnecessary data
         simplifyData();
     }
 
+//Functions for file manipulation
     public static void simplifyData() throws IOException {
         File dataFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
         FileReader fr = new FileReader(dataFile);

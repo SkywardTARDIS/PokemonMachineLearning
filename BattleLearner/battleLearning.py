@@ -16,11 +16,6 @@ def removeIrrelevant():
     i = 1
     while i < numColumns:
         removeRow = True
-        '''for j in range(len(labels) - 1):
-            if int(data[j+1][i]) != int(data[j+2][i]):
-                removeRow = False
-        print(removeRow)
-        print(attributes[i])'''
         holderRow = numpy.array(data[:,i])
         for j in range(len(holderRow)-1):
             if int(holderRow[j+1]) > 0:

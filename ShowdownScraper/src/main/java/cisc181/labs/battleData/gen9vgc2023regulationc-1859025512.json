@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859025512",
+"p1": {
+"playerName": "McDubbieEnthusiast",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tarrasque",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Protect", "Low Kick"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "Roc",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Bulk Up", "Brave Bird", "Roost"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Mimic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain", "Thunderbolt", "Hex"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tyranitar", "Scream Tail", "Corviknight", "Gholdengo"]
+},
+"p2": {
+"playerName": "shikico",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Focus Sash",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Giga Drain"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Detect", "Iron Head", "Drain Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge", "Volt Switch", "Fake Out"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Encore", "Blizzard"]
+},
+{
+"species": "Beartic",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Hawlucha", "Iron Hands", "Iron Bundle"]
+},
+"outcome": 1
+}

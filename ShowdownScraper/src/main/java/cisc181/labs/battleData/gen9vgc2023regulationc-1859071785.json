@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859071785",
+"p1": {
+"playerName": "Abadachi",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Protect", "Freeze-Dry"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Energy Ball", "Mortal Spin"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Make It Rain"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Glimmora", "Gholdengo"]
+},
+"p2": {
+"playerName": "A1ge7",
+"fullTeam": [
+{
+"species": "Ditto",
+"nickname": "Among us",
+"item": "",
+"ability": "Transform",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Murkrow",
+"nickname": "Edgey birb",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Haze"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Earthquake", "Iron Head"]
+},
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Rapid Spin"]
+}
+],
+"broughtTeam": ["Ditto", "Murkrow", "Garchomp", "Cyclizar"]
+},
+"outcome": 1
+}

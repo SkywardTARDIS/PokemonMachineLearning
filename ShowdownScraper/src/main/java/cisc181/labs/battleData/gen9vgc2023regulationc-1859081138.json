@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859081138",
+"p1": {
+"playerName": "sucabaVGC",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "Stitch",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Quash", "Reflect", "Snarl"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Sulley",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Crunch", "Glaive Rush"]
+},
+{
+"species": "Slowking",
+"nickname": "King Candy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Ice Beam"]
+},
+{
+"species": "Mismagius",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sableye", "Baxcalibur", "Slowking"]
+},
+"p2": {
+"playerName": "KCXII",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Energy Ball"]
+},
+{
+"species": "Misdreavus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clauncher",
+"nickname": "Clauncher",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Aqua Jet"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Dragon Dance", "Tera Blast", "Dragon Darts"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Armarouge", "Clauncher", "Dragapult", "Indeedee"]
+},
+"outcome": 1
+}

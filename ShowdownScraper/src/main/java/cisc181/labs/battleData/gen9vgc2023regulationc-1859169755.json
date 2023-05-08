@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859169755",
+"p1": {
+"playerName": "Xalvadore",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Rock Tomb"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Earth Power", "Clear Smog"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Snarl"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Tyranitar", "Gastrodon", "Arcanine"]
+},
+"p2": {
+"playerName": "luigi200210",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Seed"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Pulse", "Ice Beam", "Surf"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Aguav Berry",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Muddy Water", "Ice Beam", "Earth Power"]
+},
+{
+"species": "Luxray",
+"nickname": "Luxray",
+"item": "Air Balloon",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Breloom", "Goodra", "Gastrodon", "Luxray"]
+},
+"outcome": 1
+}

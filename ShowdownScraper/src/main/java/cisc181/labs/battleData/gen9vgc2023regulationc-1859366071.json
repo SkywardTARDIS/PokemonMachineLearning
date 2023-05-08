@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859366071",
+"p1": {
+"playerName": "Testiqleton",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "Clear Amulet",
+"ability": "Rough Skin",
+"teraType": "Fire",
+"moves": ["Earthquake", "Protect", "Stomping Tantrum"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Garchomp", "Talonflame", "Iron Hands", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Robbie35646",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Amoong",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Protect", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Flutter",
+"item": "Figy Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Rk9",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Rk9",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Protect"]
+}
+],
+"broughtTeam": ["Palafin", "Arcanine", "Flutter Mane", "Iron Hands"]
+},
+"outcome": 0
+}

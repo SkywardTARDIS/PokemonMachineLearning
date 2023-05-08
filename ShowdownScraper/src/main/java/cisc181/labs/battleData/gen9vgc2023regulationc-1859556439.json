@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859556439",
+"p1": {
+"playerName": "MaxDOM",
+"fullTeam": [
+{
+"species": "Luxray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glaceon",
+"nickname": "Glaceon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Aurora Veil", "Leech Seed", "Blizzard"]
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Beartic",
+"nickname": "Beartic",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Froslass",
+"nickname": "Froslass",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard", "Thunder"]
+}
+],
+"broughtTeam": ["Glaceon", "Abomasnow", "Beartic", "Froslass"]
+},
+"p2": {
+"playerName": "dutch night rider",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "dancer",
+"item": "",
+"ability": "Dancer",
+"teraType": "Fire",
+"moves": ["Tera Blast", "Revelation Dance", "Quiver Dance", "Roost"]
+},
+{
+"species": "Volcarona",
+"nickname": "solar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain", "Quiver Dance"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oricorio", "Volcarona"]
+},
+"outcome": 0
+}
