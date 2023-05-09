@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859893883",
+"p1": {
+"playerName": "woohelm",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Spirit Break", "Reflect", "Light Screen"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Heat Wave", "Dazzling Gleam"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "BlockBuster",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Ice Shard", "Icicle Crash", "Protect", "Glaive Rush"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Grimmsnarl", "Iron Moth", "Baxcalibur"]
+},
+"p2": {
+"playerName": "bgcfranky",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Mud-Slap"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Belly Drum", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heal Pulse", "Hydro Pump"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Iron Hands", "Slowking", "Salamence"]
+},
+"outcome": 1
+}

@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1860110802",
+"p1": {
+"playerName": "Kb019",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trailblaze", "Bullet Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Flame Charge"]
+}
+],
+"broughtTeam": ["Scizor", "Palafin", "Iron Hands", "Arcanine"]
+},
+"p2": {
+"playerName": "McDubbieEnthusiast",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Mogaru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Swords Dance", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Encore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Lich",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Energy Ball"]
+},
+{
+"species": "Orthworm",
+"nickname": "Dunewinder",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail"]
+}
+],
+"broughtTeam": ["Garchomp", "Scream Tail", "Flutter Mane", "Orthworm"]
+},
+"outcome": 0
+}

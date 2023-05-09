@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860164571",
+"p1": {
+"playerName": "Faan_Tung",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Dark Pulse", "Heat Wave", "Protect", "Tera Blast"]
+}
+],
+"broughtTeam": ["Indeedee", "Iron Hands", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Mortal-Presence",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect"]
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aerial Ace"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Toxic", "Rage Powder"]
+}
+],
+"broughtTeam": ["Farigiraf", "Lokix", "Dondozo", "Toedscruel"]
+},
+"outcome": 1
+}

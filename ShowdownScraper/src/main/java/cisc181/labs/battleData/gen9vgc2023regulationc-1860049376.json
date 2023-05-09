@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860049376",
+"p1": {
+"playerName": "MoboyPlaysPokemon",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Fallacious Feline",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "Jade Colossus",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Protect", "Thunder Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "Muffin Baker",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Protect", "Follow Me"]
+},
+{
+"species": "Bruxish",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxapex",
+"nickname": "Ambuscade",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Baneful Bunker", "Toxic Spikes", "Recover", "Hydro Pump"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Iron Thorns", "Indeedee", "Toxapex"]
+},
+"p2": {
+"playerName": "reinii",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Final Gambit"]
+},
+{
+"species": "Venomoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Flare Blitz", "Crunch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Ice Punch", "Drain Punch", "Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Psychic Seed",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Body Press", "Protect"]
+}
+],
+"broughtTeam": ["Annihilape", "Arcanine", "Palafin", "Ting-Lu"]
+},
+"outcome": 1
+}

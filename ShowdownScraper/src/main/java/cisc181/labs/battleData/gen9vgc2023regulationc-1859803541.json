@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859803541",
+"p1": {
+"playerName": "Cigtar",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Ice Fang"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Brick Break"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Seviper",
+"nickname": "Seviper",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break", "Earthquake"]
+}
+],
+"broughtTeam": ["Gyarados", "Sableye", "Toedscruel", "Seviper"]
+},
+"p2": {
+"playerName": "Mr. Darwin",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Shadow Sneak", "Last Respects"]
+}
+],
+"broughtTeam": ["Gastrodon", "Tyranitar", "Garganacl", "Houndstone"]
+},
+"outcome": 0
+}

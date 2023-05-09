@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860355091",
+"p1": {
+"playerName": "McPborn",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Encore", "Dazzling Gleam", "Disable"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Bamm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "X-Scissor"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Dark",
+"moves": ["Ice Spinner", "Sucker Punch", "Protect"]
+}
+],
+"broughtTeam": ["Scream Tail", "Slither Wing", "Scizor", "Chien-Pao"]
+},
+"p2": {
+"playerName": "CbuttyVGC",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Jyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Houndstone",
+"nickname": "Joundstone",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Scary Face", "Howl", "Last Respects"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Jhi-Ju",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect", "Nasty Plot"]
+}
+],
+"broughtTeam": ["Tyranitar", "Houndstone", "Chi-Yu"]
+},
+"outcome": 0
+}

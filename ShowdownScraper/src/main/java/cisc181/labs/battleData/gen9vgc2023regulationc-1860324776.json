@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860324776",
+"p1": {
+"playerName": "heheboilolwtf",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Fake Out", "Sucker Punch"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "Salac Berry",
+"ability": "Anger Point",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Tailwind", "Acrobatics"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flower Trick"]
+}
+],
+"broughtTeam": ["Sableye", "Krookodile", "Flamigo", "Meowscarada"]
+},
+"p2": {
+"playerName": "ried36",
+"fullTeam": [
+{
+"species": "Naclstack",
+"nickname": "Naclstack",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Recover", "Salt Cure", "Body Press"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Altaria",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Naclstack", "Grafaiai", "Pincurchin", "Iron Valiant"]
+},
+"outcome": 1
+}

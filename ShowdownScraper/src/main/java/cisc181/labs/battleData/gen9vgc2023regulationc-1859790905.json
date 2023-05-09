@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859790905",
+"p1": {
+"playerName": "justincl19",
+"fullTeam": [
+{
+"species": "Morgrem",
+"nickname": "Morgrem",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "Water",
+"moves": ["Substitute", "Foul Play", "Protect"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "Yache Berry",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Taunt"]
+}
+],
+"broughtTeam": ["Morgrem", "Glalie", "Toedscruel", "Grafaiai"]
+},
+"p2": {
+"playerName": "5wamp",
+"fullTeam": [
+{
+"species": "Foongus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Camerupt",
+"nickname": "Camerupt",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Heat Wave", "Earth Power"]
+},
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "",
+"ability": "Hyper Cutter",
+"teraType": "",
+"moves": ["Iron Head", "Ice Hammer", "Close Combat"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Double-Edge", "Trick Room"]
+}
+],
+"broughtTeam": ["Camerupt", "Crabominable", "Stantler"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859819594",
+"p1": {
+"playerName": "nororivgc",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Protect", "Waterfall"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash", "Glaive Rush", "Protect"]
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Flutter Mane", "Baxcalibur"]
+},
+"p2": {
+"playerName": "SwampCorner",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "NEW MAGIC WAND",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Misty Terrain", "Play Rough"]
+},
+{
+"species": "Ceruledge",
+"nickname": "LUMBERJACK",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Sneak", "Bitter Blade"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "JUGGERNAUT",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "PUPPET",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+}
+],
+"broughtTeam": ["Scream Tail", "Ceruledge", "Iron Hands", "Flutter Mane"]
+},
+"outcome": 1
+}

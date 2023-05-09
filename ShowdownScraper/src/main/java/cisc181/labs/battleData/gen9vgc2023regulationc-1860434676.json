@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860434676",
+"p1": {
+"playerName": "PokeVoltClub",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Parabolic Charge"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Population Bomb", "Helping Hand"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Play Rough"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Bellibolt", "Maushold", "Scream Tail"]
+},
+"p2": {
+"playerName": "piotuvn",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flip Turn", "Protect", "Jet Punch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner", "Sacred Sword"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "Floatzel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+}
+],
+"broughtTeam": ["Palafin", "Pelipper", "Chien-Pao", "Floatzel"]
+},
+"outcome": 1
+}

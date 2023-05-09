@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859724212",
+"p1": {
+"playerName": "bgcfranky",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Quiver Dance"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot", "Fake Out"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Draco Meteor"]
+}
+],
+"broughtTeam": ["Volcarona", "Grimmsnarl", "Iron Hands", "Salamence"]
+},
+"p2": {
+"playerName": "WilsonPilson",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Feint", "Thunder Wave", "Gigaton Hammer"]
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Thunder", "Explosion"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Wacan Berry",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Protect", "Tailwind"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Bullet Punch", "Drain Punch", "Tera Blast"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tinkaton", "Electrode", "Pelipper", "Lucario"]
+},
+"outcome": 1
+}

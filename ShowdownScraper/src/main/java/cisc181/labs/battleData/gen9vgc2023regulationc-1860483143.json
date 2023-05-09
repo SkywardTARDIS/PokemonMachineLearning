@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1860483143",
+"p1": {
+"playerName": "RatJohn3",
+"fullTeam": [
+{
+"species": "Zangoose",
+"nickname": "Zangoose",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Facade"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect", "Wide Guard"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Protect"]
+}
+],
+"broughtTeam": ["Zangoose", "Garganacl", "Amoonguss", "Torkoal"]
+},
+"p2": {
+"playerName": "JustABizarreJoJo",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Golduck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Dickens",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Muddy Water", "Yawn", "Icy Wind"]
+},
+{
+"species": "Kilowattrel",
+"nickname": "Persicaria",
+"item": "Charti Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Discharge", "Air Slash", "U-turn"]
+},
+{
+"species": "Arcanine",
+"nickname": "Korone",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Helping Hand"]
+},
+{
+"species": "Indeedee",
+"nickname": "Chatreuse",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Gastrodon", "Kilowattrel", "Arcanine", "Indeedee"]
+},
+"outcome": 0
+}

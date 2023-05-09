@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859800513",
+"p1": {
+"playerName": "CaliberChamp",
+"fullTeam": [
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cyclizar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Dark",
+"moves": ["Wide Guard"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Protect", "Bitter Blade", "Shadow Sneak"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Delibundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Encore", "Freeze-Dry"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Galiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Disable", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Armarouge", "Ceruledge", "Iron Bundle", "Iron Valiant"]
+},
+"p2": {
+"playerName": "HD58X",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Maradona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Beaker",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hydro Pump", "Hurricane"]
+},
+{
+"species": "Palafin",
+"nickname": "Torqoise",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "BlockBuster",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Glaive Rush", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Hands", "Pelipper", "Palafin", "Baxcalibur"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859857059",
+"p1": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Dark Mind",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Body Press", "Heavy Slam"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Dyna Blade",
+"item": "Sitrus Berry",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Brave Bird", "Bulk Up", "Body Press", "Roost"]
+},
+{
+"species": "Hatterene",
+"nickname": "Drawcia",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dark Pulse", "Psyshock"]
+},
+{
+"species": "Toedscool",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragalge",
+"nickname": "Grand Doomer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Corviknight", "Hatterene", "Dragalge"]
+},
+"p2": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Electric",
+"moves": ["Wild Charge"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Throat Spray",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psyshock", "Protect", "Hyper Voice", "Encore"]
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Flutter Mane", "Indeedee", "Drifblim"]
+},
+"outcome": 1
+}

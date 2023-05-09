@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860103554",
+"p1": {
+"playerName": "tombstoan",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Toxic"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Drain Punch"]
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Beat Up", "Night Slash", "Icicle Crash"]
+}
+],
+"broughtTeam": ["Amoonguss", "Clodsire", "Iron Hands", "Weavile"]
+},
+"p2": {
+"playerName": "ChickenJuice",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave", "Psychic Terrain", "Expanding Force"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Armarouge", "Gyarados", "Amoonguss"]
+},
+"outcome": 0
+}

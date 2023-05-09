@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859998157",
+"p1": {
+"playerName": "hddx2347",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "ArwHead",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Protect", "Thunderbolt", "Surf"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Fake Tears", "Light Screen"]
+},
+{
+"species": "Slither Wing",
+"nickname": "Mothra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression"]
+},
+{
+"species": "Leafeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+}
+],
+"broughtTeam": ["Dragapult", "Grimmsnarl", "Slither Wing", "Muk"]
+},
+"p2": {
+"playerName": "AnimeRedneck",
+"fullTeam": [
+{
+"species": "Blissey",
+"nickname": "Cheerwine",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Thunder Wave", "Seismic Toss", "Heal Pulse"]
+},
+{
+"species": "Corviknight",
+"nickname": "Mountain Dew",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Sprite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Dark",
+"moves": ["Dark Pulse", "Heat Wave"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Blissey", "Corviknight", "Tatsugiri", "Chi-Yu"]
+},
+"outcome": 1
+}

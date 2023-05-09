@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859970154",
+"p1": {
+"playerName": "why do you fart?",
+"fullTeam": [
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glaceon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Beartic",
+"nickname": "Beartic",
+"item": "",
+"ability": "Slush Rush",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Heat Wave", "Flash Cannon"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowking", "Beartic", "Armarouge", "Hatterene"]
+},
+"p2": {
+"playerName": "Naruseiya",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Sitrus Berry",
+"ability": "Trace",
+"teraType": "",
+"moves": ["Moonblast", "Helping Hand"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Close Combat", "Brave Bird"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "Salac Berry",
+"ability": "Anger Point",
+"teraType": "Rock",
+"moves": ["Earthquake"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gardevoir", "Meowscarada", "Flamigo", "Krookodile"]
+},
+"outcome": 0
+}

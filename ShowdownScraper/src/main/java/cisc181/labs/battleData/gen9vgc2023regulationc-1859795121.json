@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859795121",
+"p1": {
+"playerName": "justincl19",
+"fullTeam": [
+{
+"species": "Morgrem",
+"nickname": "Morgrem",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect"]
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Foul Play", "Freeze-Dry"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Spore", "Earth Power", "Protect"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Parting Shot", "Acid Spray"]
+}
+],
+"broughtTeam": ["Morgrem", "Glalie", "Toedscruel", "Grafaiai"]
+},
+"p2": {
+"playerName": "5wamp",
+"fullTeam": [
+{
+"species": "Foongus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Camerupt",
+"nickname": "Camerupt",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Eruption", "Earth Power"]
+},
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Ice Hammer"]
+},
+{
+"species": "Rabsca",
+"nickname": "Rabsca",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Safeguard", "Psychic", "Bug Buzz"]
+},
+{
+"species": "Toedscruel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Stantler",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Hypnosis", "Double-Edge", "Trick Room"]
+}
+],
+"broughtTeam": ["Camerupt", "Crabominable", "Rabsca", "Stantler"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859887478",
+"p1": {
+"playerName": "Citoraptor",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Acrobatics", "Dragon Rush"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sucker Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+}
+],
+"broughtTeam": ["Roaring Moon", "Chien-Pao", "Palafin", "Maushold"]
+},
+"p2": {
+"playerName": "keysmash_roa",
+"fullTeam": [
+{
+"species": "Mimikyu",
+"nickname": "Marvin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance", "Thunder Wave", "Play Rough"]
+},
+{
+"species": "Raichu",
+"nickname": "Ralph",
+"item": "",
+"ability": "Static",
+"teraType": "",
+"moves": ["Fake Out", "Thunder"]
+},
+{
+"species": "Dragalge",
+"nickname": "Dorothea",
+"item": "",
+"ability": "Poison Point",
+"teraType": "Water",
+"moves": ["Sludge Bomb", "Protect"]
+},
+{
+"species": "Pelipper",
+"nickname": "Peter",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Mimikyu", "Raichu", "Dragalge", "Pelipper"]
+},
+"outcome": 1
+}

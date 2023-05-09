@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860182651",
+"p1": {
+"playerName": "Silralisk",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Stomping Tantrum", "Tera Blast", "Protect", "Extreme Speed"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Howl", "Encore", "Psychic Fangs"]
+}
+],
+"broughtTeam": ["Dragonite", "Scream Tail"]
+},
+"p2": {
+"playerName": "GreenMidoriVerde",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Pepperjack",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Moe",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Rua",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect", "Helping Hand"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Omega",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Wide Guard"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Flutter Mane", "Torkoal", "Iron Valiant"]
+},
+"outcome": 1
+}

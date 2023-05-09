@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859840824",
+"p1": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "Black Mesa",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hurricane", "Protect", "Earth Power", "Tailwind"]
+},
+{
+"species": "Klefki",
+"nickname": "Vault-TEC",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Rain Dance", "Thunder Wave", "Reflect"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Umbrella",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "Rhine",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Klefki", "Pelipper", "Floatzel"]
+},
+"p2": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "Leftovers",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Yawn", "Protect", "Earthquake"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Draco Meteor", "Protect"]
+},
+{
+"species": "Magneton",
+"nickname": "Magneton",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Reflect", "Thunderbolt", "Light Screen"]
+}
+],
+"broughtTeam": ["Hippowdon", "Salamence", "Magneton"]
+},
+"outcome": 0
+}

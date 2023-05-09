@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859946949",
+"p1": {
+"playerName": "JNEWMZ",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Earthquake"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Heat Wave", "Dazzling Gleam"]
+},
+{
+"species": "Masquerain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Rock Slide", "Heavy Slam"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Iron Moth", "Mudsdale"]
+},
+"p2": {
+"playerName": "destrucktoo",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "A Bomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Fingers",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Wild Charge", "Fake Out"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eiscue",
+"nickname": "Whats in the Box?",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "Slowest Bro",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Trick Room", "Helping Hand", "Liquidation"]
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Hands", "Eiscue", "Slowbro"]
+},
+"outcome": 1
+}

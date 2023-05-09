@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859687153",
+"p1": {
+"playerName": "ff3rchus",
+"fullTeam": [
+{
+"species": "Floatzel",
+"nickname": "Floatzel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Ice Spinner"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lurantis",
+"nickname": "Lurantis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm", "Pollen Puff"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+}
+],
+"broughtTeam": ["Floatzel", "Pelipper", "Lurantis", "Iron Hands"]
+},
+"p2": {
+"playerName": "WillieDangerously",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Hypnosis", "Focus Blast"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Rush"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Feint"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ghost",
+"moves": ["Gravity", "Earth Power", "Protect"]
+}
+],
+"broughtTeam": ["Iron Valiant", "Salamence", "Scizor", "Sandy Shocks"]
+},
+"outcome": 1
+}

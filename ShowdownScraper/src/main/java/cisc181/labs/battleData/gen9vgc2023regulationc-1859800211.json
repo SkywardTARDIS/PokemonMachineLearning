@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1859800211",
+"p1": {
+"playerName": "Mr. Darwin",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Iron Head", "Assurance"]
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Grass",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Houndstone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Tyranitar", "Grimmsnarl", "Iron Moth"]
+},
+"p2": {
+"playerName": "Cigtar",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Protect", "Taunt", "Ice Fang"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance"]
+},
+{
+"species": "Toedscruel",
+"nickname": "Toedscruel",
+"item": "Occa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Leaf Storm"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Seviper",
+"nickname": "Seviper",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Gunk Shot"]
+}
+],
+"broughtTeam": ["Gyarados", "Sableye", "Toedscruel", "Seviper"]
+},
+"outcome": 1
+}

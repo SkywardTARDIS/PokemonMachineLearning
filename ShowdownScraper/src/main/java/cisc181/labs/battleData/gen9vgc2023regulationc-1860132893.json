@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860132893",
+"p1": {
+"playerName": "sitbar",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Bitter Blade", "Ally Switch"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Dual Wingbeat"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Heavy Slam"]
+}
+],
+"broughtTeam": ["Ceruledge", "Salamence", "Chien-Pao", "Ting-Lu"]
+},
+"p2": {
+"playerName": "torwildheart",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Banned",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Thunder Wave", "Taunt"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Sets Sun",
+"item": "Eject Button",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Fissure", "Protect", "Overheat", "Helping Hand"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Speed Lover",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Encore", "Tailwind"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Torkoal", "Jumpluff"]
+},
+"outcome": 0
+}

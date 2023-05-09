@@ -35,7 +35,7 @@ public class Main {
         revertTeamsFromJSON(allBattles);
         writeBattlesToVector(allBattles);
 
-//simplifying by removing unnecessary data
+//simplifying by removing unnecessary data (all identical values of an attribute
         simplifyData();
     }
 

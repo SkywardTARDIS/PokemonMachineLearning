@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860115009",
+"p1": {
+"playerName": "ClessCL",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Iron Head", "Waterfall"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Dragon Dance"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "Flying",
+"moves": ["Fake Out", "Encore", "Foul Play"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Heat Wave", "Sludge Wave"]
+}
+],
+"broughtTeam": ["Gyarados", "Tyranitar", "Tinkaton", "Iron Moth"]
+},
+"p2": {
+"playerName": "McDubbieEnthusiast",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Mogaru",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Dragonite",
+"nickname": "Brass",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Lich",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Orthworm",
+"nickname": "Dunewinder",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Ghost",
+"moves": ["Shed Tail", "Helping Hand"]
+}
+],
+"broughtTeam": ["Garchomp", "Dragonite", "Flutter Mane", "Orthworm"]
+},
+"outcome": 0
+}
