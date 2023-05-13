@@ -6,6 +6,8 @@ import java.nio.Buffer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
+import java.util.concurrent.ThreadLocalRandom;
+
 
 import com.github.cliftonlabs.json_simple.JsonArray;
 import com.github.cliftonlabs.json_simple.JsonException;
@@ -35,11 +37,52 @@ public class Main {
         revertTeamsFromJSON(allBattles);
         writeBattlesToVector(allBattles);
 
-//simplifying by removing unnecessary data (all identical values of an attribute
+//simplifying by removing unnecessary data (all identical values of an attribute)
         simplifyData();
+
+//creating a validation set, comprised of 10% of the full data set selected at random
+        //separateValidation();
     }
 
 //Functions for file manipulation
+    public static void separateValidation() throws IOException {
+        File dataFile = new File("src/main/java/cisc181/labs/finalData/simplifiedJava.txt");
+        FileReader fr = new FileReader(dataFile);
+        BufferedReader br = new BufferedReader(fr);
+        String lineHolder;
+        ArrayList<ArrayList<String>> data  = new ArrayList<>();
+        while((lineHolder = br.readLine()) != null){
+            data.add(new ArrayList<>(Arrays.asList(lineHolder.split(","))));
+        }
+        br.close();
+        fr.close();
+
+        ArrayList<ArrayList<String>> validationSet = new ArrayList<>();
+        validationSet.add(new ArrayList<>(data.get(0)));
+        int dataSize = data.size()/10;
+        for(int i=0; i<dataSize; i++){
+            int getRand = ThreadLocalRandom.current().nextInt(1, data.size());
+            validationSet.add(new ArrayList<>(data.get(getRand)));
+            data.remove(getRand);
+        }
+
+        File validation = new File("src/main/java/cisc181/labs/finalData/validationData.txt");
+        FileWriter fw = new FileWriter(validation);
+        fw.write(validationSet.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        for(int j=1; j<validationSet.size(); j++){
+            fw.write("\n" + validationSet.get(j).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        }
+        fw.close();
+
+        File training = new File("src/main/java/cisc181/labs/finalData/trainingData.txt");
+        fw = new FileWriter(training);
+        fw.write(data.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        for(int j=1; j<data.size(); j++){
+            fw.write("\n" + data.get(j).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+        }
+        fw.close();
+    }
+
     public static void simplifyData() throws IOException {
         File dataFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
         FileReader fr = new FileReader(dataFile);

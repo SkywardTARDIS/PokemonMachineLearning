@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863324039",
+"p1": {
+"playerName": "Blackleafogog",
+"fullTeam": [
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Detect", "Close Combat"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Tailwind", "Brave Bird", "Roost", "Bulk Up"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Waterfall", "Taunt"]
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Electroweb"]
+}
+],
+"broughtTeam": ["Flamigo", "Corviknight", "Gyarados", "Magnezone"]
+},
+"p2": {
+"playerName": "PainInTheS",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Jim",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Iron Defense", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Floating Head",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Gamora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Power Gem"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Cachorro Pão",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Sacred Sword", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Orthworm", "Flutter Mane", "Glimmora", "Chien-Pao"]
+},
+"outcome": 1
+}

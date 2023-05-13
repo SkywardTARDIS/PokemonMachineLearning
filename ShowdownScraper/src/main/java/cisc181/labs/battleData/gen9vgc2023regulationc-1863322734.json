@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863322734",
+"p1": {
+"playerName": "Fabrong8",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Electric",
+"moves": ["Close Combat"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Clear Smog", "Pollen Puff"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Venomoth",
+"nickname": "Venomoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Sleep Powder", "Bug Buzz"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dragon Dance", "Dragon Claw", "Acrobatics"]
+}
+],
+"broughtTeam": ["Tauros", "Amoonguss", "Venomoth", "Roaring Moon"]
+},
+"p2": {
+"playerName": "Pokepouf",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Order Up", "Wave Crash"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Population Bomb"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tatsugiri", "Dondozo", "Maushold", "Iron Valiant"]
+},
+"outcome": 0
+}

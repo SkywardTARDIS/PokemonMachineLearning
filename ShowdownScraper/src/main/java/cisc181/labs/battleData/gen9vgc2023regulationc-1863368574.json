@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863368574",
+"p1": {
+"playerName": "Charlisito",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "",
+"moves": ["Ice Shard"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Brave Bird", "Body Press", "Iron Defense", "Roost"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Dark Pulse", "Flamethrower"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Corviknight", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "bug catcher dale",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "just a bird",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Brave Bird"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "just a moth",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Pollen Puff", "Protect", "Rage Powder"]
+},
+{
+"species": "Volcarona",
+"nickname": "#1 creepy-crawler",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Quiver Dance", "Fiery Dance", "Giga Drain"]
+},
+{
+"species": "Scizor",
+"nickname": "bug team six",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch"]
+}
+],
+"broughtTeam": ["Corviknight", "Vivillon", "Volcarona", "Scizor"]
+},
+"outcome": 1
+}

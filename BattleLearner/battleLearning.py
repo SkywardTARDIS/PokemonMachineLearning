@@ -1,6 +1,9 @@
 import math
 import numpy
+from sklearn import tree
 
+#Function scrapped and rewritten in Java, because it was significantly faster
+'''
 def removeIrrelevant():
     #removes all columns for which the value is 0 for every single battle, writes to new file
     data = []
@@ -41,11 +44,48 @@ def removeIrrelevant():
         writeFile.write("\n" + str(data[i+1][0]))
         for j in range(len(data[0]) - 1):
             writeFile.write("," + str(data[i+1][j+1]))
+'''
+
 
 
 def main():
     #removeIrrelevant()
-    print("placeholder line")
+    data = []
+    testDate = []
+    attributes = []
+    file = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/trainingData.txt", 'r')
+    line = file.readline()
+    for x in line.split(","):
+     attributes.append(x.removesuffix("\n"))
+    for row in file:
+        data.append([int(float(x)) for x in row.split(",")])
+    data = numpy.array(data)
+    attributes = numpy.array(attributes)
+    #removing labels from the data matrix
+    labels = numpy.array(data[:,0])
+    data = numpy.delete(data, 0, 1)
+    clf = tree.DecisionTreeClassifier()
+    clf = clf.fit(data, labels)
+    print("Done")
+    tree.plot_tree(clf)
+
+    file = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/validationData.txt", 'r')
+    line = file.readline()
+    for row in file:
+        testData.append([int(float(x)) for x in row.split(",")])
+    testData = numpy.array(testData)
+    testLables = numpy.array(testData[:,0])
+    testData = numpy.delete(testData, 0, 1)
+    predictions = clf.predict(testData)
+    print(predictions)
+    print(testLables)
+
+    counts = 0
+    for i in range(len(predictions)):
+       if predictions[i] == testLables[i]:
+          counts = counts + 1
+    print(counts)
+    
 
 if __name__ == "__main__":
     main()

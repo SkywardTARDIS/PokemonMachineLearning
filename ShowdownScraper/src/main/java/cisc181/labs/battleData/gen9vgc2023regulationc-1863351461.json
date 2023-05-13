@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863351461",
+"p1": {
+"playerName": "Yoone",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Foul Play", "Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Claw", "Rock Slide", "Earthquake"]
+},
+{
+"species": "Cyclizar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Aguav Berry",
+"ability": "Sand Stream",
+"teraType": "Fire",
+"moves": ["Low Kick", "Tera Blast"]
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Bullet Punch"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Garchomp", "Tyranitar", "Medicham"]
+},
+"p2": {
+"playerName": "masterminy",
+"fullTeam": [
+{
+"species": "Breloom",
+"nickname": "Maybe Live pls",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Bullet Seed"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "comp sci student",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Spirit Break"]
+},
+{
+"species": "Rotom",
+"nickname": "Dont get stuck in",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump", "Thunderbolt"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Polyamory",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Will-O-Wisp", "Ally Switch", "Taunt"]
+}
+],
+"broughtTeam": ["Breloom", "Grimmsnarl", "Rotom", "Spiritomb"]
+},
+"outcome": 0
+}

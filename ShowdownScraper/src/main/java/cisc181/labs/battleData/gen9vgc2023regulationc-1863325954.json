@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863325954",
+"p1": {
+"playerName": "ZenAku10",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "C. Falcon",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Acrobatics"]
+},
+{
+"species": "Indeedee",
+"nickname": "Isabelle",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Heal Pulse"]
+},
+{
+"species": "Armarouge",
+"nickname": "Mega Man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Expanding Force"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "R.O.B.",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt", "Earth Power"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hawlucha", "Indeedee", "Armarouge", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "Cosentino",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Grass",
+"moves": ["Protect", "Rock Slide", "Earthquake"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake", "Protect"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Thorns", "Gyarados", "Amoonguss"]
+},
+"outcome": 0
+}
