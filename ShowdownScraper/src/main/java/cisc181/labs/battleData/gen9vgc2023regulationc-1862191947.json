@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862191947",
+"p1": {
+"playerName": "mcdarvarian",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Fudruckers",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Team Mom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Phantom Force", "U-turn"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Thomas Two Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Volt Switch", "Wild Charge"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "P1ng-U",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Great Tusk", "Dragapult", "Iron Hands", "Iron Bundle"]
+},
+"p2": {
+"playerName": "KitsuneofDreams",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Karen",
+"item": "",
+"ability": "Speed Boost",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam", "Protect", "Lumina Crash"]
+},
+{
+"species": "Flapple",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Amber",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind", "Brave Bird"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawnchy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Nuzzle"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "We-Woo",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+}
+],
+"broughtTeam": ["Espathra", "Talonflame", "Pawmot", "Wo-Chien"]
+},
+"outcome": 1
+}

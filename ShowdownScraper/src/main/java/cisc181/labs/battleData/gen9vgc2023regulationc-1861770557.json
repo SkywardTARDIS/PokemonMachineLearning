@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861770557",
+"p1": {
+"playerName": "genericname3333",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Shadow Ball", "Protect", "Make It Rain"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Stomping Tantrum", "Assurance"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Grimmsnarl", "Dragonite", "Mudsdale"]
+},
+"p2": {
+"playerName": "yuramas",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Lava Plume", "Protect", "Yawn", "Solar Beam"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Dark",
+"moves": ["Ice Beam", "Protect"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "U-turn", "Rage Powder"]
+}
+],
+"broughtTeam": ["Torkoal", "Masquerain", "Sandy Shocks", "Jumpluff"]
+},
+"outcome": 1
+}

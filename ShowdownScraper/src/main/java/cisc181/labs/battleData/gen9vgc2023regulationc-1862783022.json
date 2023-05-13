@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862783022",
+"p1": {
+"playerName": "Mr.Fabulas",
+"fullTeam": [
+{
+"species": "Deerling",
+"nickname": "Deerling",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Slam"]
+},
+{
+"species": "Salandit",
+"nickname": "Salandit",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Pawniard",
+"nickname": "Pawniard",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Iron Head"]
+},
+{
+"species": "Mudbray",
+"nickname": "Mudbray",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Foongus",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Deerling", "Salandit", "Pawniard", "Mudbray"]
+},
+"p2": {
+"playerName": "fizzywizzyglizzy",
+"fullTeam": [
+{
+"species": "Pawniard",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wattrel",
+"nickname": "Wattrel",
+"item": "Focus Sash",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Mudbray",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skiddo",
+"nickname": "Skiddo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Horn Leech"]
+},
+{
+"species": "Glimmet",
+"nickname": "Bode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb", "Power Gem"]
+},
+{
+"species": "Tandemaus",
+"nickname": "Tandemaus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Population Bomb"]
+}
+],
+"broughtTeam": ["Wattrel", "Skiddo", "Glimmet", "Tandemaus"]
+},
+"outcome": 0
+}

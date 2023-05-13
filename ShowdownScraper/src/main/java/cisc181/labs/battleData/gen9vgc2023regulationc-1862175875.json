@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862175875",
+"p1": {
+"playerName": "finiro",
+"fullTeam": [
+{
+"species": "Lurantis",
+"nickname": "Lurantis",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Storm"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Will-O-Wisp", "Tera Blast", "Close Combat"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lurantis", "Iron Bundle", "Arcanine", "Klefki"]
+},
+"p2": {
+"playerName": "pikallo1995",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Protect", "Muddy Water"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot", "Protect", "Earthquake"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Magnezone", "Azumarill", "Clodsire"]
+},
+"outcome": 1
+}

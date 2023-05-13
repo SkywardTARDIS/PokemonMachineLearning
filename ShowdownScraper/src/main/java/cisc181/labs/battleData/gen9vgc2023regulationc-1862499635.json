@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1862499635",
+"p1": {
+"playerName": "Poketata",
+"fullTeam": [
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "Static",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shell Smash"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Dragon Claw", "Earthquake"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Spirit Break"]
+}
+],
+"broughtTeam": ["Electrode", "Cloyster", "Garchomp", "Iron Valiant"]
+},
+"p2": {
+"playerName": "Blastwalker",
+"fullTeam": [
+{
+"species": "Heracross",
+"nickname": "Heracross",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Megahorn", "Facade"]
+},
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Protect", "Follow Me"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Leppa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Revival Blessing"]
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Heracross", "Armarouge", "Indeedee", "Pawmot"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862334956",
+"p1": {
+"playerName": "Vitormileer",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "",
+"ability": "Poison Touch",
+"teraType": "Flying",
+"moves": ["Drain Punch", "Acid Armor", "Shadow Sneak", "Gunk Shot"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Muk", "Dragonite", "Chi-Yu", "Ting-Lu"]
+},
+"p2": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Nemo",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Gardenia",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Substitute", "Body Press", "Yawn", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "BB",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Blu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Dachsbun", "Flutter Mane", "Jumpluff"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860803453",
+"p1": {
+"playerName": "Yarep",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+}
+],
+"broughtTeam": ["Torkoal", "Chi-Yu", "Flutter Mane", "Great Tusk"]
+},
+"p2": {
+"playerName": "Animauwu",
+"fullTeam": [
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Light Screen"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Air Balloon",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Protect", "Eruption", "Heat Wave"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Sucker Punch"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cloyster",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Oranguru", "Torkoal", "Brute Bonnet", "Mudsdale"]
+},
+"outcome": 1
+}

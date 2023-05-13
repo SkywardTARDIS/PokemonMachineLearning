@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861616987",
+"p1": {
+"playerName": "fmvtis",
+"fullTeam": [
+{
+"species": "Misdreavus",
+"nickname": "Misdreavus",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Trick Room", "Night Shade", "Will-O-Wisp", "Helping Hand"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Parting Shot", "Light Screen"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Follow Me"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Misdreavus", "Grimmsnarl", "Armarouge", "Indeedee"]
+},
+"p2": {
+"playerName": "ImmatWork",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Swords Dance"]
+},
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Breath", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Tyranitar", "Orthworm", "Garchomp", "Dragonite"]
+},
+"outcome": 0
+}

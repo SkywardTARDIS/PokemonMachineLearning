@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861002007",
+"p1": {
+"playerName": "Piff92",
+"fullTeam": [
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "Sitrus Berry",
+"ability": "Cheek Pouch",
+"teraType": "Ghost",
+"moves": ["Belly Drum", "Earthquake"]
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Quick Guard"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Greedent", "Slowbro", "Flamigo"]
+},
+"p2": {
+"playerName": "GryffindorAle",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ghost",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Jet Punch"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Chi-Yu", "Iron Hands", "Palafin"]
+},
+"outcome": 1
+}

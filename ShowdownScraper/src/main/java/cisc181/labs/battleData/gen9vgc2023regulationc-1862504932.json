@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1862504932",
+"p1": {
+"playerName": "Poketata",
+"fullTeam": [
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "Static",
+"teraType": "",
+"moves": ["Light Screen", "Taunt", "Hyper Beam"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shell Smash", "Protect"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Dragon",
+"moves": ["Protect", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Spirit Break", "Protect"]
+}
+],
+"broughtTeam": ["Electrode", "Cloyster", "Corviknight", "Iron Valiant"]
+},
+"p2": {
+"playerName": "raysayer",
+"fullTeam": [
+{
+"species": "Revavroom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Quiver Dance", "Giga Drain", "Protect", "Heat Wave"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Wave Crash", "Close Combat", "Aqua Jet"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Population Bomb"]
+}
+],
+"broughtTeam": ["Volcarona", "Tauros", "Maushold"]
+},
+"outcome": 0
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1862927860",
+"p1": {
+"playerName": "rose_zkldin",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Effect Spore",
+"teraType": "",
+"moves": ["Protect", "Thunder Wave", "Dragon Dance"]
+},
+{
+"species": "Spiritomb",
+"nickname": "Spiritomb",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Ally Switch"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Overgrow",
+"teraType": "Ground",
+"moves": ["Fire Punch", "Earthquake"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Safety Goggles",
+"ability": "Overgrow",
+"teraType": "",
+"moves": ["Doodle", "Gunk Shot", "Super Fang", "Protect"]
+}
+],
+"broughtTeam": ["Gyarados", "Spiritomb", "Slaking", "Grafaiai"]
+},
+"p2": {
+"playerName": "Baileyballer08",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore", "Pollen Puff"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Energy Ball"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Iapapa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Helping Hand", "Flower Trick"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Swords Dance", "Bitter Blade", "Will-O-Wisp"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Flutter Mane", "Meowscarada", "Ceruledge"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862421956",
+"p1": {
+"playerName": "ethan06",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Choice Specs",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Hydro Pump", "Flamethrower"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Assurance"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aura Sphere", "Protect"]
+},
+{
+"species": "Persian",
+"nickname": "Persian",
+"item": "Sitrus Berry",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Feint", "Fake Tears"]
+}
+],
+"broughtTeam": ["Salamence", "Kingambit", "Iron Valiant", "Persian"]
+},
+"p2": {
+"playerName": "Roopydoopy",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Protect", "Double Shock", "Ice Punch", "Mach Punch"]
+},
+{
+"species": "Wigglytuff",
+"nickname": "Wigglytuff",
+"item": "",
+"ability": "Competitive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Pollen Puff", "Knock Off"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Heal Pulse"]
+}
+],
+"broughtTeam": ["Pawmot", "Wigglytuff", "Wo-Chien", "Gothorita"]
+},
+"outcome": 1
+}

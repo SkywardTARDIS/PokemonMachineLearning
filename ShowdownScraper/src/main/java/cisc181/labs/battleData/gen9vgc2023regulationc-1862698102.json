@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862698102",
+"p1": {
+"playerName": "Fabilex",
+"fullTeam": [
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Gravity"]
+},
+{
+"species": "Pikachu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Focus Sash",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Protect", "Hypnosis", "Lumina Crash"]
+},
+{
+"species": "Haxorus",
+"nickname": "Jäger",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Dragon Claw"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dazzling Gleam", "Trick Room", "Psychic"]
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sandy Shocks", "Espathra", "Haxorus", "Hatterene"]
+},
+"p2": {
+"playerName": "Juligut",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "Get Winged",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression", "Leech Life", "Protect"]
+},
+{
+"species": "Gengar",
+"nickname": "Gengarnicht",
+"item": "Air Balloon",
+"ability": "Cursed Body",
+"teraType": "Poison",
+"moves": ["Protect", "Sludge Bomb", "Shadow Ball"]
+},
+{
+"species": "Abomasnow",
+"nickname": "12 inches of snow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard", "Ice Shard"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreithere",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slither Wing", "Gengar", "Abomasnow", "Hydreigon"]
+},
+"outcome": 1
+}

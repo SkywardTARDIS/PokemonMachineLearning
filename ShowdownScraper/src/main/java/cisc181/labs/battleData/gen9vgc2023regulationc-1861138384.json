@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861138384",
+"p1": {
+"playerName": "head 0f the table",
+"fullTeam": [
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz", "Protect"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Trick Room"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Arcanine", "Indeedee", "Hatterene", "Hariyama"]
+},
+"p2": {
+"playerName": "Toy Time King",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "DEM HANDS",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Knock Off", "Fake Out"]
+},
+{
+"species": "Oranguru",
+"nickname": "Psymonke",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Trick Room"]
+},
+{
+"species": "Clawitzer",
+"nickname": "The Claw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Habatakukami",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Mystical Fire", "Shadow Ball"]
+},
+{
+"species": "Eelektross",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hariyama", "Oranguru", "Clawitzer", "Flutter Mane"]
+},
+"outcome": 0
+}

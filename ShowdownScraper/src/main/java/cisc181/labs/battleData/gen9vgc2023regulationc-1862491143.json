@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1862491143",
+"p1": {
+"playerName": "Yoyoforce",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Misdreamus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Delibot",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "Salamesa",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Dragon Pulse"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Donfang",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Close Combat"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Bundle", "Roaring Moon", "Great Tusk"]
+},
+"p2": {
+"playerName": "Poketata",
+"fullTeam": [
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Hyper Beam"]
+},
+{
+"species": "Cloyster",
+"nickname": "Cloyster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dragon Claw"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Electrode", "Cloyster", "Garchomp", "Iron Valiant"]
+},
+"outcome": 1
+}

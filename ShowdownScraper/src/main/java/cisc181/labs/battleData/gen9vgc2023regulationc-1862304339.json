@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1862304339",
+"p1": {
+"playerName": "The Spicy Cigar",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Big Ben",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Grand Canyon",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Protect", "Rock Slide"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Tony Soprano",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+},
+{
+"species": "Azumarill",
+"nickname": "Florida Man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Ting-Lu", "Iron Hands", "Azumarill"]
+},
+"p2": {
+"playerName": "ashXrozz1998",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "Dark",
+"moves": ["Heat Wave", "Stored Power", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Gyarados", "Chi-Yu"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862233683",
+"p1": {
+"playerName": "Pigronauta",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Penguin Ranger",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Protect", "Jet Punch"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "BIGOTES",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Protect", "Sucker Punch"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "HONGOLOCO",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Palafin", "Chien-Pao", "Amoonguss", "Flutter Mane"]
+},
+"p2": {
+"playerName": "delicedeprout",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "KGB",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Sucker Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "I-B",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Encore", "Freeze-Dry"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "C-Y",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave", "Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "Grds",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Thunder Wave", "Whirlpool", "Taunt", "Waterfall"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kingambit", "Iron Bundle", "Chi-Yu", "Gyarados"]
+},
+"outcome": 1
+}

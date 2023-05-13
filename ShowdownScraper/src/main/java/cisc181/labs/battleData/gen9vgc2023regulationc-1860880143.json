@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860880143",
+"p1": {
+"playerName": "shelmerfudd",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Moxie",
+"teraType": "Flying",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Stomping Tantrum"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff", "Clear Smog"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Gyarados", "Ting-Lu", "Amoonguss", "Tyranitar"]
+},
+"p2": {
+"playerName": "Piccolo Ruiz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Sasha Colby",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Bianca",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Mo Heart",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Flamethrower", "Dark Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Katya",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Crash"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Chi-Yu", "Baxcalibur"]
+},
+"outcome": 0
+}

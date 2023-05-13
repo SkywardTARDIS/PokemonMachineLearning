@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1862643999",
+"p1": {
+"playerName": "MUUUUUUUUUUK",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk in the sink",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Jab"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Giga Drain", "Spore", "Pollen Puff"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Ditto",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Muk", "Amoonguss", "Dragonite", "Iron Treads"]
+},
+"p2": {
+"playerName": "KilnFirelink",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "MacArthur",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Lilligant",
+"nickname": "Polite Plant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["After You"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Cancer",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "Aguav Berry",
+"ability": "Harvest",
+"teraType": "",
+"moves": ["Pollen Puff", "Protect", "Giga Drain"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Lilligant", "Flutter Mane", "Arboliva"]
+},
+"outcome": 0
+}

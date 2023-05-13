@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861098782",
+"p1": {
+"playerName": "Aveni",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Yoshi",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Bowser",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Close Combat", "Headlong Rush"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Daisy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Mario",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Nasty Plot", "Protect"]
+}
+],
+"broughtTeam": ["Gyarados", "Great Tusk", "Flutter Mane", "Gholdengo"]
+},
+"p2": {
+"playerName": "DarthIgnus",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "Fire",
+"moves": ["Iron Defense", "Body Press", "Heavy Slam"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed", "Aerial Ace", "Earthquake"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Flutter Mane", "Dragonite", "Baxcalibur"]
+},
+"outcome": 1
+}

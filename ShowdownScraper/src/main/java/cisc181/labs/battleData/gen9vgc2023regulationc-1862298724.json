@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862298724",
+"p1": {
+"playerName": "The Spicy Cigar",
+"fullTeam": [
+{
+"species": "Bronzong",
+"nickname": "Big Ben",
+"item": "",
+"ability": "Levitate",
+"teraType": "Poison",
+"moves": ["Trick Room", "Gyro Ball", "Safeguard", "Ice Spinner"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Grand Canyon",
+"item": "Weakness Policy",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Tony Soprano",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Wild Charge"]
+},
+{
+"species": "Azumarill",
+"nickname": "Florida Man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bronzong", "Ting-Lu", "Iron Hands", "Azumarill"]
+},
+"p2": {
+"playerName": "PRANAVSHOWDOWN",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Brave Bird"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard", "Protect"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Iron Moth", "Staraptor", "Iron Bundle", "Chi-Yu"]
+},
+"outcome": 1
+}

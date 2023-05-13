@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860725564",
+"p1": {
+"playerName": "Ciq108",
+"fullTeam": [
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Focus Sash",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Volt Switch", "Will-O-Wisp", "Leaf Storm"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Crabominable",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gengar", "Rotom", "Mudsdale", "Azumarill"]
+},
+"p2": {
+"playerName": "Lumaris",
+"fullTeam": [
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Crunch"]
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Knock Off", "Steel Beam"]
+},
+{
+"species": "Gogoat",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hariyama", "Krookodile", "Drifblim", "Tinkaton"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860690327",
+"p1": {
+"playerName": "RandomDuVGCFR",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "Steel",
+"moves": ["Earth Power", "Recover"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Surf", "Reflect"]
+}
+],
+"broughtTeam": ["Gastrodon", "Dragapult"]
+},
+"p2": {
+"playerName": "plougonvelen",
+"fullTeam": [
+{
+"species": "Coalossal",
+"nickname": "Plouzané",
+"item": "",
+"ability": "Steam Engine",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Bruxish",
+"nickname": "Plougastel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Psychic Fangs"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dachsbun",
+"nickname": "Plouescat",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Trailblaze"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Plouarzel",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume"]
+}
+],
+"broughtTeam": ["Coalossal", "Bruxish", "Dachsbun", "Chi-Yu"]
+},
+"outcome": 1
+}

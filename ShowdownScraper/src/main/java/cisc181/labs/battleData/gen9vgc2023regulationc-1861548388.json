@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1861548388",
+"p1": {
+"playerName": "Kefka2.02",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Fist"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Icy Wind", "Ice Spinner"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "King's Rock",
+"ability": "",
+"teraType": "",
+"moves": ["Fling", "Gunk Shot", "Parting Shot"]
+},
+{
+"species": "Riolu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garganacl", "Annihilape", "Chien-Pao", "Grafaiai"]
+},
+"p2": {
+"playerName": "IceGymDuoOus",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "Starf Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fling"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Starf Berry",
+"ability": "Weak Armor",
+"teraType": "Psychic",
+"moves": ["Endure", "Stored Power"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Ceruledge", "Amoonguss", "Sylveon"]
+},
+"outcome": 0
+}

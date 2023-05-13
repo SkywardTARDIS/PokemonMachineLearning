@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860732776",
+"p1": {
+"playerName": "Tay23",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Froslass",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Earthquake", "Knock Off"]
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Discharge"]
+}
+],
+"broughtTeam": ["Salamence", "Iron Treads", "Eelektross"]
+},
+"p2": {
+"playerName": "Bitt 24",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Occa Berry",
+"ability": "Mirror Armor",
+"teraType": "Ground",
+"moves": ["Bulk Up", "Brave Bird"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "Barraskewda",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Liquidation"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Pyroar", "Corviknight", "Barraskewda", "Lycanroc"]
+},
+"outcome": 1
+}

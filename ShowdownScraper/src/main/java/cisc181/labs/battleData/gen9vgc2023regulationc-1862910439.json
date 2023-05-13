@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862910439",
+"p1": {
+"playerName": "Garydosses",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Tyrantar",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry", "Icy Wind"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Tailwind", "Iron Head", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Haze", "Wave Crash"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Headlong Rush"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Corviknight", "Palafin", "Great Tusk"]
+},
+"p2": {
+"playerName": "RIPTheDollarMenu",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Disable"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Bulk Up", "Brave Bird", "Roost"]
+},
+{
+"species": "Gyarados",
+"nickname": "Leviathan",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Protect"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Genie",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wild Charge"]
+}
+],
+"broughtTeam": ["Scream Tail", "Corviknight", "Gyarados", "Iron Hands"]
+},
+"outcome": 1
+}

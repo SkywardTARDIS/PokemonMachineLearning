@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860630861",
+"p1": {
+"playerName": "taterstotz",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Jet Punch"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Focus Sash",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Leaf Storm"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Disable", "Play Rough", "Perish Song"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Pelipper", "Amoonguss", "Scream Tail"]
+},
+"p2": {
+"playerName": "gomn",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Wild Charge"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "D-Pult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts", "Struggle"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Beam"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "Kight",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Expanding Force", "Energy Ball", "Armor Cannon"]
+}
+],
+"broughtTeam": ["Iron Hands", "Dragapult", "Gastrodon", "Armarouge"]
+},
+"outcome": 1
+}

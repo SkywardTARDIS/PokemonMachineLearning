@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862930056",
+"p1": {
+"playerName": "wackomarko",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect", "Shadow Ball"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Ice Shard"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Flutter Mane", "Chien-Pao", "Dragapult"]
+},
+"p2": {
+"playerName": "Matias06",
+"fullTeam": [
+{
+"species": "Dachsbun",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "Floatzel",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Rain Dance", "Ice Spinner"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Make It Rain"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "Wind Power",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot", "Spore"]
+}
+],
+"broughtTeam": ["Floatzel", "Gholdengo", "Kilowattrel", "Breloom"]
+},
+"outcome": 1
+}

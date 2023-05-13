@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860606191",
+"p1": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Big",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Fire",
+"moves": ["Tera Blast", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "tty",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Payback", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "tty",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Payback", "Stomping Tantrum", "Heavy Slam"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Friend",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Torkoal", "Ting-Lu", "Flutter Mane"]
+},
+"p2": {
+"playerName": "Girafferna",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Shadow Ball", "Make It Rain"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Iron Hands", "Gholdengo", "Iron Bundle"]
+},
+"outcome": 1
+}

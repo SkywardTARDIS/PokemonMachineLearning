@@ -1,0 +1,112 @@
+{
+"id": "smogtours-gen9vgc2023regulationc-692020",
+"p1": {
+"playerName": "IBOIIII",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "Flying",
+"moves": ["Fake Out", "Nuzzle", "Volt Switch"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Thunderbolt", "Will-O-Wisp"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+}
+],
+"broughtTeam": ["Dragonite", "Raichu", "Rotom", "Iron Moth"]
+},
+"p2": {
+"playerName": "SimsyBool",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "Eject Button",
+"ability": "",
+"teraType": "",
+"moves": ["Super Fang", "Helping Hand"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Double Shock"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grumpig",
+"nickname": "Grumpig",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Psyshock"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Maushold", "Pawmot", "Grumpig"]
+},
+"outcome": 0
+}

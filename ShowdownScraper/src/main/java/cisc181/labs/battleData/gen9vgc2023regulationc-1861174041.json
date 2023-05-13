@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861174041",
+"p1": {
+"playerName": "Ups1deD0wnSyndrome",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "",
+"teraType": "Fighting",
+"moves": ["Drain Punch"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Spikes", "Stealth Rock", "Whirlwind"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Crunch", "Extreme Speed", "Close Combat"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Ting-Lu", "Arcanine"]
+},
+"p2": {
+"playerName": "Pokemonster28",
+"fullTeam": [
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Earthquake", "Close Combat"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Foul Play", "Tailwind", "Protect"]
+},
+{
+"species": "Weavile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Ice Beam"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat", "Spirit Break"]
+}
+],
+"broughtTeam": ["Krookodile", "Murkrow", "Iron Bundle", "Iron Valiant"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862345602",
+"p1": {
+"playerName": "Mast3rCruz",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Armarouge",
+"nickname": "IntoTheFire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Armor Cannon"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bismarck",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Tera Blast", "Waterfall"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Gott Mit Uns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Panzerkampf",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Iron Head"]
+}
+],
+"broughtTeam": ["Armarouge", "Gyarados", "Hydreigon", "Iron Treads"]
+},
+"p2": {
+"playerName": "kuq0",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "Fighting",
+"moves": ["Drain Punch", "Trailblaze"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap"]
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Petal Blizzard", "Play Rough"]
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "Sap Sipper",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slaking", "Farigiraf", "Meowscarada", "Goodra"]
+},
+"outcome": 1
+}

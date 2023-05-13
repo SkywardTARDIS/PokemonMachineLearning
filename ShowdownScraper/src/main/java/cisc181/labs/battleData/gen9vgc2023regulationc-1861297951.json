@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861297951",
+"p1": {
+"playerName": "Draxolotl",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Thunder Wave"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird", "Will-O-Wisp"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head", "Kowtow Cleave"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Ghost",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Gyarados", "Talonflame", "Kingambit", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Topperlecat",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "the biggest bird",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Brave Bird"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Drain Punch", "Shadow Sneak", "Curse"]
+},
+{
+"species": "Maushold",
+"nickname": "no.",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "bob",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Corviknight", "Mimikyu", "Maushold", "Tyranitar"]
+},
+"outcome": 0
+}

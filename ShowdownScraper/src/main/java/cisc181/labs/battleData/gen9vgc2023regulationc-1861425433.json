@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861425433",
+"p1": {
+"playerName": "Jovenchano3103",
+"fullTeam": [
+{
+"species": "Froslass",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Belly Drum", "Drain Punch", "Thunder Punch"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+}
+],
+"broughtTeam": ["Abomasnow", "Armarouge", "Iron Hands", "Garchomp"]
+},
+"p2": {
+"playerName": "Mast3rCruz",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Midway",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Armarouge",
+"nickname": "IntoTheFire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Armor Cannon"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bismarck",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Gott Mit Uns",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Armarouge", "Gyarados", "Hydreigon"]
+},
+"outcome": 0
+}

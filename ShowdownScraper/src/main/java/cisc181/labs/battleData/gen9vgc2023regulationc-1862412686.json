@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862412686",
+"p1": {
+"playerName": "rose_zkldin",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Aguav Berry",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Mud-Slap", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Protect", "Extreme Speed", "Will-O-Wisp"]
+},
+{
+"species": "Dragonair",
+"nickname": "Dragonair",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Protect", "Safeguard"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Ting-Lu", "Arcanine", "Dragonair"]
+},
+"p2": {
+"playerName": "MalmartEmployee",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Expanding Force"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Steel",
+"moves": ["Thief", "Icy Wind", "Encore"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Crunch", "Trailblaze", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Protect", "Helping Hand"]
+}
+],
+"broughtTeam": ["Armarouge", "Iron Bundle", "Brute Bonnet", "Indeedee"]
+},
+"outcome": 1
+}

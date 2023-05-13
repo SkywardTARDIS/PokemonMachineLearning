@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862312219",
+"p1": {
+"playerName": "Capnt",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Holst",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Substitute", "Swords Dance"]
+},
+{
+"species": "Talonflame",
+"nickname": "Achilles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Protect", "Flare Blitz"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Misdreavus?",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Shadow Ball", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Hydro Pump"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Talonflame", "Flutter Mane", "Rotom"]
+},
+"p2": {
+"playerName": "The Spicy Cigar",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge", "Drain Punch"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Trick Room", "Safeguard", "Ice Spinner", "Gyro Ball"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Farigiraf", "Iron Hands", "Bronzong", "Azumarill"]
+},
+"outcome": 0
+}

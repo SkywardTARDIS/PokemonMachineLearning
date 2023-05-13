@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862471100",
+"p1": {
+"playerName": "7daze1",
+"fullTeam": [
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Close Combat", "Protect", "Skill Swap"]
+},
+{
+"species": "Mimikyu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Protect", "Order Up", "Yawn"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Bitter Blade"]
+}
+],
+"broughtTeam": ["Medicham", "Dondozo", "Tatsugiri", "Ceruledge"]
+},
+"p2": {
+"playerName": "TonyJazs",
+"fullTeam": [
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Blast", "Earthquake"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Ruination"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "Icy Wind"]
+}
+],
+"broughtTeam": ["Drednaw", "Wo-Chien", "Glimmora", "Iron Bundle"]
+},
+"outcome": 0
+}

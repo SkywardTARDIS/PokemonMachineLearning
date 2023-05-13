@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861587423",
+"p1": {
+"playerName": "RocketRoad",
+"fullTeam": [
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Feint"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Mirror Herb",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+}
+],
+"broughtTeam": ["Tinkaton", "Kingambit", "Scovillain", "Torkoal"]
+},
+"p2": {
+"playerName": "StormBirdAR!081",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spicy Extract"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "Mirror Herb",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Protect", "Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["X-Scissor", "Protect", "Tera Blast"]
+}
+],
+"broughtTeam": ["Scovillain", "Salamence", "Rotom", "Leafeon"]
+},
+"outcome": 0
+}

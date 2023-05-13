@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862654255",
+"p1": {
+"playerName": "AndyLaVGC",
+"fullTeam": [
+{
+"species": "Numel",
+"nickname": "Numel",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Stockpile", "Growth", "Heat Wave", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat", "Helping Hand"]
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Pollen Puff", "Spore"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Numel", "Torkoal", "Mimikyu", "Amoonguss"]
+},
+"p2": {
+"playerName": "SpadesHS",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "Tuskar",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush"]
+},
+{
+"species": "Talonflame",
+"nickname": "Firebird",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Taunt"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "RobotChicken",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "The Thing",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Crunch", "Rock Slide"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Great Tusk", "Talonflame", "Iron Bundle", "Tyranitar"]
+},
+"outcome": 1
+}

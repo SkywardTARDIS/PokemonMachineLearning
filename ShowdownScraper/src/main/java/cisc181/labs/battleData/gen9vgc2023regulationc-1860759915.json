@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860759915",
+"p1": {
+"playerName": "1stTempest",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Noms",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Ice Beam"]
+},
+{
+"species": "Glimmora",
+"nickname": "Bubbles",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Spiky Shield"]
+},
+{
+"species": "Garchomp",
+"nickname": "Chomps",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Earthquake"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Dill Dough",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+}
+],
+"broughtTeam": ["Tyranitar", "Glimmora", "Garchomp", "Sandy Shocks"]
+},
+"p2": {
+"playerName": "gesucristousername",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Nasty Plot"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chi-Yu", "Murkrow", "Garchomp", "Iron Moth"]
+},
+"outcome": 1
+}

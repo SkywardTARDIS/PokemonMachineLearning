@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862322240",
+"p1": {
+"playerName": "lorde",
+"fullTeam": [
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Belly Drum", "Liquidation"]
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water", "Icy Wind"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Icicle Spear"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aqua Jet"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Cetitan", "Slowking", "Baxcalibur", "Azumarill"]
+},
+"p2": {
+"playerName": "RazorSquid",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Gunk Shot", "Haze"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Low Kick"]
+},
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Endeavor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Muk", "Tyranitar", "Lycanroc", "Flutter Mane"]
+},
+"outcome": 0
+}

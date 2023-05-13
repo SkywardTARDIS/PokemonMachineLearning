@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862898096",
+"p1": {
+"playerName": "puli95",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough"]
+},
+{
+"species": "Hariyama",
+"nickname": "Hariyama",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Bullet Punch", "Knock Off", "Fake Out", "Drain Punch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry", "Chilling Water"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+}
+],
+"broughtTeam": ["Mimikyu", "Hariyama", "Iron Bundle", "Hydreigon"]
+},
+"p2": {
+"playerName": "RIPTheDollarMenu",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "Tarrasque",
+"item": "Weakness Policy",
+"ability": "Sand Stream",
+"teraType": "Rock",
+"moves": ["Protect", "Low Kick"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Dazzling Gleam"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird", "Iron Head"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Genie",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch", "Wild Charge", "Protect"]
+}
+],
+"broughtTeam": ["Tyranitar", "Scream Tail", "Corviknight", "Iron Hands"]
+},
+"outcome": 0
+}

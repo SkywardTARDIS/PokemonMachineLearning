@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862399303",
+"p1": {
+"playerName": "Cyberdevil",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+}
+],
+"broughtTeam": ["Kingambit", "Dragonite", "Great Tusk", "Flutter Mane"]
+},
+"p2": {
+"playerName": "AratzEnp",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "DURUM KEBAB",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "PACO SANZ",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Flamethrower", "Protect"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "CALVO GAFA",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Detect", "Headlong Rush"]
+},
+{
+"species": "Oranguru",
+"nickname": "MONO PIKCAL",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Instruct", "Psyshock"]
+}
+],
+"broughtTeam": ["Hatterene", "Torkoal", "Hariyama", "Oranguru"]
+},
+"outcome": 1
+}

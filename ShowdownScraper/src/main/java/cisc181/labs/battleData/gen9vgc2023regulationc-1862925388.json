@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862925388",
+"p1": {
+"playerName": "WaffleMoo",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Dragon Dance"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Nuzzle"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Chilling Water", "Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Palafin", "Salamence", "Raichu", "Florges"]
+},
+"p2": {
+"playerName": "Frozen_ATM",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxicroak",
+"nickname": "Toxicroak",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Quick Guard", "Rock Slide"]
+},
+{
+"species": "Pyroar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Iron Head", "Sucker Punch", "Kowtow Cleave"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Bellibolt", "Toxicroak", "Kingambit"]
+},
+"outcome": 0
+}

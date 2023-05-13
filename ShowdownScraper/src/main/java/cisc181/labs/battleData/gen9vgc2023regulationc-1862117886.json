@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862117886",
+"p1": {
+"playerName": "WBG Angel",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Tailwind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Protect", "Mach Punch"]
+},
+{
+"species": "Tinkatuff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Ground",
+"moves": ["Earthquake", "Rock Slide"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Flutter Mane", "Breloom", "Krookodile"]
+},
+"p2": {
+"playerName": "exstraspaceDND",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Chopper",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Protect", "Earthquake"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Jojo reference",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Protect", "Discharge"]
+},
+{
+"species": "Scizor",
+"nickname": "Punchy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Epper",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Pollen Puff"]
+},
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Rotom", "Scizor", "Jumpluff"]
+},
+"outcome": 1
+}

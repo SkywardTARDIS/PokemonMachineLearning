@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860893532",
+"p1": {
+"playerName": "bway",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Eject Pack",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder", "Encore", "Leaf Storm", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner", "Taunt"]
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Jumpluff", "Chien-Pao"]
+},
+"p2": {
+"playerName": "hooveris",
+"fullTeam": [
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Light Screen", "Hyper Voice"]
+},
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "Liechi Berry",
+"ability": "Cheek Pouch",
+"teraType": "",
+"moves": ["Stuff Cheeks", "Psychic Fangs"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Farigiraf", "Greedent", "Flamigo", "Iron Hands"]
+},
+"outcome": 1
+}

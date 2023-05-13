@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862555294",
+"p1": {
+"playerName": "betelgeuse",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Haze", "Muddy Water", "Yawn"]
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Snarl", "Moonlight", "Foul Play", "Yawn"]
+},
+{
+"species": "Espeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Leafeon",
+"nickname": "Leafeon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+}
+],
+"broughtTeam": ["Vaporeon", "Jolteon", "Umbreon", "Leafeon"]
+},
+"p2": {
+"playerName": "Doksa",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Make It Rain"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "Leftovers",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": ["Clear Smog", "Protect"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Ghost",
+"moves": ["Crunch", "Rock Blast"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Iron Ball",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Fling", "Parting Shot"]
+}
+],
+"broughtTeam": ["Gholdengo", "Gastrodon", "Tyranitar", "Grafaiai"]
+},
+"outcome": 1
+}

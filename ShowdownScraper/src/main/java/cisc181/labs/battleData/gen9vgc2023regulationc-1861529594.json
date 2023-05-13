@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861529594",
+"p1": {
+"playerName": "Brovid",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lulu",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["After You", "Protect"]
+},
+{
+"species": "Torkoal",
+"nickname": "Raphael",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Earth Power", "Eruption", "Protect", "Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "GhostBuster",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Kingambit",
+"nickname": "Razor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave", "Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lilligant", "Torkoal", "Flutter Mane", "Kingambit"]
+},
+"p2": {
+"playerName": "adrpen",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Jet Punch", "Wave Crash"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Protect", "Howl"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Palafin", "Iron Hands", "Arcanine", "Flutter Mane"]
+},
+"outcome": 1
+}

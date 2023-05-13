@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860623249",
+"p1": {
+"playerName": "SouthCroydonSaurs",
+"fullTeam": [
+{
+"species": "Slowking",
+"nickname": "Slowking",
+"item": "",
+"ability": "Oblivious",
+"teraType": "",
+"moves": ["Trick Room", "Swagger"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Own Tempo",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Luxray",
+"nickname": "Luxray",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Facade", "Play Rough"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Slowking", "Tinkaton", "Murkrow", "Luxray"]
+},
+"p2": {
+"playerName": "SpaceCityVGC",
+"fullTeam": [
+{
+"species": "Annihilape",
+"nickname": "Mucho Angry",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Arcanine",
+"nickname": "WoofieVGC",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Howl", "Flare Blitz", "Extreme Speed"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Azumarill",
+"nickname": "Playboy Bunny",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "Madoka",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic"]
+}
+],
+"broughtTeam": ["Annihilape", "Arcanine", "Azumarill", "Espeon"]
+},
+"outcome": 0
+}

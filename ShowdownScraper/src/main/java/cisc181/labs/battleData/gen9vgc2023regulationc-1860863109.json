@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1860863109",
+"p1": {
+"playerName": "Astrostardust",
+"fullTeam": [
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Spiky Shield", "Sludge Wave"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash"]
+},
+{
+"species": "Brambleghast",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "White Herb",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Tailwind", "Close Combat"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Tatsugiri", "Dondozo", "Flamigo"]
+},
+"p2": {
+"playerName": "STICKYUHH123",
+"fullTeam": [
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "Flame Orb",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Draco Meteor", "Helping Hand"]
+}
+],
+"broughtTeam": ["Kingambit", "Lucario", "Flutter Mane", "Dragapult"]
+},
+"outcome": 1
+}

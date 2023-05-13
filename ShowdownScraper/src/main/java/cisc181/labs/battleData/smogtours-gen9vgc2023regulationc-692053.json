@@ -1,0 +1,112 @@
+{
+"id": "smogtours-gen9vgc2023regulationc-692053",
+"p1": {
+"playerName": "DiamondScyther",
+"fullTeam": [
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "Clear Amulet",
+"ability": "Regenerator",
+"teraType": "",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "Regenerator",
+"teraType": "",
+"moves": ["Doodle", "Knock Off"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Ice Spinner", "Aqua Jet"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz"]
+}
+],
+"broughtTeam": ["Slaking", "Grafaiai", "Azumarill", "Arcanine"]
+},
+"p2": {
+"playerName": "snackard",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "Choice Band",
+"ability": "Dragapult",
+"teraType": "Steel",
+"moves": ["Dragon Darts", "U-turn"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Pollen Puff"]
+},
+{
+"species": "Krookodile",
+"nickname": "Krookodile",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Close Combat"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragapult", "Amoonguss", "Krookodile", "Scizor"]
+},
+"outcome": 0
+}

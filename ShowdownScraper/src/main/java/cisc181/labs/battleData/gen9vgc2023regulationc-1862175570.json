@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862175570",
+"p1": {
+"playerName": "pikallo1995",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "Storm Drain",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magnezone",
+"nickname": "Magnezone",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Ice Spinner"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot", "Recover"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gastrodon", "Magnezone", "Azumarill", "Clodsire"]
+},
+"p2": {
+"playerName": "finiro",
+"fullTeam": [
+{
+"species": "Lurantis",
+"nickname": "Lurantis",
+"item": "Yache Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break", "Leaf Storm"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump", "Freeze-Dry", "Icy Wind", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "Grass",
+"moves": ["Protect", "Will-O-Wisp", "Tera Blast"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Switcheroo"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lurantis", "Iron Bundle", "Arcanine", "Klefki"]
+},
+"outcome": 0
+}

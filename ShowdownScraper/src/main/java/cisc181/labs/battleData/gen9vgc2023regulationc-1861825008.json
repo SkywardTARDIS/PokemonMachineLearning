@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861825008",
+"p1": {
+"playerName": "NoahMP3",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Acrobatics", "Detect", "Rock Slide"]
+},
+{
+"species": "Riolu",
+"nickname": "Riolu",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Vacuum Wave", "Feint", "Helping Hand"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glaceon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hawlucha", "Riolu"]
+},
+"p2": {
+"playerName": "TheParasectKing",
+"fullTeam": [
+{
+"species": "Jolteon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Acrobatics", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flare Blitz"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Iron Bundle", "Talonflame", "Chien-Pao"]
+},
+"outcome": 1
+}

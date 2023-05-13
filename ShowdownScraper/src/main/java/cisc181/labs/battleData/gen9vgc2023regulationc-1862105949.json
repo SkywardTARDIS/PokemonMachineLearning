@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862105949",
+"p1": {
+"playerName": "sucabaVGC",
+"fullTeam": [
+{
+"species": "Eelektrik",
+"nickname": "Randall",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Coil", "Thunder", "Acid Spray"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowking",
+"nickname": "King Candy",
+"item": "",
+"ability": "Oblivious",
+"teraType": "Fighting",
+"moves": ["Trick Room", "Light Screen", "Hydro Pump"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Manny",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Headlong Rush"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Copperajah",
+"nickname": "Dumbo",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Protect", "Play Rough", "Superpower"]
+}
+],
+"broughtTeam": ["Eelektrik", "Slowking", "Great Tusk", "Copperajah"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Skuntank",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Cerberus",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Crunch", "Low Kick"]
+},
+{
+"species": "Jolteon",
+"nickname": "Zagreus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Rabsca",
+"nickname": "Persophone",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Protect", "Stored Power"]
+},
+{
+"species": "Kingambit",
+"nickname": "Thanatos",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Krookodile", "Jolteon", "Rabsca", "Kingambit"]
+},
+"outcome": 1
+}

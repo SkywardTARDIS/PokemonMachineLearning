@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1862157380",
+"p1": {
+"playerName": "HarlequinIvy",
+"fullTeam": [
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Psyshock"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "Flash Fire",
+"teraType": "",
+"moves": ["Trick", "Acid Spray"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Stonjourner",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Wide Guard", "Protect", "Low Kick"]
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Flutter Mane", "Stonjourner"]
+},
+"p2": {
+"playerName": "Pokeprofpine",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Heavy Slam", "Fissure"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Solar Beam", "Heat Wave", "Protect"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Psyshock"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Torkoal", "Rotom", "Farigiraf"]
+},
+"outcome": 1
+}

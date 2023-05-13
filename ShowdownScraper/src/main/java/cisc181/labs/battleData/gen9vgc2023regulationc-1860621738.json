@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860621738",
+"p1": {
+"playerName": "Ilpiuatteso",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Zangoose",
+"nickname": "Zangoose",
+"item": "Toxic Orb",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Protect", "Facade", "Quick Attack"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Foul Play"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Zangoose", "Murkrow", "Iron Hands", "Amoonguss"]
+},
+"p2": {
+"playerName": "NewToVGCPilo",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect", "Light Screen"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide", "Gastro Acid", "Thunder Wave"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch", "Drain Punch"]
+},
+{
+"species": "Dedenne",
+"nickname": "Pilo",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "Nuzzle", "Super Fang"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Eelektross", "Slaking", "Dedenne"]
+},
+"outcome": 1
+}

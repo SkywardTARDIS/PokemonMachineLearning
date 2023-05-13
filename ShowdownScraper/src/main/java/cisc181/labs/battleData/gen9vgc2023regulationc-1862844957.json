@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862844957",
+"p1": {
+"playerName": "not sasha",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Extreme Speed", "Close Combat"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Gunk Shot"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+}
+],
+"broughtTeam": ["Maushold", "Arcanine", "Clodsire", "Flutter Mane"]
+},
+"p2": {
+"playerName": "BaltimoreBuizels",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Whimsi-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sacred Sword", "Sucker Punch"]
+},
+{
+"species": "Talonflame",
+"nickname": "Taloncott",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird", "Taunt"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Gimbob",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Fluttercott",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Psyshock"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Talonflame", "Iron Bundle", "Flutter Mane"]
+},
+"outcome": 0
+}

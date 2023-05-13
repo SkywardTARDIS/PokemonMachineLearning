@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862369867",
+"p1": {
+"playerName": "devgeeks",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up", "Super Fang"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Annihilape", "Maushold"]
+},
+"p2": {
+"playerName": "Capitanaustria",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Sitrus Berry",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Sheer Cold"]
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Guillotine"]
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Guillotine"]
+},
+{
+"species": "Glalie",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Camerupt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Abomasnow", "Bisharp", "Haxorus"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860863187",
+"p1": {
+"playerName": "JayMcG1010",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Heavy Slam"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "Purifying Salt",
+"teraType": "Poison",
+"moves": ["Salt Cure", "Protect", "Recover"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Moonblast"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Heavy Slam", "Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Garganacl", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Can'tStopFalling",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Frambuesa",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Naranja",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Parchita",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam", "Moonblast"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Papaya",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Low Kick", "Rock Slide"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Amoonguss", "Flutter Mane", "Stonjourner"]
+},
+"outcome": 1
+}

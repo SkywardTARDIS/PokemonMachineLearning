@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862003596",
+"p1": {
+"playerName": "EldyOnetrick",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icicle Spear", "Protect", "Ice Shard"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Volt Switch", "Hydro Pump", "Protect"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Will-O-Wisp", "Protect"]
+}
+],
+"broughtTeam": ["Iron Moth", "Baxcalibur", "Rotom", "Talonflame"]
+},
+"p2": {
+"playerName": "Theburgerking14",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Icy Wind", "Protect", "Freeze-Dry"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Protect", "Iron Head", "Earthquake"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Air Balloon",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Encore", "Gigaton Hammer", "Thunder Wave"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Rock Slide", "Crunch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Garchomp", "Tinkaton", "Tyranitar"]
+},
+"outcome": 0
+}

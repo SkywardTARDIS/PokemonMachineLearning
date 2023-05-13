@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861619561",
+"p1": {
+"playerName": "Xkmn",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Psychic Fangs", "Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "Shell Bell",
+"ability": "",
+"teraType": "Water",
+"moves": ["Waterfall", "Rock Slide"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Aguav Berry",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Protect", "Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Klefki", "Arcanine", "Drednaw", "Ting-Lu"]
+},
+"p2": {
+"playerName": "WumbosaurusRex",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Belly Drum", "Play Rough"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Population Bomb"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Close Combat"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Grass",
+"moves": ["Yawn", "Helping Hand", "Eruption"]
+}
+],
+"broughtTeam": ["Azumarill", "Maushold", "Great Tusk", "Torkoal"]
+},
+"outcome": 1
+}

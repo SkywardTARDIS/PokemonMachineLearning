@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862220061",
+"p1": {
+"playerName": "sotero23",
+"fullTeam": [
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Protect", "Tera Blast"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Great Tusk", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "lumptious",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Plinkenton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Azumarill",
+"nickname": "Butternugget",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Aqua Jet", "Play Rough"]
+},
+{
+"species": "Lurantis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Dormpie",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Protect", "Iron Head"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Kroawl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunderbolt", "Protect"]
+}
+],
+"broughtTeam": ["Klefki", "Azumarill", "Garchomp", "Raichu"]
+},
+"outcome": 1
+}

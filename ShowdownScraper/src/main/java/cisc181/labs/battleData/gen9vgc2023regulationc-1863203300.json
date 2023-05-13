@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863203300",
+"p1": {
+"playerName": "TheSunnyBug",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Ladri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Super Fang", "Protect", "Thunder Wave"]
+},
+{
+"species": "Dondozo",
+"nickname": "Fritto Misto",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Yawn", "Order Up", "Wave Crash"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Gabibbo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Iron Defense", "Heavy Slam"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Acciuga",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Maushold", "Dondozo", "Orthworm", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Arcacagne",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Clear Smog", "Spore", "Pollen Puff"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Lum Berry",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Drain Punch", "Thunder Punch", "Swords Dance"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Iron Hands", "Gyarados"]
+},
+"outcome": 0
+}

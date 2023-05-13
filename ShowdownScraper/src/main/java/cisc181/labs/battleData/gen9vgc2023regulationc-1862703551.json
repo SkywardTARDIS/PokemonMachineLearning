@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862703551",
+"p1": {
+"playerName": "RIPTheDollarMenu",
+"fullTeam": [
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Beholder",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder Wave", "Encore", "Disable"]
+},
+{
+"species": "Corviknight",
+"nickname": "Roc",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Iron Head", "Brave Bird", "Roost"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Genie",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Drain Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "Leviathan",
+"item": "Leftovers",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Waterfall"]
+}
+],
+"broughtTeam": ["Scream Tail", "Corviknight", "Iron Hands", "Gyarados"]
+},
+"p2": {
+"playerName": "Rylanor VGC",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Wave Crash", "Yawn", "Body Press"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Flamethrower"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Fairy",
+"moves": ["Hex", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dondozo", "Glimmora", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 1
+}

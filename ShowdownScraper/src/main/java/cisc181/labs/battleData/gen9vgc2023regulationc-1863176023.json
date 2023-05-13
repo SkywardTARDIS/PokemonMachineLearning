@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863176023",
+"p1": {
+"playerName": "ErPaoletto",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Rock Slide", "Hyper Drill", "Protect"]
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "Weak Armor",
+"teraType": "",
+"moves": ["Armor Cannon"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Freeze-Dry", "Hydro Pump", "Icy Wind"]
+},
+{
+"species": "Sawsbuck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dudunsparce", "Indeedee", "Armarouge", "Iron Bundle"]
+},
+"p2": {
+"playerName": "MiraKhxlifx",
+"fullTeam": [
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "Pressure",
+"teraType": "Dark",
+"moves": ["Foul Play", "Ice Shard"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glaceon",
+"nickname": "Glaceon",
+"item": "",
+"ability": "Ice Body",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trailblaze"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Weavile", "Glaceon", "Scizor", "Abomasnow"]
+},
+"outcome": 0
+}

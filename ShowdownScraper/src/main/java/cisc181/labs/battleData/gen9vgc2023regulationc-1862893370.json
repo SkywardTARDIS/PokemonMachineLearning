@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862893370",
+"p1": {
+"playerName": "wackomarko",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Phantom Force", "Dragon Darts"]
+}
+],
+"broughtTeam": ["Talonflame", "Chien-Pao", "Dragapult"]
+},
+"p2": {
+"playerName": "Lordblakeob",
+"fullTeam": [
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Calm Mind", "Boomburst"]
+},
+{
+"species": "Dragapult",
+"nickname": "Dragapult",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Thunder Wave", "Infestation", "Confuse Ray"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bombirdier",
+"nickname": "Bombirdier",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dudunsparce", "Dragapult", "Bombirdier", "Flutter Mane"]
+},
+"outcome": 1
+}

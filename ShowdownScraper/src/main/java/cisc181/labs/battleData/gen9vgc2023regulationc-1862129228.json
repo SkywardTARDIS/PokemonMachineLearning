@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862129228",
+"p1": {
+"playerName": "DuelLuna",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Last Respects"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "Sitrus Berry",
+"ability": "Electromorphosis",
+"teraType": "Fairy",
+"moves": ["Tera Blast", "Protect"]
+},
+{
+"species": "Morgrem",
+"nickname": "Morgrem",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Tears", "Reflect", "Dazzling Gleam", "Taunt"]
+}
+],
+"broughtTeam": ["Houndstone", "Iron Moth", "Bellibolt", "Morgrem"]
+},
+"p2": {
+"playerName": "Fairy Juice Jay",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Gertrude",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Icicle Spear"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Trogonth",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Protect", "Headlong Rush"]
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Hurricane"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Staraptor", "Great Tusk", "Kilowattrel"]
+},
+"outcome": 1
+}

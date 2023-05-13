@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860938453",
+"p1": {
+"playerName": "Moogum",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "hey",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Dragapult",
+"nickname": "howdy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Darts"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "hi",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Flare Blitz", "Will-O-Wisp", "Extreme Speed"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "yo",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragapult", "Arcanine", "Iron Bundle"]
+},
+"p2": {
+"playerName": "chazers",
+"fullTeam": [
+{
+"species": "Espathra",
+"nickname": "Cleogaga",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Parting Shot"]
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Poison",
+"moves": ["Fissure", "Throat Chop"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "Throat Spray",
+"ability": "Armor Tail",
+"teraType": "",
+"moves": ["Thunder Wave", "Hyper Voice"]
+}
+],
+"broughtTeam": ["Espathra", "Grafaiai", "Ting-Lu", "Farigiraf"]
+},
+"outcome": 0
+}

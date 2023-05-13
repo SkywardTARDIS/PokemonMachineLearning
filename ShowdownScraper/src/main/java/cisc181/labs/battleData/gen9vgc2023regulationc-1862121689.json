@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862121689",
+"p1": {
+"playerName": "QuaxLink",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Poison Jab"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Dragon Dance", "Extreme Speed", "Protect"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Clawitzer",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Flutter Mane", "Grafaiai", "Dragonite", "Tauros"]
+},
+"p2": {
+"playerName": "Greedent Enjoyer",
+"fullTeam": [
+{
+"species": "Forretress",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mabosstiff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "Gigantomachia",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Rock Slide", "Wild Charge", "Protect"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "Tsukuyomi",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Chargebolt",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Zing Zap", "Thunder Wave"]
+},
+{
+"species": "Scovillain",
+"nickname": "Suneater",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Flamethrower"]
+}
+],
+"broughtTeam": ["Iron Thorns", "Iron Jugulis", "Pincurchin", "Scovillain"]
+},
+"outcome": 1
+}

@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1860562828",
+"p1": {
+"playerName": "sabertooth81",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "U-turn"]
+},
+{
+"species": "Brambleghast",
+"nickname": "Brambleghast",
+"item": "Grassy Seed",
+"ability": "Wind Rider",
+"teraType": "Ghost",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Arboliva",
+"nickname": "Arboliva",
+"item": "",
+"ability": "Seed Sower",
+"teraType": "",
+"moves": ["Light Screen", "Pollen Puff", "Reflect", "Strength Sap"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb"]
+}
+],
+"broughtTeam": ["Talonflame", "Brambleghast", "Arboliva", "Maushold"]
+},
+"p2": {
+"playerName": "jemenuieeee",
+"fullTeam": [
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Dazzling Gleam"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Substitute", "Freeze-Dry", "Encore"]
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Destiny Bond"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Sucker Punch", "Wild Charge", "Acupressure"]
+}
+],
+"broughtTeam": ["Iron Moth", "Iron Bundle", "Iron Valiant", "Pincurchin"]
+},
+"outcome": 0
+}

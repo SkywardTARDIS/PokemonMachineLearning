@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861553544",
+"p1": {
+"playerName": "Xalvadore",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Flying",
+"moves": ["Rock Slide", "Brick Break", "Iron Head", "Assurance"]
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Head"]
+}
+],
+"broughtTeam": ["Tyranitar", "Arcanine", "Flutter Mane", "Corviknight"]
+},
+"p2": {
+"playerName": "Adge77",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Gem", "Mortal Spin", "Sludge Bomb"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect", "Heal Pulse", "Psychic"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Crunch", "Protect"]
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Air Balloon",
+"ability": "Intimidate",
+"teraType": "Rock",
+"moves": ["Protect"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Glimmora", "Gothitelle", "Tyranitar", "Tauros"]
+},
+"outcome": 1
+}

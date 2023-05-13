@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861968914",
+"p1": {
+"playerName": "as-fly-as-sly",
+"fullTeam": [
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Magneton",
+"nickname": "Kidd",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunderbolt", "Flash Cannon"]
+},
+{
+"species": "Hippowdon",
+"nickname": "Mr. 0",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Ace",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Flamethrower", "Dark Pulse", "Tera Blast"]
+},
+{
+"species": "Salamence",
+"nickname": "Kaido",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane", "Hydro Pump"]
+},
+{
+"species": "Crabominable",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Magneton", "Hippowdon", "Chi-Yu", "Salamence"]
+},
+"p2": {
+"playerName": "Heaven64",
+"fullTeam": [
+{
+"species": "Iron Jugulis",
+"nickname": "Black Mesa",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Tailwind", "Protect", "Hurricane"]
+},
+{
+"species": "Klefki",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Thorns",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Umbrella",
+"item": "",
+"ability": "Drizzle",
+"teraType": "Ground",
+"moves": ["Hurricane", "Helping Hand", "Protect", "Hydro Pump"]
+},
+{
+"species": "Krookodile",
+"nickname": "Abstergo",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Floatzel",
+"nickname": "Rhine",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Ice Spinner"]
+}
+],
+"broughtTeam": ["Iron Jugulis", "Pelipper", "Krookodile", "Floatzel"]
+},
+"outcome": 1
+}

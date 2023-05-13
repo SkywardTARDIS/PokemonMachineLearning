@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860637361",
+"p1": {
+"playerName": "Stowlas",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Iron Defense", "Body Press"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Play Rough", "Knock Off"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Quiver Dance", "Giga Drain"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Rock Slide", "Close Combat"]
+},
+{
+"species": "Dragalge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Tinkaton", "Frosmoth", "Tauros"]
+},
+"p2": {
+"playerName": "duderob92",
+"fullTeam": [
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Flip Turn", "Jet Punch"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stealth Rock", "Protect", "Stomping Tantrum"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Icy Rock",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Leaf Storm"]
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Flamethrower", "Will-O-Wisp", "Air Slash"]
+}
+],
+"broughtTeam": ["Palafin", "Ting-Lu", "Abomasnow", "Talonflame"]
+},
+"outcome": 1
+}

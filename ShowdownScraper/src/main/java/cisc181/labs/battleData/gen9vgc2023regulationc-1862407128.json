@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862407128",
+"p1": {
+"playerName": "Roopydoopy",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Punch"]
+},
+{
+"species": "Wigglytuff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Fairy",
+"moves": ["Leech Seed", "Protect", "Knock Off", "Pollen Puff"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Flare Blitz", "Will-O-Wisp", "Protect"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Pawmot", "Wo-Chien", "Arcanine", "Gothorita"]
+},
+"p2": {
+"playerName": "ethan06",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Protect", "Nasty Plot"]
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Steel",
+"moves": ["Draco Meteor", "Tera Blast"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock", "Thunderbolt", "Aura Sphere"]
+},
+{
+"species": "Persian",
+"nickname": "Persian",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Feint", "Taunt", "Fake Tears"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Salamence", "Iron Valiant", "Persian"]
+},
+"outcome": 0
+}

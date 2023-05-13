@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863025547",
+"p1": {
+"playerName": "Bleedal",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Moxie",
+"teraType": "",
+"moves": ["Dragon Dance", "Waterfall", "Outrage"]
+},
+{
+"species": "Bisharp",
+"nickname": "Bisharp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Iron Head"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff", "Protect"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Gyarados", "Bisharp", "Amoonguss"]
+},
+"p2": {
+"playerName": "Beauty Devon",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Pien-Chao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword"]
+},
+{
+"species": "Dragonite",
+"nickname": "Fairyday",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Earthquake", "Extreme Speed"]
+},
+{
+"species": "Annihilape",
+"nickname": "Pro LGBT",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Maushold",
+"nickname": "Pro LGBT",
+"item": "Safety Goggles",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wooper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Dragonite", "Annihilape", "Maushold"]
+},
+"outcome": 1
+}

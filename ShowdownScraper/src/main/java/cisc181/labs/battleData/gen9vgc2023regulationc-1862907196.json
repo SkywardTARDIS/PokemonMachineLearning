@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862907196",
+"p1": {
+"playerName": "AverageAvenger",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Thing-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Vivillon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Claus",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Snowbama",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Helping Hand", "Ice Shard"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Lonmg",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "Fire",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ting-Lu", "Iron Bundle", "Abomasnow", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Rreignstar",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Sephiroth",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Mystical Fire"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Bowser",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Earthquake", "Ice Shard"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Ganondorf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Ridley",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Cetitan", "Great Tusk", "Corviknight"]
+},
+"outcome": 1
+}

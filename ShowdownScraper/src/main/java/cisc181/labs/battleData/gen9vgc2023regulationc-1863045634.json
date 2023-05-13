@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863045634",
+"p1": {
+"playerName": "T0pAz666",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Snarl", "Howl"]
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Protect", "Waterfall"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "Tatsugiri",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Arcanine", "Dondozo", "Tatsugiri"]
+},
+"p2": {
+"playerName": "Icefanngs",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Vaporeon",
+"item": "",
+"ability": "Water Absorb",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance", "Surf", "Protect"]
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Ice Beam", "Dazzling Gleam"]
+},
+{
+"species": "Gogoat",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arboliva",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "Sitrus Berry",
+"ability": "Soundproof",
+"teraType": "",
+"moves": ["Discharge", "Foul Play"]
+}
+],
+"broughtTeam": ["Vaporeon", "Goodra", "Frosmoth", "Electrode"]
+},
+"outcome": 0
+}

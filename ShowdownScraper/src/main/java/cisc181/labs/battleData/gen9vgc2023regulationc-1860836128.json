@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860836128",
+"p1": {
+"playerName": "Araway",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Leftovers",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunderbolt", "Discharge", "Protect", "Hydro Pump"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rock Slide", "Earthquake"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Electric Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Acrobatics"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop", "Sucker Punch"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Treads", "Hawlucha", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Nejisuke",
+"fullTeam": [
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ally Switch"]
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Avalugg",
+"nickname": "Avalugg",
+"item": "Aguav Berry",
+"ability": "Ice Body",
+"teraType": "Electric",
+"moves": ["Curse", "Body Press", "Tera Blast", "Recover"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aurora Veil"]
+},
+{
+"species": "Blissey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Ceruledge", "Avalugg", "Abomasnow", "Iron Bundle"]
+},
+"outcome": 0
+}

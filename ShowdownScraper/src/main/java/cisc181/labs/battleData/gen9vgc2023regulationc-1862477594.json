@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862477594",
+"p1": {
+"playerName": "Unga Unga vgc",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "Envy",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Lust",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Water",
+"moves": ["Icy Wind", "Moonblast"]
+},
+{
+"species": "Dondozo",
+"nickname": "Gluttony",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earthquake", "Wave Crash"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Flutter Mane", "Dondozo", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Karajony",
+"fullTeam": [
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Shard", "Glaive Rush"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Water",
+"moves": ["Nasty Plot", "Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Substitute", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Baxcalibur", "Iron Hands", "Chi-Yu", "Flutter Mane"]
+},
+"outcome": 0
+}

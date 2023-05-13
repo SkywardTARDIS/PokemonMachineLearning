@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861235786",
+"p1": {
+"playerName": "jugadorfrustrado",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch", "Wave Crash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Haze"]
+}
+],
+"broughtTeam": ["Palafin", "Amoonguss", "Flutter Mane", "Murkrow"]
+},
+"p2": {
+"playerName": "trolllvin",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Thunderbolt", "Hurricane"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Sitrus Berry",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Protect", "Thunder", "Substitute"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Dazzling Gleam"]
+},
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Minimize", "Toxic"]
+}
+],
+"broughtTeam": ["Kilowattrel", "Pincurchin", "Flutter Mane", "Muk"]
+},
+"outcome": 1
+}

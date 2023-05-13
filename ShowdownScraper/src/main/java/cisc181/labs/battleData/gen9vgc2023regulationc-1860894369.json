@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860894369",
+"p1": {
+"playerName": "NutritiousLemon",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "Hawlucha",
+"item": "Electric Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Zing Zap", "Sucker Punch"]
+},
+{
+"species": "Iron Thorns",
+"nickname": "Iron Thorns",
+"item": "",
+"ability": "",
+"teraType": "Bug",
+"moves": ["Pin Missile", "Rock Blast", "Thunder Punch"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hawlucha", "Pincurchin", "Iron Thorns", "Glimmora"]
+},
+"p2": {
+"playerName": "RonJohn",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Leftovers",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Shed Tail", "Heavy Slam", "Protect"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dragon Dance", "Earthquake"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Waterfall", "Thunder Wave"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Orthworm", "Dragonite", "Gyarados", "Ting-Lu"]
+},
+"outcome": 1
+}

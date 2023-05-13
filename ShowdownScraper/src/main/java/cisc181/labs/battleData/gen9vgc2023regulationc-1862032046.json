@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862032046",
+"p1": {
+"playerName": "PurpleStyle",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Throat Spray",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Protect", "Hyper Voice", "Encore"]
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Trick Room", "Acrobatics"]
+},
+{
+"species": "Azumarill",
+"nickname": "Azumarill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Liquidation", "Aqua Jet"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Indeedee", "Drifblim", "Azumarill"]
+},
+"p2": {
+"playerName": "jayballester",
+"fullTeam": [
+{
+"species": "Dragalge",
+"nickname": "Dragalge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Protect", "Draco Meteor"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "Sitrus Berry",
+"ability": "Magic Bounce",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam", "Encore", "Life Dew"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Snarl", "Ruination", "Heavy Slam"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragalge", "Hatterene", "Ting-Lu", "Staraptor"]
+},
+"outcome": 1
+}

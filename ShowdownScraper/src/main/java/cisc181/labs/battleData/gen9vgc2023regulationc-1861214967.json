@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861214967",
+"p1": {
+"playerName": "RPG_2007",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flareon",
+"nickname": "Flareon",
+"item": "Sun Stone",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Charm", "Helping Hand"]
+},
+{
+"species": "Coalossal",
+"nickname": "Coalossal",
+"item": "Charcoal",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Power Gem"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Flareon", "Coalossal"]
+},
+"p2": {
+"playerName": "Jacob Laye",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off", "Protect"]
+},
+{
+"species": "Brambleghast",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "Defiant",
+"teraType": "Fire",
+"moves": ["Bulk Up", "Drain Punch"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard"]
+}
+],
+"broughtTeam": ["Meowscarada", "Annihilape", "Abomasnow", "Iron Bundle"]
+},
+"outcome": 1
+}

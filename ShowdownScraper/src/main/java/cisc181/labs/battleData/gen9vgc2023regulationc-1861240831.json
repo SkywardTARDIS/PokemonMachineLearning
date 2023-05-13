@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861240831",
+"p1": {
+"playerName": "Dragonite8723",
+"fullTeam": [
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slither Wing",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave", "Lava Plume"]
+},
+{
+"species": "Dachsbun",
+"nickname": "Dachsbun",
+"item": "Leftovers",
+"ability": "Well-Baked Body",
+"teraType": "",
+"moves": ["Play Rough", "Protect"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Farigiraf",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Shadow Ball"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch"]
+}
+],
+"broughtTeam": ["Torkoal", "Dachsbun", "Farigiraf", "Iron Hands"]
+},
+"p2": {
+"playerName": "TempYard",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Torch Song", "Protect"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Sucker Punch"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "Brute Bonnet",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Spore"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Icicle Spear", "Protect", "Glaive Rush", "Dragon Dance"]
+}
+],
+"broughtTeam": ["Skeledirge", "Kingambit", "Brute Bonnet", "Baxcalibur"]
+},
+"outcome": 0
+}

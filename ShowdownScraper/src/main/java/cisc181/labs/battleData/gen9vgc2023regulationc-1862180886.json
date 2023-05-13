@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862180886",
+"p1": {
+"playerName": "GB Seraphix",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "Bubblegum",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Encore", "Disable"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "Mein Kampf",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Salt Cure", "Protect"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Wednesday",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Fake Out", "Protect", "Heal Pulse"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Lamaw",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scream Tail", "Garganacl", "Gothitelle", "Ting-Lu"]
+},
+"p2": {
+"playerName": "akainu21",
+"fullTeam": [
+{
+"species": "Hatterene",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Dazzling Gleam", "Helping Hand"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Protect", "Expanding Force", "Armor Cannon"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption", "Heat Wave", "Earth Power"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Indeedee", "Armarouge", "Chi-Yu", "Torkoal"]
+},
+"outcome": 1
+}

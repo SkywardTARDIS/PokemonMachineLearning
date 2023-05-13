@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861363366",
+"p1": {
+"playerName": "RazzoPolipo",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Haze"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Psyshock", "Moonblast", "Dazzling Gleam"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall", "Thunder Wave"]
+}
+],
+"broughtTeam": ["Muk", "Flutter Mane", "Amoonguss", "Gyarados"]
+},
+"p2": {
+"playerName": "StormBirdAR!081",
+"fullTeam": [
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spicy Extract"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Ice Shard", "Protect"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "White Herb",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Swords Dance", "Close Combat", "Protect"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Volt Switch", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Scovillain", "Baxcalibur", "Scizor", "Rotom"]
+},
+"outcome": 1
+}

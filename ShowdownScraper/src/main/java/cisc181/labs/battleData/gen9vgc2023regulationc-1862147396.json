@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862147396",
+"p1": {
+"playerName": "Hooveris",
+"fullTeam": [
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Quiver Dance", "Revelation Dance", "Fiery Dance"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "Flame Body",
+"teraType": "",
+"moves": ["Quiver Dance", "Fiery Dance"]
+},
+{
+"species": "Krookodile",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "Mirror Herb",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Oricorio", "Volcarona", "Masquerain"]
+},
+"p2": {
+"playerName": "Zaxa2",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tidy Up", "Population Bomb"]
+},
+{
+"species": "Venonat",
+"nickname": "Venonat",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Skill Swap", "Sleep Powder", "Rage Powder"]
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Instruct"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Venonat", "Oranguru", "Talonflame"]
+},
+"outcome": 1
+}

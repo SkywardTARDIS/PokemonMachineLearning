@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862384653",
+"p1": {
+"playerName": "SBkZZ",
+"fullTeam": [
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Beat Up"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Slaking",
+"nickname": "Slaking",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Rock Slide", "Sucker Punch"]
+},
+{
+"species": "Grafaiai",
+"nickname": "Grafaiai",
+"item": "Red Card",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Doodle"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Annihilape", "Slaking", "Grafaiai"]
+},
+"p2": {
+"playerName": "eggplanet07",
+"fullTeam": [
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Tera Blast"]
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Venoshock"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Glimmora"]
+},
+"outcome": 0
+}

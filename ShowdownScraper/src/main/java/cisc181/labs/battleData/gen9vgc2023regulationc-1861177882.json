@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861177882",
+"p1": {
+"playerName": "Zifkar",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Figy Berry",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Curse", "Zing Zap", "Body Slam", "Protect"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Calm Mind", "Baton Pass"]
+},
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Rain Dance"]
+},
+{
+"species": "Greedent",
+"nickname": "Greedent",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Counter", "Crunch"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Coalossal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pincurchin", "Hatterene", "Clodsire", "Greedent"]
+},
+"p2": {
+"playerName": "CyclusHatake",
+"fullTeam": [
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Room Service",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Steel",
+"moves": ["Fissure", "Stomping Tantrum", "Heavy Slam", "Ruination"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Meowscarada", "Indeedee", "Gardevoir", "Ting-Lu"]
+},
+"outcome": 0
+}

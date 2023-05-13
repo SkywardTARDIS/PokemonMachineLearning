@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860863042",
+"p1": {
+"playerName": "JayMcG1010",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "Earth Eater",
+"teraType": "",
+"moves": ["Heavy Slam", "Iron Defense", "Body Press"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "Water",
+"moves": ["Earthquake", "Heavy Slam", "Ruination", "Stomping Tantrum"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Garganacl", "Flutter Mane", "Ting-Lu"]
+},
+"p2": {
+"playerName": "Can'tStopFalling",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Frambuesa",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ice",
+"moves": ["Freeze-Dry", "Hydro Pump"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Parchita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Shadow Ball"]
+},
+{
+"species": "Stonjourner",
+"nickname": "Papaya",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Low Kick", "Wide Guard", "Rock Slide"]
+},
+{
+"species": "Farigiraf",
+"nickname": "Cereza",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "",
+"moves": ["Hyper Voice", "Psyshock", "Thunderbolt", "Protect"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Flutter Mane", "Stonjourner", "Farigiraf"]
+},
+"outcome": 1
+}

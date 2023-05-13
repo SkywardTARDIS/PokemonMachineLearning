@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863305856",
+"p1": {
+"playerName": "JNEWMZ",
+"fullTeam": [
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Earthquake", "Heavy Slam", "Rock Slide"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fairy",
+"moves": ["Heat Wave", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Mudsdale", "Iron Moth", "Masquerain", "Rotom"]
+},
+"p2": {
+"playerName": "losteffect",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Tailwind", "Acrobatics"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "Trace",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Psychic"]
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Sleep Powder"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Froslass",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Tinkaton", "Gardevoir", "Jumpluff"]
+},
+"outcome": 1
+}

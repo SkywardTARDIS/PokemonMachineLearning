@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862284645",
+"p1": {
+"playerName": "Doughboy322",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Water",
+"moves": ["Zen Headbutt", "Icicle Crash", "Glaive Rush"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Lava Plume", "Protect", "Dark Pulse"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Baxcalibur", "Corviknight", "Chi-Yu"]
+},
+"p2": {
+"playerName": "Haves2L",
+"fullTeam": [
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "Eject Button",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Thunderbolt", "Sucker Punch"]
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Electric Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Spirit Break", "Wide Guard"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum"]
+}
+],
+"broughtTeam": ["Pincurchin", "Iron Hands", "Iron Valiant", "Iron Treads"]
+},
+"outcome": 1
+}

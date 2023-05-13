@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861487918",
+"p1": {
+"playerName": "Roopydoopy",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Red Card",
+"ability": "",
+"teraType": "",
+"moves": ["Poison Gas"]
+},
+{
+"species": "Pawmot",
+"nickname": "Pawmot",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Mach Punch"]
+},
+{
+"species": "Wigglytuff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Muk", "Pawmot", "Wo-Chien", "Gothorita"]
+},
+"p2": {
+"playerName": "Tu oponente",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Oricorio",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drednaw",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Fiery Dance"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Population Bomb", "Encore"]
+}
+],
+"broughtTeam": ["Torkoal", "Iron Moth", "Maushold"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860682516",
+"p1": {
+"playerName": "xb4d_pokemonx",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Sol",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Heat Wave"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Frog Pseudo",
+"item": "",
+"ability": "Thermal Exchange",
+"teraType": "Dragon",
+"moves": ["Earthquake"]
+},
+{
+"species": "Rotom",
+"nickname": "Spin Cycle",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Thunderbolt", "Protect", "Hydro Pump"]
+}
+],
+"broughtTeam": ["Iron Moth", "Baxcalibur", "Rotom"]
+},
+"p2": {
+"playerName": "wennoboi",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Helping Hand", "Heat Wave"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+}
+],
+"broughtTeam": ["Torkoal", "Scizor", "Chi-Yu", "Talonflame"]
+},
+"outcome": 1
+}

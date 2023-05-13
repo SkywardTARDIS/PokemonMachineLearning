@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861295961",
+"p1": {
+"playerName": "tylmoo",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Moonblast"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Pollen Puff", "Protect"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Snarl", "Flare Blitz"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Close Combat", "Jet Punch", "Wave Crash"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Amoonguss", "Arcanine", "Palafin"]
+},
+"p2": {
+"playerName": "ScrubShadedPurple",
+"fullTeam": [
+{
+"species": "Revavroom",
+"nickname": "Revavroom",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Shift Gear", "Iron Head"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "Iapapa Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Maushold",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Earthquake", "Ruination"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Revavroom", "Gyarados", "Volcarona", "Ting-Lu"]
+},
+"outcome": 1
+}

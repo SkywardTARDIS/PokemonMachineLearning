@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861183949",
+"p1": {
+"playerName": "Koubayashi",
+"fullTeam": [
+{
+"species": "Roaring Moon",
+"nickname": "Roaring Moon",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch"]
+},
+{
+"species": "Cacturne",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day"]
+},
+{
+"species": "Houndoom",
+"nickname": "Houndoom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Honchkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Roaring Moon", "Kingambit", "Murkrow", "Houndoom"]
+},
+"p2": {
+"playerName": "zbhandy",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Earth Power"]
+},
+{
+"species": "Froslass",
+"nickname": "Froslass",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Frost Breath", "Destiny Bond"]
+},
+{
+"species": "Crabominable",
+"nickname": "Crabominable",
+"item": "Sitrus Berry",
+"ability": "Anger Point",
+"teraType": "Fire",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Frosmoth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "Baxcalibur",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Abomasnow", "Froslass", "Crabominable", "Baxcalibur"]
+},
+"outcome": 0
+}

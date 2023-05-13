@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861767100",
+"p1": {
+"playerName": "Ytterby",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garbomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Outrage"]
+},
+{
+"species": "Klefki",
+"nickname": "Keymstar",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Steel Beam"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Polteageist",
+"nickname": "Telepot",
+"item": "White Herb",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Substitute", "Shell Smash", "Baton Pass"]
+},
+{
+"species": "Barraskewda",
+"nickname": "Barry Scooder",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Liquidation"]
+}
+],
+"broughtTeam": ["Garchomp", "Klefki", "Polteageist", "Barraskewda"]
+},
+"p2": {
+"playerName": "Jimpo01",
+"fullTeam": [
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Ditto",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Metronome", "Fairy Wind", "Power Gem"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Flame Charge"]
+},
+{
+"species": "Florges",
+"nickname": "Florges",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Calm Mind"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hydreigon", "Weavile", "Talonflame", "Florges"]
+},
+"outcome": 1
+}

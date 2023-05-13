@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861458931",
+"p1": {
+"playerName": "surfacestone2",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Electric Terrain", "Fake Out", "Thunder"]
+},
+{
+"species": "Golduck",
+"nickname": "Golduck",
+"item": "",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Hypnosis", "Encore", "Icy Wind", "Clear Smog"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance", "Hurricane"]
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Jugulis",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Raichu", "Golduck", "Volcarona"]
+},
+"p2": {
+"playerName": "Caelthefruit",
+"fullTeam": [
+{
+"species": "Crabominable",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Honchkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Spore"]
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Acrobatics", "Close Combat"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Fighting",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spirit Break", "Taunt"]
+}
+],
+"broughtTeam": ["Amoonguss", "Flamigo", "Iron Hands", "Grimmsnarl"]
+},
+"outcome": 0
+}

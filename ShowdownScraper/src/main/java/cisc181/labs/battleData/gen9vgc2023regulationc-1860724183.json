@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860724183",
+"p1": {
+"playerName": "WindaGaming",
+"fullTeam": [
+{
+"species": "Copperajah",
+"nickname": "Copperajah",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "Magic Bounce",
+"teraType": "Water",
+"moves": ["Thunder Wave"]
+},
+{
+"species": "Houndstone",
+"nickname": "Houndstone",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Ally Switch"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "Air Balloon",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Rock Slide"]
+}
+],
+"broughtTeam": ["Copperajah", "Hatterene", "Houndstone", "Tyranitar"]
+},
+"p2": {
+"playerName": "NegaChad",
+"fullTeam": [
+{
+"species": "Great Tusk",
+"nickname": "CANNONBOLT",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Close Combat"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Toxtricity",
+"nickname": "FRANKENSTRIKE",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Overdrive"]
+},
+{
+"species": "Qwilfish",
+"nickname": "RIPJAWS",
+"item": "Black Sludge",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Chilling Water", "Thunder Wave"]
+},
+{
+"species": "Bisharp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Great Tusk", "Toxtricity", "Qwilfish"]
+},
+"outcome": 0
+}

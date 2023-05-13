@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862912145",
+"p1": {
+"playerName": "Nehzzy",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nasty Plot", "Protect", "Make It Rain"]
+}
+],
+"broughtTeam": ["Murkrow", "Great Tusk", "Flutter Mane", "Gholdengo"]
+},
+"p2": {
+"playerName": "AverageAvenger",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Thing-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Payback"]
+},
+{
+"species": "Vivillon",
+"nickname": "Thing-1",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Rage Powder"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Snowbama",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Blizzard", "Ice Shard"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Large Marge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch", "Extreme Speed", "Dragon Claw"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Vivillon", "Abomasnow", "Dragonite"]
+},
+"outcome": 1
+}

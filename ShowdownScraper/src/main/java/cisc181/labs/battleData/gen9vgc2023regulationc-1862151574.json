@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862151574",
+"p1": {
+"playerName": "wtfgr",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Boyle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Arcanine",
+"nickname": "Cheddar",
+"item": "Sitrus Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Scully",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Corviknight",
+"nickname": "Captain Holt",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Brave Bird", "Roost", "Tailwind"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Arcanine", "Great Tusk", "Corviknight"]
+},
+"p2": {
+"playerName": "TonnyDolfing",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Sheer Cold", "Protect"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "Dondozo",
+"item": "",
+"ability": "Oblivious",
+"teraType": "Ground",
+"moves": ["Yawn", "Wave Crash"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "Purifying Salt",
+"teraType": "",
+"moves": ["Salt Cure", "Recover", "Fissure"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Rock Slide"]
+}
+],
+"broughtTeam": ["Abomasnow", "Dondozo", "Garganacl", "Ting-Lu"]
+},
+"outcome": 1
+}

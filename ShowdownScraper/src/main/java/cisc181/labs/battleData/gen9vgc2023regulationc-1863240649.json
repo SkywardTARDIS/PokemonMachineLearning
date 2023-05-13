@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863240649",
+"p1": {
+"playerName": "Icefanngs",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Hyper Voice", "Volt Switch", "Discharge", "Protect"]
+},
+{
+"species": "Flareon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Foul Play"]
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Substitute", "Calm Mind", "Protect"]
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Double-Edge"]
+}
+],
+"broughtTeam": ["Jolteon", "Umbreon", "Espeon", "Sylveon"]
+},
+"p2": {
+"playerName": "zLenco",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Thunder Wave", "Protect"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Trick Room", "Psychic"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "King Lui",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Protect", "Ruination", "Body Press", "Fissure"]
+},
+{
+"species": "Ampharos",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Dragonair",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scream Tail", "Gothitelle", "Ting-Lu", "Iron Hands"]
+},
+"outcome": 1
+}

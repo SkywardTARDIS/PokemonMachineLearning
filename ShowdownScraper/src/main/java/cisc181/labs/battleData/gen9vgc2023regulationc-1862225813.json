@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1862225813",
+"p1": {
+"playerName": "RuinationCreation",
+"fullTeam": [
+{
+"species": "Lilligant",
+"nickname": "Lilligant",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Water",
+"moves": ["Quiver Dance", "Protect", "Petal Dance"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Moonblast", "Protect", "Shadow Ball"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Revelation Dance"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lilligant", "Flutter Mane", "Oricorio"]
+},
+"p2": {
+"playerName": "bddhdy",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Protect"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Poison Jab"]
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Lucario",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oranguru",
+"nickname": "Oranguru",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Psychic", "Instruct", "Chilling Water"]
+}
+],
+"broughtTeam": ["Amoonguss", "Garchomp", "Lucario", "Oranguru"]
+},
+"outcome": 1
+}

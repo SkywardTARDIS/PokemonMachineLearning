@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861900920",
+"p1": {
+"playerName": "Ciq108",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Protect", "Iron Head", "Crunch"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast", "Trick", "Trick Room"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Sludge Bomb", "Encore", "Shadow Ball", "Protect"]
+},
+{
+"species": "Orthworm",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "Breloom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Bullet Seed"]
+}
+],
+"broughtTeam": ["Garchomp", "Gardevoir", "Gengar", "Breloom"]
+},
+"p2": {
+"playerName": "Yoramdw",
+"fullTeam": [
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Reflect"]
+},
+{
+"species": "Haunter",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Trick Room", "Yawn", "Icy Wind"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Punch", "Rock Slide", "Drain Punch"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Encore"]
+}
+],
+"broughtTeam": ["Grimmsnarl", "Slowbro", "Eelektross", "Scream Tail"]
+},
+"outcome": 1
+}

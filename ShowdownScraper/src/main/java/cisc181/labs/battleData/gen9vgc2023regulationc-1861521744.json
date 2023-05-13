@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861521744",
+"p1": {
+"playerName": "NickNoName",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Leaf Storm", "Aurora Veil", "Blizzard"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Imprison"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "Safety Goggles",
+"ability": "Beads of Ruin",
+"teraType": "Grass",
+"moves": ["Heat Wave", "Protect", "Dark Pulse", "Tera Blast"]
+}
+],
+"broughtTeam": ["Abomasnow", "Flutter Mane", "Chi-Yu"]
+},
+"p2": {
+"playerName": "SoupCircle",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sudowoodo",
+"nickname": "Sudowoodo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Head Smash"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Eject Button",
+"ability": "",
+"teraType": "Water",
+"moves": ["Protect", "Spore", "Pollen Puff", "Rage Powder"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Gyro Ball", "Trick Room", "Gravity", "Hypnosis"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Sudowoodo", "Amoonguss", "Bronzong"]
+},
+"outcome": 1
+}

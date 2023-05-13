@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860880470",
+"p1": {
+"playerName": "kawhicu lennit 25",
+"fullTeam": [
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "Water",
+"moves": ["Protect", "Substitute", "Freeze-Dry", "Earthquake"]
+},
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flamigo",
+"nickname": "Flamigo",
+"item": "White Herb",
+"ability": "Costar",
+"teraType": "",
+"moves": ["Substitute", "Acrobatics"]
+},
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Thunder Wave", "Life Dew"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Snarl"]
+}
+],
+"broughtTeam": ["Glalie", "Flamigo", "Chansey", "Arcanine"]
+},
+"p2": {
+"playerName": "Dennisyan",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Ghost",
+"moves": ["Icy Wind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Thunderbolt"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Protect", "Heat Wave", "Dark Pulse"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Close Combat", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Flutter Mane", "Chi-Yu", "Scizor"]
+},
+"outcome": 1
+}

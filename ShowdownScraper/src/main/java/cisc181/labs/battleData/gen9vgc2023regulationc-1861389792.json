@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861389792",
+"p1": {
+"playerName": "soraesc",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Blizzard"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Baxcalibur",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle"]
+},
+"p2": {
+"playerName": "Bruno Emerson",
+"fullTeam": [
+{
+"species": "Sawsbuck",
+"nickname": "Sawsbuck",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Body Slam"]
+},
+{
+"species": "Greedent",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Vespiquen",
+"nickname": "Vespiquen",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Bug",
+"moves": ["Defend Order"]
+},
+{
+"species": "Sudowoodo",
+"nickname": "Sudowoodo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Copperajah",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Medicham",
+"nickname": "Medicham",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Sawsbuck", "Vespiquen", "Sudowoodo", "Medicham"]
+},
+"outcome": 1
+}

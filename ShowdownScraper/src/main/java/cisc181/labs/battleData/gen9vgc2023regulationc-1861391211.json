@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861391211",
+"p1": {
+"playerName": "Lutrinae Arctis",
+"fullTeam": [
+{
+"species": "Camerupt",
+"nickname": "Camerupt",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Cryogonal",
+"nickname": "Cryogonal",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Frost Breath", "Reflect"]
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "Aftermath",
+"teraType": "",
+"moves": ["Trick Room"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Camerupt", "Cryogonal", "Drifblim", "Chien-Pao"]
+},
+"p2": {
+"playerName": "Vulnerarily",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lilligant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Brave Bird"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Great Tusk", "Flutter Mane", "Talonflame", "Chien-Pao"]
+},
+"outcome": 0
+}

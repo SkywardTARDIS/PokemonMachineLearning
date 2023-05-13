@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860838960",
+"p1": {
+"playerName": "BurkeDoingWork",
+"fullTeam": [
+{
+"species": "Chi-Yu",
+"nickname": "GreatBallOfFire",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hydreigon",
+"nickname": "Ghetsis",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Draco Meteor", "Tera Blast"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Big Show",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Close Combat"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Evice",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Low Kick"]
+}
+],
+"broughtTeam": ["Chi-Yu", "Hydreigon", "Great Tusk", "Tyranitar"]
+},
+"p2": {
+"playerName": "Count Sliggoo",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Ti-Lung",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Dolor",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Stone Edge"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Pack Tactics",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Ting-Lu", "Maushold", "Corviknight"]
+},
+"outcome": 1
+}

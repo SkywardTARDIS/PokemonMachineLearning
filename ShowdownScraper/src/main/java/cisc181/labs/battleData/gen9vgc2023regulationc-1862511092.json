@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862511092",
+"p1": {
+"playerName": "Prompto88",
+"fullTeam": [
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Recover", "Protect"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "Iapapa Berry",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Sand Tomb", "Ruination", "Fissure", "Protect"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Air Balloon",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Acid Armor"]
+}
+],
+"broughtTeam": ["Arcanine", "Garganacl", "Ting-Lu", "Glimmora"]
+},
+"p2": {
+"playerName": "gomn",
+"fullTeam": [
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Iron Defense", "Body Press"]
+},
+{
+"species": "Dragapult",
+"nickname": "D-Pult",
+"item": "",
+"ability": "D-Pult",
+"teraType": "",
+"moves": ["Phantom Force"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastro",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Earth Power", "Recover"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Ground",
+"moves": ["Heat Wave", "Tera Blast"]
+}
+],
+"broughtTeam": ["Corviknight", "Dragapult", "Gastrodon", "Chi-Yu"]
+},
+"outcome": 1
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862231629",
+"p1": {
+"playerName": "Ultraquesito",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Protect", "Blizzard"]
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Air Slash", "Will-O-Wisp"]
+},
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Raichu",
+"nickname": "Raichu",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brave Bird"]
+}
+],
+"broughtTeam": ["Glalie", "Talonflame", "Raichu", "Staraptor"]
+},
+"p2": {
+"playerName": "Alonso26ca",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake", "Protect", "Ice Spinner"]
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Sitrus Berry",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Yawn", "Protect", "Overheat"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up", "Rage Fist"]
+},
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "Focus Sash",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Trick Room"]
+}
+],
+"broughtTeam": ["Great Tusk", "Torkoal", "Annihilape", "Gengar"]
+},
+"outcome": 0
+}

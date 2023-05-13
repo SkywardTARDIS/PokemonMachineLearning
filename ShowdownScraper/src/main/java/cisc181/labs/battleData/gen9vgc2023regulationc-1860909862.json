@@ -1,0 +1,104 @@
+{
+"id": "gen9vgc2023regulationc-1860909862",
+"p1": {
+"playerName": "ShadowTriad Lazer",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "Kika Ki",
+"item": "Mago Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Chilling Water", "Wish", "Protect"]
+},
+{
+"species": "Dragalge",
+"nickname": "DokuRyuJin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gallade",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Amaterasu",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Will-O-Wisp", "Iron Head", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espeon",
+"nickname": "Kakumei",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick", "Psychic", "Protect"]
+}
+],
+"broughtTeam": ["Vaporeon", "Dragalge", "Arcanine", "Espeon"]
+},
+"p2": {
+"playerName": "WIMBLER",
+"fullTeam": [
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Mirror Armor",
+"teraType": "",
+"moves": ["Taunt", "Tailwind"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Power Gem"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Swords Dance", "Dragon Claw"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Corviknight", "Flutter Mane", "Iron Hands", "Garchomp"]
+},
+"outcome": 1
+}

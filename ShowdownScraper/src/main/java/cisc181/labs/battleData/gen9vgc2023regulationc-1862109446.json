@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862109446",
+"p1": {
+"playerName": "Piccolo Ruiz",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Bianca",
+"item": "Aguav Berry",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Protect"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Mo Heart",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Flamethrower"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Rock Tomb", "Stomping Tantrum"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Katya",
+"item": "",
+"ability": "",
+"teraType": "Poison",
+"moves": ["Icicle Crash", "Ice Shard", "Glaive Rush"]
+}
+],
+"broughtTeam": ["Gyarados", "Chi-Yu", "Ting-Lu", "Baxcalibur"]
+},
+"p2": {
+"playerName": "fmzs",
+"fullTeam": [
+{
+"species": "Zangoose",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "Murkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Tailwind", "Foul Play", "Haze"]
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "Fire",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press", "Iron Defense"]
+}
+],
+"broughtTeam": ["Murkrow", "Flutter Mane", "Chi-Yu", "Orthworm"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862834638",
+"p1": {
+"playerName": "JJ22FTW",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "IGarTheWaySheChomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "",
+"moves": ["Liquidation"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Skizzors",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "X-Scissor"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Obama-Snow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Have Mercy...",
+"item": "",
+"ability": "Trace",
+"teraType": "Dark",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Scizor", "Abomasnow", "Gardevoir"]
+},
+"p2": {
+"playerName": "LightningLucario",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Poomarill",
+"item": "Sitrus Berry",
+"ability": "Huge Power",
+"teraType": "",
+"moves": ["Belly Drum", "Protect", "Aqua Jet"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flup Moom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Shadow Ball", "Moonblast"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Lu",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Extreme Speed"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "Literally H*tler",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Ice Punch", "Body Press", "Rock Slide"]
+}
+],
+"broughtTeam": ["Azumarill", "Flutter Mane", "Lucario", "Tyranitar"]
+},
+"outcome": 1
+}

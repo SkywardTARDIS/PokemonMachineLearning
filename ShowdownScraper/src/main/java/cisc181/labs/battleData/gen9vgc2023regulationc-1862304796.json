@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862304796",
+"p1": {
+"playerName": "Tobias' True Team",
+"fullTeam": [
+{
+"species": "Lokix",
+"nickname": "Funny Bug",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Bord",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Hydro Pump"]
+},
+{
+"species": "Floatzel",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gas Station",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Shadow Ball"]
+},
+{
+"species": "Magneton",
+"nickname": "Funny Magnet",
+"item": "",
+"ability": "Sturdy",
+"teraType": "",
+"moves": ["Flash Cannon"]
+}
+],
+"broughtTeam": ["Lokix", "Pelipper", "Gholdengo", "Magneton"]
+},
+"p2": {
+"playerName": "mousyNhu",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me", "Protect"]
+},
+{
+"species": "Gardevoir",
+"nickname": "Gardevoir",
+"item": "",
+"ability": "Trace",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Sacred Sword", "Ice Spinner"]
+},
+{
+"species": "Gallade",
+"nickname": "Gallade",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Sacred Sword", "Psycho Cut"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Maushold", "Gardevoir", "Chien-Pao", "Gallade"]
+},
+"outcome": 0
+}

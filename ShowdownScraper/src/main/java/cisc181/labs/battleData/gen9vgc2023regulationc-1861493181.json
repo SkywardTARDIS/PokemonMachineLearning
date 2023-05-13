@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861493181",
+"p1": {
+"playerName": "jamesdaltonbell",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Hawkman",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Feint", "Brave Bird"]
+},
+{
+"species": "Roaring Moon",
+"nickname": "Etrigan the Demon",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Ground",
+"moves": ["Earthquake", "Protect"]
+},
+{
+"species": "Florges",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Killer Frost",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Volt Switch"]
+},
+{
+"species": "Qwilfish",
+"nickname": "Triton",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Hydro Pump"]
+},
+{
+"species": "Quaquaval",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Roaring Moon", "Rotom", "Qwilfish"]
+},
+"p2": {
+"playerName": "FlowersBloom",
+"fullTeam": [
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Perish Song", "Protect"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Protect"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wave Crash", "Jet Punch"]
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pachirisu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "Leftovers",
+"ability": "Stamina",
+"teraType": "",
+"moves": ["Rock Slide", "High Horsepower"]
+}
+],
+"broughtTeam": ["Scream Tail", "Gothitelle", "Palafin", "Mudsdale"]
+},
+"outcome": 1
+}

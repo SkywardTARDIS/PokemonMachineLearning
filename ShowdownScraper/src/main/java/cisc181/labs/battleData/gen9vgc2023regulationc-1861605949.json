@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1861605949",
+"p1": {
+"playerName": "Frost314",
+"fullTeam": [
+{
+"species": "Pachirisu",
+"nickname": "Pachirisu",
+"item": "Electric Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Defense Curl", "Rollout"]
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Electric Surge",
+"teraType": "",
+"moves": ["Poison Jab", "Sucker Punch"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "Steel",
+"moves": ["Gravity", "Gyro Ball"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Volt Switch"]
+}
+],
+"broughtTeam": ["Pachirisu", "Pincurchin", "Bronzong", "Iron Treads"]
+},
+"p2": {
+"playerName": "2knight",
+"fullTeam": [
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Leech Seed", "Mud-Slap", "Substitute", "Snarl"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mimikyu",
+"nickname": "Mimikyu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Shadow Sneak"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bellibolt",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Aurora Veil", "Chilling Water", "Blizzard", "Giga Drain"]
+}
+],
+"broughtTeam": ["Wo-Chien", "Mimikyu", "Abomasnow"]
+},
+"outcome": 0
+}

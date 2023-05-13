@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1861769802",
+"p1": {
+"playerName": "genericname3333",
+"fullTeam": [
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "Dragon",
+"moves": ["Nasty Plot", "Make It Rain"]
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Light Screen", "Foul Play"]
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Stomping Tantrum"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "",
+"ability": "Stamina",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Gholdengo", "Grimmsnarl", "Dragonite", "Mudsdale"]
+},
+"p2": {
+"playerName": "yuramas",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Brick Break"]
+},
+{
+"species": "Masquerain",
+"nickname": "Masquerain",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Ice Beam"]
+},
+{
+"species": "Sandy Shocks",
+"nickname": "Sandy Shocks",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Volt Switch", "Earth Power"]
+},
+{
+"species": "Scovillain",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "Jumpluff",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder", "Sleep Powder"]
+}
+],
+"broughtTeam": ["Ceruledge", "Masquerain", "Sandy Shocks", "Jumpluff"]
+},
+"outcome": 1
+}

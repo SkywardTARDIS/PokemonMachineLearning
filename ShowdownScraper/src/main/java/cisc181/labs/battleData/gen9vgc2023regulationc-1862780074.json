@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862780074",
+"p1": {
+"playerName": "Easyfro",
+"fullTeam": [
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Bullet Punch", "Pounce", "Aerial Ace", "Protect"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Hydreigon",
+"item": "",
+"ability": "Levitate",
+"teraType": "Steel",
+"moves": ["Focus Energy", "Heat Wave", "Draco Meteor"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Moonblast", "Shadow Ball"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Sludge Wave", "Heat Wave", "Overheat"]
+}
+],
+"broughtTeam": ["Scizor", "Hydreigon", "Flutter Mane", "Iron Moth"]
+},
+"p2": {
+"playerName": "IceColdGhost",
+"fullTeam": [
+{
+"species": "Clodsire",
+"nickname": "Clodsire",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Toxic", "Protect", "Earthquake"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "",
+"ability": "Tablets of Ruin",
+"teraType": "Water",
+"moves": ["Leech Seed", "Ruination", "Protect", "Ingrain"]
+},
+{
+"species": "Gothitelle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Blissey",
+"nickname": "Blissey",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Life Dew", "Seismic Toss", "Substitute", "Protect"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen"]
+},
+{
+"species": "Torkoal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Clodsire", "Wo-Chien", "Blissey", "Grimmsnarl"]
+},
+"outcome": 1
+}

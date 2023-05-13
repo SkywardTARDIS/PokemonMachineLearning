@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863220867",
+"p1": {
+"playerName": "Godofredo Davis",
+"fullTeam": [
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fire",
+"moves": ["Dragon Dance", "Iron Head", "Dragon Claw"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Aicy",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Tsunade",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Bulk Up"]
+},
+{
+"species": "Clodsire",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Mister M",
+"item": "",
+"ability": "Protean",
+"teraType": "",
+"moves": ["Flower Trick"]
+}
+],
+"broughtTeam": ["Salamence", "Iron Bundle", "Annihilape", "Meowscarada"]
+},
+"p2": {
+"playerName": "Icefanngs",
+"fullTeam": [
+{
+"species": "Vaporeon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jolteon",
+"nickname": "Jolteon",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Hyper Voice", "Volt Switch"]
+},
+{
+"species": "Flareon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sylveon",
+"nickname": "Sylveon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Double-Edge"]
+},
+{
+"species": "Umbreon",
+"nickname": "Umbreon",
+"item": "Sitrus Berry",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Thunder Wave", "Foul Play", "Helping Hand"]
+},
+{
+"species": "Espeon",
+"nickname": "Espeon",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Substitute"]
+}
+],
+"broughtTeam": ["Jolteon", "Sylveon", "Umbreon", "Espeon"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862404987",
+"p1": {
+"playerName": "ethan06",
+"fullTeam": [
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Salamence",
+"nickname": "Salamence",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psyshock"]
+},
+{
+"species": "Persian",
+"nickname": "Persian",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Fake Out", "Taunt", "Feint"]
+}
+],
+"broughtTeam": ["Salamence", "Iron Valiant", "Persian"]
+},
+"p2": {
+"playerName": "Roopydoopy",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Red Card",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Poison Gas"]
+},
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wigglytuff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "",
+"moves": ["Knock Off"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Will-O-Wisp", "Flare Blitz"]
+},
+{
+"species": "Gothorita",
+"nickname": "Gothorita",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+}
+],
+"broughtTeam": ["Muk", "Wo-Chien", "Arcanine", "Gothorita"]
+},
+"outcome": 1
+}

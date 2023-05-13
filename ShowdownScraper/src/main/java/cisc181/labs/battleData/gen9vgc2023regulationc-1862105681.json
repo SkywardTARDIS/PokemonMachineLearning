@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862105681",
+"p1": {
+"playerName": "sucabaVGC",
+"fullTeam": [
+{
+"species": "Eelektrik",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Mushu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Sunny Day"]
+},
+{
+"species": "Slowking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Manny",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+},
+{
+"species": "Baxcalibur",
+"nickname": "Sulley",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Copperajah",
+"nickname": "Dumbo",
+"item": "Clear Amulet",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+}
+],
+"broughtTeam": ["Talonflame", "Great Tusk", "Baxcalibur", "Copperajah"]
+},
+"p2": {
+"playerName": "Haxxson",
+"fullTeam": [
+{
+"species": "Skuntank",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Krookodile",
+"nickname": "Cerberus",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Fighting",
+"moves": ["Low Kick"]
+},
+{
+"species": "Jolteon",
+"nickname": "Zagreus",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Quick Attack", "Thunderbolt", "Detect", "Baby-Doll Eyes"]
+},
+{
+"species": "Rabsca",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Thanatos",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Sucker Punch"]
+},
+{
+"species": "Annihilape",
+"nickname": "Hypnos",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Krookodile", "Jolteon", "Kingambit", "Annihilape"]
+},
+"outcome": 1
+}

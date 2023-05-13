@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1860682703",
+"p1": {
+"playerName": "Bricclow",
+"fullTeam": [
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Breaking Swipe", "Ice Spinner"]
+},
+{
+"species": "Talonflame",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gastrodon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Protect"]
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drain Punch", "Rock Slide", "Thunder Punch"]
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "Defiant",
+"teraType": "",
+"moves": ["Sucker Punch"]
+}
+],
+"broughtTeam": ["Cyclizar", "Flutter Mane", "Eelektross", "Kingambit"]
+},
+"p2": {
+"playerName": "Deymoxxone",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Nieves",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Aurora Veil", "Blizzard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Llorona",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Protect", "Substitute", "Moonblast"]
+},
+{
+"species": "Indeedee",
+"nickname": "Tales",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Psychic", "Protect", "Follow Me"]
+},
+{
+"species": "Hawlucha",
+"nickname": "Octagon",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Ice",
+"moves": ["Protect", "Close Combat", "Acrobatics", "Swords Dance"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tyranitar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Abomasnow", "Flutter Mane", "Indeedee", "Hawlucha"]
+},
+"outcome": 1
+}

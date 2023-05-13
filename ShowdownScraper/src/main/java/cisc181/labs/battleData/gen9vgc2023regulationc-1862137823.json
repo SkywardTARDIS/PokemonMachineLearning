@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862137823",
+"p1": {
+"playerName": "ArcTheGreat",
+"fullTeam": [
+{
+"species": "Qwilfish",
+"nickname": "Qwilfish",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Swords Dance", "Liquidation"]
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Protect", "Power Gem"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "U-turn"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Spore", "Pollen Puff"]
+},
+{
+"species": "Goodra",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Qwilfish", "Glimmora", "Pelipper", "Amoonguss"]
+},
+"p2": {
+"playerName": "Xaytiggy",
+"fullTeam": [
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Torch Song", "Hyper Voice"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Headlong Rush", "Iron Head"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cetitan",
+"nickname": "Cetitan",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Espathra",
+"nickname": "Espathra",
+"item": "Aguav Berry",
+"ability": "Speed Boost",
+"teraType": "",
+"moves": ["Reflect", "Lumina Crash"]
+}
+],
+"broughtTeam": ["Skeledirge", "Great Tusk", "Cetitan", "Espathra"]
+},
+"outcome": 1
+}

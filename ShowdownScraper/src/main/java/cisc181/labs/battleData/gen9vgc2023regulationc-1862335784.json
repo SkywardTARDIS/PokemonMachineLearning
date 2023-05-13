@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1862335784",
+"p1": {
+"playerName": "GunGalione",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Scovillain",
+"nickname": "The Super Villain",
+"item": "Leftovers",
+"ability": "Moody",
+"teraType": "Water",
+"moves": ["Protect", "Substitute", "Giga Drain", "Fire Fang"]
+},
+{
+"species": "Torkoal",
+"nickname": "A wise man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Roaring Moon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick", "Taunt"]
+}
+],
+"broughtTeam": ["Amoonguss", "Scovillain", "Torkoal", "Grimmsnarl"]
+},
+"p2": {
+"playerName": "bum.studio",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Stealth Rock", "Iron Defense", "Fire Blast", "Earthquake"]
+},
+{
+"species": "Scovillain",
+"nickname": "Scovillain",
+"item": "Toxic Orb",
+"ability": "Moody",
+"teraType": "",
+"moves": ["Ingrain", "Flamethrower"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Substitute", "Bulk Up"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dazzling Gleam", "Calm Mind"]
+}
+],
+"broughtTeam": ["Torkoal", "Scovillain", "Great Tusk", "Flutter Mane"]
+},
+"outcome": 1
+}
