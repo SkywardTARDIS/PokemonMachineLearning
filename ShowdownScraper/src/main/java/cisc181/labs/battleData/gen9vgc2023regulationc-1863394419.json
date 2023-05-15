@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863394419",
+"p1": {
+"playerName": "kawhicu lennit 29",
+"fullTeam": [
+{
+"species": "Glalie",
+"nickname": "Glalie",
+"item": "",
+"ability": "Moody",
+"teraType": "Water",
+"moves": ["Freeze-Dry", "Protect"]
+},
+{
+"species": "Sableye",
+"nickname": "Sableye",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chansey",
+"nickname": "Chansey",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Seismic Toss", "Life Dew"]
+},
+{
+"species": "Farigiraf",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Flare Blitz"]
+}
+],
+"broughtTeam": ["Glalie", "Sableye", "Chansey", "Arcanine"]
+},
+"p2": {
+"playerName": "gucci_shinigami",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Talonflame",
+"nickname": "Talonflame",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Tailwind", "Will-O-Wisp", "Brave Bird"]
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Energy Ball", "Sludge Wave"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Wild Charge", "Drain Punch", "Volt Switch"]
+}
+],
+"broughtTeam": ["Chien-Pao", "Talonflame", "Iron Moth", "Iron Hands"]
+},
+"outcome": 1
+}

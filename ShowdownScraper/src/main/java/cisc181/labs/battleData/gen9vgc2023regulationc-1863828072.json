@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863828072",
+"p1": {
+"playerName": "j4ce",
+"fullTeam": [
+{
+"species": "Florges",
+"nickname": "Hyacinth",
+"item": "Life Orb",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Dark Pulse", "Moonblast"]
+},
+{
+"species": "Donphan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Zoroark",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Stantler",
+"nickname": "Staghorn Fern",
+"item": "Eviolite",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Reflect", "Double-Edge"]
+},
+{
+"species": "Forretress",
+"nickname": "Chestnut",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Body Press"]
+}
+],
+"broughtTeam": ["Florges", "Stantler", "Forretress"]
+},
+"p2": {
+"playerName": "Applejacks15",
+"fullTeam": [
+{
+"species": "Sandaconda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Seviper",
+"nickname": "imasneakysnake",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Banette",
+"nickname": "imaspookyghost",
+"item": "",
+"ability": "imaspookyghost",
+"teraType": "",
+"moves": ["Gunk Shot", "Protect"]
+},
+{
+"species": "Lycanroc",
+"nickname": "imapricypuppa",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Iron Head"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bruxish",
+"nickname": "imafancyfish",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Seviper", "Banette", "Lycanroc", "Bruxish"]
+},
+"outcome": 1
+}

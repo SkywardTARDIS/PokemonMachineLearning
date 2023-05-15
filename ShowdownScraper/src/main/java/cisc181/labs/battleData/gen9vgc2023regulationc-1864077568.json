@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864077568",
+"p1": {
+"playerName": "no_dupes",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane", "Hydro Pump", "Protect", "Wide Guard"]
+},
+{
+"species": "Palafin",
+"nickname": "Palafin",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": ["Jet Punch"]
+},
+{
+"species": "Salamence",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Sucker Punch", "Protect"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out", "Gigaton Hammer", "Play Rough"]
+}
+],
+"broughtTeam": ["Pelipper", "Palafin", "Chien-Pao", "Tinkaton"]
+},
+"p2": {
+"playerName": "Jaywill06",
+"fullTeam": [
+{
+"species": "Pawmot",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tatsugiri",
+"nickname": "Mini",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Icy Wind"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Pravus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry", "U-turn"]
+},
+{
+"species": "Murkrow",
+"nickname": "Deshaun",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Foul Play", "Haze"]
+},
+{
+"species": "Gholdengo",
+"nickname": "King",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Make It Rain", "Trick", "Shadow Ball", "Power Gem"]
+}
+],
+"broughtTeam": ["Tatsugiri", "Iron Bundle", "Murkrow", "Gholdengo"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863620249",
+"p1": {
+"playerName": "Zakkalla",
+"fullTeam": [
+{
+"species": "Talonflame",
+"nickname": "Fenyx",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Protect", "Brave Bird"]
+},
+{
+"species": "Sylveon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Nekomata",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sucker Punch", "Knock Off"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Red Sus",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rage Powder"]
+},
+{
+"species": "Pikachu",
+"nickname": "Pikachu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Talonflame", "Meowscarada", "Amoonguss", "Pikachu"]
+},
+"p2": {
+"playerName": "TheGalvinBros",
+"fullTeam": [
+{
+"species": "Scizor",
+"nickname": "Foreman",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Swords Dance", "Acrobatics", "Protect"]
+},
+{
+"species": "Falinks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Mole",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Ruination", "Heavy Slam"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Scizor", "Ting-Lu", "Gothitelle"]
+},
+"outcome": 0
+}

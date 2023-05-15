@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863835548",
+"p1": {
+"playerName": "VeeGey",
+"fullTeam": [
+{
+"species": "Barraskewda",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Tailwind", "Hurricane"]
+},
+{
+"species": "Golduck",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tsareena",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Play Rough"]
+},
+{
+"species": "Electrode",
+"nickname": "Electrode",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Thunder", "Hyper Beam"]
+}
+],
+"broughtTeam": ["Pelipper", "Scream Tail", "Electrode"]
+},
+"p2": {
+"playerName": "SlavicAfrican",
+"fullTeam": [
+{
+"species": "Cyclizar",
+"nickname": "Cyclizar",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Shed Tail", "Dragon Claw"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Skeledirge",
+"nickname": "Skeledirge",
+"item": "Throat Spray",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Torch Song"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Choice Specs",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Trick"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Brave Bird", "Tailwind"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Cyclizar", "Skeledirge", "Gothitelle", "Corviknight"]
+},
+"outcome": 1
+}

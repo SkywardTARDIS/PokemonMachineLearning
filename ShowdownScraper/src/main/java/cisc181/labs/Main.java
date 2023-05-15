@@ -29,22 +29,73 @@ public class Main {
         //getPokemonAbilities();
 
 //functions for pulling and then converting battle data
-        scrapeData();
-        convertToTeams();
+        //scrapeData();
+        //convertToTeams();
 
 //functions for converting parsed data into vectors for algorithm application
-        ArrayList<teamsData> allBattles = new ArrayList<>();
-        revertTeamsFromJSON(allBattles);
-        writeBattlesToVector(allBattles);
+        //ArrayList<teamsData> allBattles = new ArrayList<>();
+        //revertTeamsFromJSON(allBattles);
+        //writeBattlesToVector(allBattles, "showdownBattles.txt");
 
 //simplifying by removing unnecessary data (all identical values of an attribute)
-        simplifyData();
+        //simplifyData("showdownBattles.txt");
+
+//creating symmetrical data
+        //createSymmetrical();
+
+//generating bagged sets
+        //generateBagged();
 
 //creating a validation set, comprised of 10% of the full data set selected at random
         //separateValidation();
     }
 
 //Functions for file manipulation
+    public static void generateBagged() throws IOException {
+        File dataFile = new File("src/main/java/cisc181/labs/finalData/simplifiedJava.txt");
+        FileReader fr = new FileReader(dataFile);
+        BufferedReader br = new BufferedReader(fr);
+        String lineHolder;
+        ArrayList<ArrayList<String>> data  = new ArrayList<>();
+        while((lineHolder = br.readLine()) != null){
+            data.add(new ArrayList<>(Arrays.asList(lineHolder.split(","))));
+        }
+        br.close();
+        fr.close();
+
+        File dataFileSymmetric = new File("src/main/java/cisc181/labs/finalData/simplifiedJavaSymmetric.txt");
+        fr = new FileReader(dataFileSymmetric);
+        br = new BufferedReader(fr);
+        ArrayList<ArrayList<String>> dataSymmetric  = new ArrayList<>();
+        while((lineHolder = br.readLine()) != null){
+            dataSymmetric.add(new ArrayList<>(Arrays.asList(lineHolder.split(","))));
+        }
+        br.close();
+        fr.close();
+
+        File[] files = new File("src/main/java/cisc181/labs/battleData/").listFiles();
+
+        for(int i=0; i<7; i++){
+            ArrayList<ArrayList<String>> bagData = new ArrayList<>();
+            File writeFile = new File("src/main/java/cisc181/labs/finalData/baggedSets/bagData" + (i+1) + ".txt");
+            FileWriter fw = new FileWriter(writeFile);
+            for(int j=0; j< files.length*2; j++){
+                int getRand = ThreadLocalRandom.current().nextInt(1, data.size());
+                int getSet = ThreadLocalRandom.current().nextInt(0, 2);
+                if(getSet == 0){
+                    bagData.add(new ArrayList<String>(data.get(getRand)));
+                }else{
+                    bagData.add(new ArrayList<String>(dataSymmetric.get(getRand)));
+                }
+            }
+            fw.write(data.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+            for(int j=1; j<data.size(); j++){
+                fw.write("\n" + bagData.get(j).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
+            }
+            fw.close();
+        }
+    }
+
     public static void separateValidation() throws IOException {
         File dataFile = new File("src/main/java/cisc181/labs/finalData/simplifiedJava.txt");
         FileReader fr = new FileReader(dataFile);
@@ -83,8 +134,15 @@ public class Main {
         fw.close();
     }
 
-    public static void simplifyData() throws IOException {
-        File dataFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
+    public static void createSymmetrical() throws IOException, JsonException {
+        ArrayList<teamsData> allBattles = new ArrayList<>();
+        revertTeamsFromJSON(allBattles);
+        writeBattlesToVectorSymmetric(allBattles, "showdownBattlesSymmetric.txt");
+        simplifyData("showdownBattlesSymmetric.txt");
+    }
+
+    public static void simplifyData(String filename) throws IOException {
+        File dataFile = new File("src/main/java/cisc181/labs/finalData/" + filename);
         FileReader fr = new FileReader(dataFile);
         BufferedReader br = new BufferedReader(fr);
         String lineHolder;
@@ -112,7 +170,7 @@ public class Main {
                 i++;
             }
         }
-        File simplified = new File("src/main/java/cisc181/labs/finalData/simplifiedJava.txt");
+        File simplified = new File("src/main/java/cisc181/labs/finalData/simplifiedJavaSymmetric.txt");
         FileWriter fw = new FileWriter(simplified);
         fw.write(data.get(0).toString().replaceAll("[,][ ]", ",").replaceAll("[\\[\\]]", ""));
         for(int j=1; j<data.size(); j++){
@@ -121,7 +179,7 @@ public class Main {
         fw.close();
     }
 
-    public static void writeBattlesToVector(ArrayList<teamsData> allBattles) throws IOException, JsonException {
+    public static void writeBattlesToVectorSymmetric(ArrayList<teamsData> allBattles, String filename) throws IOException, JsonException {
         ArrayList<String> paldeaDex = paldeaFromJson();
         ArrayList<String> itemDex = itemsFromJson();
         ArrayList<String> abilityDex = abilitiesFromJson();
@@ -133,7 +191,129 @@ public class Main {
         //Store as 0 for neither, 1 for p1, 2 for p2, or 3 for both brought
         //Convert to binary array inside of python implementation?
         //For any attribute where the value is always 0, remove it from data set?
-        File teamFile = new File("src/main/java/cisc181/labs/finalData/showdownBattles.txt");
+        File teamFile = new File("src/main/java/cisc181/labs/finalData/" + filename);
+        FileWriter fw = new FileWriter(teamFile);
+
+        //writing the enumerable files as column headers
+        fw.write("winner");
+        for(int i=0; i<paldeaDex.size(); i++){ //Full Team
+            fw.write("," + paldeaDex.get(i));
+        }
+        for(int i=0; i<paldeaDex.size(); i++){ //Brought Team
+            fw.write("," + paldeaDex.get(i));
+        }
+        for(int i=0; i<itemDex.size(); i++){ //Items
+            fw.write("," + itemDex.get(i));
+        }
+        for(int i=0; i<moveDex.size(); i++){ //Moves
+            fw.write("," + moveDex.get(i));
+        }
+        for(int i=0; i<abilityDex.size(); i++){ //Abilities
+            fw.write("," + abilityDex.get(i));
+        }
+
+        //converting battle data into vector
+        for(int i=0; i<allBattles.size(); i++){
+            if(i%100 == 0){
+                System.out.println(i);
+                System.out.println(allBattles.get(i).outcome);
+            }
+            teamsData currentBattle = allBattles.get(i);
+            fw.write("\n" + (currentBattle.outcome+1)%2);
+            int currentValue;
+
+            //Full Team
+            for(int j=0; j <paldeaDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).species.equals(paldeaDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).species.equals(paldeaDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Brought Team
+            for(int j=0; j <paldeaDex.size(); j++){
+                currentValue = 0;
+                if(currentBattle.p1.broughtTeam.contains(paldeaDex.get(j))){
+                    currentValue += 2;
+                }
+                if(currentBattle.p2.broughtTeam.contains(paldeaDex.get(j))){
+                    currentValue += 1;
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Items
+            for(int j=0; j <itemDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).item.equals(itemDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).item.equals(itemDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Moves
+            for(int j=0; j <moveDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentValue < 1 && currentBattle.p1.fullTeam.get(k).moves.contains(moveDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentValue < 2 && currentBattle.p2.fullTeam.get(k).moves.contains(moveDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+
+            //Abilities
+            for(int j=0; j <abilityDex.size(); j++){
+                currentValue = 0;
+                for(int k=0; k<currentBattle.p1.fullTeam.size(); k++){
+                    if(currentBattle.p1.fullTeam.get(k).ability.equals(abilityDex.get(j))){
+                        currentValue += 2;
+                    }
+                }
+                for(int k=0; k<currentBattle.p2.fullTeam.size(); k++){
+                    if(currentBattle.p2.fullTeam.get(k).ability.equals(abilityDex.get(j))){
+                        currentValue += 1;
+                    }
+                }
+                fw.write("," + currentValue);
+            }
+        }
+        fw.close();
+    }
+
+    public static void writeBattlesToVector(ArrayList<teamsData> allBattles, String filename) throws IOException, JsonException {
+        ArrayList<String> paldeaDex = paldeaFromJson();
+        ArrayList<String> itemDex = itemsFromJson();
+        ArrayList<String> abilityDex = abilitiesFromJson();
+        ArrayList<String> moveDex = movesFromJson();
+        //How do I want to express the data???
+        // <label> <TeamPokemon> <BroughtPokemon> <Items> <Moves> <Abilities>
+        //    1         400            400          173     638         298     = 1910 ???
+        //Times two, to account for player one and player two???
+        //Store as 0 for neither, 1 for p1, 2 for p2, or 3 for both brought
+        //Convert to binary array inside of python implementation?
+        //For any attribute where the value is always 0, remove it from data set?
+        File teamFile = new File("src/main/java/cisc181/labs/finalData/" + filename);
         FileWriter fw = new FileWriter(teamFile);
 
         //writing the enumerable files as column headers

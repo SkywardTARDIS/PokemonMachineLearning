@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863820627",
+"p1": {
+"playerName": "mayburnvgc",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Tyranitar",
+"nickname": "Tyranitar",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "Grass",
+"moves": ["Rock Slide", "Tera Blast"]
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Dragon Claw", "Earthquake"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Tyranitar", "Garchomp"]
+},
+"p2": {
+"playerName": "Hactorgv_128",
+"fullTeam": [
+{
+"species": "Weavile",
+"nickname": "Weavile",
+"item": "Focus Sash",
+"ability": "Pressure",
+"teraType": "",
+"moves": ["Beat Up"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "Weakness Policy",
+"ability": "Rattled",
+"teraType": "Ghost",
+"moves": ["Drill Run", "Protect", "Hyper Drill"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Mudsdale",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Weavile", "Dudunsparce", "Iron Hands", "Gastrodon"]
+},
+"outcome": 1
+}

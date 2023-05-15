@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863862915",
+"p1": {
+"playerName": "seismattersCORNER",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Taunt", "Thunder Wave", "Waterfall"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Earthquake"]
+}
+],
+"broughtTeam": ["Amoonguss", "Gyarados", "Flutter Mane", "Great Tusk"]
+},
+"p2": {
+"playerName": "theoptophobickoala",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "C. Falcon",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Swords Dance", "Acrobatics", "Detect"]
+},
+{
+"species": "Indeedee",
+"nickname": "Isabelle",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Psychic"]
+},
+{
+"species": "Armarouge",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Palafin",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "R.O.B.",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunderbolt"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Marth",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Ice Spinner"]
+}
+],
+"broughtTeam": ["Hawlucha", "Indeedee", "Sandy Shocks", "Chien-Pao"]
+},
+"outcome": 1
+}

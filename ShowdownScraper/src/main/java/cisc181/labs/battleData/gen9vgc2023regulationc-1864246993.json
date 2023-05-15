@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864246993",
+"p1": {
+"playerName": "ShadowTopaz",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Hoyau",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Petorush",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Earth Power", "Protect"]
+},
+{
+"species": "Lucario",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "Shinda",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Stomping Tantrum", "Yawn", "Slack Off"]
+},
+{
+"species": "Rotom",
+"nickname": "Iresu",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Will-O-Wisp"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Gastrodon", "Hippowdon", "Rotom"]
+},
+"p2": {
+"playerName": "Lone_Garurumon",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Lucario",
+"nickname": "Rio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aura Sphere"]
+},
+{
+"species": "Staraptor",
+"nickname": "Rawk",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Normal",
+"moves": ["Double-Edge"]
+},
+{
+"species": "Gallade",
+"nickname": "Gawain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Leaf Blade"]
+},
+{
+"species": "Drifblim",
+"nickname": "Heinz",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Tailwind", "Shadow Ball"]
+},
+{
+"species": "Bronzong",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lucario", "Staraptor", "Gallade", "Drifblim"]
+},
+"outcome": 1
+}

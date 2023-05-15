@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1864215896",
+"p1": {
+"playerName": "TeKuazor",
+"fullTeam": [
+{
+"species": "Revavroom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Fissure", "Stomping Tantrum", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Flying",
+"moves": ["Extreme Speed", "Tera Blast"]
+}
+],
+"broughtTeam": ["Tauros", "Amoonguss", "Ting-Lu", "Dragonite"]
+},
+"p2": {
+"playerName": "unimulticorn",
+"fullTeam": [
+{
+"species": "Starly",
+"nickname": "Starly",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Endeavor"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "Normal",
+"moves": ["Population Bomb", "Protect"]
+}
+],
+"broughtTeam": ["Starly", "Iron Hands", "Indeedee", "Maushold"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863538955",
+"p1": {
+"playerName": "kodiedunn",
+"fullTeam": [
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "Assault Vest",
+"ability": "Anger Point",
+"teraType": "Ghost",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ally Switch", "Protect"]
+},
+{
+"species": "Froslass",
+"nickname": "Froslass",
+"item": "Wide Lens",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Frost Breath", "Will-O-Wisp"]
+},
+{
+"species": "Honchkrow",
+"nickname": "Honchkrow",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Perish Song", "Protect", "Brave Bird"]
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Tauros", "Armarouge", "Froslass", "Honchkrow"]
+},
+"p2": {
+"playerName": "AsianGuy96",
+"fullTeam": [
+{
+"species": "Sableye",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Slaking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Knock Off", "Spirit Break", "Swords Dance"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Night Slash", "Struggle"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "",
+"ability": "",
+"teraType": "Water",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Valiant", "Annihilape", "Oricorio", "Volcarona"]
+},
+"outcome": 1
+}

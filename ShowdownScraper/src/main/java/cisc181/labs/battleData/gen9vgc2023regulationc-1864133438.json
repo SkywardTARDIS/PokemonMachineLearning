@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864133438",
+"p1": {
+"playerName": "BravadoMercenary",
+"fullTeam": [
+{
+"species": "Murkrow",
+"nickname": "Emo Penguin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sunny Day", "Haze", "Foul Play"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Moonblast"]
+},
+{
+"species": "Great Tusk",
+"nickname": "Great Tusk",
+"item": "",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Headlong Rush", "Earthquake", "Close Combat"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Overheat"]
+},
+{
+"species": "Gholdengo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Murkrow", "Flutter Mane", "Great Tusk", "Chi-Yu"]
+},
+"p2": {
+"playerName": "milagri",
+"fullTeam": [
+{
+"species": "Qwilfish",
+"nickname": "Qwilfish",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gogoat",
+"nickname": "Gogoat",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Leech Seed", "Leaf Blade", "Protect"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Foul Play", "Light Screen"]
+},
+{
+"species": "Rotom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Goodra",
+"nickname": "Goodra",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Power Whip"]
+},
+{
+"species": "Braviary",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Qwilfish", "Gogoat", "Klefki", "Goodra"]
+},
+"outcome": 1
+}

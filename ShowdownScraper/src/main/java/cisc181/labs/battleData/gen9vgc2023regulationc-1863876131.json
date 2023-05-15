@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863876131",
+"p1": {
+"playerName": "FrootLoops007",
+"fullTeam": [
+{
+"species": "Orthworm",
+"nickname": "Orthworm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Iron Defense"]
+},
+{
+"species": "Tinkaton",
+"nickname": "Tinkaton",
+"item": "Aguav Berry",
+"ability": "Mold Breaker",
+"teraType": "",
+"moves": ["Fake Out"]
+},
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Grass",
+"moves": ["Quiver Dance", "Struggle Bug", "Fiery Dance"]
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "Focus Sash",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Revelation Dance", "Protect"]
+},
+{
+"species": "Murkrow",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Orthworm", "Tinkaton", "Volcarona", "Oricorio"]
+},
+"p2": {
+"playerName": "Mogomomo",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Kingambit",
+"nickname": "Kingambit",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Kowtow Cleave"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Hydro Pump", "Thunderbolt"]
+},
+{
+"species": "Meditite",
+"nickname": "Meditite",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Skill Swap"]
+},
+{
+"species": "Salazzle",
+"nickname": "Salazzle",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Heat Wave"]
+}
+],
+"broughtTeam": ["Kingambit", "Rotom", "Meditite", "Salazzle"]
+},
+"outcome": 0
+}

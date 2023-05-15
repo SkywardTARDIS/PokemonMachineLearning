@@ -1,0 +1,96 @@
+{
+"id": "gen9vgc2023regulationc-1864211771",
+"p1": {
+"playerName": "unimulticorn",
+"fullTeam": [
+{
+"species": "Starly",
+"nickname": "Starly",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Endeavor", "Quick Attack"]
+},
+{
+"species": "Iron Hands",
+"nickname": "Iron Hands",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Thunder Punch", "Drain Punch"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Maushold",
+"nickname": "Maushold",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Crunch", "Population Bomb"]
+}
+],
+"broughtTeam": ["Starly", "Iron Hands", "Indeedee", "Maushold"]
+},
+"p2": {
+"playerName": "Schwede1",
+"fullTeam": [
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Rock Slide"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "Gengar",
+"item": "",
+"ability": "Cursed Body",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Scizor",
+"nickname": "Scizor",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["U-turn", "Bullet Punch"]
+}
+],
+"broughtTeam": ["Drednaw", "Pelipper", "Gengar", "Scizor"]
+},
+"outcome": 1
+}

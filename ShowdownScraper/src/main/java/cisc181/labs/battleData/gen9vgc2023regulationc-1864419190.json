@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864419190",
+"p1": {
+"playerName": "Gualdo2",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Extreme Speed", "Dragon Dance", "Fire Punch", "Outrage"]
+},
+{
+"species": "Dudunsparce",
+"nickname": "Dudunsparce",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Glare"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Oricorio",
+"nickname": "Oricorio",
+"item": "",
+"ability": "Dancer",
+"teraType": "",
+"moves": ["Protect", "Quiver Dance", "Air Slash", "Revelation Dance"]
+},
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Aguav Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Quiver Dance"]
+},
+{
+"species": "Chansey",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Dragonite", "Dudunsparce", "Oricorio", "Volcarona"]
+},
+"p2": {
+"playerName": "clamps1",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard", "Aurora Veil", "Hydro Pump"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "",
+"ability": "",
+"teraType": "Fire",
+"moves": ["Trick Room", "Gyro Ball", "Helping Hand", "Safeguard"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Protect", "Blizzard"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Iron Bundle", "Bronzong", "Flutter Mane", "Abomasnow"]
+},
+"outcome": 1
+}

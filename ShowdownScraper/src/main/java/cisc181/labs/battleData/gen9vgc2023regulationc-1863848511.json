@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863848511",
+"p1": {
+"playerName": "BOhm11",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hippowdon",
+"nickname": "Hippowdon",
+"item": "",
+"ability": "Sand Stream",
+"teraType": "",
+"moves": ["Protect", "Sand Tomb"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Reflect", "Howl", "Play Rough"]
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Aguav Berry",
+"ability": "Gothitelle",
+"teraType": "",
+"moves": ["Fake Out", "Foul Play", "Heal Pulse"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Salt Cure", "Recover", "Iron Defense", "Protect"]
+},
+{
+"species": "Breloom",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hippowdon", "Scream Tail", "Gothitelle", "Garganacl"]
+},
+"p2": {
+"playerName": "Raymond935",
+"fullTeam": [
+{
+"species": "Dragonite",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Protect", "Crunch", "Icicle Crash"]
+},
+{
+"species": "Slowbro",
+"nickname": "Slowbro",
+"item": "Covert Cloak",
+"ability": "",
+"teraType": "",
+"moves": ["Calm Mind", "Hydro Pump", "Slack Off"]
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Protect", "Iron Head"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Swords Dance"]
+},
+{
+"species": "Naclstack",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Chien-Pao", "Slowbro", "Iron Treads", "Ceruledge"]
+},
+"outcome": 1
+}

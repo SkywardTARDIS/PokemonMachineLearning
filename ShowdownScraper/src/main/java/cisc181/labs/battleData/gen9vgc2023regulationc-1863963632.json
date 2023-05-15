@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863963632",
+"p1": {
+"playerName": "stephjuan",
+"fullTeam": [
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Solar Beam", "Heat Wave", "Protect"]
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Dazzling Gleam", "Psyshock"]
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Icy Wind", "Chilling Water", "Freeze-Dry"]
+},
+{
+"species": "Amoonguss",
+"nickname": "Amoonguss",
+"item": "Black Sludge",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Sludge Bomb"]
+},
+{
+"species": "Tatsugiri",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dondozo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Torkoal", "Flutter Mane", "Iron Bundle", "Amoonguss"]
+},
+"p2": {
+"playerName": "OneStrangeOnion",
+"fullTeam": [
+{
+"species": "Polteageist",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Appletun",
+"nickname": "りんご",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Leech Seed", "Protect", "Dragon Pulse"]
+},
+{
+"species": "Garganacl",
+"nickname": "塩",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Wide Guard"]
+},
+{
+"species": "Veluza",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chansey",
+"nickname": "卵",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Heal Pulse", "Soft-Boiled", "Body Slam", "Rock Slide"]
+},
+{
+"species": "Vespiquen",
+"nickname": "蜜",
+"item": "",
+"ability": "Unnerve",
+"teraType": "Poison",
+"moves": ["Sludge Bomb"]
+}
+],
+"broughtTeam": ["Appletun", "Garganacl", "Chansey", "Vespiquen"]
+},
+"outcome": 1
+}

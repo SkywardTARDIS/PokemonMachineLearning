@@ -51,7 +51,7 @@ def removeIrrelevant():
 def main():
     #removeIrrelevant()
     data = []
-    testDate = []
+    testData = []
     attributes = []
     file = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/trainingData.txt", 'r')
     line = file.readline()
@@ -85,6 +85,8 @@ def main():
        if predictions[i] == testLables[i]:
           counts = counts + 1
     print(counts)
+    print(len(testLables))
+    print(counts/len(testLables))
     
 
 if __name__ == "__main__":

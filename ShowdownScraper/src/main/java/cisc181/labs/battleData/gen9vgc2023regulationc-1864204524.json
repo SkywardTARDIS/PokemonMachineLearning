@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864204524",
+"p1": {
+"playerName": "RX78Gundam",
+"fullTeam": [
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "Noivern",
+"teraType": "Normal",
+"moves": ["Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand"]
+},
+{
+"species": "Lokix",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "Iron Moth",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Noivern", "Ceruledge", "Iron Moth", "Eelektross"]
+},
+"p2": {
+"playerName": "Schwede1",
+"fullTeam": [
+{
+"species": "Drednaw",
+"nickname": "Drednaw",
+"item": "Scope Lens",
+"ability": "",
+"teraType": "Ground",
+"moves": ["Rock Slide", "Earthquake", "Waterfall"]
+},
+{
+"species": "Pelipper",
+"nickname": "Pelipper",
+"item": "Damp Rock",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Toxicroak",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gengar",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Scizor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Drednaw", "Pelipper"]
+},
+"outcome": 0
+}

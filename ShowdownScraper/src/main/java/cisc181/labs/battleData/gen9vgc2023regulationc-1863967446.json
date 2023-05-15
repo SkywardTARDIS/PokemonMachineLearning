@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863967446",
+"p1": {
+"playerName": "Sukiyaki Eater",
+"fullTeam": [
+{
+"species": "Muk",
+"nickname": "Muk",
+"item": "Leftovers",
+"ability": "",
+"teraType": "Water",
+"moves": ["Minimize", "Protect", "Toxic", "Drain Punch"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Sitrus Berry",
+"ability": "Purifying Salt",
+"teraType": "",
+"moves": ["Protect", "Salt Cure", "Recover"]
+},
+{
+"species": "Azumarill",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Volcarona",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gholdengo",
+"nickname": "Gholdengo",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Dragonite",
+"nickname": "Dragonite",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Ice Spinner", "Extreme Speed"]
+}
+],
+"broughtTeam": ["Muk", "Garganacl", "Gholdengo", "Dragonite"]
+},
+"p2": {
+"playerName": "Mast3rCruz",
+"fullTeam": [
+{
+"species": "Amoonguss",
+"nickname": "Midway",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Spore", "Rage Powder", "Pollen Puff"]
+},
+{
+"species": "Armarouge",
+"nickname": "IntoTheFire",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic", "Trick Room", "Armor Cannon", "Energy Ball"]
+},
+{
+"species": "Gyarados",
+"nickname": "Bismarck",
+"item": "Lum Berry",
+"ability": "Intimidate",
+"teraType": "Flying",
+"moves": ["Waterfall", "Tera Blast", "Dragon Dance", "Protect"]
+},
+{
+"species": "Hydreigon",
+"nickname": "Gott Mit Uns",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Draco Meteor"]
+},
+{
+"species": "Iron Hands",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Amoonguss", "Armarouge", "Gyarados", "Hydreigon"]
+},
+"outcome": 0
+}

@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863772152",
+"p1": {
+"playerName": "Vanikura",
+"fullTeam": [
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Inner Focus",
+"teraType": "",
+"moves": ["Protect", "Rage Fist"]
+},
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "",
+"ability": "",
+"teraType": "Fairy",
+"moves": ["Protect", "Salt Cure", "Recover", "Body Press"]
+},
+{
+"species": "Staraptor",
+"nickname": "Staraptor",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["U-turn", "Facade"]
+},
+{
+"species": "Indeedee",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Leaf Storm", "Volt Switch", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Annihilape", "Garganacl", "Staraptor", "Rotom"]
+},
+"p2": {
+"playerName": "IcejjKech",
+"fullTeam": [
+{
+"species": "Ting-Lu",
+"nickname": "Bidiza",
+"item": "Leftovers",
+"ability": "Vessel of Ruin",
+"teraType": "Fairy",
+"moves": ["Protect", "Fissure", "Body Press", "Ruination"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gyarados",
+"nickname": "Peter",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Waterfall"]
+},
+{
+"species": "Klefki",
+"nickname": "Schlüssli",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Light Screen", "Dazzling Gleam"]
+},
+{
+"species": "Flamigo",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Mortal Spin", "Power Gem", "Dazzling Gleam", "Spiky Shield"]
+}
+],
+"broughtTeam": ["Ting-Lu", "Gyarados", "Klefki", "Glimmora"]
+},
+"outcome": 1
+}

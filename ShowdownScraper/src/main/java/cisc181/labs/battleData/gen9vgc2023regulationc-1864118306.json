@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864118306",
+"p1": {
+"playerName": "Atloy",
+"fullTeam": [
+{
+"species": "Volcarona",
+"nickname": "Volcarona",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Protect", "Quiver Dance", "Giga Drain"]
+},
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "Light Clay",
+"ability": "",
+"teraType": "",
+"moves": ["Reflect", "Thunder Wave"]
+},
+{
+"species": "Corviknight",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garchomp",
+"nickname": "Garchomp",
+"item": "",
+"ability": "Rough Skin",
+"teraType": "Steel",
+"moves": ["Earthquake"]
+},
+{
+"species": "Gyarados",
+"nickname": "Gyarados",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Helping Hand", "Protect", "Waterfall"]
+},
+{
+"species": "Annihilape",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Volcarona", "Klefki", "Garchomp", "Gyarados"]
+},
+"p2": {
+"playerName": "RX78Gundam",
+"fullTeam": [
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "Throat Spray",
+"ability": "Noivern",
+"teraType": "Normal",
+"moves": ["Boomburst", "Protect"]
+},
+{
+"species": "Ceruledge",
+"nickname": "Ceruledge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Helping Hand", "Bitter Blade"]
+},
+{
+"species": "Lokix",
+"nickname": "Lokix",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["First Impression", "Trailblaze", "Leech Life"]
+},
+{
+"species": "Ting-Lu",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Moth",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eelektross",
+"nickname": "Eelektross",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Discharge", "Flash Cannon"]
+}
+],
+"broughtTeam": ["Noivern", "Ceruledge", "Lokix", "Eelektross"]
+},
+"outcome": 0
+}

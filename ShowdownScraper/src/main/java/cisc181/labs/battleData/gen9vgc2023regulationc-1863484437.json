@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863484437",
+"p1": {
+"playerName": "top2knot2",
+"fullTeam": [
+{
+"species": "Klefki",
+"nickname": "Klefki",
+"item": "Occa Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Rain Dance", "Foul Play", "Thunder Wave"]
+},
+{
+"species": "Bronzong",
+"nickname": "Bronzong",
+"item": "Kasib Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Weather Ball"]
+},
+{
+"species": "Corviknight",
+"nickname": "Corviknight",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Taunt", "Air Slash"]
+},
+{
+"species": "Tinkaton",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Treads",
+"nickname": "Iron Treads",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "Dragon",
+"moves": ["Stomping Tantrum", "Bulldoze"]
+},
+{
+"species": "Forretress",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Klefki", "Bronzong", "Corviknight", "Iron Treads"]
+},
+"p2": {
+"playerName": "Silencerz",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Armor Cannon"]
+},
+{
+"species": "Annihilape",
+"nickname": "Annihilape",
+"item": "Leftovers",
+"ability": "Defiant",
+"teraType": "Steel",
+"moves": ["Bulk Up", "Tera Blast", "Drain Punch", "Rage Fist"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Trick Room", "Follow Me", "Helping Hand"]
+},
+{
+"species": "Kingambit",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "",
+"ability": "Drought",
+"teraType": "",
+"moves": ["Eruption"]
+},
+{
+"species": "Meowscarada",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Annihilape", "Indeedee", "Torkoal"]
+},
+"outcome": 0
+}

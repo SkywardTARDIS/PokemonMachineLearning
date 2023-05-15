@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863499076",
+"p1": {
+"playerName": "bhemig",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Garganacl",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Glimmora",
+"nickname": "Glimmora",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Stealth Rock", "Mortal Spin"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Gastrodon",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Yawn", "Protect", "Earth Power"]
+},
+{
+"species": "Wo-Chien",
+"nickname": "Wo-Chien",
+"item": "Leftovers",
+"ability": "Tablets of Ruin",
+"teraType": "Poison",
+"moves": ["Leech Seed", "Protect"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Protect", "Extreme Speed", "Will-O-Wisp"]
+}
+],
+"broughtTeam": ["Glimmora", "Gastrodon", "Wo-Chien", "Arcanine"]
+},
+"p2": {
+"playerName": "LobsterLiveGaming",
+"fullTeam": [
+{
+"species": "Azumarill",
+"nickname": "Rill",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Play Rough", "Aqua Jet"]
+},
+{
+"species": "Amoonguss",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Hands",
+"nickname": "Hands",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Wild Charge"]
+},
+{
+"species": "Pelipper",
+"nickname": "Peli",
+"item": "",
+"ability": "Drizzle",
+"teraType": "Flying",
+"moves": ["Hydro Pump", "Hurricane"]
+},
+{
+"species": "Arcanine",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Flutter Mane",
+"nickname": "Flutter Mane",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Thunder", "Shadow Ball"]
+}
+],
+"broughtTeam": ["Azumarill", "Iron Hands", "Pelipper", "Flutter Mane"]
+},
+"outcome": 0
+}

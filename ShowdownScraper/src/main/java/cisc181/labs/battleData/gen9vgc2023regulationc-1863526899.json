@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863526899",
+"p1": {
+"playerName": "WEAK3NDS",
+"fullTeam": [
+{
+"species": "Hawlucha",
+"nickname": "C. Falcon",
+"item": "Psychic Seed",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance", "Flying Press"]
+},
+{
+"species": "Indeedee",
+"nickname": "Isabelle",
+"item": "",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Heal Pulse", "Follow Me", "Protect"]
+},
+{
+"species": "Armarouge",
+"nickname": "Mega Man",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Wide Guard", "Expanding Force"]
+},
+{
+"species": "Palafin",
+"nickname": "Corrin",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Sandy Shocks",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Chien-Pao",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Hawlucha", "Indeedee", "Armarouge", "Palafin"]
+},
+"p2": {
+"playerName": "Thast",
+"fullTeam": [
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "Eject Pack",
+"ability": "Snow Warning",
+"teraType": "",
+"moves": ["Helping Hand", "Icy Wind", "Protect", "Leaf Storm"]
+},
+{
+"species": "Cetitan",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "Booster Energy",
+"ability": "Quark Drive",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Avalugg",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Eiscue",
+"nickname": "Eiscue",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Freeze-Dry"]
+},
+{
+"species": "Rotom",
+"nickname": "Rotom",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Blizzard", "Thunderbolt"]
+}
+],
+"broughtTeam": ["Abomasnow", "Iron Bundle", "Eiscue", "Rotom"]
+},
+"outcome": 0
+}

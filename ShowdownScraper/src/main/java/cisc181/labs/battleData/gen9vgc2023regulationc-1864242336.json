@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864242336",
+"p1": {
+"playerName": "Lone_Garurumon",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Leroy",
+"item": "",
+"ability": "",
+"teraType": "Steel",
+"moves": ["Dragon Claw", "Earthquake"]
+},
+{
+"species": "Lucario",
+"nickname": "Rio",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Aura Sphere"]
+},
+{
+"species": "Staraptor",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gallade",
+"nickname": "Gawain",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sacred Sword"]
+},
+{
+"species": "Drifblim",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Bronzong",
+"nickname": "Big Marie",
+"item": "Leftovers",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Body Press", "Reflect", "Light Screen"]
+}
+],
+"broughtTeam": ["Garchomp", "Lucario", "Gallade", "Bronzong"]
+},
+"p2": {
+"playerName": "ShadowTopaz",
+"fullTeam": [
+{
+"species": "Garchomp",
+"nickname": "Hoyau",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Earthquake", "Dragon Claw"]
+},
+{
+"species": "Gastrodon",
+"nickname": "Petorush",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Muddy Water", "Protect", "Recover", "Earth Power"]
+},
+{
+"species": "Lucario",
+"nickname": "Horkew",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Swords Dance"]
+},
+{
+"species": "Hippowdon",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Rotom",
+"nickname": "Iresu",
+"item": "",
+"ability": "Levitate",
+"teraType": "",
+"moves": ["Reflect", "Will-O-Wisp", "Hydro Pump", "Volt Switch"]
+},
+{
+"species": "Magnezone",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Garchomp", "Gastrodon", "Lucario", "Rotom"]
+},
+"outcome": 0
+}

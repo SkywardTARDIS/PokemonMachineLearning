@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1864169008",
+"p1": {
+"playerName": "pokevoltclub",
+"fullTeam": [
+{
+"species": "Bellibolt",
+"nickname": "Bellibolt",
+"item": "",
+"ability": "Electromorphosis",
+"teraType": "",
+"moves": ["Parabolic Charge", "Muddy Water"]
+},
+{
+"species": "Mudsdale",
+"nickname": "Mudsdale",
+"item": "Leftovers",
+"ability": "Stamina",
+"teraType": "Fighting",
+"moves": ["Body Press", "Protect", "High Horsepower"]
+},
+{
+"species": "Scream Tail",
+"nickname": "Scream Tail",
+"item": "Booster Energy",
+"ability": "Protosynthesis",
+"teraType": "",
+"moves": ["Helping Hand", "Play Rough", "Howl"]
+},
+{
+"species": "Chi-Yu",
+"nickname": "Chi-Yu",
+"item": "",
+"ability": "Beads of Ruin",
+"teraType": "",
+"moves": ["Heat Wave"]
+},
+{
+"species": "Oranguru",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Bellibolt", "Mudsdale", "Scream Tail", "Chi-Yu"]
+},
+"p2": {
+"playerName": "SlyAbby",
+"fullTeam": [
+{
+"species": "Iron Bundle",
+"nickname": "Iron Bundle",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Abomasnow",
+"nickname": "Abomasnow",
+"item": "",
+"ability": "Snow Warning",
+"teraType": "Water",
+"moves": ["Tera Blast"]
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Haxorus",
+"nickname": "Haxorus",
+"item": "",
+"ability": "Unnerve",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pelipper",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pincurchin",
+"nickname": "Pincurchin",
+"item": "",
+"ability": "Lightning Rod",
+"teraType": "",
+"moves": ["Thunder", "Protect", "Sucker Punch"]
+}
+],
+"broughtTeam": ["Iron Bundle", "Abomasnow", "Haxorus", "Pincurchin"]
+},
+"outcome": 1
+}

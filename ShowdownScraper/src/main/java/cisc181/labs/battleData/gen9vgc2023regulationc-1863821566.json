@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863821566",
+"p1": {
+"playerName": "Uscorp",
+"fullTeam": [
+{
+"species": "Armarouge",
+"nickname": "Armarouge",
+"item": "Weakness Policy",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Expanding Force", "Heat Wave"]
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Focus Sash",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Torkoal",
+"nickname": "Torkoal",
+"item": "Charcoal",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption", "Heat Wave"]
+},
+{
+"species": "Brute Bonnet",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Armarouge", "Indeedee", "Torkoal"]
+},
+"p2": {
+"playerName": "Zay2596",
+"fullTeam": [
+{
+"species": "Noivern",
+"nickname": "Noivern",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Tauros",
+"nickname": "Tauros",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Pyroar",
+"nickname": "Pyroar",
+"item": "Sitrus Berry",
+"ability": "Unnerve",
+"teraType": "",
+"moves": ["Snarl"]
+},
+{
+"species": "Scream Tail",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Cryogonal",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Meowscarada",
+"nickname": "Meowscarada",
+"item": "Focus Sash",
+"ability": "",
+"teraType": "",
+"moves": ["Knock Off"]
+}
+],
+"broughtTeam": ["Noivern", "Tauros", "Pyroar", "Meowscarada"]
+},
+"outcome": 1
+}

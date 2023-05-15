@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863563541",
+"p1": {
+"playerName": "NotAnElk",
+"fullTeam": [
+{
+"species": "Dragapult",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Frosmoth",
+"nickname": "Frosmoth",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Blizzard"]
+},
+{
+"species": "Toxtricity",
+"nickname": "Toxtricity",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Sludge Bomb"]
+},
+{
+"species": "Grimmsnarl",
+"nickname": "Grimmsnarl",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Fake Out", "Reflect", "Light Screen", "Foul Play"]
+},
+{
+"species": "Hatterene",
+"nickname": "Hatterene",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Nuzzle", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Stonjourner",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Frosmoth", "Toxtricity", "Grimmsnarl", "Hatterene"]
+},
+"p2": {
+"playerName": "R3M4TCH",
+"fullTeam": [
+{
+"species": "Pelipper",
+"nickname": "Mallard",
+"item": "Sitrus Berry",
+"ability": "Drizzle",
+"teraType": "",
+"moves": ["Icy Wind", "Helping Hand", "Surf", "Tailwind"]
+},
+{
+"species": "Salamence",
+"nickname": "The Wake",
+"item": "",
+"ability": "Intimidate",
+"teraType": "",
+"moves": ["Hurricane"]
+},
+{
+"species": "Sableye",
+"nickname": "Grimm",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Light Screen", "Foul Play", "Thunder Wave"]
+},
+{
+"species": "Breloom",
+"nickname": "Redcap",
+"item": "",
+"ability": "",
+"teraType": "Rock",
+"moves": ["Spore"]
+},
+{
+"species": "Hariyama",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gardevoir",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Pelipper", "Salamence", "Sableye", "Breloom"]
+},
+"outcome": 1
+}

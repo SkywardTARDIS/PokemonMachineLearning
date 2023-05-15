@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863807615",
+"p1": {
+"playerName": "The Rollo",
+"fullTeam": [
+{
+"species": "Kilowattrel",
+"nickname": "Kilowattrel",
+"item": "",
+"ability": "",
+"teraType": "Electric",
+"moves": ["Discharge"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "Focus Sash",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Tera Blast", "Protect"]
+},
+{
+"species": "Slaking",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Indeedee",
+"nickname": "Indeedee",
+"item": "Psychic Seed",
+"ability": "Psychic Surge",
+"teraType": "",
+"moves": ["Follow Me", "Protect", "Dazzling Gleam"]
+},
+{
+"species": "Iron Valiant",
+"nickname": "Iron Valiant",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Grafaiai",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Kilowattrel", "Chien-Pao", "Indeedee", "Iron Valiant"]
+},
+"p2": {
+"playerName": "fangeddragon96",
+"fullTeam": [
+{
+"species": "Flutter Mane",
+"nickname": "Dinoghost",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Trick Room", "Dazzling Gleam"]
+},
+{
+"species": "Hariyama",
+"nickname": "CatchinHands",
+"item": "Flame Orb",
+"ability": "",
+"teraType": "",
+"moves": ["Detect", "Close Combat"]
+},
+{
+"species": "Torkoal",
+"nickname": "Vesuvius",
+"item": "",
+"ability": "Drought",
+"teraType": "Fire",
+"moves": ["Eruption"]
+},
+{
+"species": "Great Tusk",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Jumpluff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Barraskewda",
+"nickname": "CudaScoota",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Psychic Fangs"]
+}
+],
+"broughtTeam": ["Flutter Mane", "Hariyama", "Torkoal", "Barraskewda"]
+},
+"outcome": 0
+}

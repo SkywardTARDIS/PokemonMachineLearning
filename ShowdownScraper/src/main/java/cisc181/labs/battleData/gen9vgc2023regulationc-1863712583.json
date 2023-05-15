@@ -1,0 +1,112 @@
+{
+"id": "gen9vgc2023regulationc-1863712583",
+"p1": {
+"playerName": "Freischieb",
+"fullTeam": [
+{
+"species": "Lycanroc",
+"nickname": "Lycanroc",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Drill Run", "Close Combat"]
+},
+{
+"species": "Chien-Pao",
+"nickname": "Chien-Pao",
+"item": "",
+"ability": "Sword of Ruin",
+"teraType": "",
+"moves": ["Throat Chop"]
+},
+{
+"species": "Arcanine",
+"nickname": "Arcanine",
+"item": "",
+"ability": "Intimidate",
+"teraType": "Water",
+"moves": ["Howl", "Iron Head"]
+},
+{
+"species": "Mabosstiff",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Drifblim",
+"nickname": "Drifblim",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": ["Minimize", "Focus Energy", "Baton Pass"]
+},
+{
+"species": "Glimmora",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+}
+],
+"broughtTeam": ["Lycanroc", "Chien-Pao", "Arcanine", "Drifblim"]
+},
+"p2": {
+"playerName": "TommyT08",
+"fullTeam": [
+{
+"species": "Garganacl",
+"nickname": "Garganacl",
+"item": "Leftovers",
+"ability": "",
+"teraType": "",
+"moves": ["Salt Cure", "Protect"]
+},
+{
+"species": "Naclstack",
+"nickname": "Naclstack",
+"item": "",
+"ability": "",
+"teraType": "Ghost",
+"moves": ["Salt Cure", "Iron Defense", "Protect", "Recover"]
+},
+{
+"species": "Nacli",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Gothitelle",
+"nickname": "Gothitelle",
+"item": "Sitrus Berry",
+"ability": "",
+"teraType": "",
+"moves": ["Protect"]
+},
+{
+"species": "Gyarados",
+"nickname": "",
+"item": "",
+"ability": "",
+"teraType": "",
+"moves": []
+},
+{
+"species": "Ting-Lu",
+"nickname": "Ting-Lu",
+"item": "",
+"ability": "Vessel of Ruin",
+"teraType": "",
+"moves": ["Body Press"]
+}
+],
+"broughtTeam": ["Garganacl", "Naclstack", "Gothitelle", "Ting-Lu"]
+},
+"outcome": 1
+}
