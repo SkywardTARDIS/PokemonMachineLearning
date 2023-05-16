@@ -73,6 +73,10 @@ def main():
     tn = []
     fp = []
     fn = []
+    recall = []
+    precision = []
+    accuracy = []
+    f1 = []
     file = open("./ShowdownScraper/src/main/java/cisc181/labs/finalData/validationData.txt", 'r')
     line = file.readline()
     for row in file:
@@ -125,22 +129,31 @@ def main():
                 tn[7] = tn[7] + 1
     
     for i in range(len(tp)-1):
-        recall = tp[i]/(tp[i] + fn[i])
-        precision = tp[i]/(tp[i] + fp[i])
+        recall.append(tp[i]/(tp[i] + fn[i]))
+        precision.append(tp[i]/(tp[i] + fp[i]))
+        accuracy.append((tp[i] + tn[i]) / len(testLables))
+        f1.append(2 * (precision[i] * recall[i]) / (precision[i] + recall[i]))
         print("For tree from bag " + str(i+1))
-        print("Recall: " + str(precision))
-        print("Precision: " + str(recall))
-        print("Accuracy: " + str((tp[i] + tn[i]) / len(testLables)))
-        print("F1: " + str(2 * (precision * recall) / (precision + recall)))
+        print("Recall: " + str(precision[i]))
+        print("Precision: " + str(recall[i]))
+        print("Accuracy: " + str(accuracy[i]))
+        print("F1: " + str(f1[i]))
         print("\n")
 
-    recall = tp[7]/(tp[7] + fn[7])
-    precision = tp[7]/(tp[7] + fp[7])
+    recall.append(tp[7]/(tp[7] + fn[7]))
+    precision.append(tp[7]/(tp[7] + fp[7]))
+    accuracy.append((tp[7] + tn[7]) / len(testLables))
+    f1.append(2 * (precision[7] * recall[7]) / (precision[7] + recall[7]))
     print("Ensemble success rates: ")
-    print("Recall: " + str(precision))
-    print("Precision: " + str(recall))
-    print("Accuracy: " + str((tp[7] + tn[7]) / len(testLables)))
-    print("F1: " + str(2 * (precision * recall) / (precision + recall)))
+    print("Recall: " + str(precision[7]))
+    print("Precision: " + str(recall[7]))
+    print("Accuracy: " + str(accuracy[7]))
+    print("F1: " + str(f1[7]))
+    file = open("./metrics.csv", 'w')
+    file.write("Recall,Precision,Accuracy,F1")
+    for i in range(len(accuracy)):
+        file.write("\n" + str(recall[i]) + "," + str(precision[i]) + "," + str(accuracy[i]) + "," + str(f1[i]))
+    file.close()
 
 if __name__ == "__main__":
     main()
